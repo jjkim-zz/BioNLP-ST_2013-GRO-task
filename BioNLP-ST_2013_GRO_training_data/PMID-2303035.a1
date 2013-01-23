@@ -1,0 +1,25 @@
+T1	Gene 4 12	tal gene
+T2	Chromosome 23 33	chromosome
+T4	Cell 51 57	T cell
+T5	bHLH 93 109	helix-loop-helix
+T6	Protein 110 117	protein
+T7	Chromosome 153 163	chromosome
+T9	Cell 202 208	T cell
+T10	Chromosome 241 253	chromosome 1
+T11	Locus 343 356	genetic locus
+T12	Gene 369 372	tal
+T13	Cell 386 392	T cell
+T14	Sequence 435 444	sequences
+T15	Gene 452 455	tal
+T16	bHLH 495 517	helix-loop-helix motif
+T17	DNABindingDomainOfProtein 521 539	DNA-binding domain
+T18	Protein 562 570	proteins
+T22	Gene 640 643	tal
+T23	Gene 677 682	lyl-1
+T24	Gene 686 690	gene
+T25	Chromosome 694 707	chromosome 19
+T26	Cell 741 747	T cell
+T28	Gene 768 771	tal
+T29	Gene 776 781	lyl-1
+T33	Cell 877 888	lymphocytes
+T30	bHLHTF 810 835	helix-loop-helix proteins

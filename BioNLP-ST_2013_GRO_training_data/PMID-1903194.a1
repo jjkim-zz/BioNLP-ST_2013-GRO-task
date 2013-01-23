@@ -1,0 +1,26 @@
+T1	Eukaryote 26 31	human
+T2	Protein 32 37	jun-D
+T3	DNA 41 57	jun related cDNA
+T4	DNAFragment 80 96	genomic fragment
+T5	Eukaryote 114 119	human
+T6	Cell 120 125	cells
+T7	ExperimentalMethod 130 139	sequenced
+T8	ExperimentalMethod 141 175	Polymerase chain reaction analysis
+T9	Gene 188 197	this gene
+T10	Eukaryote 205 210	human
+T11	Eukaryote 228 233	mouse
+T12	Gene 234 244	jun-D gene
+T13	AminoAcid 281 291	amino acid
+T14	Sequence 292 300	sequence
+T15	Gene 395 400	c-jun
+T16	Gene 405 410	jun-B
+T17	Protein 425 432	product
+T18	Gene 436 445	this gene
+T20	DNARegion 455 464	AP-1 site
+T22	Function 504 512	activity
+T23	Promoter 518 526	promoter
+T24	DNARegion 541 550	AP-1 site
+T26	Gene 601 606	v-jun
+T28	Gene 657 662	v-fos
+T29	Protein 924 929	jun-D
+T30	Eukaryote 918 923	human

@@ -1,0 +1,22 @@
+T1	Eukaryote 21 26	human
+T2	Tissue 27 33	muscle
+T3	Enzyme 34 42	aldolase
+T4	OrganicChemical 58 83	fructose 1,6-bisphosphate
+T8	OrganicChemical 183 208	fructose 1,6-bisphosphate
+T9	OrganicChemical 213 233	fructose 1-phosphate
+T10	OrganicChemical 237 263	dihydroxyacetone phosphate
+T11	OrganicChemical 275 301	glyceraldehyde 3-phosphate
+T12	OrganicChemical 305 319	glyceraldehyde
+T13	AminoAcid 437 443	Lys229
+T14	Enzyme 458 468	apo-enzyme
+T15	MolecularStructure 469 478	structure
+T16	OrganicChemical 711 736	fructose 1,6-bisphosphate
+T17	ComplexMolecularEntity 773 780	complex
+T18	MolecularStructure 819 828	structure
+T19	Conformation 1017 1031	conformational
+T5	Enzyme 111 145	Fructose 1,6-bisphosphate aldolase
+T6	CatalyticActivity 146 155	catalyzes
+T21	CatalyticActivity 335 344	Catalysis
+T22	Substrate 700 709	substrate
+T23	ComplexMolecularEntity 1231 1248	Michaelis complex
+T24	ComplexMolecularEntity 1277 1293	covalent complex

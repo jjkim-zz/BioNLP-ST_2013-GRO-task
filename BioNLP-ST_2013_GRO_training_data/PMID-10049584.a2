@@ -1,0 +1,35 @@
+R3	fromSpecies Arg1:T12 Arg2:T11
+R4	locatedIn Arg1:T13 Arg2:T12
+R5	encodes Arg1:T14 Arg2:T15
+R6	hasPart Arg1:T15 Arg2:T16
+R7	fromSpecies Arg1:T22 Arg2:T21
+R8	locatedIn Arg1:T23 Arg2:T24
+R9	locatedIn Arg1:T23 Arg2:T25
+R10	locatedIn Arg1:T23 Arg2:T26
+R11	fromSpecies Arg1:T28 Arg2:T27
+R12	fromSpecies Arg1:T30 Arg2:T29
+R13	fromSpecies Arg1:T31 Arg2:T29
+R17	encodes Arg1:T37 Arg2:T36
+T39	TranscriptionOfGene 901 911	expression
+E2	TranscriptionOfGene:T39 hasPatient:T38
+R18	hasPart Arg1:T42 Arg2:T41
+R19	encodes Arg1:T48 Arg2:T49
+R20	fromSpecies Arg1:T48 Arg2:T47
+R21	hasPart Arg1:T53 Arg2:T54
+R22	fromSpecies Arg1:T53 Arg2:T52
+R23	locatedIn Arg1:T57 Arg2:T59
+R24	locatedIn Arg1:T57 Arg2:T61
+R25	fromSpecies Arg1:T59 Arg2:T58
+R26	fromSpecies Arg1:T61 Arg2:T60
+R1	fromSpecies Arg1:T4 Arg2:T3	
+T9	PositiveRegulationOfTranscriptionOfGene 847 862	high expression
+E1	PositiveRegulationOfTranscriptionOfGene:T9 hasPatient:T37
+R2	locatedIn Arg1:E1 Arg2:T32	
+R14	locatedIn Arg1:E1 Arg2:T33	
+R15	locatedIn Arg1:E1 Arg2:T34	
+T10	Increase 882 892	high level
+E4	Increase:T10 hasPatient:E2
+T18	CellularProcess 1045 1076	cell-cell interaction processes
+E3	CellularProcess:T18 
+R16	hasPart Arg1:T48 Arg2:T50	
+R27	hasPart Arg1:T48 Arg2:T51	

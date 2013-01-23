@@ -1,0 +1,28 @@
+T1	HomeoboxTF 0 11	DLX2 (TES1)
+T2	HomeoboxTF 15 28	homeobox gene
+T3	Gene 36 54	Distal-less family
+T4	Eukaryote 89 94	human
+T5	Eukaryote 99 104	mouse
+T6	Chromosome 105 118	chromosomes 2
+T7	HomeoboxTF 120 125	Dlx-2
+T8	HomeoboxTF 139 144	Tes-1
+T9	Eukaryote 149 158	mammalian
+T10	Gene 173 191	Distal-less family
+T11	HomeoboxTF 195 209	homeobox genes
+T13	Eukaryote 231 237	murine
+T15	Tissue 295 304	forebrain
+T16	Eukaryote 405 410	human
+T17	Eukaryote 415 420	mouse
+T18	Locus 421 425	loci
+T19	Eukaryote 461 466	human
+T20	Chromosome 467 479	chromosome 2
+T21	ChromosomalDNA 481 496	region cen--q33
+T22	Eukaryote 502 507	mouse
+T23	Chromosome 508 520	chromosome 2
+T24	Cell 545 557	somatic cell
+T25	Enzyme 575 580	EcoRI
+T26	HomeoboxTF 707 718	Dlx-2/Tes-1
+T27	HomeoboxTF 728 733	Hox-4
+T28	Eukaryote 745 750	mouse
+T29	Chromosome 751 763	chromosome 2
+T31	Tissue 332 344	neurological

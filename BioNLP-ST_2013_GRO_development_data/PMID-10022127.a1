@@ -1,0 +1,61 @@
+T1	TranscriptionCofactor 0 9	TIF1gamma
+T3	ExperimentalMethod 93 100	cloning
+T4	ExperimentalMethod 105 121	characterization
+T5	TranscriptionCofactor 147 184	Transcriptional Intermediary Factor 1
+T6	TranscriptionCofactor 186 190	TIF1
+T7	Gene 192 203	gene family
+T8	Eukaryote 205 210	human
+T9	TranscriptionCofactor 211 220	TIF1gamma
+T10	TranscriptionCofactor 233 242	TIF1alpha
+T11	TranscriptionCofactor 247 255	TIF1beta
+T12	TranscriptionCofactor 274 282	TIF1beta
+T13	ProteinDomain 312 319	domains
+T14	ZincCoordinatingDomain 321 332	RING finger
+T15	ZincCoordinatingDomain 334 341	B boxes
+T16	BetaScaffoldDomain_WithMinorGrooveContacts 343 354	Coiled coil
+T17	ZincCoordinatingDomain 356 363	PHD/TTC
+T18	ProteinBindingSiteOfProtein 369 380	bromodomain
+T19	TranscriptionCofactor 415 424	TIF1alpha
+T20	TranscriptionCofactor 429 437	TIF1beta
+T21	TranscriptionCofactor 439 448	TIF1gamma
+T22	TranscriptionCofactor 505 514	TIF1alpha
+T23	TranscriptionCofactor 525 533	TIF1beta
+T24	TranscriptionCofactor 535 539	TIF1
+T25	NuclearReceptor 563 580	nuclear receptors
+T26	ExperimentalMethod 584 600	yeast two-hybrid
+T27	ExperimentalMethod 604 624	GST pull-down assays
+T28	Chemical 653 666	retinoic acid
+T30	Eukaryote 691 700	mammalian
+T31	Cell 701 706	cells
+T32	TranscriptionCofactor 716 725	TIF1alpha
+T33	TranscriptionCofactor 730 738	TIF1beta
+T35	ZincCoordinatingDomain 782 786	KRAB
+T37	ZincCoordinatingDomain 797 803	domain
+T38	TranscriptionRepressor 807 811	KOX1
+T39	TranscriptionRegulator 825 833	HP1alpha
+T40	TranscriptionRegulator 835 839	MODI
+T41	TranscriptionRegulator 841 848	HP1beta
+T42	TranscriptionRegulator 854 858	MOD2
+T43	TranscriptionRegulator 860 868	HP1gamma
+T45	ProteinComplex 940 947	complex
+T46	Heterochromatin 960 975	heterochromatin
+T48	TranscriptionCofactor 1001 1010	TIF1gamma
+T52	TranscriptionRepressor 1060 1064	KOX1
+T53	TranscriptionRegulator 1072 1084	HP1 proteins
+T54	TranscriptionCofactor 1100 1109	TIF1gamma
+T55	TranscriptionCofactor 1116 1125	TIF1alpha
+T56	TranscriptionCofactor 1130 1138	TIF1beta
+T58	Promoter 1196 1204	promoter
+T60	ProteinDomain 1232 1237	motif
+T61	TranscriptionCofactor 1258 1271	TIF1 proteins
+T62	TranscriptionCofactor 1280 1284	TIF1
+T63	Sequence 1285 1303	signature sequence
+T64	Sequence 1305 1308	TSS
+T68	TranscriptionCofactor 1351 1360	TIF1gamma
+T69	ProteinDomain 1367 1372	motif
+T70	TranscriptionCofactor 1396 1400	TIF1
+T2	TranscriptionCofactor 33 70	transcriptional intermediary factor 1
+T72	ExperimentalMethod 679 690	transfected
+T44	Heterochromatin 870 887	heterochromatinic
+T73	Protein 888 896	proteins
+T50	ZincCoordinatingDomain 1045 1056	KRAB domain

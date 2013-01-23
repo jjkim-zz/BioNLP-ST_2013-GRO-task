@@ -1,0 +1,55 @@
+T1	PositiveRegulation 0 10	Activation
+E1	PositiveRegulation:T1 hasAgent:T3 hasPatient:T2
+T7	CellGrowth 216 229	proliferation
+E2	CellGrowth:T7 
+T8	Maintenance 234 242	survival
+E3	Maintenance:T8 
+T10	PositiveRegulation 306 316	stimulated
+E4	PositiveRegulation:T10 hasPatient:T9 hasAgent:T11
+T13	PositiveRegulation 385 395	activation
+E5	PositiveRegulation:T13 hasAgent:T15 hasPatient:T14
+T16	Phosphorylation 478 493	phosphorylation
+E6	Phosphorylation:T16 hasPatient:T17
+T19	Phosphorylation 554 567	phosphorylate
+E7	Phosphorylation:T19 hasPatient:T20
+T27	Phosphorylation 796 809	phosphorylate
+E8	Phosphorylation:T27 hasPatient:T28
+R1	hasPart Arg1:T29 Arg2:T28
+T31	RegulatoryProcess 979 986	control
+E9	RegulatoryProcess:T31 hasAgent:T30 hasPatient:T32
+T33	PositiveRegulation 1009 1019	activation
+E10	PositiveRegulation:T33 hasPatient:T34 hasAgent:E9
+T37	BindingToProtein 1091 1095	bind
+E11	BindingToProtein:T37 hasPatient:T38 hasPatient2:T35 hasPatient3:T36
+T40	PositiveRegulation 1169 1189	positively modulates
+E12	PositiveRegulation:T40 hasPatient:T41 hasAgent:E23
+T44	PositiveRegulation 1317 1327	activation
+E13	PositiveRegulation:T44 hasPatient:T45
+T50	PositiveRegulation 1459 1468	activates
+E14	PositiveRegulation:T50 hasPatient:T51
+T53	NegativeRegulation 1590 1600	inhibition
+E15	NegativeRegulation:T53 hasPatient:T54
+T55	PositiveRegulation 1633 1643	activation
+E16	PositiveRegulation:T55 hasAgent:T57 hasPatient:T56
+T63	Phosphorylation 1879 1893	phosphorylates
+E17	Phosphorylation:T63 hasAgent:T62 hasPatient:T64
+T68	PositiveRegulation 2067 2077	activation
+E18	PositiveRegulation:T68 hasAgent:T65 hasPatient:T67
+T70	ProteinCatabolism 2090 2101	degradation
+E19	ProteinCatabolism:T70 hasAgent:T65 hasPatient:T69
+T72	NegativeRegulation 661 671	inactivate
+E20	NegativeRegulation:T72 hasPatient:T23 hasAgent:T21
+T74	ProteinModification 875 889	ubiquitination
+E21	ProteinModification:T74 
+T75	ProteinCatabolism 894 905	degradation
+E22	ProteinCatabolism:T75 
+T76	PositiveRegulationOfGeneExpression 1143 1157	overexpression
+E23	PositiveRegulationOfGeneExpression:T76 hasPatient:T39
+R2	locatedIn Arg1:T46 Arg2:T48	
+T78	PositiveRegulation 1369 1379	stimulated
+E24	PositiveRegulation:T78 hasAgent:T47 hasPatient:T48
+T79	PositiveRegulation 1410 1421	stimulation
+E25	PositiveRegulation:T79 hasAgent:T80 hasPatient:T49
+T81	PositiveRegulation 1736 1745	stimulate
+E26	PositiveRegulation:T81 hasPatient:T60 hasAgent:T59
+E27	PositiveRegulation:T81 hasPatient:T60 hasAgent:T58

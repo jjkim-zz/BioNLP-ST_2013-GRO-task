@@ -1,0 +1,13 @@
+T2	Binding 5 12	binding
+E1	Binding:T2 hasPatient:T1 hasAgent:T36
+T5	Binding 78 83	bound
+E2	Binding:T5 hasAgent:T4 hasPatient:T7
+R1	fromSpecies Arg1:T7 Arg2:T6
+R2	fromSpecies Arg1:T12 Arg2:T11
+T15	Binding 223 228	bound
+E3	Binding:T15 hasAgent:T14
+T21	Binding 491 498	binding
+E4	Binding:T21 hasAgent:T22 hasPatient:T20
+R5	hasPart Arg1:T23 Arg2:T22
+R6	hasPart Arg1:T3 Arg2:T36	
+R3	hasPart Arg1:T31 Arg2:T37	

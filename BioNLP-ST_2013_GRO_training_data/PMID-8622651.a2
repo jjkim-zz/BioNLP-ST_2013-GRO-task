@@ -1,0 +1,51 @@
+T1	PositiveRegulation 0 10	Activation
+E1	PositiveRegulation:T1 hasAgent:T3
+T2	SignalingPathway 14 24	signalling
+E2	SignalingPathway:T2 
+T5	BindingToProtein 103 110	binding
+E3	BindingToProtein:T5 hasPatient:T4 hasPatient2:T6
+T11	PositiveRegulation 315 325	activation
+E4	PositiveRegulation:T11 hasPatient:T10
+T15	PositiveRegulation 434 442	promotes
+E5	PositiveRegulation:T15 hasAgent:T14 hasPatient:E6
+T16	BindingToProtein 446 457	interaction
+E6	BindingToProtein:T16 hasPatient:T17
+T19	BindingToProtein 494 499	binds
+E7	BindingToProtein:T19 hasPatient:T20 hasPatient2:T18
+T22	BindingToProtein 539 549	associates
+E8	BindingToProtein:T22 hasPatient:T23 hasAgent:T21
+T27	Phosphorylation 645 664	hyperphosphorylated
+E9	Phosphorylation:T27 hasPatient:T26 hasAgent:T28
+T30	Mutation 717 725	Mutation
+E10	Mutation:T30 hasPatient:T31
+R2	hasPart Arg1:T32 Arg2:T31
+R4	hasPart Arg1:T34 Arg2:T33
+T35	NegativeRegulation 836 845	abrogates
+E11	NegativeRegulation:T35 hasPatient:E12 hasAgent:E10
+T36	Phosphorylation 851 866	phosphorylation
+E12	Phosphorylation:T36 
+R5	hasPart Arg1:T37 Arg2:T39
+T42	PositiveRegulation 983 993	activation
+E15	PositiveRegulation:T42 hasPatient:T41
+T43	Mutation 1013 1021	mutation
+E16	Mutation:T43 hasPatient:T44
+R8	hasFunction Arg1:T29 Arg2:T28	
+R9	hasPart Arg1:T32 Arg2:T9	
+T24	SignalingPathway 871 889	signal propagation
+E18	SignalingPathway:T24 
+T58	SignalingPathway 1322 1328	signal
+E13	SignalingPathway:T58 hasAgent:T50
+T59	SignalingPathway 1098 1105	signals
+E19	SignalingPathway:T59 
+R10	hasPart Arg1:T25 Arg2:T26	
+T13	SignalingPathway 1149 1159	signalling
+E14	SignalingPathway:T13 
+T38	PositiveRegulationOfGeneExpression 1212 1226	overexpression
+E17	PositiveRegulationOfGeneExpression:T38 hasPatient:T45
+R1	encodes Arg1:T45 Arg2:T40	
+T49	SignalingPathway 1474 1489	activin signals
+E20	SignalingPathway:T49 
+E21	Mutation:T30 hasPatient:T9
+E22	NegativeRegulation:T35 hasPatient:E18 hasAgent:E10
+E23	NegativeRegulation:T35 hasPatient:E18 hasAgent:E21
+E24	NegativeRegulation:T35 hasPatient:E12 hasAgent:E21

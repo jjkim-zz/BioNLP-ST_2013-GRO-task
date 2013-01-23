@@ -1,0 +1,26 @@
+T1	MolecularStructure 9 18	structure
+T2	DNABindingDomainOfProtein 26 44	DNA-binding domain
+T3	Protein 48 85	interleukin enhancer binding factor 1
+T4	Protein 87 93	FOXK1a
+T5	Protein 96 131	Interleukin enhancer binding factor
+T6	Protein 133 136	ILF
+T8	Gene 151 164	interleukin-2
+T9	Gene 166 170	IL-2
+T10	Promoter 172 180	promoter
+T12	Gene 195 199	IL-2
+T14	ThreeDimensionalMolecularStructure 236 248	3D structure
+T15	DNABindingDomainOfProtein 256 274	DNA-binding domain
+T16	Protein 278 281	ILF
+T17	DNABindingDomainOfProtein 376 394	DNA-binding domain
+T18	Protein 398 401	ILF
+T19	ForkheadWingedHelixTF 425 453	winged helix/forkhead family
+T20	ProteinDomain 468 474	wing 2
+T21	MolecularStructure 493 504	alpha-helix
+T22	MolecularStructure 569 580	alpha-helix
+T23	ProteinDomain 603 609	wing 2
+T24	Protein 625 636	this family
+T25	DNA 702 705	DNA
+T27	Protein 729 732	ILF
+T30	Protein 824 827	ILF
+T32	DNA 895 898	DNA
+T28	ForkheadWingedHelixTF 751 781	winged helix/forkhead proteins

@@ -1,0 +1,69 @@
+T5	RegulatoryProcess 83 91	mediated
+E1	RegulatoryProcess:T5 hasAgent:T4 hasPatient:E2
+T7	Transcription 97 110	transcription
+E2	Transcription:T7 hasPatient:T6
+R3	locatedIn Arg1:T15 Arg2:T12
+T16	BindingToProtein 285 294	interacts
+E3	BindingToProtein:T16 hasPatient:T17 hasPatient2:T15
+R5	locatedIn Arg1:E3 Arg2:T21
+R6	fromSpecies Arg1:T21 Arg2:T19
+R7	fromSpecies Arg1:T21 Arg2:T20
+T22	BindingToProtein 369 389	Physical interaction
+E4	BindingToProtein:T22 hasPatient:T24 hasPatient2:T23
+R8	hasPart Arg1:T26 Arg2:T28
+R9	hasPart Arg1:T26 Arg2:T29
+R10	fromSpecies Arg1:T26 Arg2:T25
+R11	locatedIn Arg1:T32 Arg2:T33
+R12	encodes Arg1:T36 Arg2:T35
+T37	TranscriptionOfGene 841 850	expressed
+E5	TranscriptionOfGene:T37 hasPatient:T36
+R13	locatedIn Arg1:E5 Arg2:T40
+R14	fromSpecies Arg1:T40 Arg2:T38
+R15	fromSpecies Arg1:T40 Arg2:T39
+T41	PositiveRegulationOfGeneExpression 890 904	Overexpression
+E6	PositiveRegulationOfGeneExpression:T41 hasPatient:T42
+R16	locatedIn Arg1:E6 Arg2:T44
+R17	fromSpecies Arg1:T44 Arg2:T43
+T45	PositiveRegulation 942 950	enhanced
+E7	PositiveRegulation:T45 hasAgent:E6 hasPatient:E8
+T49	PositiveRegulation 1022 1037	transactivation
+E8	PositiveRegulation:T49 
+T50	Transcription 1053 1066	transcription
+E9	Transcription:T50 hasPatient:T53
+T52	RegulatoryProcess 1080 1089	regulated
+E10	RegulatoryProcess:T52 hasAgent:T51 hasPatient:T53
+T54	Mutation 1101 1109	Mutation
+E11	Mutation:T54 hasPatient:T55
+R18	hasPart Arg1:T57 Arg2:T55
+R19	hasPart Arg1:T57 Arg2:T56
+T58	NegativeRegulation 1203 1212	abolished
+E12	NegativeRegulation:T58 hasPatient:E13 hasAgent:E11
+T60	PositiveRegulation 1237 1244	enhance
+E13	PositiveRegulation:T60 hasAgent:T59 hasPatient:E14
+T61	Transcription 1251 1264	transcription
+E14	Transcription:T61 
+T62	PositiveRegulation 1289 1297	activate
+E15	PositiveRegulation:T62 hasAgent:T59 hasPatient:E16
+T64	Transcription 1325 1338	transcription
+E16	Transcription:T64 
+T65	Maintenance 1343 1353	maintained
+E17	Maintenance:T65 hasPatient:E15
+R20	hasPart Arg1:T67 Arg2:T66
+T68	RegulatoryProcess 1412 1419	mediate
+E18	RegulatoryProcess:T68 hasAgent:T66 hasPatient:E19
+T69	BindingToProtein 1420 1432	interactions
+E19	BindingToProtein:T69 hasPatient:T70
+T72	BindingToProtein 1488 1499	interacting
+E20	BindingToProtein:T72 hasPatient:T75 hasPatient2:T71
+T77	BindingToProtein 1581 1597	this interaction
+E22	BindingToProtein:T77 
+T78	GeneExpression 1665 1674	expressed
+E23	GeneExpression:T78 hasPatient:T81
+T82	RegulatoryProcess 1746 1754	regulate
+E24	RegulatoryProcess:T82 hasAgent:T81 hasPatient:E25
+T84	Transcription 1782 1795	transcription
+E25	Transcription:T84 
+R1	hasPart Arg1:T10 Arg2:T8	
+E21	PositiveRegulation:T45 hasAgent:E6 hasPatient:E9
+E26	Mutation:T54 hasPatient:T56
+E27	NegativeRegulation:T58 hasPatient:E13 hasAgent:E26

@@ -1,0 +1,35 @@
+T1	Nucleus 0 7	Nuclear
+T2	Protein 24 41	prothymosin alpha
+T3	Protein 46 58	parathymosin
+T4	Protein 74 91	prothymosin alpha
+T6	Protein 140 152	parathymosin
+T7	DNA 164 167	DNA
+T8	Protein 181 198	Prothymosin alpha
+T9	Protein 203 215	parathymosin
+T10	Nucleus 248 255	nuclear
+T11	Protein 256 264	proteins
+T15	Protein 423 435	two proteins
+T20	Protein 664 677	both proteins
+T21	Nucleus 699 706	nuclear
+T22	Protein 770 787	prothymosin alpha
+T23	Nucleus 795 802	nucleus
+T26	Protein 874 886	parathymosin
+T28	Protein 946 963	prothymosin alpha
+T29	Protein 968 980	parathymosin
+T31	Protein 1084 1101	prothymosin alpha
+T32	Cell 1156 1160	cell
+T33	Eukaryote 1227 1232	human
+T34	Cell 1233 1256	bladder carcinoma cells
+T35	Cell 1362 1366	cell
+T37	Protein 1413 1420	protein
+T39	Chromosome 1452 1463	chromosomes
+T41	ProteinDomain 1509 1534	prothymosin alpha domains
+T42	Protein 1540 1543	PML
+T43	Protein 1548 1554	CstF64
+T46	MolecularFunction 397 415	molecular function
+T16	CellComponent 577 587	components
+T47	Nucleus 569 576	nuclear
+T50	Nucleus 1136 1143	nuclear
+T51	CellComponent 1144 1151	domains
+T40	CellComponent 1574 1580	bodies
+T44	Nucleus 1566 1573	nuclear

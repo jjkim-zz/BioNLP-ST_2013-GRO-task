@@ -1,0 +1,63 @@
+R1	fromSpecies Arg1:T3 Arg2:T2
+R2	hasPart Arg1:T3 Arg2:T1
+T4	RegulatoryProcess 69 79	regulation
+E1	RegulatoryProcess:T4 hasPatient:T1 hasAgent:T5
+T7	RegulatoryProcess 146 156	regulation
+E2	RegulatoryProcess:T7 hasPatient:T9
+T8	GeneExpression 161 171	expression
+E3	GeneExpression:T8 hasPatient:T9
+R3	locatedIn Arg1:T9 Arg2:T12
+R4	fromSpecies Arg1:T9 Arg2:T10
+R5	locatedIn Arg1:T12 Arg2:T13
+T15	RegulatoryProcess 275 284	regulated
+E4	RegulatoryProcess:T15 hasPatient:T14
+T16	DevelopmentalProcess 292 305	embryogenesis
+E5	DevelopmentalProcess:T16 
+T17	PositiveRegulation 313 322	activated
+E6	PositiveRegulation:T17 hasAgent:T18 hasPatient:T14
+R8	hasPart Arg1:T22 Arg2:T23
+R9	hasPart Arg1:T23 Arg2:T25
+R10	hasPart Arg1:T25 Arg2:T26
+T28	RegulatoryProcess 566 573	directs
+E7	RegulatoryProcess:T28 hasAgent:T27 hasPatient:E8
+T29	GeneExpression 578 588	expression
+E8	GeneExpression:T29 hasPatient:T30
+T33	PositiveRegulation 628 637	induction
+E9	PositiveRegulation:T33 hasAgent:T34
+R13	precedes Arg1:E9 Arg2:E7
+T35	BindingOfProteinToDNA 651 656	binds
+E10	BindingOfProteinToDNA:T35 hasAgent2:T38 hasPatient:T27
+T37	PositiveRegulation 660 667	induced
+E11	PositiveRegulation:T37 hasAgent:T36 hasPatient:T38
+T40	Transcription 772 785	transcription
+E12	Transcription:T40 
+R14	hasPart Arg1:T41 Arg2:T42
+T43	PositiveRegulation 820 834	transactivated
+E13	PositiveRegulation:T43 hasPatient:T42
+R15	locatedIn Arg1:E13 Arg2:T46
+R16	fromSpecies Arg1:T46 Arg2:T44
+R17	fromSpecies Arg1:T46 Arg2:T45
+T49	GeneExpression 898 908	expressing
+E14	GeneExpression:T49 hasPatient:T50
+R19	fromSpecies Arg1:T57 Arg2:T56
+T61	NegativeRegulation 1163 1171	inactive
+E15	NegativeRegulation:T61 hasPatient:T58
+T65	BindingOfProteinToDNA 1222 1226	bind
+E16	BindingOfProteinToDNA:T65 hasAgent:T63 hasPatient:T66
+T68	RegulatoryProcess 1401 1430	cross-regulatory interactions
+E17	RegulatoryProcess:T68 hasPatient:T70
+R21	locatedIn Arg1:E17 Arg2:T71
+R22	fromSpecies Arg1:T70 Arg2:T69
+R23	hasPart Arg1:T72 Arg2:T73
+T74	RegulatoryProcess 1612 1628	cross-regulation
+E18	RegulatoryProcess:T74 hasPatient:T73
+T75	BindingOfProteinToDNA 1654 1661	binding
+E19	BindingOfProteinToDNA:T75 hasAgent:T76
+T77	PositiveRegulation 1678 1685	induced
+E20	PositiveRegulation:T77 hasAgent:T78
+R6	locatedIn Arg1:E6 Arg2:T19	
+R7	locatedIn Arg1:E8 Arg2:T20	
+R11	encodes Arg1:T52 Arg2:T50	
+R12	encodes Arg1:T53 Arg2:T31	
+E21	GeneExpression:T49 hasPatient:T31
+E22	RegulatoryProcess:T4 hasPatient:T1 hasAgent:T6

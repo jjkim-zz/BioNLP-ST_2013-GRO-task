@@ -1,0 +1,24 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	encodes Arg1:T3 Arg2:T4
+T6	DevelopmentalProcess 221 234	embryogenesis
+E1	DevelopmentalProcess:T6 
+T9	Disease 302 322	diseases and cancers
+E2	Disease:T9 
+R3	fromSpecies Arg1:E2 Arg2:T8
+R4	locatedIn Arg1:T10 Arg2:T12
+R5	fromSpecies Arg1:T12 Arg2:T11
+T17	Mutation 521 534	translocation
+E3	Mutation:T17 hasPatient:T15
+R7	hasPart Arg1:T18 Arg2:T19
+R8	fromSpecies Arg1:T21 Arg2:T20
+R9	hasPart Arg1:T21 Arg2:T19
+R10	encodes Arg1:T22 Arg2:T23
+R11	hasPart Arg1:T23 Arg2:T24
+R13	hasPart Arg1:T28 Arg2:T27
+R14	hasPart Arg1:T31 Arg2:T30
+R15	hasPart Arg1:T32 Arg2:T33
+R16	hasPart Arg1:T32 Arg2:T34
+R17	fromSpecies Arg1:T36 Arg2:T35
+T37	Disease 558 590	alveolar rhabdomyosarcoma tumors
+E4	Disease:T37 
+R6	hasPart Arg1:T28 Arg2:T29	

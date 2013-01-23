@@ -1,0 +1,58 @@
+T1	Eukaryote 24 33	mammalian
+T2	Enzyme 34 73	Delta1-pyrroline-5-carboxylate synthase
+T4	AminoAcid 161 170	ornithine
+T6	Enzyme 183 222	Delta1-Pyrroline-5-carboxylate synthase
+T7	Enzyme 224 228	P5CS
+T8	CellComponent 250 278	mitochondrial inner membrane
+T9	Nucleotide 280 283	ATP
+T10	Chemical 289 294	NADPH
+T11	Enzyme 319 325	enzyme
+T12	AminoAcid 354 363	glutamate
+T13	Chemical 367 397	Delta1-pyrroline-5-carboxylate
+T15	AminoAcid 446 453	proline
+T16	AminoAcid 458 467	ornithine
+T17	Eukaryote 491 496	plant
+T18	Enzyme 497 501	P5CS
+T19	Sequence 502 510	sequence
+T20	Eukaryote 585 590	human
+T21	Enzyme 591 595	P5CS
+T22	DNA 596 601	cDNAs
+T23	OpenReadingFrame 650 668	open reading frame
+T24	DNA 680 684	cDNA
+T25	OpenReadingFrame 699 717	open reading frame
+T26	Protein 729 736	protein
+T27	DNA 763 767	cDNA
+T29	AminoAcid 942 953	amino acids
+T30	ProteinSubunit 988 1021	gamma-glutamyl kinase active site
+T31	Enzyme 1025 1029	P5CS
+T32	Tissue 1065 1072	tissues
+T33	Tissue 1089 1092	gut
+T34	Eukaryote 1144 1150	murine
+T35	Enzyme 1151 1155	P5CS
+T36	Transcript 1156 1167	transcripts
+T37	Enzyme 1209 1213	P5CS
+T38	DNA 1214 1219	cDNAs
+T40	Eukaryote 1239 1244	human
+T41	Enzyme 1254 1275	gamma-glutamyl kinase
+T42	Enzyme 1281 1315	gamma-glutamyl phosphate reductase
+T43	Eukaryote 1337 1361	Saccharomyces cerevisiae
+T44	AminoAcid 1397 1404	proline
+T46	Eukaryote 1459 1465	murine
+T47	Enzyme 1475 1479	P5CS
+T48	DNA 1480 1485	cDNAs
+T49	AminoAcid 1496 1503	proline
+T50	Enzyme 1519 1523	P5CS
+T51	Cell 1534 1561	Chinese hamster ovary cells
+T52	Cell 1563 1569	CHO-K1
+T53	Cell 1591 1616	CHO-K1 cell transformants
+T54	Eukaryote 1682 1688	murine
+T55	Enzyme 1689 1702	P5CS isoforms
+T56	Enzyme 1730 1734	P5CS
+T58	AminoAcid 1787 1798	L-ornithine
+T59	AminoAcid 1884 1893	ornithine
+T64	Enzyme 1991 1995	P5CS
+T65	AminoAcid 2008 2019	L-ornithine
+T67	CatalyticActivity 327 336	catalyzes
+T71	CatalyticActivity 1735 1743	activity
+T61	AminoAcid 1916 1937	two amino acid insert
+T72	CatalyticActivity 1996 2004	activity

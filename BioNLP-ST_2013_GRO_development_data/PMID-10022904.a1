@@ -1,0 +1,55 @@
+T2	Enzyme 14 33	IkappaB kinase beta
+T3	Enzyme 37 62	protein kinase C isoforms
+T4	Enzyme 68 93	atypical protein kinase C
+T5	Enzyme 95 98	PKC
+T9	Enzyme 288 301	atypical PKCs
+T11	Protein 320 347	tumor necrosis factor alpha
+T12	Protein 349 358	TNF-alpha
+T14	Protein 399 408	NF-kappaB
+T15	Protein 417 425	cytokine
+T17	Protein 497 504	IkappaB
+T18	Enzyme 529 541	PKC isotypes
+T20	Protein 568 575	IkappaB
+T21	Enzyme 603 610	zetaPKC
+T22	Enzyme 630 644	IkappaB kinase
+T23	Protein 672 679	IkappaB
+T24	Enzyme 751 766	IkappaB kinases
+T25	Enzyme 768 776	IKKalpha
+T26	Enzyme 781 788	IKKbeta
+T28	AminoAcid 814 822	residues
+T29	Protein 830 846	IkappaB molecule
+T30	Enzyme 970 974	PKCs
+T32	Protein 987 996	NF-kappaB
+T34	Enzyme 1027 1031	IKKs
+T35	Enzyme 1053 1061	alphaPKC
+T36	Enzyme 1077 1090	atypical PKCs
+T38	Enzyme 1103 1107	IKKs
+T39	Enzyme 1161 1168	zetaPKC
+T41	Enzyme 1190 1197	IKKbeta
+T42	Enzyme 1223 1231	IKKalpha
+T43	Enzyme 1263 1270	zetaPKC
+T45	Enzyme 1331 1338	IKKbeta
+T46	Enzyme 1347 1355	IKKalpha
+T47	Protein 1359 1368	TNF-alpha
+T48	Cell 1380 1385	cells
+T49	Cell 1405 1409	cell
+T51	Enzyme 1469 1476	IKKbeta
+T52	Enzyme 1525 1533	alphaPKC
+T54	Enzyme 1604 1612	alphaPKC
+T56	Enzyme 1647 1654	IKKbeta
+T57	Protein 1658 1667	TNF-alpha
+T58	Enzyme 1703 1710	zetaPKC
+T59	Enzyme 1715 1723	alphaPKC
+T60	Enzyme 1771 1778	IKKbeta
+T61	Enzyme 1795 1803	IKKalpha
+T62	Enzyme 1862 1869	zetaPKC
+T64	Enzyme 1894 1901	IKKbeta
+T65	Enzyme 2005 2017	PKC isoforms
+T66	Protein 2025 2034	NF-kappaB
+T67	Enzyme 2059 2066	IKKbeta
+T69	Protein 2082 2089	IkappaB
+T6	Enzyme 110 124	lambda/iotaPKC
+T71	Enzyme 129 136	zetaPKC
+T73	ExperimentalMethod 740 746	cloned
+T77	ExperimentalMethod 1245 1257	transfection
+T80	Chemical 1427 1458	phorbol 12-myristate 13-acetate

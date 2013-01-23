@@ -1,0 +1,43 @@
+T2	RegulatoryProcess 11 19	controls
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:E2
+T3	GeneExpression 20 30	expression
+E2	GeneExpression:T3 hasPatient:T4
+R1	fromSpecies Arg1:T7 Arg2:T5
+T9	RegulatoryProcess 233 242	mediating
+E3	RegulatoryProcess:T9 hasAgent:T7 hasPatient:E4
+T11	PositiveRegulation 256 266	activation
+E4	PositiveRegulation:T11 hasPatient:T10
+T12	CellGrowth 271 277	growth
+E5	CellGrowth:T12 hasPatient:T10
+T14	GeneExpression 287 297	expression
+E6	GeneExpression:T14 hasPatient:T15
+R2	locatedIn Arg1:E6 Arg2:T13
+R4	locatedIn Arg1:T18 Arg2:T17
+T21	Increase 444 453	induction
+E8	Increase:T21 hasPatient:T23 hasAgent:T19
+R5	locatedIn Arg1:T23 Arg2:T22
+T24	ProteinCatabolism 504 515	degradation
+E9	ProteinCatabolism:T24 hasPatient:T25
+T26	PositiveRegulation 553 563	activation
+E10	PositiveRegulation:T26 hasPatient:E11
+T28	GeneExpression 583 598	gene expression
+E11	GeneExpression:T28 hasPatient:T27
+R8	encodes Arg1:T30 Arg2:T29
+T31	Increase 676 683	induced
+E12	Increase:T31 hasAgent:T33 hasPatient:T30
+T32	PositiveRegulation 705 720	transactivating
+E13	PositiveRegulation:T32 
+R9	hasPart Arg1:T34 Arg2:T33
+T37	NegativeRegulation 829 839	inhibition
+E14	NegativeRegulation:T37 hasPatient:E15 hasAgent:T35
+T40	BindingOfProteinToDNA 858 865	binding
+E15	BindingOfProteinToDNA:T40 hasAgent:T38 hasPatient:T39
+T42	RegulatoryProcess 972 980	controls
+E16	RegulatoryProcess:T42 hasAgent:T41 hasPatient:E17
+T43	GeneExpression 985 995	expression
+E17	GeneExpression:T43 hasPatient:T44
+T16	RegulatoryProcess 1040 1062	autoregulatory pathway
+E7	RegulatoryProcess:T16 
+E18	RegulatoryProcess:T9 hasAgent:T7 hasPatient:E5
+E19	Increase:T21 hasPatient:T23 hasAgent:T20
+E20	NegativeRegulation:T37 hasPatient:E15 hasAgent:T36

@@ -1,0 +1,32 @@
+T3	ProteinComplex 28 56	the activin receptor complex
+T4	Protein 58 65	Activin
+T10	Protein 298 314	activin receptor
+T14	Protein 408 415	activin
+T17	Protein 466 484	these two proteins
+T18	Protein 486 493	Activin
+T20	Protein 512 520	ActR-IIB
+T21	ProteinComplex 526 538	this complex
+T23	Protein 555 562	ActR-IB
+T25	ProteinComplex 606 627	the resulting complex
+T26	Protein 629 636	ActR-IB
+T28	CatalyticActivity 688 703	kinase activity
+T29	Protein 707 715	ActR-IIB
+T31	AminoAcid 739 746	serines
+T32	ProteinDomain 769 778	GS domain
+T33	ProteinDomain 806 823	the kinase domain
+T34	Protein 827 834	ActR-IB
+T37	ProteinDomain 907 918	this domain
+T39	AminoAcid 928 949	phosphorylation sites
+T41	Protein 975 982	ActR-IB
+T44	AminoAcid 1025 1032	Thr-206
+T46	MutatedProtein 1077 1091	ActR-IB(T206D)
+T50	MutatedProtein 1303 1317	ActR-IB(T206D)
+T9	AminoAcid 751 761	threonines
+T6	Protein 127 168	protein serine/threonine kinase receptors
+T7	Protein 220 227	ActR-IB
+T8	Protein 232 240	ActR-IIB
+T12	Gene 327 335	ActR-IIB
+T40	MutatedProtein 1250 1275	kinase-defective ActR-IIB
+T45	DNA 1276 1285	construct
+T47	Protein 1383 1391	ActR-IIB
+T48	Protein 1431 1438	ActR-IB

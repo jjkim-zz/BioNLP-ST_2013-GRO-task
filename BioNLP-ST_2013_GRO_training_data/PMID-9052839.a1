@@ -1,0 +1,26 @@
+T1	Protein 0 5	TRAMP
+T4	Protein 35 43	receptor
+T5	Protein 70 102	tumor necrosis factor receptor 1
+T6	Protein 107 122	Fas(Apo-1/CD95)
+T8	Protein 169 172	TNF
+T9	Protein 174 182	receptor
+T10	Protein 202 207	TRAMP
+T11	AminoAcid 269 279	amino acid
+T12	Eukaryote 285 290	human
+T13	Protein 291 296	TRAMP
+T14	Protein 319 333	TNF receptor 1
+T15	Protein 335 340	TRAMP
+T17	Cell 368 378	thymocytes
+T18	Cell 383 394	lymphocytes
+T19	ProteinDomain 400 420	extracellular domain
+T20	ProteinDomain 455 462	domains
+T21	ProteinSubunit 472 490	cytoplasmic region
+T22	ProteinDomain 508 514	domain
+T25	Protein 560 565	TRAMP
+T26	Protein 596 605	NF-kappaB
+T29	Protein 632 637	TRAMP
+T33	Protein 676 685	inhibitor
+T34	Enzyme 698 707	proteases
+T35	Protein 740 745	TRAMP
+T39	Ligand 815 822	ligands
+T40	Protein 830 833	TNF

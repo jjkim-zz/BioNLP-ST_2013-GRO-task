@@ -1,0 +1,36 @@
+T1	Gene 23 30	SMARCA5
+T2	Protein 40 46	hSNF2H
+T3	Eukaryote 56 61	human
+T4	Eukaryote 75 85	Drosophila
+T5	Protein 86 90	ISWI
+T6	DNA 117 121	cDNA
+T7	Peptide 133 140	peptide
+T8	Protein 171 185	hSNF2L protein
+T9	Eukaryote 209 214	human
+T10	Eukaryote 228 238	Drosophila
+T11	Protein 239 243	ISWI
+T12	Gene 245 254	This gene
+T13	Gene 267 274	SMARCA5
+T14	OpenReadingFrame 289 307	open reading frame
+T15	Nucleotide 317 328	nucleotides
+T16	AminoAcid 346 356	amino-acid
+T17	Peptide 357 364	peptide
+T18	Protein 366 372	hSNF2H
+T19	AminoAcid 437 447	amino acid
+T20	Protein 460 464	ISWI
+T23	Eukaryote 517 527	Drosophila
+T24	Protein 529 535	hSNF2H
+T25	Eukaryote 551 556	human
+T26	Protein 570 582	this protein
+T29	Eukaryote 642 648	humans
+T30	ProteinDomain 653 666	ATPase domain
+T31	Protein 689 705	SWI2/SNF2 family
+T32	Protein 709 717	proteins
+T33	Protein 742 746	ISWI
+T34	Protein 748 754	hSNF2L
+T35	Protein 760 766	hSNF2H
+T37	Transcript 847 858	transcripts
+T38	Gene 866 877	hSNF2H gene
+T39	Gene 879 888	This gene
+T40	Chromosome 911 942	chromosome bands 4q31.1-->q31.2
+T21	Protein 485 513	chromatin-remodeling factors

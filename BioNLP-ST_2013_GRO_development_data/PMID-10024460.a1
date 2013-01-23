@@ -1,0 +1,41 @@
+T2	Protein 13 27	beta-myosin S2
+T7	ProteinDomain 115 132	regulatory domain
+T8	Protein 136 160	myosin-binding protein-C
+T9	Protein 166 172	myosin
+T10	Tissue 195 201	muscle
+T11	Protein 232 255	myosin-binding proteins
+T12	Protein 257 261	MyBP
+T13	Protein 264 270	MyBP-C
+T14	Protein 275 281	MyBP-H
+T15	Protein 297 305	proteins
+T16	Protein 327 341	immunoglobulin
+T17	ProteinDomain 369 376	domains
+T18	ProteinDomain 403 420	N-terminal domain
+T19	Tissue 424 431	cardiac
+T20	Protein 432 438	MyBP-C
+T21	ProteinDomain 444 456	MyBP-C motif
+T26	ProteinDomain 584 594	C terminus
+T29	Protein 647 657	myosin rod
+T31	ProteinDomain 679 690	this domain
+T32	Protein 737 743	MyBP-C
+T33	ProteinDomain 759 771	MyBP-C motif
+T35	CellComponent 788 805	sarcomeric A-band
+T36	Cell 809 823	cardiomyocytes
+T37	CellComponent 837 847	myofibrils
+T39	ProteinDomain 913 925	MyBP-C motif
+T40	Protein 990 1000	myosin rod
+T42	Protein 1039 1050	beta-myosin
+T46	Protein 1181 1195	beta-myosin S2
+T47	MutantProtein 1197 1202	R870H
+T48	MutantProtein 1207 1212	E924K
+T50	Protein 1233 1239	MyBP-C
+T53	Protein 1446 1452	myosin
+T54	Protein 1497 1503	MyBP-C
+T57	Protein 1540 1542	S2
+T59	Protein 1566 1580	beta-myosin S2
+T62	Protein 1623 1629	MyBP-C
+T28	ProteinSubunit 611 639	the light meromyosin portion
+T34	CellComponent 867 876	sarcomere
+T63	BindingSiteOfProtein 900 904	site
+T64	MutantProtein 1280 1285	R870H
+T65	MutantProtein 1379 1384	E924K

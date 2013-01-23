@@ -1,0 +1,31 @@
+T1	Eukaryote 50 55	human
+T2	Tissue 56 63	cardiac
+T3	Tissue 68 80	craniofacial
+T4	Chromosome 108 118	chromosome
+T5	Tissue 177 184	cardiac
+T6	Tissue 189 201	craniofacial
+T7	Eukaryote 215 221	humans
+T8	Eukaryote 236 241	mouse
+T9	Gene 242 247	genes
+T10	TranscriptionFactor 261 266	dHAND
+T11	TranscriptionFactor 270 290	transcription factor
+T13	Gene 342 346	Ufd1
+T14	Eukaryote 362 367	human
+T15	Protein 388 395	protein
+T18	Eukaryote 447 452	Mouse
+T19	Protein 453 457	Ufd1
+T21	Tissue 493 500	tissues
+T23	Eukaryote 556 561	human
+T24	Gene 562 572	UFD1L gene
+T25	Exon 700 705	exons
+T26	Gene 716 721	UFD1L
+T27	Gene 824 829	UFD1L
+T30	Tissue 305 317	neural crest
+T31	Chromosome 368 373	22q11
+T17	Protein 437 445	proteins
+T22	Chromosome 527 532	22q11
+T36	Chromosome 618 623	22q11
+T38	Chromosome 775 780	22q11
+T41	Tissue 879 884	heart
+T42	Tissue 889 901	craniofacial
+T43	Chromosome 918 923	22q11

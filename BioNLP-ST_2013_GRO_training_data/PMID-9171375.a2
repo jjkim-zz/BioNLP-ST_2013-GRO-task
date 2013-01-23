@@ -1,0 +1,62 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	hasPart Arg1:T4 Arg2:T3
+T5	TranscriptionInitiation 105 129	transcription initiation
+E1	TranscriptionInitiation:T5 
+T6	Transcription 131 144	Transcription
+E2	Transcription:T6 hasAgent:T7
+T10	TranscriptionInitiation 255 265	initiation
+E3	TranscriptionInitiation:T10 
+T11	Elongation 267 277	elongation
+E4	Elongation:T11 
+T12	TranscriptionTermination 283 294	termination
+E5	TranscriptionTermination:T12 
+R6	fromSpecies Arg1:T14 Arg2:T13
+R7	hasPart Arg1:T14 Arg2:T15
+T16	Modification 442 450	modified
+E6	Modification:T16 hasPatient:T15
+R8	locatedIn Arg1:E6 Arg2:T17
+R9	hasPart Arg1:T18 Arg2:T19
+R10	hasPart Arg1:T18 Arg2:T20
+R11	hasPart Arg1:T18 Arg2:T21
+R12	encodes Arg1:T22 Arg2:T23
+R13	fromSpecies Arg1:T26 Arg2:T25
+R14	fromSpecies Arg1:T28 Arg2:T27
+T31	Transcription 828 841	transcription
+E7	Transcription:T31 
+T32	Elongation 842 852	elongation
+E8	Elongation:T32 hasPatient:E7
+T33	TranscriptionTermination 857 868	termination
+E9	TranscriptionTermination:T33 
+T34	TranscriptionInitiation 891 901	initiation
+E10	TranscriptionInitiation:T34 
+T36	TranscriptionInitiation 961 985	transcription initiation
+E11	TranscriptionInitiation:T36 
+T38	TranscriptionInitiation 1053 1077	transcription initiation
+E12	TranscriptionInitiation:T38 
+R17	hasPart Arg1:T40 Arg2:T41
+R18	hasPart Arg1:T40 Arg2:T42
+R19	hasPart Arg1:T40 Arg2:T43
+R20	hasPart Arg1:T45 Arg2:T44
+T46	BindingToProtein 1260 1280	interacts physically
+E13	BindingToProtein:T46 hasPatient:T47 hasPatient2:T48 hasPatient3:T44
+R21	fromSpecies Arg1:T51 Arg2:T50
+R24	hasPart Arg1:T56 Arg2:T53
+R25	hasPart Arg1:T56 Arg2:T54
+R26	hasPart Arg1:T56 Arg2:T55
+T57	RegulatoryProcess 1452 1459	directs
+E14	RegulatoryProcess:T57 hasAgent:T56 hasPatient:E15
+T59	FormationOfProteinDNAComplex 1472 1479	binding
+E15	FormationOfProteinDNAComplex:T59 hasAgent:T58 hasPatient:T62
+R27	hasPart Arg1:T62 Arg2:T61
+R28	hasPart Arg1:T62 Arg2:T60
+T63	BindingToProtein 1514 1526	interactions
+E16	BindingToProtein:T63 hasPatient:T64 hasPatient2:T65
+T66	FormationOfTranscriptionInitiationComplex 176 187	recruitment
+E17	FormationOfTranscriptionInitiationComplex:T66 
+R3	hasPart Arg1:E17 Arg2:T8	
+R4	precedes Arg1:E17 Arg2:E3	
+R5	precedes Arg1:E3 Arg2:E4	
+R30	precedes Arg1:E4 Arg2:E5	
+R15	precedes Arg1:E10 Arg2:E8	
+R16	precedes Arg1:E8 Arg2:E9	
+R22	hasPart Arg1:T52 Arg2:T49	

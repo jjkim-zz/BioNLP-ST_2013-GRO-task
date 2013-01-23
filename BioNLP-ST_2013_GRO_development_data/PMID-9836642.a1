@@ -1,0 +1,24 @@
+T1	Protein 15 18	RSF
+T2	Protein 23 27	FACT
+T4	Chromatin 49 58	chromatin
+T6	DNA 96 105	naked DNA
+T7	TranscriptionFactor 136 157	transcription factors
+T8	RNAPolymeraseII 162 179	RNA polymerase II
+T10	DNA 263 275	DNA template
+T11	Chromatin 293 302	chromatin
+T12	Protein 312 318	factor
+T14	TranscriptionActivator 336 345	activator
+T16	Chromatin 384 393	chromatin
+T17	Protein 418 429	This factor
+T18	Protein 431 460	remodeling and spacing factor
+T19	Protein 462 465	RSF
+T20	Chemical 472 494	adenosine triphosphate
+T21	Nucleosome 505 515	nucleosome
+T24	Enzyme 551 562	Polymerases
+T27	Protein 596 599	RSF
+T28	Transcript 622 633	transcripts
+T29	Protein 653 657	FACT
+T33	Protein 715 721	factor
+T34	TranscriptionActivator 739 748	activator
+T36	Chromatin 776 785	chromatin
+T25	Protein 659 694	facilitates chromatin transcription

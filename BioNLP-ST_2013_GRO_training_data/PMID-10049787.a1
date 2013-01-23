@@ -1,0 +1,53 @@
+T1	Peptide 0 19	Parathyroid hormone
+T3	Protein 44 60	stem cell factor
+T4	Eukaryote 64 69	human
+T5	Cell 70 81	osteoblasts
+T6	Cell 86 107	osteoblast-like cells
+T7	Protein 125 141	stem cell factor
+T8	Protein 143 146	SCF
+T10	Cell 162 173	osteoblasts
+T11	Cell 182 192	mast cells
+T12	Protein 259 262	SCF
+T13	Cell 279 290	osteoblasts
+T14	Cell 295 300	Saos2
+T15	Cell 304 314	MG63 cells
+T17	Protein 325 328	SCF
+T18	Peptide 344 347	PTH
+T19	Cell 385 389	cell
+T20	Cell 455 465	MG63 cells
+T25	Protein 536 539	SCF
+T26	Cell 552 562	osteoblast
+T27	Protein 563 566	SCF
+T28	DNA 567 572	cDNAs
+T29	MessengerRNA 605 610	mRNAs
+T30	Protein 654 666	SCF isoforms
+T31	Eukaryote 670 677	rodents
+T32	Eukaryote 695 700	human
+T33	Protein 701 705	SCFs
+T34	Cell 741 753	osteoblastic
+T35	Protein 754 757	SCF
+T36	MessengerRNA 758 762	mRNA
+T37	Peptide 801 804	PTH
+T38	Protein 814 821	protein
+T39	MessengerRNA 825 829	mRNA
+T40	Chemical 847 856	vitamin D
+T41	Transcript 874 885	transcripts
+T42	Tissue 912 919	tissues
+T43	Cell 942 953	osteoblasts
+T44	Cell 972 983	osteoblasts
+T46	Protein 992 995	SCF
+T47	Peptide 1011 1014	PTH
+T48	MessengerRNA 1021 1025	mRNA
+T49	Protein 1030 1037	protein
+T50	Cell 1079 1084	cells
+T51	Protein 1086 1089	SCF
+T53	Cell 1101 1112	osteoclasts
+T54	Peptide 1130 1133	PTH
+T55	Cell 1142 1154	osteoblastic
+T56	Protein 1155 1158	SCF
+T57	Cell 1198 1208	Mast cells
+T58	Protein 1226 1229	SCF
+T60	Peptide 1256 1259	PTH
+T22	AntisenseRNA 491 509	antisense SCF mRNA
+T23	Exon 619 625	exon 6
+T63	CellComponent 634 642	membrane

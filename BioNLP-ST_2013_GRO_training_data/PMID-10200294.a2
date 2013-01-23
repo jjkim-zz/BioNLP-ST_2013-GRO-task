@@ -1,0 +1,56 @@
+T2	PositiveRegulation 27 34	induced
+E1	PositiveRegulation:T2 hasAgent:T1 hasPatient:T3
+T4	RegulatoryProcess 56 66	regulating
+E2	RegulatoryProcess:T4 hasAgent:T3 hasPatient:E3
+T6	GeneExpression 95 110	gene expression
+E3	GeneExpression:T6 hasPatient:T5
+T17	GeneExpression 456 471	gene expression
+E4	GeneExpression:T17 hasPatient:T16
+T18	RegulatoryProcess 488 497	regulated
+E5	RegulatoryProcess:T18 hasPatient:E4
+T20	RegulatoryProcess 540 547	control
+E6	RegulatoryProcess:T20 hasAgent:T19 hasPatient:E7
+T22	Transcription 563 576	transcription
+E7	Transcription:T22 hasPatient:T21
+T26	ResponseProcess 689 697	response
+E8	ResponseProcess:T26 hasPatient2:T25 hasAgent:T27
+R1	fromSpecies Arg1:T30 Arg2:T29
+R2	hasPart Arg1:T30 Arg2:T31
+T37	BindingOfProteinToDNA 956 963	binding
+E10	BindingOfProteinToDNA:T37 hasAgent:T36 hasPatient:T38
+T43	Increase 1225 1234	induction
+E11	Increase:T43 hasPatient:T42 hasAgent:E12
+T45	PositiveRegulation 1256 1266	activation
+E12	PositiveRegulation:T45 hasPatient2:T46 hasAgent:T44
+T49	NegativeRegulation 1337 1347	Inhibition
+E13	NegativeRegulation:T49 hasPatient:E14
+R7	encodes Arg1:T51 Arg2:T50
+T52	TranscriptionOfGene 1362 1372	expression
+E14	TranscriptionOfGene:T52 hasPatient:T51
+R8	locatedIn Arg1:E14 Arg2:T53
+T54	Decrease 1402 1411	reduction
+E15	Decrease:T54 hasPatient:T56 hasAgent:E13
+R14	encodes Arg1:T59 Arg2:T58
+R16	locatedIn Arg1:T66 Arg2:T67
+T69	PositiveRegulation 1798 1808	activation
+E18	PositiveRegulation:T69 hasPatient:T71
+R17	fromSpecies Arg1:T71 Arg2:T70
+T72	RegulatoryProcess 1869 1876	control
+E19	RegulatoryProcess:T72 hasPatient:E20
+T74	GeneExpression 1887 1902	gene expression
+E20	GeneExpression:T74 hasPatient:T73
+T9	PositiveRegulation 226 236	stimulator
+E21	PositiveRegulation:T9 hasAgent:T7 hasPatient:T10
+T75	Transport 275 284	secretion
+E22	Transport:T75 hasPatient:T12
+R18	fromSpecies Arg1:E7 Arg2:T23	
+R3	locatedIn Arg1:T39 Arg2:T40	
+R4	encodes Arg1:T56 Arg2:T55	
+T57	PositiveRegulationOfTranscriptionOfGene 1451 1475	high level of expression
+E9	PositiveRegulationOfTranscriptionOfGene:T57 hasPatient:T59
+R5	locatedIn Arg1:E9 Arg2:T60	
+R6	locatedIn Arg1:E9 Arg2:T61	
+R9	locatedIn Arg1:E9 Arg2:T62	
+R10	locatedIn Arg1:E9 Arg2:T63	
+E16	PositiveRegulation:T9 hasAgent:T7 hasPatient:T11
+E17	Transport:T75 hasPatient:T14

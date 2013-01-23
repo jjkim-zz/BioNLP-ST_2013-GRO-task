@@ -1,0 +1,38 @@
+T1	Protein 0 4	BCL6
+T4	Virus 40 75	human immunodeficiency virus type I
+T5	Promoter 76 100	promoter/enhancer region
+T6	Gene 106 115	gene BCL6
+T7	Protein 126 145	zinc finger protein
+T8	TranscriptionFactor 167 188	transcription factors
+T9	Virus 230 235	viral
+T10	Virus 255 290	human immunodeficiency virus type I
+T11	Virus 292 297	HIV-1
+T12	Sequence 308 317	sequences
+T13	Gene 343 347	BCL6
+T14	DNA 348 351	DNA
+T16	Promoter 379 387	promoter
+T17	Protein 463 475	BCL6 protein
+T18	Cell 503 512	COS cells
+T19	Prokaryote 519 530	bacterially
+T21	Protein 551 558	protein
+T22	ZincCoordinatingDomain 574 591	BCL6 zinc fingers
+T24	DNA 617 620	DNA
+T25	Promoter 630 657	U3 promoter/enhancer region
+T26	Virus 661 666	HIV-1
+T27	Protein 737 749	BCL6 protein
+T29	Virus 789 794	HIV-1
+T30	DNARegion 795 815	long terminal repeat
+T31	DNARegion 817 820	LTR
+T32	Sequence 822 831	sequences
+T33	Protein 845 849	BCL6
+T35	Enzyme 874 893	luciferase activity
+T36	Protein 948 960	BCL6 protein
+T38	Virus 977 982	HIV-1
+T39	Promoter 983 991	promoter
+T40	Enhancer 992 1000	enhancer
+T41	DNARegion 1001 1007	region
+T42	ProteinDomain 1023 1029	domain
+T43	ZincCoordinatingDomain 1046 1058	zinc fingers
+T46	Virus 1099 1104	HIV-1
+T47	DNARegion 1105 1108	LTR
+T48	ReporterGene 753 763	luciferase

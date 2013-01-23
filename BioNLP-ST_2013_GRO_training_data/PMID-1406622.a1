@@ -1,0 +1,32 @@
+T1	TranscriptionFactor 20 25	Spi-B
+T2	TranscriptionFactor 29 49	transcription factor
+T3	Protein 74 96	oncoprotein Spi-1/PU.1
+T4	Eukaryote 115 120	human
+T5	DNA 121 125	cDNA
+T6	Gene 137 141	gene
+T7	Gene 143 148	spi-B
+T8	DNABindingDomainOfProtein 188 206	DNA-binding domain
+T9	Gene 214 224	Spi-1/PU.1
+T10	GeneProduct 234 250	oncogene product
+T11	Gene 252 257	spi-B
+T12	Protein 270 277	protein
+T13	AminoAcid 285 296	amino acids
+T14	Protein 334 339	Spi-1
+T15	DNABindingDomainOfProtein 422 440	DNA-binding domain
+T16	Protein 448 461	Ets-1 protein
+T17	TranscriptionFactor 482 495	Spi-B protein
+T19	DNARegion 538 544	PU box
+T20	Protein 560 570	Spi-1/PU.1
+T23	ReporterGene 606 622	reporter plasmid
+T24	DNARegion 634 642	PU boxes
+T25	Chromosome 644 654	Chromosome
+T26	Gene 695 700	spi-B
+T27	Chromosome 708 723	19q13.3-19q13.4
+T28	Eukaryote 738 743	human
+T29	DNA 744 750	genome
+T30	Gene 752 757	spi-B
+T31	Gene 764 769	spi-1
+T33	Eukaryote 808 814	murine
+T34	Eukaryote 819 824	human
+T35	Cell 825 849	hematopoietic cell lines
+T36	Cell 857 878	T lymphoid cell lines

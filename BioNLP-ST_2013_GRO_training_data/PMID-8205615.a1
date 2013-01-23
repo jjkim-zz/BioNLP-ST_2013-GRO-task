@@ -1,0 +1,32 @@
+T1	NuclearReceptor 0 39	Nuclear receptor steroidogenic factor 1
+T3	Protein 54 85	muellerian inhibiting substance
+T4	Gene 86 90	gene
+T5	Cell 179 192	Sertoli cells
+T6	Tissue 200 216	embryonic testes
+T8	Protein 225 256	muellerian inhibiting substance
+T9	Protein 258 261	MIS
+T10	Protein 266 274	TGF beta
+T11	OrganicChemical 280 287	hormone
+T12	Tissue 300 315	muellerian duct
+T14	Cell 331 352	primary Sertoli cells
+T15	NuclearReceptor 358 381	orphan nuclear receptor
+T16	Protein 383 405	steroidogenic factor 1
+T17	Protein 407 411	SF-1
+T19	Protein 428 431	MIS
+T20	Gene 432 436	gene
+T22	UpstreamRegulatorySequence 463 490	upstream regulatory element
+T23	Cell 509 513	HeLa
+T24	Protein 522 525	MIS
+T25	Gene 526 530	gene
+T27	Protein 545 549	SF-1
+T29	Protein 574 578	SF-1
+T30	Ligand 579 585	ligand
+T32	ProteinDomain 594 600	domain
+T33	Cell 616 628	Sertoli cell
+T34	Ligand 638 644	ligand
+T36	Protein 704 708	SF-1
+T38	Protein 743 746	MIS
+T40	Tissue 762 777	muellerian duct
+T42	Protein 806 810	SF-1
+T44	Protein 821 824	MIS
+T45	Eukaryote 877 886	mammalian

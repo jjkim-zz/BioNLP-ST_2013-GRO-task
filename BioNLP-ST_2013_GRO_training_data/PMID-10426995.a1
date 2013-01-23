@@ -1,0 +1,22 @@
+T2	Microorganism 37 46	microbial
+T3	Protein 47 59	lipoproteins
+T4	Protein 68 87	toll-like receptors
+T5	Cell 107 111	cell
+T8	Protein 191 205	interleukin-12
+T9	Protein 207 212	IL-12
+T11	Protein 308 313	IL-12
+T13	Cell 328 339	macrophages
+T14	Microorganism 419 428	microbial
+T15	Protein 429 441	lipoproteins
+T17	Protein 468 473	IL-12
+T19	Eukaryote 488 493	human
+T20	Cell 494 505	macrophages
+T23	Protein 541 560	Toll-like receptors
+T24	Protein 562 566	TLRs
+T25	Protein 577 589	lipoproteins
+T27	Protein 601 604	TLR
+T32	Chemical 686 698	nitric oxide
+T35	Protein 747 751	TLRs
+T36	Microorganism 755 764	microbial
+T37	Protein 765 777	lipoproteins
+T29	Enzyme 642 663	nitric oxide synthase

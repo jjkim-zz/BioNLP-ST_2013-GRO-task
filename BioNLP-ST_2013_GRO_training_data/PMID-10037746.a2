@@ -1,0 +1,23 @@
+R1	fromSpecies Arg1:T5 Arg2:T4
+R2	locatedIn Arg1:T6 Arg2:T5
+T23	PositiveRegulation 477 486	stimulate
+E3	PositiveRegulation:T23 hasAgent:T21 hasPatient:T24
+T27	NegativeRegulation 521 528	inhibit
+E4	NegativeRegulation:T27 hasPatient:T28 hasAgent:T21
+T31	PositiveRegulation 587 597	stimulates
+E5	PositiveRegulation:T31 hasAgent:T30 hasPatient:T32
+R3	encodes Arg1:T34 Arg2:T33
+R4	fromSpecies Arg1:T34 Arg2:T35
+R5	fromSpecies Arg1:T43 Arg2:T44
+T47	Mutation 1030 1061	duplication/translocation event
+E6	Mutation:T47 hasPatient:T46
+T51	BindingToProtein 1121 1129	interact
+E8	BindingToProtein:T51 hasPatient:T52 hasPatient2:T50
+R6	locatedIn Arg1:T41 Arg2:T43	
+R7	locatedIn Arg1:T42 Arg2:T43	
+T9	RegulatoryProcess 1163 1184	regulatory mechanisms
+E1	RegulatoryProcess:T9 
+E2	PositiveRegulation:T23 hasAgent:T22 hasPatient:T24
+E7	PositiveRegulation:T23 hasAgent:T21 hasPatient:T25
+E9	PositiveRegulation:T23 hasAgent:T22 hasPatient:T25
+E10	NegativeRegulation:T27 hasPatient:T28 hasAgent:T22

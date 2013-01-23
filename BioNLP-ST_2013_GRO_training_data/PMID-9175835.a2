@@ -1,0 +1,34 @@
+T3	BindingToProtein 35 44	interacts
+E1	BindingToProtein:T3 hasPatient:T1 hasPatient2:T4
+T10	RegulatoryProcess 183 191	mediated
+E3	RegulatoryProcess:T10 hasAgent:T37 hasPatient:E4
+T11	PositiveRegulation 192 202	activation
+E4	PositiveRegulation:T11 
+T16	GeneExpression 328 348	transient expression
+E5	GeneExpression:T16 
+T18	GeneExpression 368 385	stable expression
+E6	GeneExpression:T18 
+T21	GeneExpression 411 421	Expression
+E7	GeneExpression:T21 hasPatient:T22
+T26	GeneExpression 548 558	expression
+E8	GeneExpression:T26 hasPatient:T41
+R1	fromSpecies Arg1:T4 Arg2:T5	
+T34	ResponseProcess 100 111	aggregation
+E9	ResponseProcess:T34 
+R2	fromSpecies Arg1:T7 Arg2:T8	
+T36	BindingToProtein 140 150	associates
+E10	BindingToProtein:T36 hasPatient:T35 hasPatient2:T7
+T9	NegativeRegulation 164 178	down-regulates
+E2	NegativeRegulation:T9 hasAgent:T7 hasPatient:E3
+T38	BindingToProtein 298 308	associated
+E11	BindingToProtein:T38 hasPatient:T15 hasPatient2:T14
+R3	locatedIn Arg1:E5 Arg2:T17	
+R4	locatedIn Arg1:E6 Arg2:T20	
+R5	locatedIn Arg1:E7 Arg2:T24	
+T39	RegulatoryProcess 477 488	aggregation
+E12	RegulatoryProcess:T39 
+T40	PositiveRegulation 527 539	up-regulated
+E13	PositiveRegulation:T40 hasPatient:E8
+T42	CellularProcess 851 872	T cell transformation
+E14	CellularProcess:T42 hasAgent:T43
+E15	GeneExpression:T21 hasPatient:T23

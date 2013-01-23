@@ -1,0 +1,34 @@
+T1	BindingToProtein 71 75	bind
+E1	BindingToProtein:T1 hasPatient:T41 hasPatient2:T42 hasPatient3:T40
+T4	BindingToProtein 163 170	binding
+E2	BindingToProtein:T4 hasPatient2:T5 hasAgent:T3
+T6	CellularProcess 183 196	degranulation
+E3	CellularProcess:T6 
+T7	NegativeRegulation 274 281	inhibit
+E4	NegativeRegulation:T7 hasPatient:E6
+T9	RegulatoryProcess 286 294	mediated
+E5	RegulatoryProcess:T9 hasAgent:T8 hasPatient:E6
+T10	CellularProcess 295 308	degranulation
+E6	CellularProcess:T10 
+R1	locatedIn Arg1:E6 Arg2:T11
+T12	BindingToProtein 455 460	bound
+E7	BindingToProtein:T12 hasPatient:T13
+T15	BindingToProtein 503 508	bound
+E8	BindingToProtein:T15 hasPatient:T18
+T22	BindingToProtein 848 853	bound
+E10	BindingToProtein:T22 hasPatient:T21 hasAgent:T47
+T23	BindingToProtein 925 930	bound
+E11	BindingToProtein:T23 hasPatient:T48
+R3	fromSpecies Arg1:T29 Arg2:T30
+T36	BindingToProtein 1328 1332	bind
+E13	BindingToProtein:T36 hasPatient:T55 hasPatient2:T56 hasPatient3:T57
+T37	NegativeRegulation 1445 1452	inhibit
+E14	NegativeRegulation:T37 hasPatient:E15 hasAgent:T58
+T38	CellularProcess 1453 1466	degranulation
+E15	CellularProcess:T38 
+T39	BindingToProtein 1470 1477	binding
+E16	BindingToProtein:T39 hasPatient:T59 hasPatient2:T60 hasPatient3:T58
+R2	locatedIn Arg1:T13 Arg2:T44	
+R4	fromSpecies Arg1:T44 Arg2:T14	
+R5	fromSpecies Arg1:T54 Arg2:T35	
+R6	fromSpecies Arg1:T54 Arg2:T34	

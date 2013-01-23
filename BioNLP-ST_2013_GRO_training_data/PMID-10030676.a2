@@ -1,0 +1,36 @@
+R1	encodes Arg1:T3 Arg2:T2
+R3	fromSpecies Arg1:T3 Arg2:T1
+T8	Mutation 348 356	mutation
+E1	Mutation:T8 
+T9	Disease 405 412	disease
+E2	Disease:T9 
+R5	encodes Arg1:T15 Arg2:T14
+R7	hasPart Arg1:T15 Arg2:T13
+R8	fromSpecies Arg1:T18 Arg2:T17
+T20	BindingToProtein 920 925	binds
+E3	BindingToProtein:T20 hasPatient:T21 hasPatient2:T19
+T25	Splicing 1135 1155	alternative splicing
+E4	Splicing:T25 
+T26	GeneExpression 1177 1187	expression
+E5	GeneExpression:T26 hasPatient:T28
+R9	locatedIn Arg1:E5 Arg2:T29
+R10	locatedIn Arg1:E5 Arg2:T30
+R11	fromSpecies Arg1:T28 Arg2:T27
+R12	fromSpecies Arg1:T32 Arg2:T31
+T33	GeneExpression 1309 1318	expressed
+E6	GeneExpression:T33 hasPatient:T32
+R13	locatedIn Arg1:E6 Arg2:T34
+T37	GeneExpression 1440 1450	expression
+E7	GeneExpression:T37 hasPatient:T36
+R14	locatedIn Arg1:E7 Arg2:T35
+R15	locatedIn Arg1:T38 Arg2:T39
+T42	Disease 114 127	breast cancer
+E8	Disease:T42 
+R2	locatedIn Arg1:T3 Arg2:T4	
+T7	Disease 242 255	breast cancer
+E9	Disease:T7 
+R4	fromSpecies Arg1:E9 Arg2:T6	
+T12	Disease 721 728	tumours
+E10	Disease:T12 
+T41	Disease 1722 1728	tumour
+E11	Disease:T41 

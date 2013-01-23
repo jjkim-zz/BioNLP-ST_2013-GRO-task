@@ -1,0 +1,28 @@
+T1	Vitamin 30 41	vitamin B-6
+T2	Chemical 51 59	coenzyme
+T5	Chemical 101 104	PLP
+T6	Enzyme 169 176	enzymes
+T14	Enzyme 290 302	phosphatases
+T15	CatalyticActivity 303 311	catalyze
+T16	Chemical 330 343	5'-phosphates
+T17	Chemical 351 369	vitamers pyridoxal
+T18	Chemical 371 383	pyridoxamine
+T19	Chemical 389 399	pyridoxine
+T20	Vitamin 486 497	vitamin B-6
+T21	Chemical 508 521	5'-phosphates
+T22	Enzyme 653 660	enzymes
+T23	Enzyme 724 740	pyridoxal kinase
+T24	Eukaryote 744 750	humans
+T25	Prokaryote 762 770	bacteria
+T26	ProteinDomain 821 827	region
+T30	Prokaryote 895 906	prokaryotic
+T31	Eukaryote 911 921	eukaryotic
+T32	Organism 922 931	organisms
+T34	Chemical 999 1007	coenzyme
+T35	Organism 1035 1044	organisms
+T36	Enzyme 1051 1057	kinase
+T37	Enzyme 1062 1069	oxidase
+T38	Vitamin 1082 1085	B-6
+T7	Enzyme 178 226	viz. pyridoxal (pyridoxine, pyridoxamine) kinase
+T8	Enzyme 231 274	pyridoxine (pyridoxamine) phosphate oxidase
+T11	Enzyme 835 878	pyridoxine (pyridoxamine) phosphate oxidase

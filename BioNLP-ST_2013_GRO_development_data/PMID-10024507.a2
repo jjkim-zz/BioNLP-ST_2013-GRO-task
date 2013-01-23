@@ -1,0 +1,30 @@
+R1	locatedIn Arg1:T3 Arg2:T4
+R2	fromSpecies Arg1:T3 Arg2:T1
+R3	encodes Arg1:T6 Arg2:T8
+R4	fromSpecies Arg1:T8 Arg2:T7
+T9	GeneExpression 144 153	expressed
+E1	GeneExpression:T9 hasPatient:T6
+R5	locatedIn Arg1:E1 Arg2:T10
+R6	locatedIn Arg1:E1 Arg2:T11
+R7	locatedIn Arg1:T11 Arg2:T12
+R8	locatedIn Arg1:T11 Arg2:T13
+R9	hasPart Arg1:T15 Arg2:T16
+R10	hasPart Arg1:T17 Arg2:T18
+R11	fromSpecies Arg1:T20 Arg2:T19
+R13	hasPart Arg1:T23 Arg2:T26
+R14	hasPart Arg1:T29 Arg2:T31
+R15	hasPart Arg1:T29 Arg2:T30
+R16	hasPart Arg1:T29 Arg2:T32
+T34	BindingToProtein 983 988	binds
+E2	BindingToProtein:T34 hasAgent:T33 hasPatient:T35
+T40	Phosphorylation 1131 1145	phosphorylated
+E3	Phosphorylation:T40 
+R18	fromSpecies Arg1:T41 Arg2:T42
+R19	fromSpecies Arg1:T44 Arg2:T43
+T50	SignalingPathway 1355 1365	signalling
+E4	SignalingPathway:T50 
+R20	locatedIn Arg1:T27 Arg2:T51	
+R12	hasPart Arg1:T23 Arg2:T27	
+R17	hasPart Arg1:T37 Arg2:T38	
+T52	Heterodimerization 1199 1212	heterodimeric
+E5	Heterodimerization:T52 hasPatient:T45

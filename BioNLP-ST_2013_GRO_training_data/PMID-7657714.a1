@@ -1,0 +1,48 @@
+T4	CellComponent 60 69	nucleolar
+T5	Protein 70 82	protein p130
+T7	Eukaryote 142 147	human
+T8	CellComponent 148 157	nucleolar
+T9	Protein 158 177	phosphoprotein p130
+T10	Nucleus 249 256	nuclear
+T11	Protein 257 265	proteins
+T13	Protein 301 305	p130
+T16	CellComponent 333 341	nucleoli
+T17	Protein 385 389	p130
+T19	CellComponent 480 500	nucleolar components
+T20	Protein 524 528	p130
+T22	Enzyme 562 582	alkaline phosphatase
+T23	Protein 616 620	p130
+T24	Enzyme 706 726	cellular phosphatase
+T25	Enzyme 731 747	casein kinase II
+T27	Protein 870 874	p130
+T29	Protein 945 949	p130
+T32	Protein 1012 1016	p130
+T35	Enzyme 1074 1085	cdc2 kinase
+T37	Function 1116 1126	solubility
+T39	CellComponent 1169 1178	cytoplasm
+T40	Protein 1186 1190	p130
+T44	Protein 1297 1301	p130
+T46	MolecularStructure 1335 1353	granular structure
+T47	MolecularStructure 1397 1405	granules
+T49	CellComponent 1424 1435	nucleoplasm
+T50	CellComponent 1443 1451	nucleoli
+T52	Chemical 1471 1484	Actinomycin D
+T55	Protein 1519 1523	p130
+T56	MolecularStructure 1535 1543	granules
+T57	CellComponent 1553 1564	nucleoplasm
+T58	Protein 1657 1661	p130
+T60	CellComponent 1682 1707	dense fibrillar component
+T61	CellComponent 1711 1730	subnucleolar region
+T64	DNA 1774 1778	cDNA
+T65	Sequence 1779 1787	sequence
+T66	Protein 1791 1795	p130
+T67	Eukaryote 1950 1953	rat
+T68	CellComponent 1954 1963	nucleolar
+T69	Protein 1964 1986	phosphoprotein Nopp140
+T71	CellComponent 2028 2037	nucleolus
+T72	CellComponent 2046 2055	cytoplasm
+T73	Protein 2066 2070	p130
+T74	Protein 2093 2100	Nopp140
+T76	Function 2151 2160	functions
+T77	Protein 2164 2168	p130
+T79	CellComponent 1370 1389	prenucleolar bodies

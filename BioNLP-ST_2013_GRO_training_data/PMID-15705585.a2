@@ -1,0 +1,83 @@
+R1	hasFunction Arg1:T5 Arg2:T6
+R2	fromSpecies Arg1:T8 Arg2:T7
+T14	RegulatoryProcess 290 297	mediate
+E3	RegulatoryProcess:T14 hasAgent:T8 hasPatient:T17
+T15	CellularProcess 308 314	immune
+E4	CellularProcess:T15 
+T16	RegulatoryProcess 315 325	regulatory
+E5	RegulatoryProcess:T16 hasPatient:E4
+R5	fromSpecies Arg1:T23 Arg2:T22
+R6	hasPart Arg1:T24 Arg2:T26
+R7	encodes Arg1:T25 Arg2:T24
+T28	GeneExpression 585 595	expression
+E7	GeneExpression:T28 hasPatient:T27
+R8	locatedIn Arg1:E7 Arg2:T29
+T31	Localization 626 638	localization
+E8	Localization:T31 hasPatient:T32
+R9	locatedIn Arg1:E8 Arg2:T30
+R10	locatedIn Arg1:T34 Arg2:T33
+T36	NegativeRegulation 798 812	down-regulated
+E9	NegativeRegulation:T36 hasPatient:T35
+R11	precedes Arg1:E9 Arg2:E10
+T39	PositiveRegulation 846 857	stimulation
+E10	PositiveRegulation:T39 hasPatient:T40 hasAgent:T37
+T41	Decrease 888 897	reduction
+E11	Decrease:T41 hasPatient:T35
+T43	PositiveRegulation 910 921	stimulation
+E12	PositiveRegulation:T43 hasPatient:T42
+T47	Decrease 994 1003	decreased
+E14	Decrease:T47 hasAgent:T46 hasPatient:E15
+T51	PositiveRegulation 1030 1039	induction
+E15	PositiveRegulation:T51 hasPatient:T52 hasAgent:T48
+T54	PositiveRegulation 1090 1100	activation
+E16	PositiveRegulation:T54 hasPatient:T53 hasAgent:T57
+T61	PositiveRegulation 1177 1188	stimulation
+E17	PositiveRegulation:T61 hasPatient:T60
+R12	precedes Arg1:E17 Arg2:E18
+T63	Decrease 1214 1221	reduced
+E18	Decrease:T63 hasAgent:T62 hasPatient:T64
+R13	encodes Arg1:T64 Arg2:T65
+R14	encodes Arg1:T64 Arg2:T66
+T67	Maintenance 1314 1325	maintaining
+E19	Maintenance:T67 hasPatient:E20 hasAgent:T66
+T69	PositiveRegulation 1333 1343	activation
+E20	PositiveRegulation:T69 hasPatient:T68
+T70	NegativeRegulation 1348 1358	preventing
+E21	NegativeRegulation:T70 hasPatient:E23 hasAgent:T66
+T71	PositiveRegulation 1359 1365	T cell
+E22	PositiveRegulation:T71 
+T72	Silencing 1366 1372	anergy
+E23	Silencing:T72 hasPatient:E22
+T73	Decrease 1374 1388	This reduction
+E24	Decrease:T73 
+T74	RegulationOfProcess 1410 1415	delay
+E25	RegulationOfProcess:T74 hasPatient:E26
+T76	ProteinCatabolism 1432 1443	degradation
+E26	ProteinCatabolism:T76 hasPatient:T75
+T78	NegativeRegulation 1479 1488	attenuate
+E27	NegativeRegulation:T78 hasAgent:T77 hasPatient:E28
+T80	PositiveRegulation 1496 1506	activation
+E28	PositiveRegulation:T80 hasPatient:T79
+T83	Decrease 1553 1562	reduction
+E29	Decrease:T83 
+T85	PositiveRegulation 1577 1588	stimulation
+E30	PositiveRegulation:T85 hasPatient:T84
+T87	PositiveRegulation 1617 1627	activation
+E31	PositiveRegulation:T87 hasAgent:E29
+R16	locatedIn Arg1:E31 Arg2:T86
+T3	NegativeRegulation 63 83	negatively regulates
+E1	NegativeRegulation:T3 hasAgent:T1 hasPatient:T6
+R3	hasPart Arg1:T4 Arg2:T10	
+R17	fromSpecies Arg1:T4 Arg2:T11	
+T12	NegativeRegulation 953 972	negative regulatory
+E2	NegativeRegulation:T12 
+R4	locatedIn Arg1:T20 Arg2:T23	
+E6	PositiveRegulation:T39 hasPatient:T40 hasAgent:T38
+E13	PositiveRegulation:T54 hasPatient:T53 hasAgent:T58
+E32	PositiveRegulation:T54 hasPatient:T53 hasAgent:T59
+E33	PositiveRegulation:T51 hasPatient:T52 hasAgent:T49
+E34	PositiveRegulation:T51 hasPatient:T52 hasAgent:T50
+E35	Decrease:T47 hasAgent:T46 hasPatient:E33
+E36	Decrease:T47 hasAgent:T46 hasPatient:E34
+E37	Maintenance:T67 hasPatient:E20 hasAgent:T65
+E38	NegativeRegulation:T70 hasPatient:E23 hasAgent:T65

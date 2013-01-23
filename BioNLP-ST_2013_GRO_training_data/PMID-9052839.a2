@@ -1,0 +1,32 @@
+T2	CellDeath 15 24	apoptosis
+E1	CellDeath:T2 
+T3	RegulatoryProcess 25 34	mediating
+E2	RegulatoryProcess:T3 hasAgent:E1 hasPatient:T1
+R1	fromSpecies Arg1:T13 Arg2:T12
+R2	hasPart Arg1:T13 Arg2:T11
+T16	GeneExpression 355 364	expressed
+E3	GeneExpression:T16 hasPatient:T15
+R3	locatedIn Arg1:E3 Arg2:T17
+R4	locatedIn Arg1:E3 Arg2:T18
+R5	hasPart Arg1:T19 Arg2:T20
+R6	hasPart Arg1:T21 Arg2:T22
+T23	CellDeath 531 540	apoptosis
+E4	CellDeath:T23 
+T24	PositiveRegulationOfGeneExpression 542 556	Overexpression
+E5	PositiveRegulationOfGeneExpression:T24 hasPatient:T25
+T27	PositiveRegulation 606 616	activation
+E6	PositiveRegulation:T27 hasPatient:T26
+T28	CellularProcess 621 630	apoptosis
+E7	CellularProcess:T28 
+T30	Increase 638 645	induced
+E8	Increase:T30 hasAgent:T29 hasPatient:E9
+T31	CellDeath 646 656	cell death
+E9	CellDeath:T31 
+T32	NegativeRegulation 660 669	inhibited
+E10	NegativeRegulation:T32 hasAgent:T33 hasPatient:E9
+T36	BindingToProtein 765 773	interact
+E11	BindingToProtein:T36 
+T37	CellDeath 796 805	apoptosis
+E12	CellDeath:T37 
+T38	Increase 806 814	inducing
+E13	Increase:T38 hasAgent:T39 hasPatient:E12

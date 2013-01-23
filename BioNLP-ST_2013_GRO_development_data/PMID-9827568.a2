@@ -1,0 +1,13 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	hasPart Arg1:T3 Arg2:T5
+T6	DevelopmentalProcess 231 242	development
+E1	DevelopmentalProcess:T6 
+R3	fromSpecies Arg1:E1 Arg2:T7
+T8	Mutation 255 264	Mutations
+E2	Mutation:T8 hasPatient:T9
+T11	Disease 316 324	diseases
+E3	Disease:T11 
+R4	fromSpecies Arg1:E3 Arg2:T10
+R6	hasPart Arg1:T14 Arg2:T15
+R7	fromSpecies Arg1:T17 Arg2:T16
+R5	hasPart Arg1:T12 Arg2:T19	

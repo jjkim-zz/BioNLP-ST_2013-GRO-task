@@ -1,0 +1,53 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+T3	Disease 45 70	Hermansky-Pudlak syndrome
+E1	Disease:T3 
+T4	Mutation 78 87	mutations
+E2	Mutation:T4 hasPatient:T5
+R2	hasPart Arg1:T6 Arg2:T5
+T7	Disease 132 157	Hermansky-Pudlak syndrome
+E3	Disease:T7 
+T8	Disease 159 162	HPS
+E4	Disease:T8 
+T11	Disease 284 287	HPS
+E5	Disease:T11 
+T12	Mutation 302 311	mutations
+E6	Mutation:T12 hasPatient:T13
+R3	hasPart Arg1:T14 Arg2:T13
+T16	Decrease 419 426	reduced
+E7	Decrease:T16 hasAgent:E8 hasPatient:T17
+R4	locatedIn Arg1:E7 Arg2:T15
+T18	Increase 449 457	enhanced
+E8	Increase:T18 hasPatient:E9
+T19	ProteinCatabolism 458 469	degradation
+E9	ProteinCatabolism:T19 hasPatient:T20
+T22	PositiveRegulation 520 529	increased
+E10	PositiveRegulation:T22 hasAgent:E17 hasPatient:E11
+T23	GeneExpression 538 548	expression
+E11	GeneExpression:T23 hasPatient:T26
+R7	hasPart Arg1:T31 Arg2:T32
+T35	ProteinTargeting 796 805	targeting
+E13	ProteinTargeting:T35 
+T41	Disease 913 920	disease
+E15	Disease:T41 
+R8	fromSpecies Arg1:E15 Arg2:T40
+T43	Mutation 990 999	mutations
+E16	Mutation:T43 hasAgent:E20 hasPatient:E21
+T44	Decrease 498 508	deficiency
+E17	Decrease:T44 hasPatient:T21
+T29	SignalingPathway 751 773	tyrosine-based signals
+E12	SignalingPathway:T29 
+T30	MolecularInteraction 708 719	interaction
+E18	MolecularInteraction:T30 hasPatient:T32
+T33	ProteinTransport 850 865	protein sorting
+E14	ProteinTransport:T33 hasAgent:T36
+T37	ProteinTransport 938 949	trafficking
+E19	ProteinTransport:T37 hasPatient:T38
+T42	Affecting 930 937	altered
+E20	Affecting:T42 hasPatient:E19
+T45	ProteinTransport 1022 1039	sorting machinery
+E21	ProteinTransport:T45 
+E22	MolecularInteraction:T30 hasPatient:E12
+E23	GeneExpression:T23 hasPatient:T27
+E24	GeneExpression:T23 hasPatient:T28
+E25	PositiveRegulation:T22 hasAgent:E17 hasPatient:E23
+E26	PositiveRegulation:T22 hasAgent:E17 hasPatient:E24

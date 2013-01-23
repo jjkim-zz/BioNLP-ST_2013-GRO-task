@@ -1,0 +1,42 @@
+R1	hasPart Arg1:T2 Arg2:T1
+R2	hasPart Arg1:T9 Arg2:T10
+R3	hasPart Arg1:T9 Arg2:T11
+T14	RegulatoryProcess 202 210	mediates
+E3	RegulatoryProcess:T14 hasAgent:T9 hasPatient:E2
+R4	encodes Arg1:T22 Arg2:T21
+T23	BindingToProtein 339 343	bind
+E6	BindingToProtein:T23 hasPatient:T24 hasPatient2:T25 hasPatient3:T21
+R5	hasPart Arg1:T26 Arg2:T27
+T39	BindingToProtein 580 587	binding
+E9	BindingToProtein:T39 hasPatient:T38 hasPatient2:T40
+T41	NegativeRegulation 637 646	abrogates
+E10	NegativeRegulation:T41 hasAgent:T37 hasPatient:E5
+R6	fromSpecies Arg1:T48 Arg2:T47
+R7	encodes Arg1:T50 Arg2:T49
+T51	GeneExpression 765 775	expression
+E13	GeneExpression:T51 hasPatient:T49
+T52	NegativeRegulation 788 797	repressed
+E14	NegativeRegulation:T52 hasPatient:E13 hasAgent:T53
+T55	GeneExpression 813 822	expressed
+E15	GeneExpression:T55 hasPatient:T49
+R8	hasPart Arg1:T57 Arg2:T56
+T61	RegulatoryProcess 959 967	mediated
+E18	RegulatoryProcess:T61 hasAgent:T62 hasPatient:E7
+R9	hasPart Arg1:T64 Arg2:T63
+T3	NegativeRegulationOfTranscription 67 93	transcriptional repression
+E1	NegativeRegulationOfTranscription:T3 hasAgent:T6
+T5	NegativeRegulationOfTranscription 211 237	transcriptional repression
+E2	NegativeRegulationOfTranscription:T5 hasAgent:T7
+T8	NegativeRegulationOfTranscription 457 483	transcriptional repression
+E4	NegativeRegulationOfTranscription:T8 hasAgent:T33
+T15	NegativeRegulationOfTranscription 647 673	transcriptional repression
+E5	NegativeRegulationOfTranscription:T15 hasAgent:T44
+T16	NegativeRegulationOfTranscription 932 958	transcriptional repression
+E7	NegativeRegulationOfTranscription:T16 
+E8	NegativeRegulationOfTranscription:T3 hasAgent:T4
+E11	NegativeRegulationOfTranscription:T5 hasAgent:T20
+E12	NegativeRegulationOfTranscription:T8 hasAgent:T12
+E16	NegativeRegulationOfTranscription:T15 hasAgent:T45
+E17	NegativeRegulation:T52 hasPatient:E13 hasAgent:T54
+E19	NegativeRegulation:T41 hasAgent:T37 hasPatient:E16
+E20	RegulatoryProcess:T14 hasAgent:T9 hasPatient:E11

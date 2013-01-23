@@ -1,0 +1,40 @@
+T1	Protein 0 3	MAZ
+T2	Protein 7 26	zinc finger protein
+T4	Gene 37 42	c-MYC
+T5	Gene 47 54	C2 gene
+T9	ProteinBindingSiteOfDNA 120 125	ME1a1
+T10	Protein 142 156	nuclear factor
+T11	ProteinBindingSiteOfDNA 157 169	binding site
+T12	Gene 191 196	c-MYC
+T13	Promoter 197 199	P1
+T14	Promoter 204 206	P2
+T15	Promoter 255 257	P2
+T16	DNA 270 274	cDNA
+T17	AminoAcid 290 300	amino acid
+T18	Protein 301 320	zinc finger protein
+T19	Protein 332 335	MAZ
+T20	Cell 391 395	HeLa
+T21	ProteinBindingSiteOfDNA 451 469	ME1a1 binding site
+T22	Protein 541 544	MAZ
+T23	ProteinDomain 572 591	proline-rich domain
+T24	Sequence 604 622	polyalanine tracts
+T25	MessengerRNA 628 632	mRNA
+T26	Eukaryote 652 657	human
+T27	Tissue 658 665	tissues
+T29	Protein 796 799	MAZ
+T31	ProteinBindingSiteOfDNA 836 841	ME1a1
+T32	Protein 936 950	fusion protein
+T33	DNA 956 969	pMAL-c vector
+T34	Protein 971 974	MAZ
+T36	Sequence 1003 1028	GA box sequence (GGGAGGG)
+T37	Gene 1042 1047	c-MYC
+T38	Promoter 1048 1059	P2 promoter
+T39	Promoter 1068 1070	P2
+T40	Attenuator 1071 1088	attenuator region
+T41	Gene 1100 1106	gene's
+T42	Exon 1113 1117	exon
+T43	Sequence 1136 1144	sequence
+T45	Gene 1196 1203	C2 gene
+T46	Gene 1205 1208	MAZ
+T47	TranscriptionFactor 1222 1242	transcription factor
+T50	ZincCoordinatingDomain 506 539	zinc fingers of the Cys2His2 type

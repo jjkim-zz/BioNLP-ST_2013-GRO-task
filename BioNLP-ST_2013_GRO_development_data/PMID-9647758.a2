@@ -1,0 +1,29 @@
+T3	Localization 92 100	enriched
+E2	Localization:T3 hasPatient:T1
+R1	locatedIn Arg1:E2 Arg2:T4
+T5	Mutation 132 141	Mutations
+E3	Mutation:T5 hasPatient:T7
+R2	fromSpecies Arg1:T7 Arg2:T6
+T11	RegulatoryProcess 224 230	affect
+E5	RegulatoryProcess:T11 hasAgent:E3 hasPatient:E6
+T12	CellularDevelopmentalProcess 235 246	development
+E6	CellularDevelopmentalProcess:T12 hasPatient:T13
+R3	fromSpecies Arg1:T22 Arg2:T21
+R4	hasPart Arg1:T24 Arg2:T25
+T29	TranscriptionOfGene 600 609	expressed
+E7	TranscriptionOfGene:T29 hasPatient:T28
+R5	locatedIn Arg1:E7 Arg2:T31
+T33	GeneExpression 710 719	expressed
+E8	GeneExpression:T33 hasPatient:T32
+R6	locatedIn Arg1:E8 Arg2:T34
+R7	locatedIn Arg1:E8 Arg2:T35
+T37	Localization 816 824	enriched
+E9	Localization:T37 hasPatient:T36
+R8	locatedIn Arg1:E9 Arg2:T38
+R9	locatedIn Arg1:T38 Arg2:T40
+R10	fromSpecies Arg1:T40 Arg2:T39
+T47	CellularDevelopmentalProcess 1065 1078	melanogenesis
+E12	CellularDevelopmentalProcess:T47 
+T8	PositiveRegulationOfTranscription 929 952	activated transcription
+E1	PositiveRegulationOfTranscription:T8 hasAgent:T41 hasPatient:T9
+R11	locatedIn Arg1:E12 Arg2:T48	

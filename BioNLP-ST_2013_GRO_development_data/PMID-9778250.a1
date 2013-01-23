@@ -1,0 +1,35 @@
+T1	ProteinComplex 2 9	SWI/SNF
+T5	ProteinComplex 48 53	E-RC1
+T6	Tissue 71 77	tissue
+T9	Protein 117 121	EKLF
+T10	Protein 132 162	Erythroid Krueppel-like factor
+T11	Protein 164 168	EKLF
+T13	Eukaryote 220 225	human
+T14	Gene 226 242	beta-globin gene
+T15	Protein 257 261	EKLF
+T16	ProteinComplex 273 280	SWI/SNF
+T20	ProteinComplex 319 356	EKLF coactivator-remodeling complex 1
+T21	ProteinComplex 358 363	E-RC1
+T22	Gene 429 440	beta-globin
+T23	Promoter 441 449	promoter
+T24	Chromatin 453 462	chromatin
+T25	ProteinComplex 483 488	E-RC1
+T26	ProteinSubunit 498 502	BRG1
+T27	ProteinSubunit 504 510	BAF170
+T28	ProteinSubunit 512 518	BAF155
+T29	ProteinSubunit 524 528	INI1
+T30	ProteinSubunit 530 535	BAF47
+T31	Eukaryote 549 554	yeast
+T32	ProteinComplex 555 562	SWI/SNF
+T33	ProteinSubunit 563 571	subunits
+T34	ProteinSubunit 586 593	subunit
+T35	Eukaryote 611 621	eukaryotes
+T36	ProteinSubunit 623 628	BAF57
+T40	Protein 696 700	EKLF
+T41	ProteinComplex 702 707	E-RC1
+T42	TranscriptionFactor 747 768	transcription factors
+T43	ProteinComplex 905 919	SWI/SNF family
+T47	Gene 992 997	genes
+T51	Protein 1039 1059	DNA-binding proteins
+T2	ProteinComplex 18 46	chromatin remodeling complex
+T4	ProteinComplex 289 317	chromatin remodeling complex

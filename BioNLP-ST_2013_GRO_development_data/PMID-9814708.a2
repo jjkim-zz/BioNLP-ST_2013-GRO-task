@@ -1,0 +1,15 @@
+R1	fromSpecies Arg1:T3 Arg2:T2
+R2	hasPart Arg1:T3 Arg2:T1
+R3	fromSpecies Arg1:T8 Arg2:T7
+T9	GeneExpression 151 160	expressed
+E1	GeneExpression:T9 hasPatient:T6
+R5	locatedIn Arg1:E1 Arg2:T12
+R7	fromSpecies Arg1:T16 Arg2:T15
+T26	RegulatoryProcess 795 805	determines
+E3	RegulatoryProcess:T26 hasAgent:T25 hasPatient:E4
+T28	SignalingPathway 830 839	signaling
+E4	SignalingPathway:T28 
+R4	locatedIn Arg1:E1 Arg2:T10	
+R6	locatedIn Arg1:T14 Arg2:T16	
+T11	CellDifferentiation 475 490	differentiation
+E5	CellDifferentiation:T11 

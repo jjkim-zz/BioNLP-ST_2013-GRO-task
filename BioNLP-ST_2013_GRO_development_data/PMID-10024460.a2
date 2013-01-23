@@ -1,0 +1,60 @@
+T1	Mutation 0 9	Mutations
+E1	Mutation:T1 hasPatient:T2
+T3	Disease 39 75	familial hypertrophic cardiomyopathy
+E2	Disease:T3 hasAgent:E1
+T4	Disease 77 80	FHC
+E3	Disease:T4 
+T5	NegativeRegulation 82 89	abolish
+E4	NegativeRegulation:T5 hasAgent:E1 hasPatient:E5
+T6	BindingOfProteinToProteinBindingSiteOfProtein 94 105	interaction
+E5	BindingOfProteinToProteinBindingSiteOfProtein:T6 hasAgent:T2 hasPatient:T7
+R1	hasPart Arg1:T8 Arg2:T7
+R2	locatedIn Arg1:T9 Arg2:T10
+R3	hasPart Arg1:T15 Arg2:T17
+R4	locatedIn Arg1:T20 Arg2:T19
+R5	hasPart Arg1:T20 Arg2:T18
+T22	Phosphorylation 478 493	phosphorylation
+E6	Phosphorylation:T22 hasPatient:T21
+T23	RegulatoryProcess 508 516	regulate
+E7	RegulatoryProcess:T23 hasPatient:E8 hasAgent:E9
+T24	OrganismalProcess 517 528	contraction
+E8	OrganismalProcess:T24 
+T25	Phosphorylation 534 549	phosphorylation
+E9	Phosphorylation:T25 
+T27	BindingOfProteinToProteinBindingSiteOfProtein 602 607	binds
+E10	BindingOfProteinToProteinBindingSiteOfProtein:T27 hasAgent:T26 hasPatient:T28
+T30	BindingOfProtein 663 675	interactions
+E11	BindingOfProtein:T30 hasAgent:T31
+R7	hasPart Arg1:T32 Arg2:T33
+T41	Mutation 1026 1035	mutations
+E13	Mutation:T41 hasPatient:T42
+T43	Disease 1071 1074	FHC
+E14	Disease:T43 
+T44	Disease 1164 1167	FHC
+E15	Disease:T44 
+T45	Mutation 1168 1177	mutations
+E16	Mutation:T45 hasPatient:T46
+T49	NegativeRegulation 1226 1232	reduce
+E17	NegativeRegulation:T49 hasPatient:E18 hasAgent:T47
+T51	Binding 1240 1247	binding
+E18	Binding:T51 hasPatient:T50
+T52	Mutation 1393 1402	mutations
+E19	Mutation:T52 
+T55	RegulatoryProcess 1507 1515	mediated
+E20	RegulatoryProcess:T55 hasAgent:E21 hasPatient:T54
+T56	BindingToProtein 1523 1534	interaction
+E21	BindingToProtein:T56 hasAgent:T57 hasPatient:T54
+T58	Mutation 1553 1562	mutations
+E22	Mutation:T58 hasPatient:T59
+T60	Affecting 1592 1600	altering
+E23	Affecting:T60 hasPatient:E24 hasAgent:E22
+T61	BindingToProtein 1605 1617	interactions
+E24	BindingToProtein:T61 hasPatient:T62
+R6	hasPart Arg1:T29 Arg2:T28	
+R9	locatedIn Arg1:T33 Arg2:T35	
+R10	locatedIn Arg1:T35 Arg2:T36	
+R11	locatedIn Arg1:T33 Arg2:T37	
+T38	BindingOfProteinToProteinBindingSiteOfProtein 892 899	binding
+E12	BindingOfProteinToProteinBindingSiteOfProtein:T38 hasAgent:T39 hasPatient:T63
+R8	hasPart Arg1:T40 Arg2:T63	
+E25	NegativeRegulation:T49 hasPatient:E18 hasAgent:T48

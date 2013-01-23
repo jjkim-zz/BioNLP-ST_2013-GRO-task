@@ -1,0 +1,51 @@
+T1	Enzyme 0 4	ARF6
+T3	CellComponent 54 62	membrane
+T5	Protein 78 92	cortical actin
+T7	Enzyme 113 124	ARF6 GTPase
+T9	CellComponent 143 168	endosomal-plasma membrane
+T10	Protein 202 216	cortical actin
+T12	Enzyme 271 275	ARF6
+T13	Enzyme 280 284	Rac1
+T14	Enzyme 299 305	GTPase
+T15	Protein 321 335	cortical actin
+T17	Enzyme 363 367	Rac1
+T18	Enzyme 385 389	ARF6
+T19	CellComponent 397 412	plasma membrane
+T20	Enzyme 424 428	ARF6
+T21	Cell 465 469	HeLa
+T22	Eukaryote 482 487	human
+T23	Cell 488 504	fibroblast cells
+T24	Cell 521 531	HeLa cells
+T25	Enzyme 532 536	Rac1
+T26	Enzyme 541 545	ARF6
+T27	Cell 564 569	Cells
+T29	Enzyme 591 595	ARF6
+T30	Enzyme 599 603	Rac1
+T32	Protein 708 717	G protein
+T34	InorganicChemical 728 745	aluminum fluoride
+T35	InorganicChemical 747 764	Aluminum fluoride
+T36	Cell 778 783	cells
+T38	Enzyme 901 904	Rac
+T44	InorganicChemical 1022 1039	aluminum fluoride
+T47	Cell 1069 1074	cells
+T49	Enzyme 1086 1090	Rac1
+T51	Cell 1134 1139	cells
+T58	Enzyme 1262 1266	Rac1
+T59	Enzyme 1281 1285	ARF6
+T61	InorganicChemical 1306 1323	aluminum fluoride
+T62	Enzyme 1386 1400	C3-transferase
+T63	Enzyme 1434 1438	ARF6
+T64	Enzyme 1457 1463	GTPase
+T65	Protein 1487 1501	cortical actin
+T66	Enzyme 1535 1539	Rac1
+T67	CellComponent 1548 1560	lamellipodia
+T70	CellComponent 1608 1623	plasma membrane
+T72	CellComponent 439 447	endosome
+T73	CellComponent 652 668	membrane ruffles
+T31	CellComponent 611 647	actin-containing surface protrusions
+T41	MutantProtein 969 1007	GTP binding-defective ARF6 T27N mutant
+T42	MutantProtein 1165 1181	Rac1 Q61L mutant
+T54	Enzyme 1270 1275	Cdc42
+T56	MutantProtein 1217 1251	GTP-binding-defective, T17N mutant
+T57	CellComponent 1332 1351	surface protrusions
+T78	Enzyme 1377 1380	Rho

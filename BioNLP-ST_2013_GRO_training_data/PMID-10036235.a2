@@ -1,0 +1,67 @@
+T2	CellularProcess 21 33	Rac ruffling
+E1	CellularProcess:T2 
+T4	Transport 63 74	trafficking
+E2	Transport:T4 
+T6	CellularComponentOrganizationAndBiogenesis 93 107	rearrangements
+E3	CellularComponentOrganizationAndBiogenesis:T6 hasPatient:T5
+T8	RegulatoryProcess 125 134	regulates
+E4	RegulatoryProcess:T8 hasAgent:T7 hasPatient:E25
+T11	CellularComponentOrganizationAndBiogenesis 217 227	remodeling
+E5	CellularComponentOrganizationAndBiogenesis:T11 hasPatient:T10
+T16	CellularComponentOrganizationAndBiogenesis 336 350	rearrangements
+E6	CellularComponentOrganizationAndBiogenesis:T16 hasPatient:T15
+T28	GeneExpression 570 580	expressing
+E7	GeneExpression:T28 hasAgent:T27 hasPatient:T29
+T33	PositiveRegulation 718 727	activator
+E8	PositiveRegulation:T33 hasPatient:T32 hasAgent:T34
+T37	CellularComponentOrganizationAndBiogenesis 852 869	membrane ruffling
+E9	CellularComponentOrganizationAndBiogenesis:T37 
+T39	GeneExpression 905 915	expression
+E10	GeneExpression:T39 hasPatient:T38
+T40	GeneExpression 929 942	Co-expression
+E11	GeneExpression:T40 hasPatient:T41
+T43	NegativeRegulation 1008 1017	inhibited
+E13	NegativeRegulation:T43 hasAgent:E11 hasPatient:E17
+T45	PositiveRegulation 1040 1047	induced
+E14	PositiveRegulation:T45 hasPatient:E15 hasAgent:T44
+T46	CellularComponentOrganizationAndBiogenesis 1048 1056	ruffling
+E15	CellularComponentOrganizationAndBiogenesis:T46 
+T48	GeneExpression 1075 1085	expressing
+E16	GeneExpression:T48 hasAgent:T47 hasPatient:T49
+T50	CellularComponentOrganizationAndBiogenesis 1100 1121	constitutive ruffling
+E17	CellularComponentOrganizationAndBiogenesis:T50 
+T52	GeneExpression 1140 1150	expressing
+E18	GeneExpression:T52 hasAgent:T51 hasPatient:T42
+T53	PositiveRegulation 1155 1164	activated
+E19	PositiveRegulation:T53 hasPatient:T42
+T55	GeneExpression 1196 1209	co-expression
+E20	GeneExpression:T55 hasPatient:T56
+T60	NegativeRegulation 1294 1301	inhibit
+E22	NegativeRegulation:T60 
+T68	RegulatoryProcess 1574 1584	regulating
+E23	RegulatoryProcess:T68 hasPatient:E24
+T69	Transport 1589 1600	trafficking
+E24	Transport:T69 
+T71	Pathway 169 186	recycling pathway
+E25	Pathway:T71 
+R1	locatedIn Arg1:T18 Arg2:T19	
+R2	locatedIn Arg1:T17 Arg2:T19	
+R3	locatedIn Arg1:T19 Arg2:T21	
+R4	locatedIn Arg1:T72 Arg2:T21	
+R5	locatedIn Arg1:T19 Arg2:T23	
+R6	locatedIn Arg1:T72 Arg2:T23	
+R7	fromSpecies Arg1:T23 Arg2:T22	
+R8	locatedIn Arg1:T17 Arg2:T72	
+R9	locatedIn Arg1:T18 Arg2:T72	
+R10	locatedIn Arg1:T25 Arg2:T24	
+R11	locatedIn Arg1:T26 Arg2:T24	
+T74	Increase 843 851	enhanced
+E26	Increase:T74 hasPatient:E9
+T75	Decrease 920 927	lowered
+E27	Decrease:T75 hasPatient:E10
+T76	Increase 1324 1331	induced
+E12	Increase:T76 hasAgent:T61 hasPatient:T57
+T77	NegativeRegulation 1361 1373	inactivation
+E21	NegativeRegulation:T77 hasPatient:T78 hasAgent:T62
+E28	GeneExpression:T28 hasAgent:T27 hasPatient:T30
+E29	NegativeRegulation:T43 hasAgent:E11 hasPatient:E15

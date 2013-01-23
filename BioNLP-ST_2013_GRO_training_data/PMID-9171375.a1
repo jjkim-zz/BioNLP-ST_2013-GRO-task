@@ -1,0 +1,49 @@
+T1	Eukaryote 6 11	human
+T2	RNAPolymerase 12 30	RNA polymerase III
+T3	ProteinSubunit 40 48	subunits
+T4	ProteinComplex 56 66	subcomplex
+T7	RNAPolymerase 148 166	RNA polymerase III
+T8	Polymerase 195 205	polymerase
+T9	Protein 209 241	template-bound accessory factors
+T13	Eukaryote 367 372	human
+T14	RNAPolymerase 373 384	RNA Pol III
+T15	ProteinSubunit 403 411	subunits
+T17	Cell 454 464	HeLa cells
+T18	ProteinComplex 576 586	subcomplex
+T19	ProteinSubunit 601 607	hRPC32
+T20	ProteinSubunit 609 615	hRPC39
+T21	ProteinSubunit 621 627	hRPC62
+T22	DNA 637 642	cDNAs
+T23	ProteinSubunit 683 691	subunits
+T24	RNAPolymerase 713 724	RNA Pol III
+T25	Eukaryote 749 754	yeast
+T26	ProteinSubunit 755 763	subunits
+T27	Eukaryote 769 774	human
+T28	RNAPolymerase 775 786	RNA Pol III
+T29	ProteinComplex 804 814	subcomplex
+T30	Function 815 824	functions
+T35	Promoter 942 950	promoter
+T37	Protein 1006 1023	accessory factors
+T39	ProteinComplex 1116 1126	subcomplex
+T40	ProteinComplex 1142 1152	subcomplex
+T41	ProteinSubunit 1177 1183	hRPC32
+T42	ProteinSubunit 1185 1191	hRPC39
+T43	ProteinSubunit 1197 1216	hRPC62 polypeptides
+T44	ProteinSubunit 1233 1239	hRPC39
+T45	ProteinComplex 1249 1259	subcomplex
+T47	ProteinSubunit 1291 1295	hTBP
+T48	ProteinSubunit 1300 1309	hTFIIIB90
+T49	ProteinSubunit 1315 1323	subunits
+T50	Eukaryote 1327 1332	human
+T51	RNAPolymerase 1333 1344	RNA Pol III
+T52	Protein 1345 1381	transcription initiation factor IIIB
+T53	ProteinSubunit 1420 1426	hRPC32
+T54	ProteinSubunit 1427 1433	hRPC39
+T55	ProteinSubunit 1434 1440	hRPC62
+T56	ProteinComplex 1441 1451	subcomplex
+T58	RNAPolymerase 1460 1471	RNA Pol III
+T60	Protein 1487 1493	TFIIIB
+T61	DNA 1494 1497	DNA
+T62	ComplexOfProteinAndDNA 1498 1505	complex
+T64	Protein 1535 1541	TFIIIB
+T65	ProteinSubunit 1546 1552	hRPC39

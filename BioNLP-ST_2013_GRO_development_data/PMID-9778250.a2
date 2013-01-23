@@ -1,0 +1,24 @@
+T12	GeneExpression 202 212	expression
+E4	GeneExpression:T12 hasPatient:T14
+R2	fromSpecies Arg1:T14 Arg2:T13
+R3	hasPart Arg1:T22 Arg2:T23
+R4	hasPart Arg1:T25 Arg2:T26
+R5	hasPart Arg1:T25 Arg2:T27
+R6	hasPart Arg1:T25 Arg2:T28
+R7	hasPart Arg1:T25 Arg2:T29
+R8	fromSpecies Arg1:T32 Arg2:T31
+R9	hasPart Arg1:T32 Arg2:T33
+R10	fromSpecies Arg1:T36 Arg2:T35
+T39	Transcription 677 690	transcription
+E7	Transcription:T39 hasAgent:T40
+T46	RegulatoryProcess 972 980	regulate
+E10	RegulatoryProcess:T46 hasAgent:T43 hasPatient:T47
+T48	BindingToProtein 1013 1024	interacting
+E11	BindingToProtein:T48 hasPatient:T51
+T3	RegulationOfTranscription 87 113	transcriptional regulation
+E1	RegulationOfTranscription:T3 hasAgent:T9
+R1	locatedIn Arg1:E1 Arg2:T6	
+T7	CellularComponentOrganizationAndBiogenesis 652 672	chromatin remodeling
+E2	CellularComponentOrganizationAndBiogenesis:T7 
+T8	PositiveRegulationOfTranscription 937 963	transcriptional activation
+E3	PositiveRegulationOfTranscription:T8 hasAgent:T43

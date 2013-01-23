@@ -1,0 +1,29 @@
+T1	Enzyme 14 23	dynamin-2
+T2	Enzyme 58 64	GTPase
+T3	Enzyme 78 93	dynamin GTPases
+T5	Protein 115 123	receptor
+T9	Enzyme 228 245	isoform dynamin-2
+T10	Enzyme 247 251	dyn2
+T12	Enzyme 332 336	dyn2
+T14	TranscriptionFactor 381 405	transcription factor p53
+T19	Enzyme 499 508	caspase-3
+T21	Enzyme 521 525	Dyn2
+T23	Cell 561 575	dividing cells
+T24	TranscriptionFactor 583 586	p53
+T25	Enzyme 696 700	dyn2
+T26	Nucleotide 701 704	GTP
+T27	Protein 718 725	protein
+T29	TranscriptionFactor 789 792	p53
+T30	MutatedProtein 796 810	truncated dyn2
+T31	ProteinDomain 859 865	domain
+T32	ProteinDomain 867 870	PRD
+T34	ProteinDomain 899 909	SH3 domain
+T35	Protein 921 929	partners
+T40	Enzyme 1033 1042	wild-type
+T41	ProteinDomain 1130 1143	GTPase domain
+T42	Phenotype 1162 1171	phenotype
+T43	Enzyme 1199 1203	dyn2
+T45	Enzyme 1249 1253	dyn1
+T46	Enzyme 1328 1332	dyn2
+T47	Enzyme 1365 1371	GTPase
+T51	DNA 476 479	DNA

@@ -1,0 +1,17 @@
+T3	Transcription 32 45	transcription
+E1	Transcription:T3 hasPatient:T4
+T5	Transcription 79 92	Transcription
+E2	Transcription:T5 hasPatient:T6
+T9	Transcription 240 253	transcription
+E3	Transcription:T9 
+T13	PositiveRegulation 324 335	facilitates
+E4	PositiveRegulation:T13 hasAgent:T12 hasPatient:E5
+T15	TranscriptionInitiation 356 380	transcription initiation
+E5	TranscriptionInitiation:T15 hasPatient:T16
+T35	Transcription 759 772	transcription
+E11	Transcription:T35 hasAgent:T33 hasPatient:T36
+T22	CellularComponentOrganizationAndBiogenesis 516 538	remodeling and spacing
+E6	CellularComponentOrganizationAndBiogenesis:T22 hasPatient:T21 hasAgent:T19
+T23	TranscriptionInitiation 568 590	initiate transcription
+E7	TranscriptionInitiation:T23 hasAgent:T24
+E8	TranscriptionInitiation:T23 hasAgent:T27

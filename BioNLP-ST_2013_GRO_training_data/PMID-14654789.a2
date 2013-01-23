@@ -1,0 +1,66 @@
+T5	RegulatoryProcess 93 101	mediated
+E1	RegulatoryProcess:T5 hasAgent:T4 hasPatient:E2
+T6	CellDeath 102 119	apoptosis pathway
+E2	CellDeath:T6 
+T11	RegulatoryProcess 187 195	mediated
+E3	RegulatoryProcess:T11 hasAgent:T10 hasPatient:E4
+T12	CellDeath 196 205	apoptosis
+E4	CellDeath:T12 
+R1	hasPart Arg1:T13 Arg2:T14
+T15	CellDeath 269 279	cell death
+E5	CellDeath:T15 
+R2	hasPart Arg1:T16 Arg2:T14
+T18	BindingToProtein 320 330	interacted
+E6	BindingToProtein:T18 hasPatient:T20 hasPatient2:T17
+R3	hasPart Arg1:T19 Arg2:T20
+T22	Localization 395 404	localized
+E7	Localization:T22 hasPatient:T21
+R4	locatedIn Arg1:E7 Arg2:T23
+R5	locatedIn Arg1:E7 Arg2:T24
+T29	Localization 582 596	relocalization
+E8	Localization:T29 hasPatient:T27
+R6	locatedIn Arg1:E8 Arg2:T28
+T30	GeneExpression 632 644	Coexpression
+E9	GeneExpression:T30 hasPatient:T31
+T33	Increase 664 672	enhanced
+E10	Increase:T33 hasPatient:E13 hasAgent:E9
+T35	Mutation 677 683	damage
+E11	Mutation:T35 hasPatient:T34
+T36	PositiveRegulation 684 691	induced
+E12	PositiveRegulation:T36 hasAgent:E11 hasPatient:E13
+T37	CellDeath 692 701	apoptosis
+E13	CellDeath:T37 
+R7	locatedIn Arg1:E13 Arg2:T39
+R8	fromSpecies Arg1:T39 Arg2:T38
+R9	locatedIn Arg1:T40 Arg2:T41
+T42	GeneExpression 756 766	expressing
+E14	GeneExpression:T42 hasPatient:T43
+R10	locatedIn Arg1:E14 Arg2:T41
+T45	PositiveRegulation 886 893	induced
+E15	PositiveRegulation:T45 hasAgent:T44 hasPatient:T46
+T47	PositiveRegulation 916 924	inducing
+E16	PositiveRegulation:T47 hasPatient:E17
+T48	CellDeath 925 934	apoptosis
+E17	CellDeath:T48 
+R11	fromSpecies Arg1:T50 Arg2:T49
+T51	GeneExpression 959 968	expressed
+E18	GeneExpression:T51 hasPatient:T50
+R12	locatedIn Arg1:E18 Arg2:T55
+T53	Mutation 976 983	damaged
+E19	Mutation:T53 hasPatient:T52
+R13	locatedIn Arg1:E19 Arg2:T55
+T59	RegulatoryProcess 1057 1065	mediated
+E20	RegulatoryProcess:T59 hasAgent:T58 hasPatient:E22
+T61	Mutation 1086 1092	damage
+E21	Mutation:T61 hasPatient:T60
+T62	CellDeath 1105 1114	apoptosis
+E22	CellDeath:T62 
+T64	BindingToProtein 54 64	associated
+E23	BindingToProtein:T64 hasPatient:T3 hasPatient2:T2
+T65	BindingToProtein 152 162	associated
+E24	BindingToProtein:T65 hasPatient:T8 hasPatient2:T9
+T67	SignalingPathway 1093 1100	signals
+E25	SignalingPathway:T67 
+E26	GeneExpression:T30 hasPatient:T32
+E27	RegulatoryProcess:T59 hasAgent:T58 hasPatient:E25
+E28	Increase:T33 hasPatient:E13 hasAgent:E26

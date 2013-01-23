@@ -1,0 +1,50 @@
+T1	TranscriptionFactor 20 24	NERF
+T2	TranscriptionFactor 34 54	transcription factor
+T3	Protein 70 80	Ets factor
+T4	Protein 81 86	ELF-1
+T5	Gene 107 111	gene
+T10	TranscriptionFactor 182 186	NERF
+T11	Eukaryote 194 199	human
+T12	Tissue 200 206	spleen
+T13	Tissue 208 219	fetal liver
+T14	Tissue 225 230	brain
+T15	AminoAcid 258 277	amino acid sequence
+T16	TranscriptionFactor 281 285	NERF
+T17	Protein 321 331	Ets family
+T18	Protein 370 375	ELF-1
+T23	DNABindingDomainOfProtein 507 525	DNA binding domain
+T24	Protein 547 554	protein
+T25	BasicDomain 558 570	basic domain
+T26	DNABindingDomainOfProtein 588 599	this domain
+T27	TranscriptionFactor 703 707	NERF
+T28	Transcript 708 719	transcripts
+T31	Eukaryote 747 752	human
+T32	Protein 815 822	NERF-1a
+T33	Protein 824 831	NERF-1b
+T34	Protein 837 843	NERF-2
+T36	Tissue 915 922	tissues
+T37	Protein 929 935	NERF-2
+T38	Protein 940 945	ELF-1
+T39	Protein 955 962	NERF-1a
+T40	Protein 967 974	NERF-1b
+T41	Function 976 984	function
+T42	TranscriptionActivator 988 1014	transcriptional activators
+T43	Gene 1022 1025	lyn
+T44	Gene 1030 1038	blk gene
+T45	Promoter 1039 1048	promoters
+T46	TranscriptionFactor 1075 1079	NERF
+T48	Protein 1121 1126	ELF-1
+T49	ProteinBindingSiteOfDNA 1143 1160	Ets binding sites
+T50	Gene 1183 1186	blk
+T51	Gene 1188 1191	lck
+T52	Gene 1193 1196	lyn
+T53	Gene 1198 1202	mb-1
+T54	Protein 1208 1230	immunoglobulin H genes
+T56	TranscriptionFactor 1274 1278	NERF
+T57	Protein 1283 1288	ELF-1
+T59	Cell 1308 1321	B and T cells
+T62	Gene 1376 1381	genes
+T6	TranscriptionFactor 118 156	novel Ets-related transcription factor
+T7	TranscriptionFactor 158 180	new Ets-related factor
+T8	Gene 424 452	T- and B-cell-specific genes
+T9	Tissue 753 760	tissues

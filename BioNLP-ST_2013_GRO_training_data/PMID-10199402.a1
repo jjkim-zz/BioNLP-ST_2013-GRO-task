@@ -1,0 +1,17 @@
+T3	Protein 41 55	Rb-E2F complex
+T8	Protein 88 96	p16INK4a
+T9	Protein 98 105	TGFbeta
+T11	Protein 131 133	Rb
+T17	Cell 224 232	cellular
+T18	Protein 233 241	proteins
+T22	Protein 386 388	Rb
+T24	TranscriptionFactor 421 424	E2F
+T25	TranscriptionFactor 435 456	transcription factors
+T27	Cell 467 472	cells
+T32	ProteinComplex 555 569	Rb-E2F complex
+T34	TranscriptionFactor 596 599	E2F
+T35	TranscriptionFactor 623 626	E2F
+T38	ProteinComplex 672 689	repressor complex
+T40	ProteinComplex 732 738	Rb-E2F
+T45	Protein 775 782	TGFbeta
+T46	Protein 784 792	p16INK4a

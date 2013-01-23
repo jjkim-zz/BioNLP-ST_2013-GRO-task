@@ -1,0 +1,47 @@
+T1	Eukaryote 25 30	human
+T2	Protein 31 36	mucin
+T3	Protein 37 41	MUC4
+T4	CellComponent 54 67	cell membrane
+T5	Protein 79 84	mucin
+T6	Gene 90 99	MUC4 gene
+T7	Eukaryote 117 122	human
+T8	Protein 123 139	epithelial mucin
+T10	Tissue 165 183	epithelial tissues
+T11	Cell 235 240	cells
+T12	LivingEntity 248 254	embryo
+T13	LivingEntity 259 264	fetus
+T14	Peptide 360 367	peptide
+T15	ProteinDomain 396 402	domain
+T16	AminoAcid 439 449	amino acid
+T17	Protein 519 523	MUC4
+T18	AminoAcid 556 566	amino acid
+T19	Eukaryote 629 632	rat
+T20	ProteinComplex 633 651	sialomucin complex
+T21	ProteinComplex 653 656	SMC
+T22	ProteinComplex 659 662	SMC
+T23	ProteinComplex 668 702	heterodimeric glycoprotein complex
+T24	Protein 715 720	mucin
+T25	Protein 722 749	ascites sialoglycoprotein 1
+T26	Protein 751 757	ASGP-1
+T27	ProteinSubunit 778 784	ASGP-2
+T28	ProteinSubunit 786 794	subunits
+T29	Protein 830 834	MUC4
+T30	ProteinSubunit 930 938	subunits
+T31	ProteinSubunit 940 949	MUC4alpha
+T32	ProteinSubunit 954 962	MUC4beta
+T33	ProteinSubunit 969 975	ASGP-2
+T35	Enzyme 993 1017	receptor tyrosine kinase
+T36	Enzyme 1018 1026	p185(neu
+T37	ProteinSubunit 1029 1037	MUC4beta
+T41	ProteinSubunit 1152 1156	MUC4
+T42	Eukaryote 1162 1167	human
+T43	Eukaryote 1181 1184	rat
+T44	ProteinComplex 1185 1188	SMC
+T45	Protein 1239 1251	glycoprotein
+T46	Protein 1320 1324	MUC4
+T47	Ligand 1330 1336	ligand
+T48	Protein 1341 1346	ErbB2
+T49	Cell 1350 1354	cell
+T51	CellComponent 763 776	transmembrane
+T38	ProteinDomain 1052 1088	epidermal growth factor-like domains
+T39	CellComponent 1092 1105	transmembrane

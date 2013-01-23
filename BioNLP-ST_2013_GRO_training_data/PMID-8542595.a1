@@ -1,0 +1,42 @@
+T2	Eukaryote 26 31	human
+T3	Protein 32 35	zic
+T4	Cell 39 70	cerebellar granule cell lineage
+T6	Protein 92 95	Zic
+T7	ZincCoordinatingDomainTF 107 126	zinc finger protein
+T11	Eukaryote 209 214	mouse
+T12	Eukaryote 274 284	Drosophila
+T13	Gene 295 303	gene Opa
+T15	Eukaryote 357 362	human
+T16	Tissue 363 373	cerebellum
+T17	Eukaryote 397 402	human
+T19	Eukaryote 445 450	human
+T20	Protein 451 454	Zic
+T21	DNA 455 459	cDNA
+T23	Protein 537 548	Zic protein
+T24	Nucleotide 554 564	nucleotide
+T25	Sequence 565 573	sequence
+T26	Eukaryote 577 582	human
+T27	Protein 583 586	Zic
+T28	DNA 587 591	cDNA
+T29	Eukaryote 621 626	mouse
+T30	Protein 627 630	Zic
+T31	DNA 631 635	cDNA
+T32	AminoAcid 650 660	amino acid
+T33	Sequence 661 669	sequence
+T34	AminoAcid 734 753	amino acid residues
+T35	ExperimentalMethod 755 787	In situ chromosome hybridization
+T37	Eukaryote 802 807	human
+T38	Gene 808 816	Zic gene
+T39	Chromosome 820 840	chromosome band 3q24
+T40	Eukaryote 842 847	Human
+T41	Protein 848 859	Zic protein
+T42	Nucleus 902 908	nuclei
+T43	Cell 916 947	cerebellar granule cell lineage
+T44	Cell 957 973	progenitor cells
+T45	Cell 1012 1030	postmigrated cells
+T46	Protein 1076 1087	Zic protein
+T50	Protein 1237 1249	this protein
+T51	Protein 1279 1282	Zic
+T53	Eukaryote 1343 1348	human
+T54	Cell 1349 1380	cerebellar granule cell lineage
+T9	Tissue 215 225	cerebellum

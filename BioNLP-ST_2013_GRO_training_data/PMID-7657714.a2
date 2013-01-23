@@ -1,0 +1,74 @@
+T1	CellCycle 0 10	Cell-cycle
+E1	CellCycle:T1 
+T2	ModificationOfMolecularEntity 21 32	alterations
+E2	ModificationOfMolecularEntity:T2 hasPatient:T5
+T3	Phosphorylation 45 59	phosphorylated
+E3	Phosphorylation:T3 hasPatient:T5
+R1	locatedIn Arg1:T5 Arg2:T4
+T6	CellularProcess 103 118	nucleologenesis
+E4	CellularProcess:T6 
+R2	locatedIn Arg1:T9 Arg2:T8
+R3	fromSpecies Arg1:T9 Arg2:T7
+R4	locatedIn Arg1:T11 Arg2:T10
+T12	CellCycle 289 299	cell cycle
+E5	CellCycle:T12 
+T14	Localization 309 318	localized
+E6	Localization:T14 hasPatient:T13
+R5	locatedIn Arg1:E6 Arg2:T16
+T15	CellCyclePhase 322 332	interphase
+E7	CellCyclePhase:T15 
+T18	BindingOfMolecularEntity 460 465	binds
+E8	BindingOfMolecularEntity:T18 hasAgent:T17 hasPatient:T19
+T21	Phosphorylation 540 554	phosphorylated
+E9	Phosphorylation:T21 hasPatient:T20
+T26	CellCyclePhase 828 841	mitotic cells
+E10	CellCyclePhase:T26 
+T28	CellCyclePhase 896 912	interphase cells
+E11	CellCyclePhase:T28 
+T30	ProteinCatabolism 959 967	degraded
+E12	ProteinCatabolism:T30 hasPatient:T29
+T31	CellCycle 975 982	mitosis
+E13	CellCycle:T31 
+T33	CellCyclePhase 1020 1033	mitotic cells
+E14	CellCyclePhase:T33 
+T34	Phosphorylation 1046 1060	phosphorylated
+E15	Phosphorylation:T34 hasAgent:T35 hasPatient:T32
+T36	Increase 1100 1108	increase
+E16	Increase:T36 hasPatient:T37
+T38	Transport 1136 1146	dispersion
+E17	Transport:T38 
+R9	locatedIn Arg1:E17 Arg2:T39
+T41	CellCyclePhase 1194 1222	metaphase and anaphase cells
+E18	CellCyclePhase:T41 
+T42	CellCyclePhase 1208 1222	anaphase cells
+E19	CellCyclePhase:T42 
+T43	CellCyclePhase 1286 1295	telophase
+E20	CellCyclePhase:T43 
+T45	Localization 1317 1327	aggregated
+E21	Localization:T45 hasPatient:T44
+T48	Transport 1406 1414	migrated
+E22	Transport:T48 hasPatient:T47
+T51	CellCyclePhase 1455 1469	early G1-phase
+E23	CellCyclePhase:T51 
+T53	PositiveRegulation 1497 1503	induce
+E24	PositiveRegulation:T53 hasAgent:T52 hasPatient:E25
+T54	Localization 1504 1515	segregation
+E25	Localization:T54 hasPatient:T56
+T59	Localization 1665 1674	localized
+E26	Localization:T59 hasPatient:T58
+R10	locatedIn Arg1:E26 Arg2:T60
+T62	RNABiosynthesis 1735 1753	pre-rRNA synthesis
+E27	RNABiosynthesis:T62 
+R11	locatedIn Arg1:E27 Arg2:T60
+T63	RNAProcessing 1735 1768	pre-rRNA synthesis and processing
+E28	RNAProcessing:T63 
+R12	locatedIn Arg1:E28 Arg2:T60
+R13	locatedIn Arg1:T69 Arg2:T68
+R14	fromSpecies Arg1:T69 Arg2:T67
+T70	Localization 2008 2015	shuttle
+E29	Localization:T70 hasPatient:T69
+T75	Mitosis 2139 2146	mitosis
+E30	Mitosis:T75 
+R15	hasFunction Arg1:T77 Arg2:T76
+T78	CellularProcess 2184 2199	nucleologenesis
+E31	CellularProcess:T78 

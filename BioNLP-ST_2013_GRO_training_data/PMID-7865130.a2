@@ -1,0 +1,40 @@
+R1	hasPart Arg1:T3 Arg2:T2
+T4	GeneExpression 80 89	expressed
+E1	GeneExpression:T4 hasPatient:T3
+R2	locatedIn Arg1:E1 Arg2:T6
+R3	fromSpecies Arg1:T6 Arg2:T5
+R4	hasPart Arg1:T8 Arg2:T7
+T9	GeneExpression 209 218	expressed
+E2	GeneExpression:T9 hasPatient:T8
+T11	CellularProcess 232 245	hematopoiesis
+E3	CellularProcess:T11 
+R5	fromSpecies Arg1:E3 Arg2:T10
+T13	CellularDevelopmentalProcess 292 303	development
+E4	CellularDevelopmentalProcess:T13 
+R6	hasPart Arg1:T15 Arg2:T14
+R7	locatedIn Arg1:T18 Arg2:T20
+R8	fromSpecies Arg1:T20 Arg2:T19
+T24	GeneExpression 774 783	expressed
+E5	GeneExpression:T24 hasPatient:T23
+R9	locatedIn Arg1:E5 Arg2:T25
+R10	locatedIn Arg1:E5 Arg2:T26
+T28	GeneExpression 941 951	expression
+E6	GeneExpression:T28 hasPatient:T27
+T31	GeneExpression 1037 1046	expressed
+E7	GeneExpression:T31 hasPatient:T30
+R11	locatedIn Arg1:E7 Arg2:T33
+R12	fromSpecies Arg1:T33 Arg2:T32
+T35	GeneExpression 1124 1134	expression
+E8	GeneExpression:T35 hasPatient:T34
+T36	RegulatoryProcess 1185 1195	regulators
+E9	RegulatoryProcess:T36 hasAgent:T34 hasPatient:E10
+T37	CellDifferentiation 1199 1223	monocyte differentiation
+E10	CellDifferentiation:T37 
+T38	CellGrowth 1227 1240	proliferation
+E11	CellGrowth:T38 
+R13	fromSpecies Arg1:T42 Arg2:T40
+R14	hasPart Arg1:T42 Arg2:T41
+R15	hasPart Arg1:T44 Arg2:T43
+R16	hasPart Arg1:T45 Arg2:T44
+R17	hasPart Arg1:T47 Arg2:T48
+E12	RegulatoryProcess:T36 hasAgent:T34 hasPatient:E11

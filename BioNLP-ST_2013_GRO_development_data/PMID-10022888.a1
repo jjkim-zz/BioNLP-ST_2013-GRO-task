@@ -1,0 +1,50 @@
+T1	Protein 27 49	snRNP assembly factors
+T4	Eukaryote 53 58	yeast
+T6	Protein 91 96	Sad1p
+T7	RNA 116 124	pre-mRNA
+T12	Eukaryote 182 187	yeast
+T16	RNA 295 303	U4 snRNA
+T17	ComplexOfProteinAndRNA 322 327	snRNP
+T20	RNA 403 411	U4 snRNA
+T21	RNA 429 431	U4
+T27	ProteinComplex 636 647	U4/U6 snRNP
+T28	Protein 659 664	Prp3p
+T29	Protein 666 671	Prp4p
+T30	Protein 677 683	Prp24p
+T34	RNA 754 762	U6 snRNA
+T37	RNA 822 830	U6 snRNA
+T42	RNA 1047 1064	the RP29 pre-mRNA
+T46	Enzyme 1123 1141	beta-galactosidase
+T50	RNA 1240 1259	pre-mRNA substrates
+T56	RNA 1403 1411	U4 snRNA
+T60	Protein 1515 1520	Sad1p
+T62	Nucleus 1538 1545	nucleus
+T64	Protein 1601 1606	Sad1p
+T65	ZincCoordinatingDomain 1627 1638	zinc finger
+T3	MutantProtein 770 777	prp17-1
+T5	MutantProtein 782 789	prp19-1
+T13	RNA 432 434	U6
+T10	Spliceosome 159 171	spliceosomal
+T23	ComplexOfProteinAndRNA 172 178	snRNPs
+T25	ExperimentalMethod 8 22	genetic screen
+T41	Protein 558 561	prp
+T40	MutantProtein 562 569	mutants
+T44	ExperimentalMethod 580 587	assayed
+T48	ComplexOfProteinAndRNA 592 600	U4 snRNP
+T18	ComplexOfProteinAndRNA 716 721	snRNP
+T19	RNA 710 712	U4
+T32	RNA 713 715	U6
+T36	RNA 815 817	U4
+T58	ComplexOfProteinAndRNA 941 946	snRNP
+T51	MutantProtein 886 892	sad1-1
+T63	MutantProtein 968 974	sad1-1
+T69	MutantProtein 1210 1216	sad1-1
+T70	MutantProtein 1274 1280	sad1-1
+T73	MutantProtein 1319 1325	mutant
+T74	RNA 1421 1423	U4
+T75	RNA 1424 1426	U6
+T76	RNA 1591 1599	U snRNAs
+T77	Eukaryote 1711 1716	human
+T78	Eukaryote 1718 1740	Caenorhabditis elegans
+T79	Eukaryote 1742 1753	Arabidospis
+T80	Eukaryote 1759 1769	Drosophila

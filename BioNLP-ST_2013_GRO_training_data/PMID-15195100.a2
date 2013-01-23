@@ -1,0 +1,64 @@
+T2	RegulatoryProcess 4 13	regulates
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:T3
+T4	Localization 31 43	sequestering
+E2	Localization:T4 hasPatient:T5
+R1	locatedIn Arg1:E2 Arg2:T6
+T9	RegulationOfFunction 127 138	potentiates
+E3	RegulationOfFunction:T9 hasAgent:T7 hasPatient:T11
+R3	hasFunction Arg1:T10 Arg2:T11
+T12	RegulatoryProcess 155 165	regulating
+E4	RegulatoryProcess:T12 hasPatient:E5
+T13	PosttranslationalModification 166 198	post-translational modifications
+E5	PosttranslationalModification:T13 
+T15	Acetylation 222 233	acetylation
+E6	Acetylation:T15 
+T17	Phosphorylation 253 268	phosphorylation
+E7	Phosphorylation:T17 
+T21	BindingToProtein 326 334	interact
+E8	BindingToProtein:T21 hasPatient:T25 hasPatient2:T20
+T27	RegulatoryProcess 418 427	regulates
+E9	RegulatoryProcess:T27 hasAgent:T26 hasPatient:T28
+T30	Increase 473 481	enhances
+E10	Increase:T30 hasAgent:T29 hasPatient:T31
+T32	Localization 499 511	sequestering
+E11	Localization:T32 hasPatient:T33
+R5	locatedIn Arg1:E11 Arg2:T34
+T36	Mutation 559 565	damage
+E12	Mutation:T36 hasPatient:T35
+R7	precedes Arg1:E12 Arg2:E13
+T39	Localization 580 590	accumulate
+E13	Localization:T39 hasPatient:T37
+R8	locatedIn Arg1:E13 Arg2:T40
+T43	Localization 679 691	localization
+E14	Localization:T43 hasPatient:T44 hasAgent:E15
+R9	locatedIn Arg1:E14 Arg2:T42
+T46	PositiveRegulation 719 729	activation
+E15	PositiveRegulation:T46 hasPatient:T45
+T47	Phosphorylation 734 749	phosphorylation
+E16	Phosphorylation:T47 hasAgent:T49 hasPatient:T48
+T51	Localization 793 806	sequestration
+E17	Localization:T51 hasPatient:T52
+R12	locatedIn Arg1:E17 Arg2:T53
+T54	NegativeRegulation 836 844	impaired
+E18	NegativeRegulation:T54 hasPatient2:E17
+R13	locatedIn Arg1:E18 Arg2:T50
+T56	PositiveRegulation 883 892	induction
+E19	PositiveRegulation:T56 hasPatient:E20
+T57	CellDeath 896 905	apoptosis
+E20	CellDeath:T57 
+T59	BindingToProtein 955 965	associates
+E21	BindingToProtein:T59 hasPatient:T58 hasPatient2:T60
+T62	ExperimentalIntervention 1011 1020	knockdown
+E22	ExperimentalIntervention:T62 hasPatient:T61
+T63	NegativeRegulation 1021 1028	impairs
+E23	NegativeRegulation:T63 hasAgent:E22 hasPatient:E24
+T65	Localization 1051 1059	localize
+E24	Localization:T65 hasPatient:T64
+R14	locatedIn Arg1:E24 Arg2:T66
+T68	Mutation 1082 1088	damage
+E25	Mutation:T68 hasPatient:T67
+R15	precedes Arg1:E25 Arg2:E24
+R16	locatedIn Arg1:E6 Arg2:T18	
+R17	locatedIn Arg1:E7 Arg2:T18	
+E26	Localization:T39 hasPatient:T38
+E27	Localization:T43 hasPatient:T44 hasAgent:E16

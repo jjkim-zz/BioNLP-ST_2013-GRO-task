@@ -1,0 +1,36 @@
+T4	Binding 61 68	binding
+E1	Binding:T4 hasPatient:T2
+T10	Binding 298 305	binding
+E3	Binding:T10 hasPatient:T9
+T13	Binding 379 386	binding
+E4	Binding:T13 hasPatient:T11
+T18	SignalingPathway 508 517	signaling
+E5	SignalingPathway:T18 
+T19	RegulatoryProcess 521 531	regulation
+E6	RegulatoryProcess:T19 
+T26	Binding 622 627	bound
+E7	Binding:T26 hasPatient:T27
+T29	Phosphorylation 700 715	phosphorylation
+E8	Phosphorylation:T29 
+T34	Binding 804 811	binding
+E9	Binding:T34 hasPatient:T32
+T38	Binding 915 922	binding
+E10	Binding:T38 hasPatient:T36
+T40	Binding 957 965	interact
+E11	Binding:T40 hasPatient:T42
+T41	SignalingPathway 140 159	signal transduction
+E12	SignalingPathway:T41 
+T5	BindingToProtein 78 97	Protein-interacting
+E2	BindingToProtein:T5 
+T6	Phosphorylation 180 195	phosphorylation
+E13	Phosphorylation:T6 hasPatient:T7
+R1	hasPart Arg1:T16 Arg2:T14	
+R2	hasPart Arg1:T21 Arg2:T20	
+R3	hasPart Arg1:T23 Arg2:T20	
+R4	hasPart Arg1:T30 Arg2:T31	
+E14	Binding:T13 hasPatient:T12
+E15	Binding:T38 hasPatient:T37
+E16	Binding:T40 hasPatient:T39
+E17	Binding:T34 hasPatient:T33
+E18	Binding:T4 hasPatient:T3
+E19	Binding:T26 hasPatient:T20

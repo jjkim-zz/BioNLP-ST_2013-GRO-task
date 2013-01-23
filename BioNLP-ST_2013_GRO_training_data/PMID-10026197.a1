@@ -1,0 +1,32 @@
+T6	Protein 86 101	14-3-3 proteins
+T7	Protein 103 111	Integrin
+T8	Ligand 112 118	ligand
+T14	Protein 226 229	Cas
+T15	Protein 279 297	14-3-3zeta protein
+T17	Protein 313 316	Cas
+T18	Protein 375 383	proteins
+T19	Eukaryote 397 406	mammalian
+T20	Cell 407 412	cells
+T22	AminoAcid 456 469	phosphoserine
+T23	ExperimentalMethod 496 505	treatment
+T24	Protein 509 512	Cas
+T25	Enzyme 520 538	serine phosphatase
+T28	Protein 575 585	14-3-3zeta
+T29	Protein 604 618	Cas-14-3-3zeta
+T32	Protein 660 668	integrin
+T35	Cell 704 709	cells
+T36	CellComponent 732 752	extracellular matrix
+T38	Protein 769 772	Cas
+T39	Protein 776 786	14-3-3zeta
+T43	Protein 965 968	Cas
+T44	Protein 973 979	14-3-3
+T46	Protein 1001 1009	integrin
+T47	Ligand 1010 1016	ligand
+T49	Protein 1042 1050	proteins
+T50	CellComponent 1119 1139	extracellular matrix
+T51	Protein 1185 1200	14-3-3 proteins
+T52	Protein 1216 1224	integrin
+T56	Protein 1285 1288	Cas
+T59	CellComponent 1389 1409	extracellular matrix
+T10	ProteinComplex 147 164	complex formation
+T4	Protein 52 77	docking protein p130(Cas)

@@ -1,0 +1,19 @@
+R1	fromSpecies Arg1:T5 Arg2:T4
+R2	hasPart Arg1:T5 Arg2:T2
+R3	hasPart Arg1:T5 Arg2:T1
+R4	locatedIn Arg1:T9 Arg2:T6
+R5	hasPart Arg1:T9 Arg2:T11
+R6	fromSpecies Arg1:T31 Arg2:T30
+R7	fromSpecies Arg1:T40 Arg2:T39
+R8	hasPart Arg1:T40 Arg2:T37
+R9	hasPart Arg1:T43 Arg2:T37
+R10	fromSpecies Arg1:T46 Arg2:T45
+R11	fromSpecies Arg1:T48 Arg2:T47
+R12	fromSpecies Arg1:T52 Arg2:T51
+R13	hasPart Arg1:T9 Arg2:T12	
+T7	RNAProcessing 82 97	tRNA processing
+E1	RNAProcessing:T7 
+R14	hasPart Arg1:T55 Arg2:T35	
+R15	locatedIn Arg1:T40 Arg2:T56	
+T57	RNAProcessing 717 727	processing
+E2	RNAProcessing:T57 hasPatient:T41

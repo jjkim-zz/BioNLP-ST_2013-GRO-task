@@ -1,0 +1,44 @@
+R1	locatedIn Arg1:T3 Arg2:T2
+R2	encodes Arg1:T4 Arg2:T3
+R3	fromSpecies Arg1:T4 Arg2:T1
+T5	Increase 68 76	enhanced
+E1	Increase:T5 hasPatient:E2
+T6	GeneExpression 77 87	expression
+E2	GeneExpression:T6 hasPatient:T4
+R4	locatedIn Arg1:E2 Arg2:T7
+R5	locatedIn Arg1:E2 Arg2:T8
+T9	Disease 119 143	Hepatocellular carcinoma
+E3	Disease:T9 
+R6	locatedIn Arg1:T12 Arg2:T13
+R7	fromSpecies Arg1:T12 Arg2:T11
+R8	locatedIn Arg1:T13 Arg2:T14
+R9	fromSpecies Arg1:T16 Arg2:T15
+R10	fromSpecies Arg1:T17 Arg2:T15
+T18	GeneExpression 371 381	expression
+E4	GeneExpression:T18 hasPatient:T19
+T21	PositiveRegulationOfGeneExpression 458 471	overexpressed
+E5	PositiveRegulationOfGeneExpression:T21 hasPatient:T20
+R11	locatedIn Arg1:T23 Arg2:T24
+R12	fromSpecies Arg1:T23 Arg2:T22
+R13	encodes Arg1:T26 Arg2:T27
+R14	hasPart Arg1:T26 Arg2:T25
+R16	fromSpecies Arg1:T29 Arg2:T28
+T32	BindingToRNA 685 692	binding
+E6	BindingToRNA:T32 hasAgent2:T33 hasPatient:T31
+R17	locatedIn Arg1:T34 Arg2:T38
+R18	encodes Arg1:T35 Arg2:T34
+T36	Localization 742 751	localizes
+E7	Localization:T36 hasPatient:T34
+R19	locatedIn Arg1:E7 Arg2:T37
+R20	fromSpecies Arg1:T40 Arg2:T39
+T42	GeneExpression 859 869	expression
+E8	GeneExpression:T42 hasPatient:T43
+R21	locatedIn Arg1:E8 Arg2:T44
+R22	locatedIn Arg1:E8 Arg2:T45
+R23	locatedIn Arg1:E8 Arg2:T46
+R24	locatedIn Arg1:E8 Arg2:T47
+R25	locatedIn Arg1:E8 Arg2:T48
+R26	locatedIn Arg1:E8 Arg2:T49
+R27	locatedIn Arg1:E8 Arg2:T50
+T52	PositiveRegulationOfGeneExpression 1052 1066	overexpression
+E9	PositiveRegulationOfGeneExpression:T52 hasPatient:T51

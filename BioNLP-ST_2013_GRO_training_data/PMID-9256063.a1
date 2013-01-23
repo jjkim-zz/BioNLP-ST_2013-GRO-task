@@ -1,0 +1,50 @@
+T1	Eukaryote 0 5	Human
+T2	Gene 6 10	gene
+T3	RNAPolymeraseII 19 36	RNA polymerase II
+T4	ProteinSubunit 45 52	subunit
+T5	ProteinSubunit 54 60	hsRPB7
+T7	Chromosome 89 100	chromosomal
+T9	Eukaryote 119 124	human
+T10	Gene 125 129	gene
+T11	ProteinSubunit 154 161	subunit
+T12	RNAPolymeraseII 165 190	RNA polymerase II complex
+T13	ProteinSubunit 192 198	hsRPB7
+T14	ProteinComplex 233 245	This complex
+T16	Eukaryote 361 366	human
+T18	ProteinSubunit 419 425	hsRPB7
+T19	Gene 426 430	gene
+T20	Exon 445 450	exons
+T21	DNA 520 523	DNA
+T22	ProteinSubunit 537 543	hsRPB7
+T23	Gene 569 573	gene
+T24	Gene 619 623	gene
+T26	Chromosome 641 648	11q13.1
+T27	ProteinBindingSiteOfDNA 780 797	Sp1 binding sites
+T28	DNARegion 802 811	AP-1 site
+T29	DNARegion 833 863	polymorphic GATA tandem repeat
+T30	ProteinSubunit 926 932	hsRPB7
+T31	Gene 933 937	gene
+T32	Eukaryote 973 991	eukaryotic species
+T33	Eukaryote 1034 1039	yeast
+T34	Eukaryote 1044 1054	Drosophila
+T35	Tissue 1104 1110	tissue
+T37	Tissue 1145 1157	adult retina
+T38	Tissue 1159 1164	brain
+T39	Tissue 1169 1175	kidney
+T42	Tissue 1269 1274	heart
+T43	Tissue 1276 1280	lung
+T44	Tissue 1282 1288	testis
+T45	Tissue 1290 1296	cornea
+T46	Tissue 1298 1334	retinal pigmented epithelium/choroid
+T47	Tissue 1339 1347	placenta
+T49	Tissue 1388 1394	uterus
+T50	Tissue 1396 1411	small intestine
+T51	Tissue 1416 1431	skeletal muscle
+T53	Tissue 1480 1487	stomach
+T54	Tissue 1492 1497	liver
+T55	Tissue 1523 1546	fetal and adult tissues
+T58	Tissue 1627 1639	fetal retina
+T59	Tissue 1667 1678	fetal brain
+T60	Tissue 1694 1706	adult retina
+T8	MolecularStructure 63 72	structure
+T25	DNARegion 876 887	GATA repeat

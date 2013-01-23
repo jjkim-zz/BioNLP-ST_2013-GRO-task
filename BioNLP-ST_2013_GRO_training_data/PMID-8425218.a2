@@ -1,0 +1,36 @@
+T3	NegativeRegulation 42 53	antagonizes
+E1	NegativeRegulation:T3 hasAgent:T1 hasPatient:E2
+T5	Transcription 58 82	transcriptional activity
+E2	Transcription:T5 hasPatient:T4
+R1	hasFunction Arg1:T6 Arg2:T7
+T8	Heterodimerization 131 149	heterodimerization
+E3	Heterodimerization:T8 hasPatient:T13
+T9	GeneExpression 182 191	expressed
+E4	GeneExpression:T9 hasPatient:T13
+T15	RegulatoryProcess 240 248	mediates
+E5	RegulatoryProcess:T15 hasAgent:T14 hasPatient:T16
+R3	hasFunction Arg1:T17 Arg2:T16
+T20	GeneExpression 327 345	expression library
+E6	GeneExpression:T20 hasPatient:T19
+R5	encodes Arg1:T22 Arg2:T26
+R6	fromSpecies Arg1:T28 Arg2:T27
+T29	Homodimerization 473 486	homodimerizes
+E7	Homodimerization:T29 hasPatient:T28
+T30	BindingToProtein 498 503	binds
+E8	BindingToProtein:T30 hasPatient:T31 hasPatient2:T28
+T32	FormationOfProteinDNAComplex 518 525	forming
+E9	FormationOfProteinDNAComplex:T32 hasPatient:T35
+T34	Binding 550 557	binding
+E10	Binding:T34 hasAgent:T35 hasPatient:T33
+R7	hasFunction Arg1:T46 Arg2:T45
+T48	Phosphorylation 785 800	phosphorylation
+E11	Phosphorylation:T48 hasAgent:T47 hasPatient:T46
+T56	PositiveRegulation 899 914	transactivation
+E12	PositiveRegulation:T56 
+R8	hasFunction Arg1:T61 Arg2:T62
+T63	Transcription 992 1005	transcription
+E13	Transcription:T63 
+T66	Heterodimerization 7 20	heterodimeric
+E14	Heterodimerization:T66 hasPatient:T2
+E15	Heterodimerization:T8 hasPatient:T6
+E16	Heterodimerization:T66 hasPatient:T1

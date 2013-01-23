@@ -1,0 +1,27 @@
+T1	Protein 0 5	Bcl-2
+T3	Protein 56 59	Bax
+T6	Protein 101 114	Bcl-2 protein
+T9	Protein 204 211	Bcl-2's
+T10	Protein 240 245	Bcl-2
+T12	Protein 268 276	proteins
+T13	Protein 312 319	protein
+T14	Protein 329 332	Bax
+T15	AminoAcid 353 363	amino acid
+T16	Protein 378 383	Bcl-2
+T17	ProteinDomain 400 433	highly conserved domains I and II
+T19	Protein 435 438	Bax
+T20	Exon 457 462	exons
+T23	Protein 618 621	Bax
+T25	Protein 664 669	Bcl-2
+T27	Protein 693 696	Bax
+T31	Protein 736 744	cytokine
+T32	Protein 763 767	IL-3
+T33	Cell 778 787	cell line
+T35	Protein 803 806	Bax
+T37	Function 825 849	death repressor activity
+T38	Protein 853 858	Bcl-2
+T39	Protein 909 914	Bcl-2
+T40	Protein 918 921	Bax
+T18	CellComponent 548 556	membrane
+T22	CellComponent 582 591	cytosolic
+T44	Protein 592 599	protein

@@ -1,0 +1,47 @@
+T1	TranscriptionFactor 0 17	Recombinant NFAT1
+T2	TranscriptionFactor 19 24	NFATp
+T4	Protein 42 53	calcineurin
+T5	Cell 57 64	T cells
+T8	Protein 103 111	cytokine
+T9	Gene 112 117	genes
+T10	TranscriptionFactor 119 140	Transcription factors
+T12	Protein 200 208	cytokine
+T13	Gene 209 214	genes
+T14	Gene 225 230	genes
+T15	TranscriptionFactor 302 322	transcription factor
+T16	TranscriptionFactor 323 328	NFAT1
+T17	TranscriptionFactor 348 353	NFATp
+T19	Eukaryote 402 408	murine
+T20	Eukaryote 413 418	human
+T21	Cell 419 426	T cells
+T23	Cell 446 460	Jurkat T cells
+T24	TranscriptionFactor 462 479	recombinant NFAT1
+T26	Protein 514 524	calmodulin
+T27	Enzyme 535 558	phosphatase calcineurin
+T29	Peptide 621 634	cyclosporin A
+T30	Peptide 636 639	CsA
+T32	TranscriptionFactor 661 678	recombinant NFAT1
+T33	Cell 682 696	Jurkat T cells
+T34	Chemical 728 737	ionomycin
+T35	Chemical 742 773	phorbol 12-myristate 13-acetate
+T37	Enzyme 845 856	calcineurin
+T39	Peptide 877 880	CsA
+T40	TranscriptionFactor 925 942	recombinant NFAT1
+T41	CellComponent 960 969	cytoplasm
+T42	Cell 997 1004	T cells
+T44	Nucleus 1031 1038	nucleus
+T45	Peptide 1044 1047	CsA
+T46	Chemical 1075 1084	ionomycin
+T48	Cell 1116 1125	COS cells
+T49	TranscriptionFactor 1136 1141	NFAT1
+T51	TranscriptionFactor 1367 1384	Recombinant NFAT1
+T54	Gene 1418 1431	interleukin-2
+T55	Gene 1433 1446	interleukin-4
+T56	Gene 1448 1475	tumor necrosis factor alpha
+T57	Gene 1481 1529	granulocyte-macrophage colony-stimulating factor
+T58	Promoter 1530 1539	promoters
+T59	Cell 1543 1550	T cells
+T60	TranscriptionFactor 1568 1573	NFAT1
+T62	Peptide 1593 1596	CsA
+T64	Gene 1630 1635	genes
+T65	TranscriptionFactor 148 159	NFAT family

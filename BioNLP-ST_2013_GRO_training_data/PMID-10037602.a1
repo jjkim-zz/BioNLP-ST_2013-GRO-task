@@ -1,0 +1,29 @@
+T1	ProteinDomain 12 22	WW domains
+T2	AminoAcid 26 39	phosphoserine
+T3	AminoAcid 44 60	phosphothreonine
+T7	Protein 172 179	protein
+T9	AminoAcid 282 297	phosphotyrosine
+T11	AminoAcid 344 357	phosphoserine
+T12	AminoAcid 362 378	phosphothreonine
+T14	ProteinDomain 420 430	WW domains
+T15	Protein 441 448	protein
+T16	Protein 474 482	proteins
+T17	Cell 503 507	cell
+T20	ProteinDomain 533 543	WW domains
+T21	Enzyme 561 585	mitotic prolyl isomerase
+T22	Enzyme 586 590	Pin1
+T25	Enzyme 616 621	Nedd4
+T27	AminoAcid 631 646	phosphoproteins
+T28	Enzyme 686 693	enzymes
+T30	Enzyme 738 742	Pin1
+T31	ProteinDomain 743 752	WW domain
+T32	AminoAcid 769 782	phosphoserine
+T33	AminoAcid 787 803	phosphothreonine
+T35	ProteinDomain 856 878	SRC homology 2 domains
+T36	AminoAcid 880 893	Phosphoserine
+T37	AminoAcid 898 914	phosphothreonine
+T39	Enzyme 949 953	Pin1
+T8	ProteinComplex 262 271	complexes
+T23	Enzyme 599 615	ubiquitin ligase
+T24	Substrate 672 682	substrates
+T42	Substrate 975 985	substrates

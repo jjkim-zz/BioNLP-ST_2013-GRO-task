@@ -1,0 +1,20 @@
+T1	Promoter 25 33	promoter
+T2	Eukaryote 58 63	human
+T3	Gene 64 81	UHS keratin genes
+T5	Eukaryote 97 102	human
+T8	ProteinSubunit 142 145	XPB
+T9	ProteinSubunit 150 153	XPD
+T10	ProteinSubunit 159 167	subunits
+T13	Eukaryote 274 279	human
+T16	Gene 449 466	UHS keratin genes
+T18	Tissue 493 503	follicular
+T19	Tissue 508 523	epidermal cells
+T20	Gene 589 594	genes
+T21	Promoter 621 629	promoter
+T22	Gene 795 800	genes
+T29	TranscriptionFactor 945 950	TFIIH
+T30	ProteinSubunit 951 959	subunits
+T11	TranscriptionFactor 175 208	transcription/repair factor TFIIH
+T12	Protein 280 292	UHS proteins
+T31	TATAbox 728 738	TATA-boxes
+T32	RegulatoryDNARegion 748 766	regulatory regions

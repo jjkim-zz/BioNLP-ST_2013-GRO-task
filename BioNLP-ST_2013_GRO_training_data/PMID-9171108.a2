@@ -1,0 +1,26 @@
+T3	BindingToProtein 35 44	interacts
+E1	BindingToProtein:T3 hasPatient:T6 hasPatient2:T2
+T10	GeneExpression 172 182	expression
+E2	GeneExpression:T10 hasPatient:T5
+T30	BindingToProtein 762 771	interacts
+E10	BindingToProtein:T30 hasPatient:T33 hasPatient2:T17
+R5	hasPart Arg1:T32 Arg2:T33
+T34	Decrease 849 858	Decreased
+E11	Decrease:T34 hasPatient:E4 hasAgent:E5
+T38	Decrease 953 960	reduced
+E14	Decrease:T38 hasPatient:E15
+T39	BindingToProtein 961 968	binding
+E15	BindingToProtein:T39 hasPatient:T40 hasPatient2:T37
+T41	BindingToProtein 998 1010	interactions
+E16	BindingToProtein:T41 hasPatient:T42 hasPatient2:T43
+T44	PositiveRegulation 1057 1067	activation
+E17	PositiveRegulation:T44 hasPatient:T45
+R1	hasPart Arg1:T14 Arg2:T15	
+T16	PositiveRegulationOfTranscription 570 596	transcriptional activation
+E3	PositiveRegulationOfTranscription:T16 hasAgent:T23
+R2	hasPart Arg1:T24 Arg2:T25	
+R3	hasPart Arg1:T29 Arg2:T17	
+T18	PositiveRegulationOfTranscription 859 885	transcriptional activation
+E4	PositiveRegulationOfTranscription:T18 
+T19	Mutation 889 909	N-terminal deletions
+E5	Mutation:T19 hasPatient:T37

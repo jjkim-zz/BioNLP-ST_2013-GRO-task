@@ -1,0 +1,43 @@
+T1	Eukaryote 8 13	human
+T2	Protein 14 21	SRB/MED
+T4	ProteinComplex 51 55	SMCC
+T6	Eukaryote 103 108	human
+T7	ProteinComplex 109 116	complex
+T9	TranscriptionActivator 141 150	activator
+T12	Protein 187 190	PC4
+T13	TranscriptionFactor 208 213	TFIIH
+T14	Protein 240 243	PC4
+T16	TranscriptionActivator 255 264	activator
+T18	ProteinComplex 313 320	complex
+T19	Eukaryote 354 359	yeast
+T20	Holoenzyme 360 379	mediator/holoenzyme
+T21	Protein 402 406	SRB7
+T22	Protein 408 413	SRB10
+T23	Protein 415 420	SRB11
+T24	Protein 422 426	MED6
+T25	Protein 432 436	RGR1
+T26	Eukaryote 457 462	yeast
+T27	TranscriptionRegulator 463 497	transcriptional regulatory factors
+T28	TranscriptionRegulator 499 503	SOH1
+T29	TranscriptionRegulator 508 512	NUT2
+T30	Protein 552 559	TRAP220
+T31	Protein 561 574	TRAP170/hRGR1
+T32	Protein 580 587	TRAP100
+T33	Eukaryote 594 599	human
+T37	ProteinComplex 661 668	complex
+T38	TranscriptionActivatorActivity 682 704	activator interactions
+T39	Eukaryote 717 722	yeast
+T41	Eukaryote 871 876	human
+T42	ProteinComplex 877 884	complex
+T43	ProteinDomain 903 906	CTD
+T44	ProteinComplex 956 963	complex
+T45	Eukaryote 973 978	human
+T11	Protein 600 624	thyroid hormone receptor
+T34	TranscriptionCoactivator 636 647	coactivator
+T35	ProteinComplex 648 655	complex
+T36	RNAPolymeraseII 762 779	RNA polymerase II
+T40	ProteinDomain 780 783	CTD
+T46	TranscriptionCoactivator 979 990	coactivator
+T48	ProteinComplex 991 1000	complexes
+T3	TranscriptionCofactor 33 41	cofactor
+T49	ProteinComplex 42 49	complex

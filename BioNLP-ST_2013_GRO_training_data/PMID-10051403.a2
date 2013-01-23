@@ -1,0 +1,22 @@
+T2	GeneExpression 44 54	expression
+E1	GeneExpression:T2 hasPatient:T4
+R1	fromSpecies Arg1:T4 Arg2:T3
+R2	fromSpecies Arg1:T9 Arg2:T8
+T14	CellularProcess 317 335	neuronal migration
+E2	CellularProcess:T14 
+T18	GeneExpression 478 488	expression
+E3	GeneExpression:T18 
+R3	locatedIn Arg1:E3 Arg2:T20
+R4	fromSpecies Arg1:T20 Arg2:T19
+R5	hasPart Arg1:T21 Arg2:T22
+T24	Mutation 700 708	mutation
+E4	Mutation:T24 
+R6	locatedIn Arg1:T25 Arg2:T26
+T28	GeneExpression 855 864	expressed
+E5	GeneExpression:T28 hasPatient:T27
+R7	locatedIn Arg1:E5 Arg2:T30
+R8	fromSpecies Arg1:T30 Arg2:T29
+T32	Disease 214 236	X-linked lissencephaly
+E6	Disease:T32 
+T33	Disease 241 269	subcortical band heterotopia
+E7	Disease:T33 

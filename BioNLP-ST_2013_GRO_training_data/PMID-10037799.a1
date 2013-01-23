@@ -1,0 +1,41 @@
+T1	Protein 0 6	LYVE-1
+T2	Protein 31 35	CD44
+T3	Protein 36 48	glycoprotein
+T4	Tissue 55 60	lymph
+T5	Protein 70 78	receptor
+T6	Chemical 83 93	hyaluronan
+T7	Chemical 150 152	HA
+T9	Tissue 182 186	skin
+T10	Tissue 191 210	mesenchymal tissues
+T14	Tissue 373 379	tissue
+T15	Chemical 388 390	HA
+T17	Tissue 429 446	lymphatic vessels
+T18	Tissue 454 465	lymph nodes
+T20	Tissue 543 548	liver
+T21	Chemical 588 590	HA
+T23	MolecularEntity 599 608	molecules
+T26	Protein 691 697	LYVE-1
+T27	Protein 735 743	receptor
+T28	Chemical 748 750	HA
+T29	Tissue 758 775	lymph vessel wall
+T30	AminoAcid 789 799	amino acid
+T31	Protein 812 818	LYVE-1
+T41	Protein 1027 1039	Link protein
+T42	Protein 1058 1062	CD44
+T43	Protein 1068 1083	LYVE-1 molecule
+T45	Chemical 1119 1121	HA
+T46	Protein 1139 1143	CD44
+T47	Protein 1149 1164	LYVE-1 molecule
+T48	Chemical 1182 1184	HA
+T49	Tissue 1212 1229	lymph vessel wall
+T50	Tissue 1260 1273	blood vessels
+T51	Protein 1282 1288	LYVE-1
+T52	Tissue 1302 1307	lymph
+T53	Chemical 1317 1319	HA
+T54	Protein 1320 1328	receptor
+T55	Tissue 1387 1400	lymph vessels
+T56	Sequence 800 808	sequence
+T32	Peptide 842 878	type I integral membrane polypeptide
+T33	Protein 898 914	CD44 HA receptor
+T34	ProteinDomain 934 954	extracellular domain
+T35	ProteinDomain 975 1019	Link module the prototypic HA binding domain

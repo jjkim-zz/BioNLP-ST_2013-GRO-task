@@ -1,0 +1,48 @@
+R1	fromSpecies Arg1:T3 Arg2:T2
+R4	fromSpecies Arg1:T6 Arg2:T5
+T8	NegativeRegulation 85 93	inhibits
+E1	NegativeRegulation:T8 hasAgent:T1 hasPatient:E2
+T10	CellGrowth 102 115	proliferation
+E2	CellGrowth:T10 hasPatient:T9
+T15	CellGrowth 155 168	proliferation
+E3	CellGrowth:T15 
+T16	GeneExpression 197 206	expressed
+E4	GeneExpression:T16 hasPatient:T13
+T17	G1Phase 210 212	G1
+E5	G1Phase:T17 
+T18	SPhase 234 247	early S phase
+E6	SPhase:T18 
+T19	CellCycle 255 265	cell cycle
+E7	CellCycle:T19 
+R9	hasPart Arg1:E7 Arg2:E5
+R10	hasPart Arg1:E7 Arg2:E6
+T20	PositiveRegulationOfGeneExpression 267 281	Overexpression
+E8	PositiveRegulationOfGeneExpression:T20 hasPatient:T14
+T25	GeneExpression 355 365	expression
+E9	GeneExpression:T25 hasPatient:T22
+T27	NegativeRegulation 397 406	inhibited
+E10	NegativeRegulation:T27 hasAgent:E9 hasPatient:E11
+T28	CellGrowth 411 417	growth
+E11	CellGrowth:T28 hasPatient:T29
+R14	fromSpecies Arg1:T33 Arg2:T32
+R15	hasPart Arg1:T33 Arg2:T34
+R16	fromSpecies Arg1:T36 Arg2:T35
+R17	hasPart Arg1:T36 Arg2:T37
+T46	NegativeRegulation 1121 1132	suppression
+E12	NegativeRegulation:T46 hasAgent:T43 hasPatient:E13
+R20	fromSpecies Arg1:T48 Arg2:T47
+T49	GeneExpression 1147 1157	expression
+E13	GeneExpression:T49 hasPatient:T48
+R3	encodes Arg1:T7 Arg2:T6	
+R2	encodes Arg1:T4 Arg2:T3	
+R5	locatedIn Arg1:T13 Arg2:T12	
+R6	fromSpecies Arg1:T13 Arg2:T11	
+R7	fromSpecies Arg1:T14 Arg2:T21	
+T23	NegativeRegulation 554 564	inhibitory
+E14	NegativeRegulation:T23 
+T51	CellGrowth 669 682	proliferation
+E15	CellGrowth:T51 hasPatient:T31
+T52	NegativeRegulation 1034 1044	inhibitory
+E16	NegativeRegulation:T52 
+T44	BindingToRNA 1161 1185	RNA:RNA duplex formation
+E17	BindingToRNA:T44 

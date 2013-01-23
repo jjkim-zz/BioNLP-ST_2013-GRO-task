@@ -1,0 +1,40 @@
+R4	encodes Arg1:T8 Arg2:T10
+T11	RegulationOfTranscription 220 246	transcriptional regulation
+E2	RegulationOfTranscription:T11 hasPatient:T13
+T24	PositiveRegulation 463 470	induced
+E6	PositiveRegulation:T24 
+R7	fromSpecies Arg1:T29 Arg2:T28
+T30	CellularDevelopmentalProcess 564 575	development
+E7	CellularDevelopmentalProcess:T30 
+R8	encodes Arg1:T31 Arg2:T33
+R9	fromSpecies Arg1:T33 Arg2:T32
+R10	hasPart Arg1:T34 Arg2:T36
+R11	hasPart Arg1:T34 Arg2:T39
+R12	hasPart Arg1:T38 Arg2:T39
+R13	hasPart Arg1:T38 Arg2:T37
+T41	GeneExpression 927 936	expressed
+E8	GeneExpression:T41 hasPatient:T40
+R14	locatedIn Arg1:E8 Arg2:T42
+R15	locatedIn Arg1:E8 Arg2:T43
+R16	encodes Arg1:T45 Arg2:T44
+T46	Increase 1004 1011	induced
+E9	Increase:T46 hasPatient:T45
+R17	locatedIn Arg1:E9 Arg2:T47
+R18	locatedIn Arg1:T50 Arg2:T49
+R19	encodes Arg1:T52 Arg2:T51
+T53	TranscriptionOfGene 1139 1148	expressed
+E10	TranscriptionOfGene:T53 hasPatient:T52
+R20	locatedIn Arg1:E10 Arg2:T54
+R21	encodes Arg1:T56 Arg2:T55
+R22	locatedIn Arg1:T56 Arg2:T57
+T58	TranscriptionOfGene 1255 1264	expressed
+E11	TranscriptionOfGene:T58 hasPatient:T56
+R23	locatedIn Arg1:E11 Arg2:T59
+R24	fromSpecies Arg1:T61 Arg2:T62
+R26	hasPart Arg1:T64 Arg2:T63
+R2	locatedIn Arg1:T6 Arg2:T7	
+R3	fromSpecies Arg1:T23 Arg2:T20	
+R5	locatedIn Arg1:E7 Arg2:T29	
+R6	locatedIn Arg1:T65 Arg2:T67	
+R25	fromSpecies Arg1:T4 Arg2:T1	
+E1	RegulationOfTranscription:T11 hasPatient:T3

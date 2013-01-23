@@ -1,0 +1,34 @@
+T1	DNA 66 69	DNA
+T3	Protein 90 95	Oct-2
+T5	TranscriptionFactor 152 173	transcription factors
+T8	Cell 244 249	cells
+T9	DNA 262 273	cDNA clones
+T11	DNA 302 305	DNA
+T13	Protein 326 331	Oct-2
+T14	Prokaryote 428 458	Escherichia coli tester strain
+T15	Operon 479 489	lac operon
+T16	ReporterGene 495 508	reporter gene
+T17	Operon 519 531	lac operator
+T18	Protein 574 579	Oct-2
+T20	Prokaryote 598 611	tester strain
+T23	ReporterGene 644 657	reporter gene
+T25	Phenotype 674 683	phenotype
+T26	Cell 691 695	cell
+T27	DNA 732 736	cDNA
+T28	Eukaryote 772 777	human
+T29	Cell 778 789	T-cell line
+T30	Protein 799 804	Oct-2
+T31	Prokaryote 815 828	tester strain
+T32	DNA 912 916	hT86
+T33	ZincCoordinatingDomain 938 949	zinc finger
+T34	Protein 950 957	protein
+T36	Enzyme 981 999	beta-galactosidase
+T37	Protein 1016 1021	Oct-2
+T38	Prokaryote 1032 1045	tester strain
+T40	DNA 1106 1110	hT86
+T42	Protein 1191 1196	Oct-2
+T43	DNA 1243 1246	DNA
+T45	Protein 1267 1272	Oct-2
+T49	Sequence 532 540	sequence
+T50	Sequence 556 572	octamer sequence
+T51	Eukaryote 233 243	eukaryotic

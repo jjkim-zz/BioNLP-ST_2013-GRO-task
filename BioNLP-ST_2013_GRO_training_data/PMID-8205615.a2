@@ -1,0 +1,42 @@
+T2	RegulatoryProcess 40 49	regulates
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:T4
+R1	encodes Arg1:T4 Arg2:T3
+R2	locatedIn Arg1:T5 Arg2:T6
+T7	GeneExpression 217 224	produce
+E2	GeneExpression:T7 hasPatient:T8
+R3	locatedIn Arg1:E2 Arg2:T5
+T13	CellularProcess 316 326	regression
+E3	CellularProcess:T13 
+R4	locatedIn Arg1:E3 Arg2:T12
+T18	RegulatoryProcess 414 423	regulates
+E4	RegulatoryProcess:T18 hasAgent:T16 hasPatient:T20
+R5	locatedIn Arg1:E4 Arg2:T14
+R6	encodes Arg1:T20 Arg2:T19
+T21	BindingOfProteinToDNA 440 447	binding
+E5	BindingOfProteinToDNA:T21 hasAgent:T16 hasPatient:T22
+R8	encodes Arg1:T25 Arg2:T24
+T26	PositiveRegulation 531 541	activation
+E6	PositiveRegulation:T26 hasAgent:T27 hasPatient:T25
+R9	locatedIn Arg1:E6 Arg2:T23
+T28	Decrease 559 566	removal
+E7	Decrease:T28 hasPatient:T32
+R11	hasPart Arg1:T29 Arg2:T32
+T31	BindingToMolecularEntity 586 593	binding
+E8	BindingToMolecularEntity:T31 hasAgent:T32 hasPatient:T30
+R12	locatedIn Arg1:T34 Arg2:T33
+T35	GeneExpression 690 700	expression
+E9	GeneExpression:T35 hasPatient:T36
+T37	CellularDevelopmentalProcess 716 727	development
+E10	CellularDevelopmentalProcess:T37 
+T39	GeneExpression 747 757	expression
+E11	GeneExpression:T39 hasPatient:T38
+T41	CellularProcess 778 788	regression
+E12	CellularProcess:T41 
+R13	locatedIn Arg1:E12 Arg2:T40
+T43	RegulatoryProcess 811 820	regulates
+E13	RegulatoryProcess:T43 hasAgent:T42 hasPatient:T44
+T46	DevelopmentalProcess 887 904	sex determination
+E14	DevelopmentalProcess:T46 
+R14	fromSpecies Arg1:E14 Arg2:T45
+T47	DevelopmentalProcess 106 123	sex determination
+E15	DevelopmentalProcess:T47 

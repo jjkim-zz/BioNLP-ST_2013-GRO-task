@@ -1,0 +1,58 @@
+T1	ProteinDomain 8 18	PDZ domain
+T4	Protein 71 96	heterotrimeric G proteins
+T5	Protein 100 103	Rho
+T9	Protein 139 142	Rho
+T12	CellComponent 273 285	cell surface
+T13	Protein 286 295	receptors
+T14	ProteinDomain 336 347	Dbl domains
+T15	Protein 351 390	Rho guanine nucleotide exchange factors
+T16	Protein 392 396	GEFs
+T17	DNA 408 411	DNA
+T18	Eukaryote 447 452	human
+T19	Protein 453 456	GEF
+T20	Protein 461 464	Rho
+T21	Enzyme 473 480	GTPases
+T22	Protein 568 575	protein
+T23	ProteinDomain 595 607	DH/PH domain
+T24	Protein 636 639	Rho
+T25	Protein 649 653	GEFs
+T26	ProteinDomain 657 667	PDZ domain
+T27	ProteinDomain 671 690	proline-rich domain
+T28	Protein 719 722	Lsc
+T29	Protein 724 735	p115-RhoGEF
+T30	Eukaryote 743 753	Drosophila
+T31	Protein 754 760	RhoGEF
+T32	ProteinDomain 791 793	LH
+T33	Protein 835 845	PDZ-RhoGEF
+T35	Protein 906 909	Rho
+T37	ProteinDomain 963 965	DH
+T38	ProteinDomain 970 979	PH domain
+T39	ProteinDomain 994 1004	PDZ domain
+T40	MutantProtein 1046 1053	mutants
+T41	ProteinDomain 1066 1075	LH domain
+T44	ProteinDomain 1140 1149	LH domain
+T45	ProteinDomain 1199 1208	LH domain
+T49	Protein 1315 1340	heterotrimeric G proteins
+T50	Protein 1342 1347	RGS14
+T51	Protein 1389 1399	PDZ-RhoGEF
+T53	Protein 1451 1460	G protein
+T54	Protein 1483 1493	PDZ-RhoGEF
+T55	Protein 1562 1570	Galpha12
+T56	Protein 1579 1587	Galpha12
+T57	Protein 1592 1600	Galpha13
+T60	ProteinDomain 1648 1657	LH domain
+T61	Protein 1709 1719	PDZ-RhoGEF
+T64	Protein 1747 1750	Rho
+T65	Protein 1754 1762	Galpha12
+T66	Protein 1767 1775	Galpha13
+T67	CellComponent 1873 1885	cell surface
+T68	Protein 1886 1895	receptors
+T69	Protein 1926 1951	heterotrimeric G proteins
+T73	Protein 2031 2039	Galpha12
+T76	Protein 2101 2104	Rho
+T2	Protein 30 64	guanine nucleotide exchange factor
+T3	Protein 105 131	Small GTP-binding proteins
+T6	ProteinDomain 699 703	area
+T43	Protein 1285 1310	GTPase-activating protein
+T46	ProteinComplex 1528 1537	complexes
+T71	Protein 2075 2090	exchange factor

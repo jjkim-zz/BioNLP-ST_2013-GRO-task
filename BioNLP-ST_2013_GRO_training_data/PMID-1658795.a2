@@ -1,0 +1,42 @@
+T8	RegulatoryProcess 179 189	regulation
+E2	RegulatoryProcess:T8 hasPatient:T12
+T11	PositiveRegulation 239 246	induced
+E3	PositiveRegulation:T11 hasPatient:T12
+T20	PositiveRegulation 369 376	induced
+E10	PositiveRegulation:T20 hasPatient:T19
+R7	locatedIn Arg1:E10 Arg2:T22
+R8	locatedIn Arg1:E10 Arg2:T23
+R9	fromSpecies Arg1:T22 Arg2:T21
+R10	hasPart Arg1:T24 Arg2:T25
+T27	BindingOfDNABindingDomainOfProteinToDNA 616 620	bind
+E11	BindingOfDNABindingDomainOfProteinToDNA:T27 hasPatient:T28 hasAgent:T26
+T40	RegulatoryProcess 1038 1048	regulation
+E12	RegulatoryProcess:T40 hasPatient:T42
+T53	RegulatoryProcess 1322 1331	regulated
+E19	RegulatoryProcess:T53 hasPatient:T52
+R15	fromSpecies Arg1:T55 Arg2:T54
+T58	TranscriptionOfGene 1406 1415	expressed
+E20	TranscriptionOfGene:T58 hasPatient:T56
+T61	PositiveRegulation 1450 1457	induced
+E21	PositiveRegulation:T61 hasPatient:T59 hasAgent:E22
+T62	PositiveRegulation 1463 1472	induction
+E22	PositiveRegulation:T62 hasPatient:E23
+T63	CellDifferentiation 1476 1500	terminal differentiation
+E23	CellDifferentiation:T63 
+T68	RegulatoryProcess 1656 1663	control
+E25	RegulatoryProcess:T68 hasAgent:T70 hasPatient:E26
+T69	CellGrowth 1667 1685	cell proliferation
+E26	CellGrowth:T69 
+T2	CellCyclePhaseTransition 252 262	transition
+E1	CellCyclePhaseTransition:T2 
+R3	fromSpecies Arg1:T23 Arg2:T21	
+T5	PositiveRegulation 1136 1147	stimulation
+E4	PositiveRegulation:T5 hasPatient2:E5
+R14	encodes Arg1:T64 Arg2:T65	
+R2	fromSpecies Arg1:T3 Arg2:T4	
+R1	precedes Arg1:E1 Arg2:E3	
+T6	CellGrowth 1126 1135	mitogenic
+E5	CellGrowth:T6 hasPatient:T45 hasPatient2:T46
+T9	CellCyclePhaseTransition 1215 1222	transit
+E6	CellCyclePhaseTransition:T9 
+R5	locatedIn Arg1:T56 Arg2:T55	

@@ -1,0 +1,43 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	fromSpecies Arg1:T3 Arg2:T1
+R3	fromSpecies Arg1:T5 Arg2:T7
+R4	fromSpecies Arg1:T6 Arg2:T7
+R5	fromSpecies Arg1:T9 Arg2:T8
+R6	encodes Arg1:T13 Arg2:T15
+T16	ProteinCatabolism 408 419	degradation
+E2	ProteinCatabolism:T16 hasPatient:T17
+R8	fromSpecies Arg1:T19 Arg2:T18
+T20	GeneExpression 475 484	expressed
+E3	GeneExpression:T20 hasPatient:T19
+R9	locatedIn Arg1:E3 Arg2:T21
+R10	fromSpecies Arg1:T24 Arg2:T23
+R11	hasPart Arg1:T26 Arg2:T25
+T28	Pathway 12 19	pathway
+E5	Pathway:T28 
+T29	Mutation 90 104	Microdeletions
+E6	Mutation:T29 
+R12	locatedIn Arg1:E6 Arg2:T4	
+T12	DevelopmentalProcess 318 329	development
+E1	DevelopmentalProcess:T12 hasPatient:T30 hasAgent:T11
+R13	locatedIn Arg1:T13 Arg2:T31	
+R7	fromSpecies Arg1:T31 Arg2:T14	
+T32	ProteinModification 423 436	ubiquitinated
+E7	ProteinModification:T32 hasPatient:T17
+T33	Mutation 533 541	deletion
+E4	Mutation:T33 
+T34	Disease 542 550	syndrome
+E8	Disease:T34 
+R14	locatedIn Arg1:E4 Arg2:T22	
+T35	Mutation 577 584	deleted
+E9	Mutation:T35 hasPatient:T24
+T37	Mutation 624 632	deletion
+E10	Mutation:T37 
+R15	locatedIn Arg1:E10 Arg2:T36	
+T39	Mutation 781 789	deletion
+E11	Mutation:T39 
+T40	Disease 790 798	syndrome
+E12	Disease:T40 
+R16	locatedIn Arg1:E11 Arg2:T38	
+T44	Mutation 924 932	deletion
+E13	Mutation:T44 
+R17	locatedIn Arg1:E13 Arg2:T43	

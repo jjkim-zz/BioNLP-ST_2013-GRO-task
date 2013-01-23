@@ -1,0 +1,63 @@
+T3	NegativeRegulation 24 34	suppresses
+E1	NegativeRegulation:T3 hasAgent:T1 hasPatient:E2
+T5	GeneExpression 39 49	expression
+E2	GeneExpression:T5 hasPatient:T4
+R1	locatedIn Arg1:E2 Arg2:T6
+R2	fromSpecies Arg1:T8 Arg2:T7
+R3	encodes Arg1:T9 Arg2:T11
+R4	hasPart Arg1:T11 Arg2:T10
+T12	CellularDevelopmentalProcess 186 211	germinal-centre formation
+E3	CellularDevelopmentalProcess:T12 
+T15	CellularDevelopmentalProcess 302 329	germinal-centre development
+E4	CellularDevelopmentalProcess:T15 
+T16	CellularDevelopmentalProcess 334 349	lymphomagenesis
+E5	CellularDevelopmentalProcess:T16 
+T20	NegativeRegulation 450 460	suppresses
+E6	NegativeRegulation:T20 hasAgent:T19 hasPatient:E7
+T21	GeneExpression 465 475	expression
+E7	GeneExpression:T21 hasPatient:T22
+T25	RegulatoryProcess 535 544	modulates
+E8	RegulatoryProcess:T25 hasAgent:T19 hasPatient:E9
+T27	CellDeath 564 583	apoptotic responses
+E9	CellDeath:T27 
+R5	locatedIn Arg1:E9 Arg2:T28
+T30	NegativeRegulation 617 626	represses
+E10	NegativeRegulation:T30 hasAgent:T29 hasPatient:E11
+T32	Transcription 631 644	transcription
+E11	Transcription:T32 hasPatient:T31
+T33	BindingOfProteinToDNA 648 655	binding
+E12	BindingOfProteinToDNA:T33 hasAgent:T29 hasPatient:T34
+R7	hasPart Arg1:T35 Arg2:T36
+R8	hasPart Arg1:T36 Arg2:T34
+T38	GeneExpression 732 742	expression
+E13	GeneExpression:T38 hasPatient:T37
+T41	GeneExpression 801 810	expressed
+E14	GeneExpression:T41 hasPatient:T40
+R9	locatedIn Arg1:E14 Arg2:T39
+T42	NegativeRegulation 812 823	Suppression
+E15	NegativeRegulation:T42 hasPatient:E16
+T44	GeneExpression 832 842	expression
+E16	GeneExpression:T44 hasPatient:T43
+T46	Increase 887 896	increased
+E17	Increase:T46 hasAgent:E15 hasPatient:T48
+R10	encodes Arg1:T47 Arg2:T48
+R11	encodes Arg1:T47 Arg2:T49
+T51	GeneExpression 1023 1033	expression
+E18	GeneExpression:T51 hasPatient:T52
+T54	CellDeath 1069 1078	apoptosis
+E19	CellDeath:T54 
+T59	Mutation 1303 1316	hypermutation
+E20	Mutation:T59 
+T61	CellDeath 1350 1368	apoptotic response
+E21	CellDeath:T61 
+T63	GeneExpression 1418 1428	expression
+E22	GeneExpression:T63 hasPatient:T62
+T64	CellularDevelopmentalProcess 1444 1459	lymphomagenesis
+E23	CellularDevelopmentalProcess:T64 
+T13	Disease 253 268	B-cell lymphoma
+E24	Disease:T13 
+T66	RegulatoryProcess 972 980	response
+E25	RegulatoryProcess:T66 
+T67	CellularProcess 1249 1290	immunoglobulin class switch recombination
+E26	CellularProcess:T67 
+E27	Increase:T46 hasAgent:E15 hasPatient:T49

@@ -1,0 +1,47 @@
+T1	Eukaryote 11 16	human
+T4	Protein 67 79	hLSIRF/hIRF4
+T6	Gene 100 104	gene
+T7	Chromosome 108 116	6p23-p25
+T8	Gene 152 155	IRF
+T10	TranscriptionFactor 182 203	transcription factors
+T13	Gene 250 260	interferon
+T20	Eukaryote 404 410	murine
+T23	Protein 436 442	mLSIRF
+T25	Protein 481 502	B- or T-cell receptor
+T27	Protein 538 543	LSIRF
+T28	Eukaryote 547 552	human
+T29	Cell 553 563	lymphocyte
+T31	DNA 612 616	cDNA
+T32	Eukaryote 625 630	human
+T33	Protein 640 646	hLSIRF
+T34	Protein 649 655	hLSIRF
+T35	Protein 661 668	protein
+T36	AminoAcid 676 687	amino acids
+T37	AminoAcid 768 778	amino acid
+T38	Protein 788 794	mLSIRF
+T39	DNABindingDomainOfProtein 827 845	DNA-binding domain
+T40	Transcript 883 893	transcript
+T42	Tissue 940 946	spleen
+T43	Cell 951 978	peripheral blood lymphocyte
+T44	Protein 980 986	hLSIRF
+T45	MessengerRNA 987 991	mRNA
+T47	Cell 1015 1033	peripheral T cells
+T48	Protein 1057 1072	T-cell receptor
+T49	Tissue 1086 1091	tumor
+T50	Cell 1092 1102	cell lines
+T51	Protein 1115 1121	hLSIRF
+T52	MessengerRNA 1122 1126	mRNA
+T54	Cell 1157 1180	B- but not T-cell lines
+T55	Protein 1195 1201	hLSIRF
+T56	MessengerRNA 1202 1206	mRNA
+T57	Cell 1229 1247	melanoma line G361
+T59	Cell 1275 1286	melanocytes
+T60	Protein 1330 1336	hLSIRF
+T61	Protein 1353 1357	that
+T62	Eukaryote 1363 1368	mouse
+T63	ProteinBindingSiteOfDNA 1433 1451	PU-1-binding motif
+T64	Promoter 1459 1467	promoter
+T65	Gene 1487 1493	hLSIRF
+T67	Chromosome 1508 1516	6p23-p25
+T3	Gene 269 296	interferon stimulated genes
+T5	RegulatoryDNARegion 324 362	interferon stimulated response element

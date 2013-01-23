@@ -1,0 +1,40 @@
+T4	PositiveRegulation 61 70	activated
+E1	PositiveRegulation:T4 hasPatient:T6
+R2	fromSpecies Arg1:T6 Arg2:T5
+R3	locatedIn Arg1:T8 Arg2:T10
+T15	GeneExpression 329 338	expressed
+E2	GeneExpression:T15 hasPatient:T14
+R4	locatedIn Arg1:E2 Arg2:T18
+T17	PositiveRegulation 348 357	activated
+E3	PositiveRegulation:T17 hasAgent:T16 hasPatient:T18
+T19	PositiveRegulation 417 426	activated
+E4	PositiveRegulation:T19 hasPatient:T20
+T21	RegulatoryProcess 439 446	mediate
+E5	RegulatoryProcess:T21 hasPatient:E6
+T34	GeneExpression 961 971	expression
+E8	GeneExpression:T34 hasPatient:T35
+T37	GeneExpression 1022 1032	expression
+E9	GeneExpression:T37 hasPatient:T36
+R5	encodes Arg1:T39 Arg2:T38
+R6	locatedIn Arg1:T39 Arg2:T41
+T40	PositiveRegulation 1082 1091	activated
+E10	PositiveRegulation:T40 hasPatient:T41
+R7	encodes Arg1:T43 Arg2:T44
+T46	NegativeRegulation 1232 1242	inhibition
+E11	NegativeRegulation:T46 hasPatient:T45
+R9	encodes Arg1:T48 Arg2:T47
+R10	locatedIn Arg1:T48 Arg2:T50
+R11	fromSpecies Arg1:T50 Arg2:T49
+T3	CellDeath 41 57	tumor cell lysis
+E12	CellDeath:T3 
+T12	CellDeath 240 256	tumor cell lysis
+E13	CellDeath:T12 
+T22	CellDeath 447 463	tumor cell lysis
+E6	CellDeath:T22 
+R1	locatedIn Arg1:T23 Arg2:T30	
+T51	BindingToProtein 781 792	association
+E14	BindingToProtein:T51 hasPatient:T31 hasPatient2:T33
+T52	SignalingPathway 811 829	signal transducing
+E15	SignalingPathway:T52 
+T54	PositiveRegulation 1218 1228	triggering
+E7	PositiveRegulation:T54 hasPatient:T45

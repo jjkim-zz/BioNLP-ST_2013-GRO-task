@@ -1,0 +1,32 @@
+T1	ProteinDomain 23 30	domains
+T2	Protein 34 39	BRCA1
+T4	ProteinDomain 60 79	ring finger domains
+T5	Protein 83 88	BRCA1
+T6	Protein 93 98	BARD1
+T8	Protein 117 122	BRCA1
+T10	Protein 160 165	BARD1
+T11	Protein 171 191	multidomain proteins
+T13	ProteinDomain 235 260	RING finger motif regions
+T14	Protein 304 315	BRCA1/BARD1
+T16	ProteinDomain 349 367	structural domains
+T18	NucleicAcid 471 483	nucleic acid
+T20	ProteinDomain 525 543	RING finger motifs
+T21	ProteinDomain 580 598	structural domains
+T22	ProteinDomain 623 637	larger domains
+T23	Protein 667 672	BRCA1
+T24	Protein 696 701	BARD1
+T25	ProteinDomain 709 716	domains
+T26	Protein 791 796	BRCA1
+T27	ProteinDomain 797 819	RING finger constructs
+T29	Protein 841 846	BARD1
+T30	Protein 862 878	BRCA1 constructs
+T33	ProteinDomain 977 1004	canonical RING finger motif
+T34	NucleicAcid 1006 1018	Nucleic acid
+T36	ProteinDomain 1063 1082	RING finger domains
+T37	NucleicAcid 1162 1175	nucleic acids
+T38	Protein 1215 1220	BRCA1
+T39	Protein 1225 1230	BARD1
+T40	DNA 1234 1237	DNA
+T44	ProteinDomain 1312 1319	regions
+T45	Protein 1327 1335	proteins
+T46	TranscriptionCofactor 1353 1362	cofactors

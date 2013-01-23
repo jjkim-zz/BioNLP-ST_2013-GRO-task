@@ -1,0 +1,64 @@
+T3	BindingToProtein 52 59	binding
+E1	BindingToProtein:T3 hasPatient:T2
+T5	GeneExpression 100 109	expressed
+E2	GeneExpression:T5 hasPatient:T1
+R1	locatedIn Arg1:E2 Arg2:T7
+T6	PositiveRegulation 113 122	activated
+E3	PositiveRegulation:T6 hasPatient:T7
+R2	locatedIn Arg1:T9 Arg2:T11
+R3	locatedIn Arg1:T10 Arg2:T11
+T13	PositiveRegulation 255 265	activation
+E4	PositiveRegulation:T13 hasAgent:T8 hasPatient:T12
+T14	PositiveRegulation 270 280	triggering
+E5	PositiveRegulation:T14 hasAgent:T8
+T16	GeneExpression 346 355	expressed
+E6	GeneExpression:T16 hasPatient:T15
+R4	locatedIn Arg1:E6 Arg2:T17
+R5	locatedIn Arg1:T18 Arg2:T19
+T20	PositiveRegulation 424 433	activated
+E7	PositiveRegulation:T20 hasPatient:T19 hasAgent:T22
+T24	Transcription 508 519	transcribed
+E8	Transcription:T24 hasPatient:T18
+T31	GeneExpression 650 673	Differential expression
+E9	GeneExpression:T31 
+T33	GeneExpression 754 763	expressed
+E10	GeneExpression:T33 hasPatient:T32
+R8	locatedIn Arg1:E10 Arg2:T37
+T36	PositiveRegulation 794 803	activated
+E11	PositiveRegulation:T36 hasPatient:T37 hasAgent:T35
+T45	BindingToProtein 977 984	binding
+E12	BindingToProtein:T45 hasPatient:T43
+R11	encodes Arg1:T46 Arg2:T47
+T49	GeneExpression 1054 1063	expressed
+E13	GeneExpression:T49 hasPatient:T50
+R12	fromSpecies Arg1:E13 Arg2:T48
+T51	BindingToProtein 1094 1101	binding
+E14	BindingToProtein:T51 hasPatient:T50 hasPatient2:T40
+T53	PositiveRegulation 1157 1170	up-regulation
+E15	PositiveRegulation:T53 hasPatient:T55
+R13	encodes Arg1:T55 Arg2:T54
+R14	locatedIn Arg1:T55 Arg2:T57
+T56	PositiveRegulation 1195 1204	activated
+E16	PositiveRegulation:T56 hasPatient:T57
+T60	RegulatoryProcess 1292 1300	controls
+E17	RegulatoryProcess:T60 hasAgent:T59 hasPatient:E18
+T61	SignalingPathway 1305 1324	signal transduction
+E18	SignalingPathway:T61 
+T63	GeneExpression 1363 1373	expression
+E19	GeneExpression:T63 hasPatient:T64
+R15	locatedIn Arg1:T64 Arg2:T66
+R16	locatedIn Arg1:T64 Arg2:T67
+T65	PositiveRegulation 1399 1408	activated
+E20	PositiveRegulation:T65 hasPatient:T66
+T68	CellGrowth 1480 1493	proliferative
+E21	CellGrowth:T68 hasPatient:T69
+T71	Disease 1583 1596	tumorigenesis
+E22	Disease:T71 
+T72	CellGrowth 1651 1664	proliferative
+E23	CellGrowth:T72 hasPatient:T74
+T73	RegulatoryProcess 1665 1672	control
+E24	RegulatoryProcess:T73 hasPatient:E23
+R6	locatedIn Arg1:T27 Arg2:T30	
+R7	hasPart Arg1:T39 Arg2:T21	
+E25	PositiveRegulation:T20 hasPatient:T19 hasAgent:T23
+E26	PositiveRegulation:T36 hasPatient:T37 hasAgent:T34

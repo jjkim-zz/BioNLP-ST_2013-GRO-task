@@ -1,0 +1,74 @@
+T1	ResponseProcess 2 25	stress response pathway
+E1	ResponseProcess:T1 
+R1	locatedIn Arg1:E1 Arg2:T2
+R2	locatedIn Arg1:E1 Arg2:T3
+R3	locatedIn Arg1:T4 Arg2:T6
+R4	fromSpecies Arg1:T6 Arg2:T5
+T8	ResponseProcess 173 180	respond
+E2	ResponseProcess:T8 
+R5	locatedIn Arg1:E2 Arg2:T7
+R6	locatedIn Arg1:T9 Arg2:T10
+R10	encodes Arg1:T20 Arg2:T21
+R11	fromSpecies Arg1:T20 Arg2:T19
+R12	fromSpecies Arg1:T23 Arg2:T22
+T24	SignalingPathway 452 484	this signal transduction pathway
+E5	SignalingPathway:T24 
+R13	fromSpecies Arg1:E5 Arg2:T25
+R14	hasPart Arg1:T27 Arg2:T28
+R16	hasPart Arg1:T30 Arg2:T32
+R17	fromSpecies Arg1:T30 Arg2:T29
+R18	fromSpecies Arg1:T36 Arg2:T35
+T38	GeneExpression 799 808	expressed
+E6	GeneExpression:T38 hasPatient:T37
+R24	encodes Arg1:T44 Arg2:T45
+R25	fromSpecies Arg1:T44 Arg2:T43
+R27	fromSpecies Arg1:T48 Arg2:T47
+T49	PositiveRegulationOfGeneExpression 1024 1037	Overexpressed
+E7	PositiveRegulationOfGeneExpression:T49 hasPatient:T50
+T51	Localization 1049 1058	localized
+E8	Localization:T51 hasPatient:T50
+R28	locatedIn Arg1:E8 Arg2:T52
+T55	TranscriptionOfGene 1182 1192	Expression
+E9	TranscriptionOfGene:T55 hasPatient:T56
+T57	RegulatoryProcess 1211 1224	autoregulated
+E10	RegulatoryProcess:T57 hasPatient:E9
+T59	PositiveRegulationOfGeneExpression 1303 1317	overexpression
+E11	PositiveRegulationOfGeneExpression:T59 
+T61	PositiveRegulation 1353 1362	activated
+E12	PositiveRegulation:T61 hasAgent:E11 hasPatient:T62
+R29	fromSpecies Arg1:T64 Arg2:T63
+R30	hasPart Arg1:T64 Arg2:T65
+T66	GeneExpression 1442 1452	expression
+E13	GeneExpression:T66 hasPatient:T67
+T68	NegativeRegulation 1533 1540	prevent
+E14	NegativeRegulation:T68 hasAgent:E13 hasPatient:E15
+R31	hasPart Arg1:T71 Arg2:T72
+R32	locatedIn Arg1:T74 Arg2:T73
+T75	PositiveRegulation 1613 1620	induced
+E17	PositiveRegulation:T75 hasAgent:E18 hasPatient:T74
+T76	NegativeRegulation 1624 1634	inhibition
+E18	NegativeRegulation:T76 hasPatient:E19
+T77	CellularMetabolicProcess 1638 1660	N-linked glycosylation
+E19	CellularMetabolicProcess:T77 
+T80	ResponseProcess 1756 1772	response pathway
+E20	ResponseProcess:T80 hasAgent:T79
+R33	locatedIn Arg1:E20 Arg2:T82
+R34	fromSpecies Arg1:T82 Arg2:T81
+T12	PositiveRegulationOfTranscriptionOfGene 254 285	up-regulating the transcription
+E3	PositiveRegulationOfTranscriptionOfGene:T12 hasPatient:T15
+R7	encodes Arg1:T15 Arg2:T13	
+R8	hasPart Arg1:T30 Arg2:T14	
+R9	locatedIn Arg1:E6 Arg2:T16	
+T17	Phosphorylation 848 867	autophosphorylation
+E4	Phosphorylation:T17 
+R15	hasFunction Arg1:T37 Arg2:T31	
+R19	hasFunction Arg1:T37 Arg2:T40	
+T41	Cleavage 915 922	cleaved
+E21	Cleavage:T41 hasPatient:T45
+R20	locatedIn Arg1:E8 Arg2:T53	
+R21	locatedIn Arg1:E8 Arg2:T54	
+T87	RegulationOfTranscription 1385 1408	transcriptional control
+E22	RegulationOfTranscription:T87 hasPatient:T65
+T69	PositiveRegulationOfTranscription 1541 1567	transcriptional activation
+E15	PositiveRegulationOfTranscription:T69 hasPatient:T72
+R22	fromSpecies Arg1:T16 Arg2:T70	

@@ -1,0 +1,50 @@
+T2	Tissue 29 39	pancreatic
+T3	Enzyme 40 57	eIF-2alpha kinase
+T4	Enzyme 59 62	PEK
+T5	Protein 89 101	somatostatin
+T6	Cell 105 122	islet delta cells
+T8	Eukaryote 143 153	eukaryotic
+T9	TranslationFactor 154 190	translation initiation factor-2alpha
+T10	TranslationFactor 192 202	eIF-2alpha
+T14	Enzyme 378 396	eIF-2alpha kinases
+T15	Eukaryote 407 416	mammalian
+T16	RNA 417 436	double-stranded RNA
+T17	Enzyme 447 464	eIF-2alpha kinase
+T18	Enzyme 466 469	PKR
+T19	Enzyme 475 506	heme-regulated inhibitor kinase
+T20	Enzyme 508 511	HRI
+T21	Eukaryote 518 523	yeast
+T22	Enzyme 524 528	GCN2
+T23	Enzyme 593 599	kinase
+T24	Enzyme 601 604	PEK
+T25	Enzyme 646 664	eIF-2alpha kinases
+T27	TranslationFactor 694 704	eIF-2alpha
+T28	Eukaryote 728 733	human
+T29	Enzyme 734 737	PEK
+T31	Enzyme 780 783	PKR
+T32	Enzyme 787 790	HRI
+T33	Enzyme 807 810	PKR
+T34	Enzyme 814 817	HRI
+T36	CatalyticActivity 872 887	kinase activity
+T39	TranslationFactor 983 993	eIF-2alpha
+T40	CatalyticActivity 994 1009	kinase activity
+T41	MutantProtein 1023 1033	mutant PEK
+T44	Cell 1081 1091	Sf-9 cells
+T45	Enzyme 1131 1134	PEK
+T46	MessengerRNA 1135 1139	mRNA
+T48	Tissue 1171 1179	pancreas
+T50	Tissue 1231 1238	tissues
+T51	MessengerRNA 1275 1279	mRNA
+T52	Tissue 1283 1291	pancreas
+T53	Enzyme 1297 1308	PEK protein
+T54	Eukaryote 1330 1335	human
+T55	Tissue 1336 1353	pancreatic islets
+T56	Enzyme 1363 1369	kinase
+T57	Peptide 1388 1400	somatostatin
+T58	Tissue 1404 1414	pancreatic
+T59	Cell 1415 1425	delta cell
+T60	Chemical 1435 1442	hormone
+T61	Enzyme 1449 1452	PEK
+T64	Tissue 1530 1546	pancreatic islet
+T65	Cell 1562 1579	islet delta cells
+T1	MutantProtein 22 28	mutant

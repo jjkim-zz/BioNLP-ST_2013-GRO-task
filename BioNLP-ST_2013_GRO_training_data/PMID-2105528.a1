@@ -1,0 +1,26 @@
+T1	TranscriptionFactor 13 34	transcription factors
+T3	Gene 49 63	immunoglobulin
+T4	Enhancer 64 72	enhancer
+T5	DNARegion 73 94	microE5/kappa 2 motif
+T6	Protein 112 126	immunoglobulin
+T7	Peptide 127 132	heavy
+T8	Peptide 137 154	kappa light chain
+T9	Gene 155 159	gene
+T10	Enhancer 160 169	enhancers
+T12	Protein 245 253	proteins
+T13	DNA 259 277	complementary DNAs
+T14	Protein 304 312	proteins
+T15	TranscriptionFactor 322 327	ITF-1
+T16	TranscriptionFactor 332 337	ITF-2
+T18	Cell 374 378	cell
+T20	DNARegion 398 419	microE5/kappa 2 motif
+T21	Peptide 434 439	heavy
+T22	Peptide 444 461	kappa light chain
+T23	Enhancer 462 471	enhancers
+T24	DNA 477 495	complementary DNAs
+T25	Gene 525 530	genes
+T26	TranscriptionFactor 541 546	ITF-1
+T27	TranscriptionFactor 551 556	ITF-2
+T28	Protein 608 616	proteins
+T30	bHLH 666 689	helix-loop-helix motifs
+T31	ProteinDomain 720 726	domain

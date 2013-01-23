@@ -1,0 +1,52 @@
+T1	ProteinSubunit 43 50	subunit
+T2	Enzyme 54 92	protein serine/threonine phosphatase 4
+T3	ProteinSubunit 98 115	catalytic subunit
+T4	Enzyme 119 157	protein serine/threonine phosphatase 4
+T5	ProteinSubunit 159 163	PP4C
+T6	AminoAcid 186 196	amino acid
+T7	ProteinSubunit 213 230	catalytic subunit
+T8	Enzyme 234 256	protein phosphatase 2A
+T9	ProteinSubunit 258 263	PP2AC
+T10	Enzyme 294 297	PP4
+T11	Enzyme 338 342	PP2A
+T12	ProteinSubunit 343 362	regulatory subunits
+T13	Holoenzyme 407 422	PP4 holoenzymes
+T14	Enzyme 445 457	putative PP4
+T15	ProteinSubunit 458 477	regulatory subunits
+T16	Enzyme 479 482	PP4
+T17	Eukaryote 501 507	bovine
+T18	Tissue 508 514	testis
+T19	Enzyme 533 536	PP4
+T20	Enzyme 663 674	PP4 complex
+T21	Protein 827 835	proteins
+T22	Enzyme 841 844	PP4
+T23	ProteinSubunit 845 862	catalytic subunit
+T24	Protein 870 877	protein
+T25	Protein 967 985	associated protein
+T26	ProteinSubunit 994 999	PP4R1
+T27	ProteinSubunit 1005 1009	PP4C
+T28	ProteinComplex 1090 1097	complex
+T29	ProteinSubunit 1131 1135	PP4C
+T30	ProteinSubunit 1150 1155	PP4R1
+T31	AminoAcid 1158 1168	Amino acid
+T32	Peptide 1201 1209	peptides
+T33	Protein 1235 1242	protein
+T34	Eukaryote 1269 1274	human
+T35	DNA 1275 1279	cDNA
+T36	AminoAcid 1313 1323	amino acid
+T38	Protein 1411 1415	PP2A
+T39	ProteinSubunit 1417 1422	PP2AA
+T40	ProteinSubunit 1429 1434	PP4R1
+T41	DNA 1435 1439	cDNA
+T44	Cell 1501 1513	COS M6 cells
+T45	Protein 1518 1522	PP4C
+T47	Protein 1561 1566	PP4R1
+T48	Enzyme 1605 1608	PP4
+T49	ProteinComplex 1627 1639	core complex
+T50	Enzyme 1643 1647	PP2A
+T53	ProteinComplex 552 561	complexes
+T37	ProteinSubunit 1398 1407	A subunit
+T42	BindingAssay 1465 1483	N-terminal Myc tag
+T46	BindingAssay 1523 1544	co-immunoprecipitated
+T54	ProteinSubunit 1673 1690	catalytic subunit
+T51	ProteinSubunit 1697 1728	"PP2AA-like" structural subunit

@@ -1,0 +1,36 @@
+T1	Protein 0 5	NKp44
+T2	Protein 20 28	receptor
+T5	Eukaryote 71 76	human
+T6	Cell 77 97	natural killer cells
+T7	Protein 124 138	immunoglobulin
+T8	Protein 160 169	receptors
+T10	Cell 198 200	NK
+T13	Protein 297 306	receptors
+T14	Protein 308 313	NKp44
+T16	Protein 342 346	IL-2
+T18	Cell 358 366	NK cells
+T20	Cell 427 435	NK cells
+T24	Protein 507 512	NKp44
+T25	DNA 537 541	cDNA
+T26	Protein 557 562	NKp44
+T27	Protein 588 600	glycoprotein
+T28	Protein 618 632	Immunoglobulin
+T29	ProteinDomain 685 698	V-type domain
+T31	Protein 796 801	NKp44
+T35	Protein 975 980	NKp44
+T36	Protein 1008 1013	NKp44
+T38	Protein 1038 1043	NKp44
+T39	Transcript 1044 1055	transcripts
+T41	Cell 1092 1100	NK cells
+T42	Cell 1143 1156	T lymphocytes
+T43	Gene 1165 1170	genes
+T44	Protein 1188 1197	receptors
+T45	Cell 1210 1217	NK cell
+T47	Protein 1248 1253	NKp44
+T48	Gene 1254 1258	gene
+T49	Eukaryote 1265 1270	human
+T50	Chromosome 1271 1281	chromosome
+T23	AminoAcid 704 729	charged amino acid lysine
+T30	CellComponent 737 757	transmembrane region
+T33	Protein 889 902	(KARAP)/DAP12
+T53	Protein 1126 1141	TCR-gamma/delta

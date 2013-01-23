@@ -1,0 +1,42 @@
+T1	Protein 30 35	IFI16
+T2	Protein 48 53	BRCA1
+T3	Protein 65 72	protein
+T4	Protein 89 92	p53
+T7	Protein 135 140	IFI16
+T8	Protein 146 151	BRCA1
+T9	Protein 163 170	protein
+T10	Protein 183 186	p53
+T13	Protein 207 212	IFI16
+T14	ProteinDomain 226 249	Pyrin/PAAD/DAPIN domain
+T16	Protein 291 299	proteins
+T17	Protein 301 306	BRCA1
+T19	Protein 340 345	IFI16
+T20	ProteinDomain 346 358	Pyrin domain
+T21	Protein 385 390	IFI16
+T23	CellComponent 412 423	nucleoplasm
+T24	Nucleus 428 436	nucleoli
+T25	Protein 454 459	IFI16
+T26	Protein 543 558	wild-type BRCA1
+T27	Protein 568 573	IFI16
+T28	Nucleus 574 581	nuclear
+T31	Protein 648 653	IFI16
+T32	Protein 658 663	BRCA1
+T34	DNA 673 676	DNA
+T38	Eukaryote 705 710	mouse
+T39	Cell 711 732	embryonic fibroblasts
+T40	MutatedProtein 738 750	BRCA1 mutant
+T41	Eukaryote 751 755	mice
+T43	Protein 767 780	wild-type p53
+T44	OrganicChemical 873 885	tetracycline
+T46	Protein 894 899	IFI16
+T49	Virus 940 950	adenovirus
+T50	Protein 951 954	p53
+T52	DNA 972 975	DNA
+T54	Protein 984 987	p53
+T55	Cell 998 1006	EJ cells
+T56	Protein 1033 1038	BRCA1
+T57	Protein 1039 1044	IFI16
+T58	Protein 1053 1056	p53
+T60	DNA 1082 1085	DNA
+T63	Protein 16 21	Pyrin
+T66	Cell 493 518	HCC1937 BRCA1 mutant cell

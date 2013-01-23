@@ -1,0 +1,32 @@
+T1	Enzyme 12 15	MST
+T2	TranscriptionFactor 16 20	FOXO
+T5	OxidativeStress 48 64	oxidative-stress
+T7	OxidativeStress 98 114	Oxidative stress
+T10	OxidativeStress 213 229	oxidative stress
+T11	Enzyme 285 304	protein kinase MST1
+T13	OxidativeStress 314 330	oxidative-stress
+T16	Cell 371 378	neurons
+T19	TranscriptionFactor 406 432	FOXO transcription factors
+T20	Enzyme 434 438	MST1
+T22	TranscriptionFactor 454 467	FOXO proteins
+T23	ForkheadWingedHelix 499 514	forkhead domain
+T26	Protein 552 567	14-3-3 proteins
+T28	TranscriptionFactor 578 582	FOXO
+T29	Nucleus 583 590	nuclear
+T33	Cell 640 647	neurons
+T34	Enzyme 668 671	MST
+T35	TranscriptionFactor 672 676	FOXO
+T37	Eukaryote 695 704	nematodes
+T38	ExperimentalMethod 706 715	Knockdown
+T39	Eukaryote 723 733	C. elegans
+T40	Enzyme 734 738	MST1
+T41	Enzyme 748 753	CST-1
+T44	Tissue 789 795	tissue
+T51	Enzyme 874 879	cst-1
+T53	Gene 920 926	daf-16
+T54	TranscriptionFactor 971 997	FOXO transcription factors
+T55	Enzyme 1047 1051	MST1
+T56	Enzyme 1066 1069	MST
+T57	Enzyme 1070 1077	kinases
+T59	OxidativeStress 1163 1179	oxidative stress
+T17	Eukaryote 361 370	mammalian

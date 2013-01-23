@@ -1,0 +1,27 @@
+T1	TranscriptionFactor 0 5	NF-AT
+T13	TranscriptionFactor 181 186	NF-AT
+T14	Cell 214 224	lymphocyte
+T15	Protein 237 241	CAML
+T16	Protein 243 283	calcium-modulator and cyclophilin ligand
+T18	Protein 311 316	NF-AT
+T21	Cell 350 364	Jurkat T cells
+T24	Protein 468 472	CAML
+T27	Protein 536 540	TACI
+T28	Protein 542 585	transmembrane activator and CAML-interactor
+T29	CellComponent 595 602	surface
+T30	Cell 618 630	Jurkat cells
+T31	Protein 636 640	TACI
+T32	Protein 650 660	antibodies
+T34	TranscriptionFactor 686 707	transcription factors
+T35	TranscriptionFactor 708 713	NF-AT
+T36	TranscriptionFactor 715 719	AP-1
+T37	TranscriptionFactor 725 733	NFkappaB
+T38	Protein 735 739	TACI
+T40	Protein 762 767	NF-AT
+T44	Protein 846 850	CAML
+T4	Protein 61 91	tumor necrosis factor receptor
+T5	Protein 30 53	CAML-interacting member
+T6	TranscriptionFactor 123 179	nuclear factor of activated T cells transcription factor
+T7	Protein 382 412	tumor necrosis factor receptor
+T9	Protein 496 523	lymphocyte-specific protein
+T10	MutantProtein 816 827	CAML mutant

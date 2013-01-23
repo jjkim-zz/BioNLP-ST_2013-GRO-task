@@ -1,0 +1,63 @@
+T1	Protein 4 36	fragile X-related proteins FXR1P
+T2	Protein 41 46	FXR2P
+T3	Nucleus 68 77	nucleolar
+T5	Virus 113 118	HIV-1
+T8	Protein 191 227	fragile X mental-retardation protein
+T9	Protein 229 233	FMRP
+T10	Protein 236 240	FMRP
+T11	Protein 249 283	fragile X-related proteins 1 and 2
+T13	Protein 285 290	FXR1P
+T14	Protein 295 300	FXR2P
+T15	Gene 309 320	gene family
+T16	RNA 359 362	RNA
+T18	Ribosome 372 385	polyribosomal
+T20	CellComponent 402 419	nucleocytoplasmic
+T22	Protein 466 470	FMRP
+T23	Protein 475 480	FXR1P
+T25	CellComponent 497 506	cytoplasm
+T26	CellComponent 511 522	nucleoplasm
+T27	Protein 530 535	FXR2P
+T29	CellComponent 553 562	cytoplasm
+T30	CellComponent 567 576	nucleolus
+T31	Nucleus 582 589	nuclear
+T32	CellComponent 594 603	nucleolar
+T34	Protein 634 642	proteins
+T35	Protein 689 694	FXR2P
+T36	AminoAcid 747 758	amino acids
+T37	CellComponent 794 803	nucleolar
+T38	Virus 834 839	viral
+T39	Protein 840 851	protein Rev
+T40	Exon 901 905	exon
+T41	Gene 916 925	FXR1 gene
+T42	Exon 932 936	exon
+T44	Protein 1013 1027	FXR1P isoforms
+T45	Protein 1087 1101	FXR1P isoforms
+T46	Nucleus 1205 1212	nuclear
+T49	Lipid 1230 1242	leptomycin-B
+T50	Protein 1249 1254	iso-e
+T51	Protein 1259 1264	iso-f
+T52	CellComponent 1274 1283	nucleolar
+T54	Protein 1314 1319	FXR2P
+T55	Protein 1321 1326	iso-d
+T56	CellComponent 1347 1359	nucleo-plasm
+T57	CellComponent 1372 1380	nucleoli
+T58	Protein 1464 1469	FXR1P
+T59	Eukaryote 1483 1488	human
+T60	Cell 1489 1508	fibroblast cultures
+T62	Protein 1615 1620	FXR2P
+T63	Protein 1625 1630	FXR1P
+T65	Protein 1755 1769	FXR1P isoforms
+T66	Protein 1788 1801	FMRP isoforms
+T67	Protein 1846 1864	family of proteins
+T69	Tissue 1914 1921	tissues
+T70	Peptide 88 94	signal
+T71	Peptide 814 820	signal
+T72	Peptide 822 825	NoS
+T6	Protein 119 138	regulatory proteins
+T73	Peptide 1159 1162	NoS
+T74	Cell 1178 1187	COS cells
+T75	Peptide 1428 1435	peptide
+T76	Peptide 1457 1460	NoS
+T77	Peptide 1683 1686	NoS
+T78	ProteinDomain 1706 1723	C-terminal region
+T79	CellComponent 1517 1526	nucleolar

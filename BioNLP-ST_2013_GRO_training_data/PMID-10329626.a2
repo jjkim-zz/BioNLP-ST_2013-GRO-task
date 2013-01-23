@@ -1,0 +1,83 @@
+T2	PositiveRegulation 18 25	trigger
+E1	PositiveRegulation:T2 hasAgent:T1 hasPatient:E2
+T4	SignalingPathway 36 53	signaling pathway
+E2	SignalingPathway:T4 
+T5	Increase 57 65	inducing
+E3	Increase:T5 hasPatient:E4 hasAgent:T1
+T6	GeneExpression 70 80	expression
+E4	GeneExpression:T6 hasPatient:T7
+T16	RegulatoryProcess 193 200	control
+E5	RegulatoryProcess:T16 hasAgent:T12 hasPatient:E6
+T17	CellGrowth 205 218	proliferation
+E6	CellGrowth:T17 
+R2	locatedIn Arg1:E6 Arg2:T19
+T18	CellDifferentiation 223 238	differentiation
+E7	CellDifferentiation:T18 
+R3	locatedIn Arg1:E7 Arg2:T19
+T21	RegulatoryProcess 327 335	regulate
+E8	RegulatoryProcess:T21 hasAgent:T20 hasPatient:E9
+T22	GeneExpression 340 350	expression
+E9	GeneExpression:T22 
+T28	PositiveRegulation 435 442	induced
+E10	PositiveRegulation:T28 hasPatient:E11 hasAgent:T26
+T30	GeneExpression 451 466	gene expression
+E11	GeneExpression:T30 hasPatient:T29
+R4	encodes Arg1:T32 Arg2:T31
+T33	Increase 567 578	upregulated
+E12	Increase:T33 hasAgent:E13 hasPatient:T32
+T35	PositiveRegulation 603 613	activation
+E13	PositiveRegulation:T35 hasAgent:T34
+T36	NegativeRegulation 634 643	inhibited
+E14	NegativeRegulation:T36 hasPatient:E12 hasAgent:T15
+T38	NegativeRegulation 698 707	inhibitor
+E15	NegativeRegulation:T38 hasAgent:T37 hasPatient:T39
+T41	GeneExpression 735 745	expression
+E16	GeneExpression:T41 hasPatient:T42
+R5	locatedIn Arg1:E16 Arg2:T40
+R6	locatedIn Arg1:E16 Arg2:T45
+T44	GeneExpression 766 776	expressing
+E17	GeneExpression:T44 hasPatient:T43
+R8	locatedIn Arg1:E17 Arg2:T45
+T46	CellularProcess 813 824	interaction
+E18	CellularProcess:T46 hasAgent:E16 hasPatient:T47
+T48	GeneExpression 842 852	expressing
+E19	GeneExpression:T48 hasPatient:T49
+R10	locatedIn Arg1:E19 Arg2:T47
+T51	PositiveRegulation 905 915	initiation
+E20	PositiveRegulation:T51 hasPatient:E21
+T52	SignalingPathway 919 928	signaling
+E21	SignalingPathway:T52 hasAgent:T53
+T54	Increase 966 975	increased
+E22	Increase:T54 hasPatient:T56
+R11	encodes Arg1:T56 Arg2:T55
+R12	locatedIn Arg1:T56 Arg2:T57
+R13	encodes Arg1:T59 Arg2:T58
+R14	locatedIn Arg1:T59 Arg2:T60
+T62	Increase 1123 1132	induction
+E23	Increase:T62 hasAgent:T61
+T64	GeneExpression 1165 1174	expressed
+E24	GeneExpression:T64 hasPatient:T63
+R15	locatedIn Arg1:E24 Arg2:T66
+R16	locatedIn Arg1:T66 Arg2:T65
+T68	GeneExpression 1209 1218	expressed
+E25	GeneExpression:T68 hasPatient:T67
+R17	locatedIn Arg1:E25 Arg2:T66
+T70	PositiveRegulation 1276 1283	trigger
+E26	PositiveRegulation:T70 hasAgent:T69 hasPatient:E27
+T72	SignalingPathway 1294 1311	signaling pathway
+E27	SignalingPathway:T72 
+T73	Increase 1336 1344	inducing
+E28	Increase:T73 hasPatient:E29
+T75	GeneExpression 1353 1368	gene expression
+E29	GeneExpression:T75 hasPatient:T74
+T78	PositiveRegulation 1411 1421	activation
+E30	PositiveRegulation:T78 hasPatient:T77
+T79	CellDifferentiation 1423 1438	differentiation
+E31	CellDifferentiation:T79 
+T82	SignalingPathway 1545 1563	signaling pathways
+E32	SignalingPathway:T82 
+T14	ResponseProcess 398 408	responsive
+E33	ResponseProcess:T14 hasAgent:T24 hasPatient:T23
+E34	RegulatoryProcess:T16 hasAgent:T12 hasPatient:E7
+E35	PositiveRegulation:T28 hasPatient:E11 hasAgent:T27
+E36	Increase:T54 hasPatient:T59

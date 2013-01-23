@@ -1,0 +1,26 @@
+T1	Chromosome 19 30	chromosomal
+T3	Eukaryote 66 71	human
+T4	Gene 72 79	DCAMKL1
+T5	Gene 81 89	KIAA0369
+T6	Gene 107 110	DCX
+T7	Gene 112 116	XLIS
+T8	Eukaryote 119 124	Human
+T9	Gene 125 132	DCAMKL1
+T10	Gene 148 156	KIAA0369
+T11	Gene 176 179	DCX
+T12	Gene 193 197	gene
+T13	Gene 290 297	DCAMKL1
+T15	Gene 341 345	gene
+T16	ProteinComplex 371 386	Ca2+/calmodulin
+T17	Enzyme 397 412	protein kinases
+T19	Eukaryote 500 505	human
+T20	Tissue 506 513	tissues
+T21	Gene 515 522	DCAMKL1
+T22	Exon 547 552	exons
+T23	Exon 691 695	exon
+T25	Gene 719 726	DCAMKL1
+T26	Chromosome 741 751	chromosome
+T27	Gene 827 834	DCAMKL1
+T29	Eukaryote 868 873	human
+T30	Tissue 874 885	fetal brain
+T31	Transcript 897 907	transcript

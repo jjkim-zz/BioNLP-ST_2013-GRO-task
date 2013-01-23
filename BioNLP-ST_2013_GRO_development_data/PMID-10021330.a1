@@ -1,0 +1,40 @@
+T1	Tissue 4 20	surface ectoderm
+T2	Tissue 38 50	nephric duct
+T4	Tissue 64 85	intermediate mesoderm
+T5	Tissue 91 103	nephric duct
+T6	Tissue 117 134	epithelial tubule
+T8	Tissue 157 178	intermediate mesoderm
+T10	Tissue 277 298	intermediate mesoderm
+T11	Tissue 322 334	nephric duct
+T12	Tissue 360 376	surface ectoderm
+T15	Tissue 429 445	surface ectoderm
+T17	Protein 478 483	Sim-1
+T18	Protein 488 493	Pax-2
+T19	MessengerRNA 494 498	mRNA
+T21	Tissue 513 524	mesenchymal
+T24	Tissue 576 588	nephric duct
+T26	Tissue 614 620	kidney
+T28	Tissue 638 654	surface ectoderm
+T30	Protein 665 670	BMP-4
+T32	Protein 737 742	BMP-4
+T34	Tissue 757 779	lateral plate mesoderm
+T35	Protein 795 800	BMP-4
+T36	LivingEntity 816 823	embryos
+T37	Tissue 836 852	surface ectoderm
+T39	Protein 879 884	Sim-1
+T40	Protein 889 894	Pax-2
+T41	MessengerRNA 895 899	mRNA
+T44	Tissue 940 952	nephric duct
+T48	Protein 1006 1011	BMP-4
+T50	Tissue 1045 1061	surface ectoderm
+T51	Tissue 1076 1088	nephric duct
+T54	Tissue 1177 1193	surface ectoderm
+T55	Tissue 1195 1211	lateral mesoderm
+T56	Tissue 1216 1237	intermediate mesoderm
+T57	Tissue 1256 1268	nephric duct
+T9	Tissue 213 223	urogenital
+T22	Tissue 525 537	nephric duct
+T74	Cell 538 549	progenitors
+T43	Tissue 914 926	nephric duct
+T73	Cell 927 938	progenitors
+T60	Tissue 1301 1311	urogenital

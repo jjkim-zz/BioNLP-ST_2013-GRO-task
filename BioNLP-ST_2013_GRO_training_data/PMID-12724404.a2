@@ -1,0 +1,47 @@
+R1	hasPart Arg1:T2 Arg2:T3
+T7	BindingToProtein 283 295	associations
+E1	BindingToProtein:T7 hasPatient:T9 hasPatient2:T8 hasPatient3:T6
+R4	locatedIn Arg1:T12 Arg2:T13
+T23	BindingToProtein 649 659	associated
+E3	BindingToProtein:T23 hasPatient:T22 hasPatient2:T25
+R6	fromSpecies Arg1:T31 Arg2:T30
+T37	BindingOfProteinToDNA 1048 1056	tethered
+E6	BindingOfProteinToDNA:T37 hasAgent:T34 hasPatient:T38
+T39	NegativeRegulation 1078 1088	repression
+E7	NegativeRegulation:T39 
+T41	BindingToProtein 1112 1119	binding
+E8	BindingToProtein:T41 hasAgent:T40
+R7	hasPart Arg1:T43 Arg2:T42
+R8	hasPart Arg1:T44 Arg2:T46
+T48	BindingToProtein 1271 1280	interacts
+E10	BindingToProtein:T48 hasPatient:T49 hasPatient2:T47
+R10	hasPart Arg1:T52 Arg2:T57
+T55	BindingToProtein 1437 1446	interacts
+E12	BindingToProtein:T55 hasPatient:T56 hasPatient2:T36
+T58	RegulatoryProcess 1515 1523	mediates
+E13	RegulatoryProcess:T58 hasAgent:T57 hasPatient:E14
+T59	BindingToProtein 1527 1538	interaction
+E14	BindingToProtein:T59 hasPatient:T60
+T62	BindingToProtein 1638 1646	assembly
+E15	BindingToProtein:T62 hasPatient:T64
+R11	hasFunction Arg1:T64 Arg2:T63
+T65	RegulatoryProcess 1701 1710	mediating
+E16	RegulatoryProcess:T65 hasAgent:T61 hasPatient:E17
+T66	BindingToProtein 1711 1723	interactions
+E17	BindingToProtein:T66 hasPatient:T68 hasPatient2:T67
+T70	BindingToProtein 1807 1811	bind
+E18	BindingToProtein:T70 hasPatient:T71 hasPatient2:T69
+R12	hasPart Arg1:T73 Arg2:T71
+R3	hasPart Arg1:T10 Arg2:T11	
+R5	hasPart Arg1:T31 Arg2:T29	
+R13	fromSpecies Arg1:T27 Arg2:T28	
+R14	hasPart Arg1:T33 Arg2:T32	
+T15	NegativeRegulationOfTranscription 1019 1042	repressed transcription
+E2	NegativeRegulationOfTranscription:T15 
+R16	hasFunction Arg1:T46 Arg2:T16	
+R9	hasFunction Arg1:T54 Arg2:T35	
+R2	hasFunction Arg1:T6 Arg2:T5	
+R17	hasPart Arg1:T36 Arg2:T54	
+R18	hasPart Arg1:T52 Arg2:T36	
+T45	BindingToProtein 1901 1909	assembly
+E4	BindingToProtein:T45 hasPatient:T75 hasPatient2:T74

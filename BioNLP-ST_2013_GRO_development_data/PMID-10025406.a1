@@ -1,0 +1,41 @@
+T2	Enzyme 14 40	histone acetyltransferases
+T3	Enzyme 41 45	p300
+T4	Enzyme 50 54	PCAF
+T5	bHLHTF 62 74	bHLH protein
+T6	Protein 75 80	twist
+T7	Virus 85 95	adenoviral
+T8	Protein 96 107	oncoprotein
+T9	Protein 108 111	E1A
+T10	Enzyme 113 139	Histone acetyltransferases
+T11	Enzyme 141 144	HAT
+T15	Chromatin 229 238	chromatin
+T16	Enzyme 252 256	HATs
+T18	Protein 330 335	Twist
+T20	Enzyme 367 370	HAT
+T21	ProteinDomain 371 378	domains
+T22	Enzyme 382 400	acetyltransferases
+T23	Enzyme 402 406	p300
+T24	Enzyme 411 437	p300/CBP-associated factor
+T25	Enzyme 439 443	PCAF
+T27	Enzyme 475 478	HAT
+T28	Protein 509 514	Twist
+T29	ProteinDomain 528 534	domain
+T31	Enzyme 557 575	acetyltransferases
+T32	ProteinDomain 590 596	domain
+T34	Enzyme 627 631	p300
+T36	Protein 659 664	Twist
+T37	Virus 666 676	Adenovirus
+T38	Protein 677 688	E1A protein
+T39	Protein 711 716	Twist
+T41	Enzyme 735 738	HAT
+T42	Enzyme 753 757	p300
+T43	Enzyme 762 766	PCAF
+T44	Enzyme 831 834	HAT
+T45	ProteinDomain 835 842	domains
+T46	Enzyme 866 883	acetyltransferase
+T48	TranscriptionFactor 914 934	transcription factor
+T49	Virus 941 946	viral
+T50	Protein 947 958	oncoprotein
+T51	CatalyticActivity 479 489	activities
+T52	CatalyticActivity 739 749	activities
+T53	Cell 905 913	cellular

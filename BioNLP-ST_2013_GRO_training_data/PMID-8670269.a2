@@ -1,0 +1,25 @@
+T8	GeneExpression 154 163	expressed
+E1	GeneExpression:T8 hasPatient:T3
+R1	locatedIn Arg1:E1 Arg2:T9
+R2	hasPart Arg1:T10 Arg2:T11
+T12	RegulatoryProcess 236 244	mediates
+E2	RegulatoryProcess:T12 hasAgent:T11 hasPatient:E3
+T14	BindingOfProteinToProteinBindingSiteOfDNA 258 265	binding
+E3	BindingOfProteinToProteinBindingSiteOfDNA:T14 hasPatient:T13
+T16	BindingOfProteinToDNA 273 278	binds
+E4	BindingOfProteinToDNA:T16 hasAgent:T15 hasPatient:T17
+T18	PositiveRegulation 326 335	activates
+E5	PositiveRegulation:T18 hasAgent:T15 hasPatient:E6
+T19	Transcription 336 349	transcription
+E6	Transcription:T19 
+R3	encodes Arg1:T28 Arg2:T26
+R4	encodes Arg1:T28 Arg2:T27
+R5	locatedIn Arg1:T28 Arg2:T25
+T30	RegulatoryProcess 811 817	affect
+E7	RegulatoryProcess:T30 hasAgent:T29 hasPatient:T31
+T34	RNASplicing 3 24	alternatively spliced
+E8	RNASplicing:T34 hasPatient:T1
+T35	RNASplicing 477 498	alternatively spliced
+E9	RNASplicing:T35 hasPatient:T22
+T36	Localization 836 846	recruiting
+E10	Localization:T36 hasPatient:T32

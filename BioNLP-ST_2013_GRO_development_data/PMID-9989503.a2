@@ -1,0 +1,33 @@
+T6	RegulatoryProcess 73 81	mediated
+E1	RegulatoryProcess:T6 hasPatient:E2 hasAgent:T4
+T7	SignalingPathway 82 91	signaling
+E2	SignalingPathway:T7 
+T13	BindingToProtein 311 320	interacts
+E3	BindingToProtein:T13 hasPatient:T14 hasPatient2:T12
+T19	PositiveRegulation 429 437	augments
+E4	PositiveRegulation:T19 hasAgent:T18 hasPatient:E6
+T21	RegulatoryProcess 443 451	mediated
+E5	RegulatoryProcess:T21 hasAgent:T20 hasPatient:E6
+T22	Transcription 452 465	transcription
+E6	Transcription:T22 
+T23	ResponseProcess 469 477	response
+E7	ResponseProcess:T23 hasAgent:T24
+T30	PositiveRegulation 584 592	enhances
+E10	PositiveRegulation:T30 hasAgent:T29 hasPatient:E11
+T31	BindingToProtein 597 608	association
+E11	BindingToProtein:T31 hasPatient:T33 hasPatient2:T34 hasPatient3:T32
+T36	PositiveRegulation 695 702	augment
+E12	PositiveRegulation:T36 hasAgent:T35 hasPatient:E13
+T39	Transcription 732 745	transcription
+E13	Transcription:T39 
+T41	PositiveRegulation 796 806	potentiate
+E14	PositiveRegulation:T41 hasAgent:T40 hasPatient:E15
+T43	Transcription 822 835	transcription
+E15	Transcription:T43 
+T44	PositiveRegulation 866 873	augment
+E16	PositiveRegulation:T44 hasAgent:T40 hasPatient:E17
+T46	Transport 894 905	recruitment
+E17	Transport:T46 hasPatient:T45
+T48	BindingToProtein 192 203	association
+E18	BindingToProtein:T48 hasPatient:T8 hasPatient2:T9
+E8	RegulatoryProcess:T6 hasPatient:E2 hasAgent:T5

@@ -1,0 +1,16 @@
+R1	encodes Arg1:T3 Arg2:T5
+R3	fromSpecies Arg1:T8 Arg2:T7
+R4	locatedIn Arg1:T9 Arg2:T8
+R5	hasPart Arg1:T12 Arg2:T13
+R6	hasPart Arg1:T12 Arg2:T14
+T17	ProteinTransport 585 602	protein secretion
+E1	ProteinTransport:T17 hasAgent:T31
+R7	encodes Arg1:T19 Arg2:T18
+R8	locatedIn Arg1:T19 Arg2:T20
+R9	locatedIn Arg1:T19 Arg2:T21
+R10	locatedIn Arg1:T19 Arg2:T22
+R11	locatedIn Arg1:T19 Arg2:T23
+R12	locatedIn Arg1:T19 Arg2:T24
+R13	locatedIn Arg1:T19 Arg2:T26
+R14	fromSpecies Arg1:T26 Arg2:T25
+R15	locatedIn Arg1:T29 Arg2:T30

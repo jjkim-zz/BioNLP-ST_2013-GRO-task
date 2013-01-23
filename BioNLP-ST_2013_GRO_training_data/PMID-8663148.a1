@@ -1,0 +1,24 @@
+T1	Enzyme 12 24	XPB helicase
+T2	TranscriptionFactor 35 62	repair/transcription factor
+T3	TranscriptionFactor 63 68	TFIIH
+T6	DNA 115 118	DNA
+T8	Enzyme 145 148	XPB
+T9	ProteinSubunit 154 161	subunit
+T10	TranscriptionFactor 175 195	transcription factor
+T11	TranscriptionFactor 196 201	TFIIH
+T15	Gene 347 355	XPB gene
+T20	TranscriptionFactor 481 486	TFIIH
+T21	Cell 492 497	cells
+T23	MutantProtein 568 576	TFIIHmut
+T24	TranscriptionFactor 615 622	TFIIHwt
+T26	TranscriptionFactor 738 745	TFIIHwt
+T27	MutantProtein 747 755	TFIIHmut
+T28	Enzyme 782 794	XPB helicase
+T30	Enzyme 819 827	helicase
+T31	DNA 832 835	DNA
+T32	Enzyme 846 852	ATPase
+T33	MutantProtein 891 922	mutated recombinant XPB protein
+T34	Enzyme 928 931	XPB
+T41	TranscriptionFactor 1302 1322	transcription factor
+T45	CatalyticActivity 795 803	activity
+T46	CatalyticActivity 853 863	activities

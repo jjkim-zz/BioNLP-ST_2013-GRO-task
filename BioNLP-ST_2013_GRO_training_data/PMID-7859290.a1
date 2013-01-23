@@ -1,0 +1,38 @@
+T1	Protein 0 5	OBF-1
+T2	Cell 15 21	B cell
+T3	TranscriptionCoactivator 31 42	coactivator
+T5	Gene 59 73	immunoglobulin
+T6	Promoter 74 82	promoter
+T14	Protein 240 245	Oct-1
+T15	Protein 250 255	Oct-2
+T16	Cell 263 269	B cell
+T17	DNARegion 319 331	octamer site
+T19	Gene 341 360	immunoglobulin gene
+T20	Promoter 361 369	promoter
+T21	Cell 430 436	B cell
+T22	DNA 445 450	cDNAs
+T23	Protein 460 480	Oct-binding factor 1
+T24	Protein 482 487	OBF-1
+T25	Protein 498 505	protein
+T27	Protein 540 545	Oct-1
+T28	Protein 550 555	Oct-2
+T29	Protein 594 599	OBF-1
+T31	ProteinDomain 657 668	POU domains
+T32	Protein 672 677	Oct-1
+T33	Protein 682 687	Oct-2
+T34	Protein 727 732	OBF-1
+T35	MessengerRNA 733 737	mRNA
+T37	Cell 763 767	cell
+T38	Cell 808 815	B cells
+T39	Cell 860 865	cells
+T40	Tissue 869 876	tissues
+T42	Protein 912 917	OBF-1
+T43	Cell 921 931	HeLa cells
+T45	Gene 981 995	immunoglobulin
+T46	Promoter 996 1004	promoter
+T47	DNARegion 1011 1023	octamer site
+T48	Protein 1048 1053	OBF-1
+T49	Cell 1092 1098	B cell
+T50	TranscriptionCoactivator 1108 1143	transcriptional coactivator protein
+T8	Protein 117 141	octamer-binding proteins
+T9	Protein 215 239	octamer-binding proteins

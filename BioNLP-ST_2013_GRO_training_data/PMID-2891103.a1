@@ -1,0 +1,43 @@
+T1	Eukaryote 34 39	human
+T2	Ribosome 40 49	ribosomal
+T3	Protein 50 57	protein
+T4	Gene 58 62	gene
+T7	Cell 112 117;91 96	cells fetal
+T8	Cell 101 117	neoplastic cells
+T10	Virus 172 189	hepatitis B virus
+T11	Virus 224 227	HBV
+T12	Sequence 228 237	sequences
+T13	ChromosomalDNA 256 271	chromosomal DNA
+T14	Cell 275 286	liver cells
+T15	Virus 322 325	HBV
+T16	RegulatoryDNARegion 326 346	regulatory sequences
+T17	Enhancer 358 366	enhancer
+T19	Gene 397 407	host genes
+T20	Gene 429 443	cellular genes
+T22	Virus 499 502	HBV
+T23	Sequence 503 512	sequences
+T24	Cell 516 546	hepatocellular carcinoma cells
+T25	DNA 559 563	cDNA
+T26	Gene 577 581	gene
+T27	Protein 592 599	protein
+T28	Prokaryote 615 622	E. coli
+T29	Protein 623 644	L-3 ribosomal protein
+T31	MessengerRNA 680 684	mRNA
+T33	Ribosome 700 708	ribosome
+T34	Protein 714 721	protein
+T35	DNA 737 741	cDNA
+T37	Nucleus 759 768	nucleolus
+T38	Ribosome 790 799	ribosomes
+T39	Eukaryote 820 829	mammalian
+T40	Protein 843 846	L-3
+T41	Protein 848 852	MRL3
+T43	Protein 873 877	MRL3
+T44	Cell 891 906	colon carcinoma
+T45	Cell 911 930	lymphoma cell lines
+T46	Cell 939 951	normal liver
+T47	Cell 953 961	placenta
+T48	Cell 966 985	diploid fibroblasts
+T49	Cell 1009 1014;1029 1034	fetal liver
+T50	Cell 1023 1034	adult liver
+T51	Protein 1047 1051	MRL3
+T53	Cell 1110 1115	cells

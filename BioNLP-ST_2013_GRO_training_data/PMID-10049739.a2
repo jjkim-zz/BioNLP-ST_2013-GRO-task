@@ -1,0 +1,36 @@
+R1	locatedIn Arg1:T3 Arg2:T2
+R2	fromSpecies Arg1:T3 Arg2:T1
+R3	fromSpecies Arg1:T6 Arg2:T7
+R4	fromSpecies Arg1:T6 Arg2:T8
+R5	fromSpecies Arg1:T6 Arg2:T9
+T13	RegulatoryProcess 207 214	mediate
+E1	RegulatoryProcess:T13 hasAgent:T6 hasPatient:E4
+R6	locatedIn Arg1:T17 Arg2:T19
+R7	fromSpecies Arg1:T19 Arg2:T18
+R11	hasPart Arg1:T25 Arg2:T24
+R12	encodes Arg1:T26 Arg2:T28
+R13	encodes Arg1:T27 Arg2:T28
+T29	TranscriptionOfGene 616 625	expressed
+E2	TranscriptionOfGene:T29 hasPatient:T28
+R14	locatedIn Arg1:E2 Arg2:T30
+R15	locatedIn Arg1:E2 Arg2:T31
+R16	encodes Arg1:T34 Arg2:T35
+T38	NegativeRegulation 958 967	inhibited
+E3	NegativeRegulation:T38 hasPatient:E7 hasAgent:T39
+T50	MetabolicPathway 219 235	coupled exchange
+E4	MetabolicPathway:T50 hasPatient:T14
+R8	encodes Arg1:T22 Arg2:T25	
+R9	encodes Arg1:T23 Arg2:T25	
+R10	locatedIn Arg1:T53 Arg2:T32	
+R17	fromSpecies Arg1:T55 Arg2:T54	
+R18	locatedIn Arg1:T35 Arg2:T55	
+T56	Transport 716 722	uptake
+E5	Transport:T56 hasPatient:T33
+T58	Transport 836 842	uptake
+E6	Transport:T58 hasPatient:T36
+T59	Transport 941 947	Uptake
+E7	Transport:T59 hasPatient:T37
+E8	NegativeRegulation:T38 hasPatient:E7 hasAgent:T40
+E9	NegativeRegulation:T38 hasPatient:E7 hasAgent:T41
+E10	NegativeRegulation:T38 hasPatient:E7 hasAgent:T42
+E11	NegativeRegulation:T38 hasPatient:E7 hasAgent:T43

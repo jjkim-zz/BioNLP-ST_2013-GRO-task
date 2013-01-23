@@ -1,0 +1,51 @@
+T7	BindingOfProteinToDNA 115 126	interaction
+E1	BindingOfProteinToDNA:T7 hasPatient:T8 hasAgent:T5
+T9	Transcription 137 152	Transcriptional
+E2	Transcription:T9 
+T10	ResponseProcess 153 162	responses
+E3	ResponseProcess:T10 hasPatient:E2 hasAgent:T12
+T13	RegulatoryProcess 187 195	mediated
+E4	RegulatoryProcess:T13 hasPatient:E3 hasAgent:E5
+T15	Phosphorylation 208 223	phosphorylation
+E5	Phosphorylation:T15 hasPatient:T14
+T17	Localization 236 249	translocation
+E6	Localization:T17 hasPatient:T18
+R2	locatedIn Arg1:E6 Arg2:T16
+T22	Transcription 384 399	transcriptional
+E7	Transcription:T22 
+T23	ResponseProcess 400 409	responses
+E8	ResponseProcess:T23 hasPatient:E7 hasAgent:T24
+T25	ResponseProcess 444 453	Responses
+E9	ResponseProcess:T25 hasAgent:T26
+T32	FormationOfTranscriptionFactorComplex 560 564	form
+E11	FormationOfTranscriptionFactorComplex:T32 hasPatient:T33
+T37	Homodimerization 635 645	homodimers
+E12	Homodimerization:T37 
+T39	BindingToProtein 697 705	interact
+E13	BindingToProtein:T39 hasPatient:T40 hasPatient2:T36
+T44	Homodimerization 813 822	homodimer
+E14	Homodimerization:T44 
+T45	BindingToProtein 828 837	interacts
+E15	BindingToProtein:T45 hasPatient:T46
+T48	PositiveRegulation 881 889	activate
+E16	PositiveRegulation:T48 hasPatient:E17
+T49	Transcription 890 903	transcription
+E17	Transcription:T49 
+T51	Transcription 966 981	transcriptional
+E18	Transcription:T51 
+R4	hasPart Arg1:T54 Arg2:T52
+R5	hasPart Arg1:T54 Arg2:T53
+R6	hasPart Arg1:T56 Arg2:T55
+T58	Increase 1282 1291	increases
+E19	Increase:T58 hasAgent:T57 hasPatient:E20
+T61	BindingOfProteinToDNA 1352 1364	interactions
+E20	BindingOfProteinToDNA:T61 hasPatient:T60 hasAgent:T59
+R1	hasPart Arg1:T33 Arg2:T31	
+R7	hasPart Arg1:T33 Arg2:T34	
+R3	hasFunction Arg1:T36 Arg2:T42	
+R8	hasPart Arg1:T64 Arg2:T65	
+R9	hasPart Arg1:T64 Arg2:T67	
+R10	hasPart Arg1:T64 Arg2:T68	
+E10	RegulatoryProcess:T13 hasPatient:E3 hasAgent:E6
+E21	BindingOfProteinToDNA:T7 hasPatient:T8 hasAgent:T6
+E22	BindingOfProteinToDNA:T7 hasPatient:T8 hasAgent:T1

@@ -1,0 +1,48 @@
+T1	ProteinSubunit 27 42	cyclin subunits
+T2	Eukaryote 46 51	human
+T3	Protein 52 58	P-TEFb
+T6	Protein 150 192	positive transcription elongation factor b
+T7	Protein 194 200	P-TEFb
+T9	ProteinDomain 233 256	carboxy-terminal domain
+T10	ProteinDomain 258 261	CTD
+T11	ProteinSubunit 278 285	subunit
+T12	RNAPolymeraseII 289 306	RNA polymerase II
+T13	Eukaryote 308 318	Drosophila
+T14	Protein 319 325	P-TEFb
+T17	Enzyme 380 384	CDK9
+T18	Protein 400 406	cyclin
+T19	ProteinSubunit 407 414	subunit
+T20	ProteinSubunit 416 424	cyclin T
+T21	ProteinSubunit 471 486	cyclin subunits
+T22	Eukaryote 490 495	human
+T23	Protein 496 502	P-TEFb
+T24	ProteinSubunit 504 506	T1
+T25	ProteinSubunit 511 513	T2
+T26	ProteinSubunit 516 525	Cyclin T2
+T27	ProteinSubunit 541 544	T2a
+T28	ProteinSubunit 549 552	T2b
+T30	ProteinSubunit 592 601	cyclin T1
+T33	ProteinSubunit 746 755	cyclin T1
+T36	Enzyme 784 788	CDK9
+T37	Enzyme 840 844	CDK9
+T39	ProteinSubunit 872 881	cyclin T1
+T41	ProteinComplex 901 915	CDK9/cyclin T1
+T42	ProteinComplex 917 932	CDK9/cyclin T2a
+T43	ProteinComplex 938 953	CDK9/cyclin T2b
+T44	Cell 966 975	Sf9 cells
+T45	MolecularEntity 986 989	DRB
+T46	CatalyticActivity 1000 1015	kinase activity
+T47	Function 1020 1030	functioned
+T50	ProteinSubunit 1076 1085	cyclin T1
+T53	Enzyme 1117 1121	CDK9
+T54	ProteinSubunit 1149 1166	carboxyl terminus
+T55	Protein 1174 1180	cyclin
+T57	Protein 1213 1219	P-TEFb
+T58	ProteinComplex 1282 1293	CDK9/cyclin
+T60	Virus 1334 1337	CMV
+T61	Promoter 1338 1346	promoter
+T15	Enzyme 355 378	cyclin-dependent kinase
+T16	ProteinSubunit 606 608	T2
+T31	ProteinSubunit 760 762	T2
+T34	ProteinSubunit 885 887	T2
+T40	ProteinSubunit 1089 1091	T2

@@ -1,0 +1,48 @@
+T3	Eukaryote 47 52	chick
+T4	Tissue 53 68	basilar papilla
+T7	Eukaryote 110 115	chick
+T8	Gene 116 120	WDR1
+T10	Eukaryote 163 168	chick
+T11	Tissue 169 184	basilar papilla
+T33	Protein 630 635	actin
+T36	Protein 687 692	actin
+T42	Eukaryote 808 813	chick
+T44	Eukaryote 829 834	mouse
+T45	Protein 835 839	Wdr1
+T46	Eukaryote 844 849	human
+T48	Eukaryote 931 936	chick
+T51	Eukaryote 996 1001	chick
+T52	Tissue 1002 1017	basilar papilla
+T55	Eukaryote 1136 1141	human
+T56	Chromosome 1142 1154	chromosome 4
+T5	Protein 85 104	WD40 repeat protein
+T6	Gene 2 6	gene
+T12	DNA 228 237	WDR1 cDNA
+T13	Protein 261 268	protein
+T14	ProteinDomain 285 297	WD40 repeats
+T17	ProteinDomain 299 305	motifs
+T18	Protein 363 375	WDR1 protein
+T19	Protein 406 426	WD40-repeat proteins
+T20	Eukaryote 430 443	budding yeast
+T21	Eukaryote 445 469	Saccharomyces cerevisiae
+T22	Eukaryote 476 487	slime molds
+T23	Eukaryote 489 513	Dictyostelium discoideum
+T24	Eukaryote 518 539	Physarum polycephalum
+T25	Eukaryote 550 559	roundworm
+T26	Eukaryote 561 583	Caenorhabditis elegans
+T1	Eukaryote 590 595	yeast
+T27	Eukaryote 600 615	P. polycephalum
+T28	Protein 616 624	proteins
+T29	Protein 669 676	protein
+T30	Eukaryote 663 668	chick
+T31	DNA 814 823	WDR1 cDNA
+T34	Eukaryote 751 756	mouse
+T35	Eukaryote 761 766	human
+T38	DNA 767 772	cDNAs
+T39	SequenceHomologyAnalysis 710 739	Sequence database comparisons
+T40	Protein 850 863	WDR1 proteins
+T41	Protein 937 949	WDR1 protein
+T43	RNA 983 986	RNA
+T49	Transcript 1075 1085	transcript
+T50	Tissue 1093 1106	lesioned area
+T53	Gene 1112 1121	WDR1 gene

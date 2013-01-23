@@ -1,0 +1,27 @@
+T1	Enzyme 0 4	Duet
+T2	Enzyme 16 39	serine/threonine kinase
+T8	Enzyme 136 140	Duet
+T9	Enzyme 167 190	serine/threonine kinase
+T15	Enzyme 253 259	kinase
+T16	ProteinDomain 260 266	domain
+T17	Enzyme 270 274	Duet
+T18	Enzyme 303 313	DAP kinase
+T20	Enzyme 349 353	Duet
+T22	ProteinDomain 409 411	DH
+T25	Protein 460 464	Trio
+T26	Protein 469 476	Kalirin
+T27	MessengerRNA 478 487	Trad mRNA
+T29	Tissue 517 532	skeletal muscle
+T30	Enzyme 534 546	Duet protein
+T32	CellComponent 581 593	cytoskeletal
+T33	Enzyme 633 637	Duet
+T34	CellComponent 645 657	cytoskeleton
+T35	Cell 668 672	cell
+T3	ProteinDomain 59 61	DH
+T4	ProteinDomain 88 90	PH
+T5	ProteinIdentification 118 132	identification
+T6	ProteinDomain 206 208	DH
+T7	ProteinDomain 236 238	PH
+T10	ProteinDomain 417 427	PH-domains
+T11	Protein 564 569	actin
+T12	Function 673 681	function

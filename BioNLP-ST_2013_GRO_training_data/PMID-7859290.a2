@@ -1,0 +1,25 @@
+T4	Increase 48 58	stimulates
+E1	Increase:T4 hasAgent:T1 hasPatient:T6
+R1	hasPart Arg1:T5 Arg2:T6
+T7	BindingToProtein 100 111	association
+E2	BindingToProtein:T7 hasPatient:T8
+T18	RegulatoryProcess 332 340	mediated
+E5	RegulatoryProcess:T18 hasAgent:T17 hasPatient:T20
+R2	encodes Arg1:T22 Arg2:T23
+T26	BindingToProtein 524 534	associates
+E6	BindingToProtein:T26 hasPatient:T25 hasPatient2:T27 hasPatient3:T28
+R3	hasPart Arg1:T32 Arg2:T31
+R4	hasPart Arg1:T33 Arg2:T31
+R5	encodes Arg1:T35 Arg2:T34
+T36	TranscriptionOfGene 741 750	expressed
+E8	TranscriptionOfGene:T36 hasPatient:T35
+R6	locatedIn Arg1:E8 Arg2:T37
+R7	locatedIn Arg1:E8 Arg2:T38
+T41	GeneExpression 898 908	expression
+E9	GeneExpression:T41 hasPatient:T42
+R8	locatedIn Arg1:E9 Arg2:T43
+T44	Increase 944 954	stimulates
+E10	Increase:T44 hasAgent:E9 hasPatient:T46
+R9	hasPart Arg1:T45 Arg2:T46
+R10	locatedIn Arg1:T3 Arg2:T2	
+R11	locatedIn Arg1:T50 Arg2:T49	

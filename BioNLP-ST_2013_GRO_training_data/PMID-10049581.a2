@@ -1,0 +1,27 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R3	fromSpecies Arg1:T8 Arg2:T7
+T18	Transcription 598 609	transcribed
+E1	Transcription:T18 
+T19	GeneExpression 732 742	expression
+E2	GeneExpression:T19 hasPatient:T20
+R4	locatedIn Arg1:E2 Arg2:T21
+R5	locatedIn Arg1:E2 Arg2:T26
+R6	hasPart Arg1:T37 Arg2:T36
+R7	fromSpecies Arg1:T40 Arg2:T38
+R8	hasPart Arg1:T41 Arg2:T42
+T44	RegulatoryProcess 1265 1273	modulate
+E3	RegulatoryProcess:T44 hasPatient:E4
+T45	GeneExpression 1274 1289	gene expression
+E4	GeneExpression:T45 
+R2	fromSpecies Arg1:T4 Arg2:T3	
+R9	locatedIn Arg1:T4 Arg2:T6	
+T39	DevelopmentalProcess 1172 1213	vertebrate anteroposterior axis formation
+E5	DevelopmentalProcess:T39 
+T50	CellDifferentiation 1218 1242	cellular differentiation
+E6	CellDifferentiation:T50 
+T52	RegulatoryProcess 1290 1307	controlling early
+E7	RegulatoryProcess:T52 hasAgent:E4 hasPatient:E8
+T53	DevelopmentalProcess 1308 1329	embryonal development
+E8	DevelopmentalProcess:T53 
+T54	Disease 1407 1415	diseases
+E9	Disease:T54 

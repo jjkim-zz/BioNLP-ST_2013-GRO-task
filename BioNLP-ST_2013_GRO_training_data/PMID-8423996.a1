@@ -1,0 +1,22 @@
+T1	Chromosome 0 11	Chromosomal
+T3	Gene 28 33	genes
+T4	TranscriptionFactor 47 68	transcription factors
+T5	TranscriptionFactor 70 75	c-rel
+T6	TranscriptionFactor 77 90	NF-kappa Bp50
+T7	TranscriptionFactor 92 105	NF-kappa Bp65
+T8	TranscriptionFactor 111 117	lyt-10
+T9	ExperimentalMethod 121 155	fluorescence in situ hybridization
+T10	ExperimentalMethod 170 204	fluorescence in situ hybridization
+T11	ExperimentalMethod 206 210	FISH
+T12	Chromosome 231 242	chromosomal
+T13	Gene 258 263	genes
+T14	TranscriptionFactor 277 298	transcription factors
+T15	TranscriptionFactor 299 304	c-rel
+T16	TranscriptionFactor 306 319	NF-kappa Bp50
+T17	TranscriptionFactor 321 334	NF-kappa Bp65
+T18	TranscriptionFactor 340 346	lyt-10
+T19	TranscriptionFactor 388 393	c-rel
+T20	TranscriptionFactor 398 411	NF-kappa Bp50
+T21	TranscriptionFactor 469 475	lyt-10
+T22	TranscriptionFactor 565 578	NF-kappa Bp65
+T23	Chromosome 602 607	11q13

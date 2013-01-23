@@ -1,0 +1,21 @@
+T3	BindingToProtein 29 36	binding
+E1	BindingToProtein:T3 hasAgent2:T2 hasPatient:T4
+R1	fromSpecies Arg1:T6 Arg2:T5
+R2	hasPart Arg1:T6 Arg2:T4
+T8	BindingToProtein 134 141	binding
+E2	BindingToProtein:T8 hasAgent2:T7 hasPatient:T9
+R3	fromSpecies Arg1:T12 Arg2:T10
+R4	hasPart Arg1:T12 Arg2:T9
+R5	fromSpecies Arg1:T18 Arg2:T17
+T27	BindingToProtein 891 903	interactions
+E3	BindingToProtein:T27 hasAgent:T28 hasPatient:T29
+T38	Binding 1452 1459	binding
+E4	Binding:T38 hasPatient:T48
+T39	BindingToProtein 1514 1521	binding
+E5	BindingToProtein:T39 hasPatient:T40 hasPatient2:T41
+R7	hasPart Arg1:T18 Arg2:T16	
+R8	fromSpecies Arg1:T43 Arg2:T44	
+T46	MetabolicPathway 1172 1189	electron transfer
+E6	MetabolicPathway:T46 hasAgent:T34
+T47	MetabolicPathway 1303 1320	electron transfer
+E7	MetabolicPathway:T47 

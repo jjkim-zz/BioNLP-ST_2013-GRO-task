@@ -1,0 +1,46 @@
+T1	Protein 8 18	14-3-3 eta
+T3	Protein 50 73	glucocorticoid receptor
+T6	Protein 131 133	GR
+T7	Nucleus 152 159	nuclear
+T8	Protein 160 180	receptor superfamily
+T10	Function 195 202	effects
+T11	Lipid 206 221	glucocorticoids
+T12	Protein 240 262	14-3-3 family proteins
+T14	Protein 277 279	GR
+T19	MolecularEntity 349 358	molecules
+T23	Cell 412 423	subcellular
+T25	Protein 456 465	chaperone
+T26	Ligand 503 509	ligand
+T29	Protein 535 537	GR
+T30	Enzyme 553 574	ubiquitin-proteasomal
+T33	Enzyme 618 629	proteasomal
+T34	CatalyticActivity 630 638	activity
+T38	Protein 664 666	GR
+T41	Protein 712 714	GR
+T42	Protein 743 752	14-3-3eta
+T43	Lipid 760 774	glucocorticoid
+T45	Protein 835 844	14-3-3eta
+T46	Ligand 848 854	ligand
+T48	Protein 863 865	GR
+T51	Protein 894 903	14-3-3eta
+T54	Protein 945 947	GR
+T55	Protein 967 969	GR
+T56	Cell 985 990	cells
+T57	Protein 1012 1021	14-3-3eta
+T58	Lipid 1055 1069	glucocorticoid
+T59	Protein 1075 1077	GR
+T61	CellComponent 1102 1109	cytosol
+T62	Nucleus 1114 1121	nucleus
+T63	Protein 1138 1140	GR
+T65	Protein 1162 1171	14-3-3eta
+T66	Cell 1175 1185	HeLa cells
+T67	Protein 1187 1196	14-3-3eta
+T69	Ligand 1207 1213	ligand
+T72	Protein 1241 1243	GR
+T73	Protein 1533 1542	14-3-3eta
+T75	Lipid 1584 1598	glucocorticoid
+T79	Protein 1645 1647	GR
+T82	Protein 1677 1679	GR
+T85	Protein 1728 1730	GR
+T2	PositiveTranscriptionRegulator 24 42	positive regulator
+T37	TranscriptionRegulator 1700 1724	transcriptional activity

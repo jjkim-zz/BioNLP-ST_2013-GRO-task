@@ -1,0 +1,33 @@
+R1	locatedIn Arg1:T8 Arg2:T7
+R3	locatedIn Arg1:T11 Arg2:T9
+R4	hasPart Arg1:T11 Arg2:T12
+R5	hasPart Arg1:T11 Arg2:T13
+T19	BindingOfTranscriptionFactorToDNA 484 488	bind
+E1	BindingOfTranscriptionFactorToDNA:T19 hasAgent:T18 hasPatient:T20
+T21	Heterodimerization 505 526	heterodimer formation
+E2	Heterodimerization:T21 hasPatient:T22
+R6	encodes Arg1:T24 Arg2:T25
+R7	hasPart Arg1:T25 Arg2:T26
+T29	Heterodimerization 815 829	heterodimerize
+E3	Heterodimerization:T29 hasPatient:T30
+T32	BindingOfTranscriptionFactorToDNA 862 867	binds
+E4	BindingOfTranscriptionFactorToDNA:T32 hasAgent:T31 hasPatient:T33
+R8	fromSpecies Arg1:T35 Arg2:T34
+R9	hasPart Arg1:T35 Arg2:T36
+R10	hasPart Arg1:T36 Arg2:T33
+T37	PositiveRegulationOfTranscription 924 932	activate
+E5	PositiveRegulationOfTranscription:T37 hasAgent:T31 hasPatient:E6
+T38	Transcription 933 946	transcription
+E6	Transcription:T38 
+R11	encodes Arg1:T40 Arg2:T39
+T41	PositiveRegulationOfTranscriptionOfGene 968 977	expressed
+E7	PositiveRegulationOfTranscriptionOfGene:T41 hasPatient:T40
+R12	locatedIn Arg1:E7 Arg2:T43
+R13	locatedIn Arg1:E7 Arg2:T44
+R14	locatedIn Arg1:E7 Arg2:T45
+R15	fromSpecies Arg1:T43 Arg2:T42
+R19	fromSpecies Arg1:T49 Arg2:T48
+T58	Mutation 1475 1486	duplication
+E9	Mutation:T58 hasPatient:T57
+R2	locatedIn Arg1:T49 Arg2:T47	
+E8	Heterodimerization:T29 hasPatient:T28

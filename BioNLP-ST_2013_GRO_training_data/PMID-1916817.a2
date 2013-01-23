@@ -1,0 +1,31 @@
+R2	encodes Arg1:T2 Arg2:T5
+R3	fromSpecies Arg1:T7 Arg2:T6
+R4	locatedIn Arg1:T9 Arg2:T8
+T10	BindingOfProteinToDNA 122 126	bind
+E3	BindingOfProteinToDNA:T10 hasAgent:T9 hasPatient:T13
+R5	locatedIn Arg1:T13 Arg2:T11
+R6	locatedIn Arg1:T13 Arg2:T12
+T16	BindingOfTFToTFBindingSiteOfDNA 251 262	interaction
+E4	BindingOfTFToTFBindingSiteOfDNA:T16 hasAgent:T15 hasPatient:T19
+R7	fromSpecies Arg1:T18 Arg2:T17
+R8	hasPart Arg1:T18 Arg2:T19
+T21	BindingOfTFToTFBindingSiteOfDNA 349 354	binds
+E5	BindingOfTFToTFBindingSiteOfDNA:T21 hasAgent:T20 hasPatient:T23
+R9	fromSpecies Arg1:T23 Arg2:T22
+T25	RegulatoryProcess 395 403	mediated
+E6	RegulatoryProcess:T25 hasPatient:T24 hasAgent:E7
+T26	CellDifferentiation 425 449	cellular differentiation
+E7	CellDifferentiation:T26 
+T27	SignalingPathway 465 493	signal transduction pathways
+E8	SignalingPathway:T27 
+T29	RegulatoryProcess 538 548	regulation
+E9	RegulatoryProcess:T29 hasAgent:T28 hasPatient:E10
+T30	CellularProcess 560 578	cellular processes
+E10	CellularProcess:T30 
+R10	encodes Arg1:T32 Arg2:T33
+R11	locatedIn Arg1:T32 Arg2:T31
+R12	encodes Arg1:T34 Arg2:T35
+R13	locatedIn Arg1:T34 Arg2:T37
+R14	fromSpecies Arg1:T37 Arg2:T36
+R1	locatedIn Arg1:T2 Arg2:T7	
+E1	RegulatoryProcess:T25 hasPatient:T24 hasAgent:E8

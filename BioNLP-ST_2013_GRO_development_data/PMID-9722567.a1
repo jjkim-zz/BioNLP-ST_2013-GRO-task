@@ -1,0 +1,53 @@
+T1	Eukaryote 4 9	human
+T2	ForkheadWingedHelixTF 10 34	forkhead protein FREAC-2
+T4	ProteinDomain 82 89	domains
+T6	Protein 109 112	TBP
+T7	Protein 117 122	TFIIB
+T8	ForkheadWingedHelixTF 124 152	Forkhead-related activator 2
+T9	ForkheadWingedHelixTF 154 161	FREAC-2
+T10	Eukaryote 168 173	human
+T11	TranscriptionFactor 174 194	transcription factor
+T13	Tissue 208 212	lung
+T14	Tissue 217 225	placenta
+T16	DNARegion 240 252	cis-elements
+T17	Tissue 264 268	lung
+T18	Gene 278 283	genes
+T19	ForkheadWingedHelixTF 317 324	FREAC-2
+T22	ProteinDomain 406 413	domains
+T23	ForkheadWingedHelix 444 471	DNA binding forkhead domain
+T25	ProteinDomain 484 492	domain 1
+T26	AminoAcid 528 539	amino acids
+T27	ForkheadWingedHelixTF 543 550	FREAC-2
+T28	Peptide 566 580	sequence motif
+T30	ProteinDomain 608 614	domain
+T31	ForkheadWingedHelixTF 626 642	forkhead protein
+T32	ForkheadWingedHelixTF 644 651	FREAC-1
+T34	ProteinDomain 664 672	domain 2
+T35	ProteinDomain 706 716	subdomains
+T36	ForkheadWingedHelixTF 744 759	FREAC-2 protein
+T37	ForkheadWingedHelixTF 761 768	FREAC-2
+T39	Protein 805 808	TBP
+T40	Protein 813 818	TFIIB
+T41	ProteinBindingSiteOfProtein 824 835	target site
+T42	ForkheadWingedHelixTF 840 847	FREAC-2
+T43	Protein 851 854	TBP
+T45	ProteinDomain 901 912	core domain
+T46	Protein 916 919	TBP
+T47	Protein 921 926	TFIIB
+T49	ForkheadWingedHelixTF 933 940	FREAC-2
+T50	ProteinDomain 976 992	globular domains
+T51	ProteinDomain 998 1002	part
+T52	ForkheadWingedHelixTF 1006 1013	FREAC-2
+T54	Protein 1025 1028	TBP
+T55	AminoAcid 1046 1057	amino acids
+T56	ForkheadWingedHelix 1087 1102	forkhead domain
+T57	ForkheadWingedHelixTF 1142 1159	forkhead proteins
+T59	Protein 1207 1210	TBP
+T60	TranscriptionFactor 1261 1282	transcription factors
+T62	Protein 1302 1307	TFIIB
+T64	ForkheadWingedHelixTF 1334 1341	FREAC-2
+T65	ForkheadWingedHelixTF 1371 1378	FREAC-2
+T67	ProteinDomain 1390 1397	domains
+T68	Nucleus 1399 1406	Nuclear
+T70	ForkheadWingedHelixTF 1423 1430	FREAC-2
+T71	ForkheadWingedHelix 1486 1501	forkhead domain

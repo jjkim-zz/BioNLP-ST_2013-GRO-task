@@ -1,0 +1,22 @@
+R1	encodes Arg1:T1 Arg2:T4
+R2	hasPart Arg1:T5 Arg2:T6
+R3	hasPart Arg1:T5 Arg2:T8
+R4	hasPart Arg1:T7 Arg2:T6
+R5	encodes Arg1:T9 Arg2:T12
+R7	hasPart Arg1:T14 Arg2:T15
+R8	hasPart Arg1:T14 Arg2:T13
+T18	GeneExpression 435 444	expressed
+E1	GeneExpression:T18 hasPatient:T17
+R9	locatedIn Arg1:E1 Arg2:T19
+T21	Transcription 514 529	transcriptional
+E2	Transcription:T21 
+T22	RegulatoryProcess 530 540	regulation
+E3	RegulatoryProcess:T22 hasPatient:E2
+R11	hasPart Arg1:T25 Arg2:T24
+R12	hasPart Arg1:T26 Arg2:T25
+T33	RegulatoryProcess 865 875	controlled
+E4	RegulatoryProcess:T33 hasPatient:E5
+T34	GeneExpression 876 886	expression
+E5	GeneExpression:T34 hasPatient:T35
+R6	hasPart Arg1:T20 Arg2:T31	
+R10	hasPart Arg1:T20 Arg2:T32	

@@ -1,0 +1,40 @@
+T1	Protein 6 13	protein
+T2	ProteinDomain 28 38	SH2 domain
+T4	Enzyme 53 64	JAK kinases
+T7	Cell 107 112	cells
+T9	Protein 147 164	secreted proteins
+T10	Protein 174 183	cytokines
+T11	Protein 185 194	Cytokines
+T13	CellComponent 244 256	cell-surface
+T14	Protein 257 266	receptors
+T16	Enzyme 319 329	JAK family
+T20	Protein 363 371	Cytokine
+T22	Protein 380 388	receptor
+T25	Enzyme 429 433	JAKs
+T26	AminoAcid 441 449	tyrosine
+T30	Protein 532 551	signalling proteins
+T31	Protein 578 589	STAT family
+T32	TranscriptionFactor 593 614	transcription factors
+T33	ProteinComplex 623 639	receptor complex
+T34	ProteinDomain 703 713	SH2-domain
+T35	Protein 725 732	protein
+T36	Protein 734 737	JAB
+T44	ProteinDomain 815 825	JH1 domain
+T45	Protein 827 830	JAB
+T46	Protein 858 861	CIS
+T52	Protein 912 915	JAB
+T53	Enzyme 921 925	Jak1
+T54	Enzyme 927 931	Jak2
+T55	Enzyme 935 939	Jak3
+T60	AminoAcid 1007 1015	tyrosine
+T63	Protein 1050 1055	STATs
+T64	Protein 1057 1060	JAB
+T65	Protein 1065 1068	CIS
+T68	Enzyme 1118 1121	JAK
+T15	Enzyme 333 361	cytoplasmic tyrosine kinases
+T17	ProteinDomain 473 492	cytoplasmic domains
+T18	Protein 750 769	JAK-binding protein
+T19	Enzyme 794 814	Jak2 tyrosine-kinase
+T28	Protein 865 895	cytokine-inducible SH2 protein
+T37	Enzyme 963 978	tyrosine-kinase
+T38	CatalyticActivity 979 987	activity

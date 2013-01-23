@@ -1,0 +1,31 @@
+T1	Eukaryote 0 5	Human
+T2	Enzyme 6 41	geranylgeranyl diphosphate synthase
+T3	DNA 43 47	cDNA
+T8	Enzyme 116 124	GGPPSase
+T10	Chemical 153 157	GGPP
+T11	Protein 210 232	C20-prenylated protein
+T14	CellComponent 274 281	nuclear
+T15	Protein 282 298	hormone receptor
+T16	Eukaryote 314 319	human
+T17	Enzyme 320 328	GGPPSase
+T18	DNA 329 333	cDNA
+T19	Protein 344 351	protein
+T20	AminoAcid 359 370	amino acids
+T21	Eukaryote 420 425	human
+T25	Enzyme 463 470	FPPSase
+T26	Enzyme 477 485	GGPPSase
+T28	Eukaryote 499 515	Escherichia coli
+T29	Chemical 530 534	GGPP
+T30	Chemical 568 571	FPP
+T31	Chemical 576 599	isopentenyl diphosphate
+T32	Eukaryote 605 610	human
+T33	Enzyme 611 619	GGPPSase
+T34	Eukaryote 745 751	bovine
+T35	Tissue 752 757	brain
+T36	Enzyme 758 766	GGPPSase
+T37	Eukaryote 804 810	bovine
+T38	Tissue 811 816	brain
+T39	Enzyme 817 824	FPPSase
+T40	MessengerRNA 892 896	mRNA
+T6	CatalyticActivity 126 135	catalyzes
+T23	CatalyticActivity 516 525	catalyzes

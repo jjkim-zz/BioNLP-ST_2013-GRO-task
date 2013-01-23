@@ -1,0 +1,37 @@
+T4	RegulatoryProcess 54 62	mediates
+E1	RegulatoryProcess:T4 hasAgent:T2 hasPatient:E2
+T5	CellGrowth 63 79	autocrine growth
+E2	CellGrowth:T5 
+T6	CellDifferentiation 84 108	monocyte differentiation
+E3	CellDifferentiation:T6 
+T15	PositiveRegulationOfGeneExpression 244 254	activation
+E5	PositiveRegulationOfGeneExpression:T15 hasAgent:T16 hasPatient:T14
+R4	fromSpecies Arg1:T18 Arg2:T17
+T19	PositiveRegulationOfGeneExpression 373 380	induces
+E6	PositiveRegulationOfGeneExpression:T19 hasAgent:T18 hasPatient:T20
+T21	Mutation 396 405	Mutations
+E7	Mutation:T21 hasPatient:T22
+R5	fromSpecies Arg1:T24 Arg2:T23
+R6	hasPart Arg1:T24 Arg2:T22
+T25	NegativeRegulation 503 511	abrogate
+E8	NegativeRegulation:T25 hasAgent:E7
+T30	CellDifferentiation 609 636	granulocyte differentiation
+E10	CellDifferentiation:T30 
+T31	GeneExpression 638 656	Ectopic expression
+E11	GeneExpression:T31 hasPatient:T32
+R7	locatedIn Arg1:E11 Arg2:T34
+T35	PositiveRegulation 704 711	induces
+E12	PositiveRegulation:T35 hasAgent:E11 hasPatient:T37
+R8	hasFunction Arg1:T36 Arg2:T37
+T44	BindingToProtein 872 881	interacts
+E13	BindingToProtein:T44 hasPatient:T43 hasPatient2:T42 hasPatient3:T41
+T45	CellFateDetermination 901 929	hematopoietic lineage choice
+E14	CellFateDetermination:T45 
+T46	CellDifferentiation 934 949	differentiation
+E15	CellDifferentiation:T46 
+T47	SignalingPathway 955 974	signal transduction
+E16	SignalingPathway:T47 
+R1	fromSpecies Arg1:T11 Arg2:T13	
+T9	SignalingPathway 273 292	signal transduction
+E4	SignalingPathway:T9 
+E9	RegulatoryProcess:T4 hasAgent:T2 hasPatient:E3

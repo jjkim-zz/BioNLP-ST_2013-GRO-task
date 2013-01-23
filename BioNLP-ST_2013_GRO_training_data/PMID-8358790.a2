@@ -1,0 +1,43 @@
+T2	Heterodimerization 6 21	heterodimerizes
+E1	Heterodimerization:T2 hasPatient:T1
+T4	Increase 66 77	accelerates
+E2	Increase:T4 hasPatient:E3 hasAgent:E1
+T5	CellDeath 78 99	programmed cell death
+E3	CellDeath:T5 
+T7	NegativeRegulation 126 133	repress
+E4	NegativeRegulation:T7 hasAgent:T6 hasPatient:E5
+T8	CellDeath 146 170	apoptotic death programs
+E5	CellDeath:T8 
+T11	BindingToProtein 246 256	interacted
+E6	BindingToProtein:T11 hasPatient:T10 hasPatient2:T12
+R1	hasPart Arg1:T19 Arg2:T20
+T21	RNASplicing 501 525	alternative RNA splicing
+E7	RNASplicing:T21 hasPatient:T19
+T24	Heterodimerization 622 635	homodimerizes
+E8	Heterodimerization:T24 hasPatient:T25
+T26	PositiveRegulationOfGeneExpression 679 692	Overexpressed
+E9	PositiveRegulationOfGeneExpression:T26 hasPatient:T27
+T28	Increase 697 708	accelerates
+E10	Increase:T28 hasAgent:E9 hasPatient:E11
+T29	CellDeath 709 724	apoptotic death
+E11	CellDeath:T29 
+T30	PositiveRegulation 725 732	induced
+E12	PositiveRegulation:T30 hasAgent:T31
+R2	locatedIn Arg1:E12 Arg2:T33
+T34	PositiveRegulationOfGeneExpression 789 802	Overexpressed
+E13	PositiveRegulationOfGeneExpression:T34 hasPatient:T35
+T36	Decrease 812 820	counters
+E14	Decrease:T36 hasAgent:E13 hasPatient:T37
+R3	hasFunction Arg1:T38 Arg2:T37
+T41	Affecting 922 932	determines
+E15	Affecting:T41 hasPatient:E17 hasAgent:T40
+T43	CellDeath 945 950	death
+E17	CellDeath:T43 
+R4	locatedIn Arg1:T44 Arg2:T18	
+R5	locatedIn Arg1:T44 Arg2:T22	
+T42	CellDeath 964 973	apoptotic
+E16	CellDeath:T42 
+E18	Heterodimerization:T2 hasPatient:T3
+E19	Heterodimerization:T24 hasPatient:T23
+E20	Affecting:T41 hasPatient:E17 hasAgent:T39
+E21	Increase:T4 hasPatient:E3 hasAgent:E18

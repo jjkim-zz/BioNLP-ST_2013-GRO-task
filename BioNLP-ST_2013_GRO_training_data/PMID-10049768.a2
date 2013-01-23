@@ -1,0 +1,32 @@
+T3	Transcription 33 42	expressed
+E1	Transcription:T3 hasPatient:T1
+T11	RegulationOfGeneExpression 285 298	dosage effect
+E2	RegulationOfGeneExpression:T11 hasPatient:T10
+T13	SignalingPathway 322 340	signaling pathways
+E3	SignalingPathway:T13 
+R4	hasPart Arg1:T17 Arg2:T16
+R5	locatedIn Arg1:T18 Arg2:T19
+T26	GeneExpression 673 683	expression
+E4	GeneExpression:T26 hasPatient:T25
+R6	encodes Arg1:T31 Arg2:T30
+R7	encodes Arg1:T31 Arg2:T29
+T34	RegulatoryProcess 983 993	regulation
+E5	RegulatoryProcess:T34 hasAgent:T33 hasPatient:T36
+R9	encodes Arg1:T36 Arg2:T35
+R1	locatedIn Arg1:E1 Arg2:T4	
+R2	locatedIn Arg1:E1 Arg2:T5	
+T37	SignalingPathway 107 125	inhibitory signals
+E6	SignalingPathway:T37 
+T39	Disease 211 228	myeloid neoplasms
+E7	Disease:T39 
+R10	fromSpecies Arg1:E7 Arg2:T8	
+R11	encodes Arg1:T14 Arg2:T15	
+R3	hasPart Arg1:T15 Arg2:T40	
+R12	hasPart Arg1:T40 Arg2:T16	
+R13	locatedIn Arg1:T23 Arg2:T41	
+R14	locatedIn Arg1:T18 Arg2:T23	
+R8	locatedIn Arg1:T31 Arg2:T28	
+T32	CellHomeostasis 1064 1075	homeostasis
+E8	CellHomeostasis:T32 
+T42	Maintenance 1045 1056	maintaining
+E9	Maintenance:T42 hasAgent:T36 hasPatient:E8

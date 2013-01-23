@@ -1,0 +1,75 @@
+T2	RegulatoryProcess 13 26	autoregulates
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:E2
+T3	GeneExpression 31 41	expression
+E2	GeneExpression:T3 hasPatient:T1
+R1	locatedIn Arg1:E2 Arg2:T4
+T7	GeneExpression 140 149	expressed
+E3	GeneExpression:T7 hasPatient:T5
+R2	locatedIn Arg1:E3 Arg2:T8
+R3	locatedIn Arg1:E3 Arg2:T9
+R4	locatedIn Arg1:E3 Arg2:T10
+R5	locatedIn Arg1:E3 Arg2:T11
+R6	locatedIn Arg1:E3 Arg2:T12
+T14	Increase 224 235	upregulated
+E4	Increase:T14 hasPatient:T13
+R7	locatedIn Arg1:E4 Arg2:T15
+R8	locatedIn Arg1:E4 Arg2:T16
+T17	NegativeRegulation 318 328	inhibition
+E5	NegativeRegulation:T17 hasPatient:T19
+R9	locatedIn Arg1:E5 Arg2:T21
+R10	precedes Arg1:E5 Arg2:E4
+R11	hasFunction Arg1:T18 Arg2:T19
+R12	fromSpecies Arg1:T21 Arg2:T20
+T22	Increase 382 399	this upregulation
+E6	Increase:T22 
+T23	NegativeRegulation 400 406	blocks
+E7	NegativeRegulation:T23 hasAgent:E5 hasPatient:E8
+T24	CellularDevelopmentalProcess 407 431	myeloid colony formation
+E8	CellularDevelopmentalProcess:T24 
+T26	GeneExpression 444 454	expression
+E9	GeneExpression:T26 hasPatient:T25
+T27	CellularDevelopmentalProcess 481 506	hematopoietic development
+E10	CellularDevelopmentalProcess:T27 
+R13	hasPart Arg1:T28 Arg2:T29
+R14	fromSpecies Arg1:T31 Arg2:T30
+R15	hasPart Arg1:T31 Arg2:T32
+R16	fromSpecies Arg1:T34 Arg2:T33
+T36	GeneExpression 663 673	expression
+E11	GeneExpression:T36 hasPatient:T35
+R17	locatedIn Arg1:E11 Arg2:T37
+R18	hasPart Arg1:T38 Arg2:T39
+R19	hasPart Arg1:T40 Arg2:T41
+R20	hasPart Arg1:T40 Arg2:T42
+R21	locatedIn Arg1:T47 Arg2:T48
+T49	Mutation 1241 1249	mutation
+E12	Mutation:T49 hasPatient:T50
+T51	NegativeRegulation 1273 1282	abolished
+E13	NegativeRegulation:T51 hasAgent:E12 hasPatient:E14
+T53	BindingOfTFToTFBindingSiteOfDNA 1288 1295	binding
+E14	BindingOfTFToTFBindingSiteOfDNA:T53 hasAgent:T52
+T54	Decrease 1317 1325	decrease
+E15	Decrease:T54 hasPatient:T56
+R23	hasFunction Arg1:T55 Arg2:T56
+T57	Mutation 1348 1356	Mutation
+E16	Mutation:T57 hasPatient:T58
+T60	Decrease 1404 1412	decrease
+E17	Decrease:T60 hasPatient:T62 hasAgent:E16
+R25	locatedIn Arg1:E17 Arg2:T63
+R26	hasFunction Arg1:T61 Arg2:T62
+R27	locatedIn Arg1:T65 Arg2:T67
+R28	locatedIn Arg1:T66 Arg2:T67
+T70	PositiveRegulation 1530 1544	transactivated
+E18	PositiveRegulation:T70 hasAgent:T64 hasPatient:T71
+R29	hasPart Arg1:T71 Arg2:T72
+R30	hasPart Arg1:T73 Arg2:T75
+T74	PositiveRegulation 1623 1631	activate
+E19	PositiveRegulation:T74 hasAgent:T73 hasPatient:T75
+T76	RegulatoryProcess 1664 1683	autoregulatory loop
+E20	RegulatoryProcess:T76 
+R31	hasPart Arg1:T79 Arg2:T80
+R32	locatedIn Arg1:T82 Arg2:T83
+R33	hasFunction Arg1:T82 Arg2:T81
+T77	PositiveRegulation 1685 1708	Positive autoregulation
+E21	PositiveRegulation:T77 hasPatient:T80
+E22	Mutation:T57 hasPatient:T59
+E23	Decrease:T60 hasPatient:T62 hasAgent:E22

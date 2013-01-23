@@ -1,0 +1,37 @@
+T1	DNA 13 24	cDNA clones
+T2	ZincCoordinatingDomain 59 70	zinc finger
+T3	Protein 71 79	proteins
+T5	Eukaryote 97 102	human
+T6	Cell 103 128	monoblast cell line U-937
+T7	BasicDomain 188 199	zinc finger
+T8	Protein 200 208	proteins
+T10	Eukaryote 226 231	human
+T12	Cell 281 291	blood cell
+T14	ZincCoordinatingDomain 365 376	zinc finger
+T15	ProteinDomain 377 391	peptide domain
+T16	DNA 415 426	cDNA clones
+T17	ZincCoordinatingDomain 448 459	zinc finger
+T18	Gene 460 465	genes
+T19	Eukaryote 475 480	human
+T20	Cell 481 506	monoblast cell line U-937
+T21	DNA 575 579	cDNA
+T22	Gene 643 648	genes
+T23	Gene 763 768	genes
+T25	Cell 808 813	U-937
+T26	Cell 818 828	HeLa cells
+T27	Gene 861 866	genes
+T29	ZincCoordinatingDomain 1002 1013	zinc finger
+T30	Gene 1014 1019	genes
+T32	Eukaryote 1055 1060	human
+T33	Tissue 1061 1068	tissues
+T34	Gene 1095 1100	genes
+T39	DNA 1287 1292	cDNAs
+T40	Eukaryote 1382 1387	human
+T41	ZincCoordinatingDomain 1405 1416	zinc finger
+T42	Protein 1417 1425	proteins
+T43	ZincCoordinatingDomain 1462 1474	zinc fingers
+T44	ProteinDomain 1550 1574	carboxy-terminal regions
+T45	Protein 1582 1590	proteins
+T46	ZincCoordinatingDomain 1635 1646	zinc finger
+T47	Gene 1647 1652	genes
+T48	DNARegion 1675 1691	sequence element

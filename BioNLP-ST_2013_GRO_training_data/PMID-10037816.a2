@@ -1,0 +1,49 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T4	CellDeath 58 78	apoptotic cell death
+E1	CellDeath:T4 hasPatient:T5
+T11	GeneExpression 257 267	expression
+E2	GeneExpression:T11 
+R5	locatedIn Arg1:E2 Arg2:T12
+T13	RegulatoryProcess 312 321	regulated
+E3	RegulatoryProcess:T13 hasAgent:E16 hasPatient:E2
+T16	GeneExpression 365 374	expressed
+E4	GeneExpression:T16 hasPatient:T15
+R6	locatedIn Arg1:E4 Arg2:T17
+R7	locatedIn Arg1:E4 Arg2:T18
+T20	GeneExpression 468 478	expression
+E5	GeneExpression:T20 hasPatient:T21
+T23	RegulationOfProcess 514 523	regulated
+E6	RegulationOfProcess:T23 hasPatient:E5 hasAgent:E17
+T27	RegulatoryProcess 648 657	regulated
+E7	RegulatoryProcess:T27 hasPatient:T26
+T28	CellDeath 738 748	cell death
+E8	CellDeath:T28 hasPatient:T29
+T32	NegativeRegulation 863 872	inhibitor
+E9	NegativeRegulation:T32 
+T34	NegativeRegulation 906 916	inhibitors
+E10	NegativeRegulation:T34 
+T37	Increase 977 984	induced
+E11	Increase:T37 hasPatient:T36
+T38	PositiveRegulationOfGeneExpression 1124 1138	overexpression
+E12	PositiveRegulationOfGeneExpression:T38 hasPatient:T39
+T43	Increase 1172 1181	increased
+E13	Increase:T43 hasPatient:E14 hasAgent:E12
+T44	CellDeath 1186 1206	apoptotic cell death
+E14	CellDeath:T44 
+T46	CellDeath 1277 1296	apoptotic processes
+E15	CellDeath:T46 
+R11	locatedIn Arg1:E15 Arg2:T48
+R12	fromSpecies Arg1:T48 Arg2:T47
+R2	fromSpecies Arg1:T8 Arg2:T7	
+R3	locatedIn Arg1:T6 Arg2:T8	
+T9	DevelopmentalProcess 296 311	developmentally
+E16	DevelopmentalProcess:T9 
+T24	CellDeath 535 544	apoptosis
+E17	CellDeath:T24 hasPatient:T10
+T52	CellDeath 1070 1079	apoptotic
+E18	CellDeath:T52 
+T53	SignalingPathway 1080 1089	signaling
+E19	SignalingPathway:T53 hasPatient:E18 hasAgent:T51
+R4	fromSpecies Arg1:T41 Arg2:T40	
+R8	locatedIn Arg1:E12 Arg2:T41	
+E20	SignalingPathway:T53 hasPatient:E18 hasAgent:T50

@@ -1,0 +1,44 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T3	RegulatoryProcess 66 76	regulation
+E1	RegulatoryProcess:T3 hasAgent:T4
+R2	encodes Arg1:T8 Arg2:T9
+T13	Translation 431 453	conceptual translation
+E2	Translation:T13 
+R3	hasPart Arg1:T14 Arg2:T15
+R4	hasPart Arg1:T17 Arg2:T18
+R5	hasPart Arg1:T17 Arg2:T19
+R6	locatedIn Arg1:T25 Arg2:T27
+R7	locatedIn Arg1:T25 Arg2:T28
+R8	locatedIn Arg1:T25 Arg2:T29
+R9	locatedIn Arg1:T27 Arg2:T26
+T31	GeneExpression 1055 1065	expression
+E4	GeneExpression:T31 hasPatient:T30
+R10	locatedIn Arg1:E4 Arg2:T32
+T34	GeneExpression 1145 1155	expressing
+E5	GeneExpression:T34 hasPatient:T35
+T40	RegulatoryProcess 1254 1264	regulation
+E6	RegulatoryProcess:T40 hasPatient:E5
+T41	PositiveRegulation 1279 1288	induction
+E7	PositiveRegulation:T41 hasAgent:T42
+T43	PositiveRegulation 1309 1318	induction
+E8	PositiveRegulation:T43 hasAgent:T44
+T45	NegativeRegulation 1350 1360	repression
+E9	NegativeRegulation:T45 hasAgent:T46
+T49	PositiveRegulation 1454 1466	inducibility
+E10	PositiveRegulation:T49 hasAgent:T48
+R12	hasPart Arg1:T50 Arg2:T51
+T52	BindingOfProteinToDNA 1576 1587	interacting
+E11	BindingOfProteinToDNA:T52 hasAgent:T53 hasPatient:T51
+R13	hasPart Arg1:T14 Arg2:T11	
+R14	hasPart Arg1:T14 Arg2:T16	
+R15	hasPart Arg1:T14 Arg2:T17	
+T54	TranscriptionInitiation 663 682	transcription start
+E12	TranscriptionInitiation:T54 
+R16	hasPart Arg1:T22 Arg2:T23	
+E3	RegulatoryProcess:T3 hasAgent:T6
+E13	GeneExpression:T34 hasPatient:T36
+E14	GeneExpression:T34 hasPatient:T38
+E15	GeneExpression:T34 hasPatient:T21
+E16	RegulatoryProcess:T40 hasPatient:E13
+E17	RegulatoryProcess:T40 hasPatient:E14
+E18	RegulatoryProcess:T40 hasPatient:E15

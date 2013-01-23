@@ -1,0 +1,24 @@
+T1	CellComponent 23 32	lysosomal
+T2	Protein 33 41	proteins
+T5	ProteinSubunit 95 110	beta 3A subunit
+T6	Protein 118 130	AP-3 adaptor
+T9	CellComponent 213 221	lysosome
+T10	CellComponent 230 240	organelles
+T13	ProteinSubunit 319 334	beta 3A subunit
+T14	Protein 342 371	heterotetrameric AP-3 complex
+T15	Cell 387 398	fibroblasts
+T17	Protein 437 441	AP-3
+T20	ProteinSubunit 480 487	beta 3A
+T21	Protein 493 497	AP-3
+T26	Protein 584 588	CD63
+T27	Protein 590 596	lamp-1
+T28	Protein 602 608	lamp-2
+T31	Protein 727 731	AP-3
+T32	ProteinSubunit 732 745	mu 3A subunit
+T34	CellComponent 786 795	lysosomal
+T36	Protein 832 836	AP-3
+T39	CellComponent 869 878	lysosomes
+T40	Eukaryote 907 912	human
+T24	Protein 556 583	lysosomal membrane proteins
+T25	Protein 621 642	nonlysosomal proteins
+T38	Protein 953 979	integral membrane proteins

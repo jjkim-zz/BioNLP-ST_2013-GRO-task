@@ -1,0 +1,40 @@
+T1	Protein 34 40	ARA160
+T4	Eukaryote 109 114	human
+T5	Cell 115 129	prostate cells
+T6	Protein 135 152	androgen receptor
+T7	Protein 154 156	AR
+T8	Protein 177 205	steroid receptor superfamily
+T9	Protein 223 235	coactivators
+T11	Protein 292 294	AR
+T12	Peptide 306 313	peptide
+T13	Eukaryote 339 344	human
+T14	Tissue 345 351	testis
+T15	OrganicChemical 389 397	androgen
+T19	AminoAcid 472 483	amino acids
+T20	Protein 576 582	ARA160
+T21	Virus 619 624	HIV-1
+T24	TranscriptionRegulator 657 660	TMF
+T25	Protein 742 744	AR
+T27	Protein 772 782	ARA160/TMF
+T28	Eukaryote 811 820	mammalian
+T29	OrganicChemical 855 863	androgen
+T32	Protein 914 916	AR
+T33	Protein 921 927	ARA160
+T34	Protein 977 983	ARA160
+T35	Protein 1004 1015	coactivator
+T36	Protein 1020 1022	AR
+T39	Eukaryote 1051 1056	human
+T40	Cell 1057 1083	prostate cancer PC-3 cells
+T46	Protein 1205 1210	ARA70
+T47	Cell 1215 1225	PC-3 cells
+T48	Protein 1263 1269	ARA160
+T49	OrganicChemical 1307 1315	androgen
+T52	Protein 1356 1358	AR
+T2	Protein 54 105	androgen receptor N-terminal-associated coactivator
+T10	Protein 407 446	AR N-terminal-associated protein ARA160
+T17	TranscriptionRegulator 625 655	TATA element modulatory factor
+T18	Sequence 603 611	sequence
+T22	Protein 1120 1145	AR N-terminal coactivator
+T23	Function 1150 1158	function
+T41	Protein 1178 1203	AR C-terminal coactivator
+T42	Protein 1325 1347	N-terminal coactivator

@@ -1,0 +1,33 @@
+T1	Eukaryote 28 33	mouse
+T2	DNA 34 38	cDNA
+T3	DNA 40 44	ES18
+T5	Cell 82 89	T-cells
+T6	DNA 207 212	cDNAs
+T7	Eukaryote 218 223	mouse
+T12	Tissue 271 277	tissue
+T14	DNA 334 339	cDNAs
+T15	DNA 341 345	ES18
+T17	Tissue 378 388	lymph node
+T18	Tissue 393 399	thymus
+T19	TranscriptionRegulator 437 462	transcriptional regulator
+T21	DNA 482 486	ES18
+T22	Transcript 487 497	transcript
+T25	DNA 616 620	ES18
+T26	Transcript 621 631	transcript
+T29	Cell 752 759	T-cells
+T30	DNA 792 796	ES18
+T31	Enzyme 848 862	protein kinase
+T33	Enzyme 891 905	protein kinase
+T35	DNA 957 961	ES18
+T36	Transcript 962 972	transcript
+T39	DNA 1142 1146	ES18
+T40	Eukaryote 1150 1155	mouse
+T45	DNA 1232 1236	ES18
+T47	Eukaryote 1300 1305	mouse
+T48	Cell 1306 1313	T-cells
+T8	Cell 240 242	ES
+T10	Cell 548 568	T-cell thymoma S49.1
+T49	OrganicChemical 825 838	staurosporine
+T50	OrganicChemical 1029 1042	dexamethasone
+T51	OrganicChemical 1048 1061	staurosporine
+T41	Tissue 1156 1171	T-cell lymphoma

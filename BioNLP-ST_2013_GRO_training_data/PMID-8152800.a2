@@ -1,0 +1,55 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	fromSpecies Arg1:T5 Arg2:T4
+R3	fromSpecies Arg1:T6 Arg2:T4
+R4	fromSpecies Arg1:T8 Arg2:T10
+R5	fromSpecies Arg1:T9 Arg2:T10
+T15	BindingOfProteinToDNA 364 371	binding
+E1	BindingOfProteinToDNA:T15 hasPatient:T14
+R6	fromSpecies Arg1:T18 Arg2:T17
+R7	locatedIn Arg1:T19 Arg2:T18
+R8	fromSpecies Arg1:T21 Arg2:T20
+R9	hasPart Arg1:T21 Arg2:T22
+R11	hasPart Arg1:T28 Arg2:T27
+R12	hasPart Arg1:T36 Arg2:T35
+R13	hasPart Arg1:T39 Arg2:T40
+R14	fromSpecies Arg1:T43 Arg2:T42
+T45	BindingOfProteinToDNA 1076 1080	bind
+E3	BindingOfProteinToDNA:T45 hasAgent:T44 hasPatient:T46
+R15	hasPart Arg1:T46 Arg2:T47
+T49	Translation 1222 1233	translation
+E4	Translation:T49 hasPatient:T50
+R16	hasPart Arg1:T51 Arg2:T52
+R17	hasPart Arg1:T52 Arg2:T50
+T54	Binding 1321 1326	binds
+E5	Binding:T54 hasAgent:T53 hasPatient:T55
+T56	GeneExpression 1355 1365	expression
+E6	GeneExpression:T56 
+R18	locatedIn Arg1:E6 Arg2:T57
+T59	GeneExpression 1426 1433	express
+E7	GeneExpression:T59 hasPatient:T60
+T62	GeneExpression 1472 1481	expressed
+E8	GeneExpression:T62 hasPatient:T61
+R19	locatedIn Arg1:E8 Arg2:T64
+R20	fromSpecies Arg1:T64 Arg2:T63
+R21	encodes Arg1:T65 Arg2:T66
+T67	TranscriptionOfGene 1526 1535	expressed
+E9	TranscriptionOfGene:T67 hasPatient:T66
+R22	locatedIn Arg1:E9 Arg2:T68
+R23	locatedIn Arg1:E9 Arg2:T69
+R24	locatedIn Arg1:E9 Arg2:T70
+R25	locatedIn Arg1:E9 Arg2:T71
+R26	locatedIn Arg1:E9 Arg2:T72
+R27	fromSpecies Arg1:T74 Arg2:T73
+T75	TranscriptionOfGene 1668 1675	express
+E10	TranscriptionOfGene:T75 hasPatient:T76
+R28	fromSpecies Arg1:T78 Arg2:T77
+R29	encodes Arg1:T79 Arg2:T81
+R30	encodes Arg1:T80 Arg2:T81
+T82	TranscriptionOfGene 1770 1780	expression
+E11	TranscriptionOfGene:T82 hasPatient:T81
+T84	GeneExpression 1817 1826	expressed
+E12	GeneExpression:T84 hasPatient:T83
+R31	fromSpecies Arg1:T86 Arg2:T85
+R10	hasPart Arg1:T27 Arg2:T25	
+R32	hasPart Arg1:T35 Arg2:T34	
+R33	locatedIn Arg1:E12 Arg2:T86	

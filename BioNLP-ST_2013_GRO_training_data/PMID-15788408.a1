@@ -1,0 +1,56 @@
+T1	Chemical 4 22	oxidative stressor
+T2	Chemical 23 31	arsenite
+T4	Protein 42 76	vascular endothelial growth factor
+T5	MessengerRNA 77 81	mRNA
+T7	TranscriptionFactor 102 106	ATF4
+T8	Tissue 137 144	retinal
+T10	Protein 195 199	VEGF
+T14	Stress 349 365	Oxidative stress
+T15	Tissue 391 405	retinal tissue
+T18	Protein 508 512	VEGF
+T21	Chemical 543 551	Arsenite
+T22	Chemical 570 588	oxidative stressor
+T24	Protein 598 602	VEGF
+T26	Protein 619 629	HIF-1alpha
+T27	AminoAcid 686 698	homocysteine
+T28	CellComponent 703 724	endoplasmic reticulum
+T29	Chemical 725 733	stressor
+T31	Protein 745 749	VEGF
+T34	TranscriptionFactor 805 830	transcription factor ATF4
+T35	TranscriptionFactor 840 844	ATF4
+T37	Stress 873 889	oxidative stress
+T38	TranscriptionFactor 912 916	ATF4
+T40	Protein 952 956	VEGF
+T42	Chemical 986 994	arsenite
+T43	Chemical 1013 1021	arsenite
+T45	Gene 1055 1059	VEGF
+T46	MessengerRNA 1060 1064	mRNA
+T49	Gene 1100 1104	VEGF
+T50	Promoter 1105 1113	promoter
+T51	Chemical 1125 1133	Arsenite
+T53	Protein 1142 1151	eIF2alpha
+T56	TranscriptionFactor 1192 1204	ATF4 protein
+T58	TranscriptionFactor 1237 1241	ATF4
+T60	Protein 1265 1269	VEGF
+T62	Chemical 1282 1290	arsenite
+T64	TranscriptionFactor 1320 1324	ATF4
+T66	Gene 1356 1360	VEGF
+T67	Promoter 1361 1369	promoter
+T68	Chemical 1375 1383	arsenite
+T69	TranscriptionFactor 1410 1414	ATF4
+T71	Promoter 1439 1447	promoter
+T72	ProteinComplex 1451 1458	complex
+T73	TranscriptionFactor 1470 1474	ATF4
+T75	DNARegion 1483 1494	DNA element
+T76	TranscriptionFactor 1523 1527	VEGF
+T77	DNARegion 1528 1552	transcription start site
+T80	Chemical 1595 1603	arsenite
+T81	Chemical 1645 1662	thiol antioxidant
+T82	Chemical 1664 1680	N-acetylcysteine
+T84	Chemical 1707 1715	arsenite
+T85	Protein 1719 1723	VEGF
+T89	Protein 1792 1801	eIF2alpha
+T90	TranscriptionFactor 1806 1818	ATF4 protein
+T92	Chemical 1837 1845	arsenite
+T95	Gene 1871 1875	VEGF
+T97	TranscriptionFactor 1908 1912	ATF4

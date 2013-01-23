@@ -1,0 +1,42 @@
+T2	BindingOfProteinToDNA 70 77	binding
+E1	BindingOfProteinToDNA:T2 hasAgent:T3 hasPatient:T1
+T4	BindingToProtein 131 143	interactions
+E2	BindingToProtein:T4 hasPatient:T5
+T6	RegulationOfGeneExpression 200 210	regulation
+E3	RegulationOfGeneExpression:T6 hasPatient:E4
+T7	GeneExpression 214 229	gene expression
+E4	GeneExpression:T7 
+R1	locatedIn Arg1:E4 Arg2:T8
+T10	NegativeRegulation 290 297	inhibit
+E5	NegativeRegulation:T10 hasAgent:T9 hasPatient:E6
+T12	BindingOfProteinToDNA 306 313	binding
+E6	BindingOfProteinToDNA:T12 hasAgent:T13 hasPatient:T11
+R2	locatedIn Arg1:T16 Arg2:T14
+T19	GeneExpression 580 589	expressed
+E7	GeneExpression:T19 hasPatient:T18
+R3	locatedIn Arg1:E7 Arg2:T20
+T21	NegativeRegulation 612 621	represses
+E8	NegativeRegulation:T21 hasAgent:T18 hasPatient:E9
+T22	GeneExpression 626 636	expression
+E9	GeneExpression:T22 hasPatient:T23
+T24	RegulatoryProcess 662 669	changes
+E10	RegulatoryProcess:T24 hasAgent:T18 hasPatient:T25
+R4	locatedIn Arg1:T25 Arg2:T26
+R5	encodes Arg1:T32 Arg2:T34
+R6	hasPart Arg1:T34 Arg2:T33
+T35	Increase 971 980	derepress
+E11	Increase:T35 hasAgent:T32 hasPatient:T36
+R7	locatedIn Arg1:T36 Arg2:T38
+T39	Transcription 1053 1068	transcriptional
+E12	Transcription:T39 
+T41	Decrease 1111 1121	attenuated
+E13	Decrease:T41 hasAgent:T40 hasPatient:T42
+T44	BindingOfProteinToDNA 1247 1254	binding
+E14	BindingOfProteinToDNA:T44 hasAgent:T45 hasPatient:T43
+T46	BindingToProtein 1339 1367	protein-protein interactions
+E15	BindingToProtein:T46 
+T47	RegulatoryProcess 1373 1379	govern
+E16	RegulatoryProcess:T47 hasAgent:E15 hasPatient:E17
+T48	RegulationOfGeneExpression 1392 1421	regulation of gene expression
+E17	RegulationOfGeneExpression:T48 
+R8	fromSpecies Arg1:T8 Arg2:T51	

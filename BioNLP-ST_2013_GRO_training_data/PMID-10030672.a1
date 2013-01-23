@@ -1,0 +1,39 @@
+T3	Eukaryote 67 77	Drosophila
+T4	Gene 100 118	hyperplastic discs
+T5	Chemical 173 182	progestin
+T7	Gene 193 198	genes
+T8	Cell 202 207	T-47D
+T17	Eukaryote 413 436	Drosophila melanogaster
+T18	Gene 459 477	hyperplastic discs
+T24	MessengerRNA 578 586	EDD mRNA
+T25	Chemical 591 600	progestin
+T27	Cell 612 623	T-47D cells
+T28	Tissue 651 657	testes
+T41	Protein 941 950	ubiquitin
+T49	Protein 1045 1054	ubiquitin
+T50	ProteinDomain 1086 1097	HECT domain
+T51	AminoAcid 1098 1114	cysteine residue
+T52	Gene 1116 1119	EDD
+T59	Eukaryote 1329 1339	Drosophila
+T60	Gene 1341 1344	EDD
+T11	Eukaryote 208 213	human
+T2	Tissue 1305 1318	imaginal disc
+T1	Protein 26 45	HECT family protein
+T12	Eukaryote 20 25	human
+T13	ProteinIdentification 0 14	Identification
+T14	Gene 78 99	tumor suppressor gene
+T15	Cell 214 233	breast cancer cells
+T16	Gene 273 276	EDD
+T19	Gene 437 458	tumor suppressor gene
+T20	Eukaryote 545 548	rat
+T21	Protein 557 576	HECT domain protein
+T22	Protein 813 820	protein
+T23	Gene 744 747	EDD
+T30	Cell 826 836	T-47D cell
+T31	Protein 846 866	HECT family proteins
+T32	Enzyme 879 907	E3 ubiquitin-protein ligases
+T34	Enzyme 1005 1007	E3
+T35	Protein 973 976	EDD
+T36	Protein 1232 1235	EDD
+T37	Chromosome 1145 1160	chromosome 8q22
+T10	Protein 1244 1270	hyperplastic discs protein

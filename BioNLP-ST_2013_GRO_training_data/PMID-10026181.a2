@@ -1,0 +1,43 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T4	CellularMetabolicProcess 88 114	nucleotide excision repair
+E1	CellularMetabolicProcess:T4 
+R2	fromSpecies Arg1:T6 Arg2:T5
+T8	CellularMetabolicProcess 186 212	nucleotide excision repair
+E2	CellularMetabolicProcess:T8 
+T9	Mutation 214 223	Mutations
+E3	Mutation:T9 hasPatient:T10
+T12	Disease 288 305	Cockayne syndrome
+E5	Disease:T12 hasAgent:E3
+R5	hasFunction Arg1:T17 Arg2:T16
+T21	FormationOfProteinDNAComplex 1070 1092	open complex formation
+E6	FormationOfProteinDNAComplex:T21 
+T22	Cleavage 1118 1126	cleavage
+E7	Cleavage:T22 
+R6	hasPart Arg1:T26 Arg2:T27
+T28	BindingToProtein 1513 1521	interact
+E8	BindingToProtein:T28 hasAgent:T27
+T30	Mutation 1598 1606	mutation
+E9	Mutation:T30 hasPatient:T31
+T32	Cleavage 1724 1732	cleavage
+E10	Cleavage:T32 hasPatient:T48
+T34	Cleavage 143 147	cuts
+E11	Cleavage:T34 hasAgent:T6 hasPatient:T7
+T35	Disease 280 282	XP
+E12	Disease:T35 
+T37	ResponseProcess 694 725	cellular resistance to UV light
+E13	ResponseProcess:T37 
+T38	ActivationOfProcess 686 693	restore
+E14	ActivationOfProcess:T38 hasPatient:E13
+T40	Decrease 811 818	reduced
+E15	Decrease:T40 hasAgent:E16 hasPatient:T19
+T41	Mutation 731 749	substitution A792V
+E16	Mutation:T41 hasPatient:T39
+T43	CellularMetabolicProcess 1004 1017	repair system
+E17	CellularMetabolicProcess:T43 
+T44	ActivationOfProcess 1287 1294	restore
+E18	ActivationOfProcess:T44 hasPatient:E19
+T45	ResponseProcess 1295 1308	UV resistance
+E19	ResponseProcess:T45 
+R3	locatedIn Arg1:E19 Arg2:T46	
+T47	Dimerization 1550 1562	dimerization
+E20	Dimerization:T47 hasPatient:T29

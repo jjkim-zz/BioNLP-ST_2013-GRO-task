@@ -1,0 +1,18 @@
+T3	bZIPTF 52 63	bZIP family
+T4	TranscriptionFactor 67 88	transcription factors
+T5	bZIPTF 129 140	bZIP family
+T9	TranscriptionFactor 177 182	E4BP4
+T10	DNA 209 212	DNA
+T13	TranscriptionFactor 271 298	transcription factor family
+T15	ExperimentalMethod 331 359	transient transfection assay
+T16	ReporterGene 376 392	reporter plasmid
+T17	TranscriptionFactor 394 399	E4BP4
+T20	DNABindingSite 438 454	DNA-binding-site
+T21	Sequence 531 540	sequences
+T23	TranscriptionFactor 585 590	E4BP4
+T24	ProteinSubunit 606 630	carboxyl-terminal region
+T25	Protein 638 645	protein
+T27	ProteinDomain 710 717	domains
+T28	Eukaryote 733 743	eukaryotic
+T29	TranscriptionRepressor 744 770	transcriptional repressors
+T6	Protein 144 164	DNA-binding proteins

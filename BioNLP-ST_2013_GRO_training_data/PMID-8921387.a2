@@ -1,0 +1,43 @@
+R1	fromSpecies Arg1:T1 Arg2:T2
+R2	fromSpecies Arg1:T4 Arg2:T3
+R3	fromSpecies Arg1:T9 Arg2:T8
+R4	locatedIn Arg1:T10 Arg2:T6
+R5	fromSpecies Arg1:T10 Arg2:T7
+R6	fromSpecies Arg1:T13 Arg2:T12
+R7	encodes Arg1:T16 Arg2:T17
+R8	encodes Arg1:T16 Arg2:T18
+R11	encodes Arg1:T26 Arg2:T27
+R12	hasPart Arg1:T27 Arg2:T28
+R13	fromSpecies Arg1:T31 Arg2:T30
+R14	hasPart Arg1:T34 Arg2:T33
+R15	fromSpecies Arg1:T36 Arg2:T35
+R17	hasPart Arg1:T38 Arg2:T37
+R18	hasPart Arg1:T39 Arg2:T37
+T42	DevelopmentalProcess 1143 1154	development
+E2	DevelopmentalProcess:T42 
+R19	fromSpecies Arg1:E2 Arg2:T41
+T43	Transcription 1160 1175	transcriptional
+E3	Transcription:T43 
+T44	RegulatoryProcess 1176 1185	regulator
+E4	RegulatoryProcess:T44 hasAgent:T40 hasPatient:E3
+R20	hasPart Arg1:T45 Arg2:T40
+T46	Maintenance 1238 1246	maintain
+E5	Maintenance:T46 hasAgent:T45 hasPatient:T47
+T49	GeneExpression 1272 1281	expressed
+E6	GeneExpression:T49 hasPatient:T48
+T55	RNASplicing 1395 1415	alternative splicing
+E7	RNASplicing:T55 hasPatient:T56
+T58	Splicing 1522 1536	splicing event
+E8	Splicing:T58 
+T61	ProteinModification 1623 1632	modifying
+E9	ProteinModification:T61 hasPatient:T63
+R26	hasPart Arg1:T62 Arg2:T63
+T14	NegativeRegulation 322 340	negative regulator
+E1	NegativeRegulation:T14 hasPatient:T16 hasAgent:T13
+T15	DevelopmentalProcess 913 924	development
+E10	DevelopmentalProcess:T15 
+R16	hasPart Arg1:T36 Arg2:T33	
+R21	fromSpecies Arg1:T51 Arg2:T53	
+R22	locatedIn Arg1:E6 Arg2:T51	
+R23	fromSpecies Arg1:T23 Arg2:T21	
+R24	encodes Arg1:T23 Arg2:T19	

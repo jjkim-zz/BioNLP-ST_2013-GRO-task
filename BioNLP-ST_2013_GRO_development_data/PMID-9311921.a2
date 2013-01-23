@@ -1,0 +1,23 @@
+T2	PositiveRegulation 6 16	activation
+E1	PositiveRegulation:T2 hasPatient:T1
+T3	Increase 17 24	induced
+E2	Increase:T3 hasPatient:E1 hasAgent:T5
+T8	PositiveRegulation 105 115	Activation
+E4	PositiveRegulation:T8 hasPatient:T13
+R1	locatedIn Arg1:E4 Arg2:T14
+T19	PositiveRegulation 317 327	activation
+E6	PositiveRegulation:T19 hasAgent:T15 hasPatient:T18
+T20	PositiveRegulationOfGeneExpression 333 346	overexpressed
+E7	PositiveRegulationOfGeneExpression:T20 hasPatient:T15
+R2	locatedIn Arg1:E7 Arg2:T21
+R3	locatedIn Arg1:T29 Arg2:T30
+T33	PositiveRegulation 668 678	activation
+E8	PositiveRegulation:T33 hasPatient:T35
+T39	PositiveRegulation 748 758	activation
+E9	PositiveRegulation:T39 hasPatient:T40 hasAgent:T38
+T41	NegativeRegulation 785 792	blocked
+E10	NegativeRegulation:T41 hasPatient:E9 hasAgent:T10
+T45	SignalingPathway 856 865	signaling
+E11	SignalingPathway:T45 
+E3	PositiveRegulation:T33 hasPatient:T36
+E5	PositiveRegulation:T33 hasPatient:T37

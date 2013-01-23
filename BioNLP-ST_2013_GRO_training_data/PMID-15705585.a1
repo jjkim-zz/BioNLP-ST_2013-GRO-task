@@ -1,0 +1,54 @@
+T1	Protein 18 25	CLR16.2
+T2	Protein 36 50	NBD/LRR family
+T5	Cell 84 90	T cell
+T6	Function 91 99	function
+T7	Eukaryote 122 131	mammalian
+T8	Protein 132 167	CATERPILLER (NOD, NALP, PAN) family
+T9	Protein 171 179	proteins
+T10	Protein 208 227	NBD-LRR superfamily
+T11	Eukaryote 231 236	plant
+T17	Function 326 334	function
+T18	ExperimentalMethod 368 375	cloning
+T19	Gene 408 424	CATERPILLER gene
+T20	Gene 426 433	CLR16.2
+T22	Eukaryote 453 458	human
+T23	Chromosome 459 472	chromosome 16
+T24	Protein 478 485	protein
+T25	Gene 502 506	gene
+T26	Protein 521 542	NBD-LRR configuration
+T27	Gene 556 563	CLR16.2
+T29	Cell 602 615	T lymphocytes
+T30	Cell 617 625	Cellular
+T32	Protein 650 657	CLR16.2
+T33	CellComponent 680 691	cytoplasmic
+T34	Protein 692 699	protein
+T35	Protein 765 772	CLR16.2
+T37	Protein 823 831	anti-CD3
+T38	Protein 836 845	anti-CD28
+T40	Cell 861 882	primary T lymphocytes
+T42	Cell 903 909	T cell
+T46	Protein 986 993	CLR16.2
+T48	Protein 1004 1013	NF-kappaB
+T49	Protein 1015 1019	NFAT
+T50	Protein 1025 1029	AP-1
+T52	ReporterGeneConstruction 1043 1067	reporter gene constructs
+T53	AP2EREBPRelatedDomain 1083 1089	T cell
+T55	Protein 1104 1112	anti-CD3
+T56	Protein 1117 1126	anti-CD28
+T57	Protein 1127 1137	antibodies
+T58	Protein 1141 1144	PMA
+T59	Protein 1149 1158	ionomycin
+T60	Cell 1170 1176	T cell
+T62	Protein 1206 1213	CLR16.2
+T64	Transcript 1251 1262	transcripts
+T65	Protein 1271 1275	IL-2
+T66	Protein 1280 1293	CD25 proteins
+T68	Cell 1326 1332	T cell
+T75	AP2EREBPRelatedDomain 1419 1431	IkappaBalpha
+T77	Protein 1461 1468	CLR16.2
+T79	Cell 1489 1495	T cell
+T81	Protein 1511 1514	TCR
+T82	MolecularEntity 1519 1543	co-stimulatory molecules
+T84	Cell 1570 1576	T cell
+T86	Cell 1608 1616	cellular
+T4	Protein 237 268	disease resistance (R) proteins

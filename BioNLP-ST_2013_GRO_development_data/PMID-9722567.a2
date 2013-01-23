@@ -1,0 +1,58 @@
+R1	hasPart Arg1:T2 Arg2:T4
+R2	fromSpecies Arg1:T2 Arg2:T1
+T3	PositiveRegulation 71 81	activation
+E1	PositiveRegulation:T3 hasAgent:T4
+T5	BindingToProtein 94 103	interacts
+E2	BindingToProtein:T5 hasPatient:T6 hasPatient2:T7 hasPatient3:T2
+T12	GeneExpression 195 204	expressed
+E3	GeneExpression:T12 hasPatient:T9
+R4	locatedIn Arg1:E3 Arg2:T13
+R5	locatedIn Arg1:E3 Arg2:T14
+T15	BindingOfProteinToDNA 231 236	binds
+E4	BindingOfProteinToDNA:T15 hasPatient:T16
+R6	locatedIn Arg1:T18 Arg2:T17
+R7	hasPart Arg1:T18 Arg2:T16
+T20	PositiveRegulation 341 357	trans-activation
+E5	PositiveRegulation:T20 hasAgent:T19
+T21	PositiveRegulation 395 405	activation
+E6	PositiveRegulation:T21 hasAgent:T22
+R8	hasPart Arg1:T23 Arg2:T22
+T24	PositiveRegulation 473 483	Activation
+E7	PositiveRegulation:T24 hasAgent:T25
+R9	hasPart Arg1:T25 Arg2:T26
+R10	hasPart Arg1:T25 Arg2:T28
+R11	hasPart Arg1:T27 Arg2:T26
+T29	PositiveRegulation 597 607	activation
+E8	PositiveRegulation:T29 hasAgent:T30
+R12	hasPart Arg1:T30 Arg2:T28
+R13	hasPart Arg1:T32 Arg2:T30
+T33	PositiveRegulation 653 663	Activation
+E9	PositiveRegulation:T33 hasAgent:T34
+R14	hasPart Arg1:T34 Arg2:T35
+R15	hasPart Arg1:T36 Arg2:T34
+T38	BindingToProtein 782 790	interact
+R16	hasPart Arg1:T43 Arg2:T41
+T44	Localization 859 868	localized
+E11	Localization:T44 hasPatient:T41
+R17	locatedIn Arg1:E11 Arg2:T45
+R18	hasPart Arg1:T46 Arg2:T45
+T48	BindingToProtein 927 932	binds
+E12	BindingToProtein:T48 hasPatient:T49 hasPatient2:T47
+R20	hasPart Arg1:T52 Arg2:T51
+T53	BindingToProtein 1019 1024	binds
+E13	BindingToProtein:T53 hasPatient:T54 hasPatient2:T51
+R21	hasPart Arg1:T56 Arg2:T55
+T58	BindingToProtein 1190 1201	interaction
+E14	BindingToProtein:T58 hasPatient:T59 hasPatient2:T60
+T61	PositiveRegulationOfGeneExpression 1284 1298	Overexpression
+E15	PositiveRegulationOfGeneExpression:T61 hasPatient:T62
+T63	PositiveRegulation 1320 1330	activation
+E16	PositiveRegulation:T63 hasAgent:T64
+R23	hasPart Arg1:T65 Arg2:T67
+T66	PositiveRegulation 1379 1389	activation
+E17	PositiveRegulation:T66 hasAgent:T67
+T69	Localization 1407 1419	localization
+E18	Localization:T69 hasPatient:T70
+R24	locatedIn Arg1:E18 Arg2:T68
+E20	BindingToProtein:T38 hasPatient:T37 hasPatient2:T39 hasPatient3:T40
+R3	fromSpecies Arg1:T9 Arg2:T10	

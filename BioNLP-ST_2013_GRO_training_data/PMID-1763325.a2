@@ -1,0 +1,34 @@
+T2	RegulatoryProcess 36 45	regulates
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:E2
+T3	Dimerization 46 58	dimerization
+E2	Dimerization:T3 
+R1	hasPart Arg1:T6 Arg2:T5
+R2	fromSpecies Arg1:T6 Arg2:T4
+T7	Dimerization 95 107	Dimerization
+E3	Dimerization:T7 
+T9	RegulationOfGeneExpression 172 182	regulation
+E4	RegulationOfGeneExpression:T9 hasPatient:E5
+T11	GeneExpression 197 212	gene expression
+E5	GeneExpression:T11 
+R3	fromSpecies Arg1:E5 Arg2:T10
+R4	hasPart Arg1:T15 Arg2:T14
+T19	Localization 421 433	distribution
+E6	Localization:T19 
+R5	locatedIn Arg1:E6 Arg2:T18
+T20	Stabilization 484 494	stabilized
+E7	Stabilization:T20 hasPatient:T21
+R6	hasPart Arg1:T24 Arg2:T22
+R7	hasPart Arg1:T24 Arg2:T23
+R8	hasPart Arg1:T26 Arg2:T25
+T27	Increase 700 708	enhanced
+E8	Increase:T27 hasPatient:E9
+T28	Transcription 713 737	transcriptional activity
+E9	Transcription:T28 
+T30	RegulatoryProcess 860 869	regulates
+E10	RegulatoryProcess:T30 hasAgent:T29 hasPatient:E11
+T31	FormationOfTranscriptionFactorComplex 870 879	formation
+E11	FormationOfTranscriptionFactorComplex:T31 hasPatient:T33
+T32	Transcription 883 900	transcriptionally
+E12	Transcription:T32 
+T35	DevelopmentalProcess 955 968	developmental
+E13	DevelopmentalProcess:T35 

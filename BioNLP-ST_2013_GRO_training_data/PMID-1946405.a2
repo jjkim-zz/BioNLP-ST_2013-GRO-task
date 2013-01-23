@@ -1,0 +1,36 @@
+T4	BindingOfProteinToDNA 72 77	binds
+E1	BindingOfProteinToDNA:T4 hasAgent:T2 hasPatient:T6
+T10	RegulatoryProcess 207 214	control
+E2	RegulatoryProcess:T10 hasPatient:T12 hasAgent:T8
+T18	PositiveRegulation 412 418	active
+E3	PositiveRegulation:T18 hasPatient:T17
+R5	locatedIn Arg1:E3 Arg2:T19
+T20	NegativeRegulation 450 459	repressed
+E4	NegativeRegulation:T20 hasPatient:T17 hasAgent:T14
+T25	NegativeRegulation 528 535	repress
+E5	NegativeRegulation:T25 hasPatient:T26 hasAgent:T15
+R6	locatedIn Arg1:E5 Arg2:T27
+R7	encodes Arg1:T29 Arg2:T32
+R8	fromSpecies Arg1:T29 Arg2:T28
+T33	BindingOfProteinToDNA 709 714	binds
+E6	BindingOfProteinToDNA:T33 hasPatient:T16 hasAgent:T32
+T38	BindingOfProteinToProteinBindingSiteOfDNA 791 796	binds
+E7	BindingOfProteinToProteinBindingSiteOfDNA:T38 hasAgent:T37 hasPatient:T42
+R13	hasPart Arg1:T41 Arg2:T42
+R14	encodes Arg1:T44 Arg2:T43
+R15	encodes Arg1:T44 Arg2:T45
+T46	BindingOfProteinToDNA 913 918	binds
+E8	BindingOfProteinToDNA:T46 hasAgent:T45 hasPatient:T23
+R17	fromSpecies Arg1:T49 Arg2:T50
+R18	fromSpecies Arg1:T52 Arg2:T51
+T53	BindingOfProteinToDNA 1030 1035	binds
+E9	BindingOfProteinToDNA:T53 hasAgent:T52 hasPatient:T56
+R19	encodes Arg1:T55 Arg2:T54
+R20	hasPart Arg1:T55 Arg2:T56
+R21	hasPart Arg1:T59 Arg2:T57
+T63	NegativeRegulation 1284 1291	repress
+E10	NegativeRegulation:T63 hasAgent:T62 hasPatient:T64
+R22	hasFunction Arg1:T66 Arg2:T65
+R1	hasPart Arg1:T36 Arg2:T16	
+R2	fromSpecies Arg1:T23 Arg2:T22	
+E11	BindingOfProteinToDNA:T4 hasAgent:T2 hasPatient:T9

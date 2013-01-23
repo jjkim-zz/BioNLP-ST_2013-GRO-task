@@ -1,0 +1,53 @@
+T1	OrganicChemical 8 26	lipopolysaccharide
+T3	TranscriptionFactor 35 55	transcription factor
+T5	Protein 67 94	tumor necrosis factor alpha
+T7	OrganicChemical 189 207	Lipopolysaccharide
+T8	OrganicChemical 209 212	LPS
+T10	Cell 240 249	monocytes
+T11	Cell 254 265	macrophages
+T12	Protein 317 326	TNF-alpha
+T14	MolecularEntity 338 360	inflammatory mediators
+T15	Protein 407 416	TNF-alpha
+T16	Protein 446 455	TNF-alpha
+T19	Protein 517 534	nuclear factor(s)
+T21	Gene 548 562	TNF-alpha gene
+T23	Eukaryote 580 586	humans
+T24	Protein 613 622	NF-kappaB
+T25	Cell 678 688	macrophage
+T27	OrganicChemical 701 704	LPS
+T28	DNABindingDomainOfProtein 724 742	DNA-binding domain
+T29	Eukaryote 776 781	human
+T30	Gene 782 791	TNF-alpha
+T31	Promoter 792 800	promoter
+T33	Protein 861 870	NF-kappaB
+T34	BindingSiteOfProtein 871 884	binding sites
+T35	DNAFragment 904 916	DNA fragment
+T36	Protein 948 955	protein
+T38	DNAFragment 972 980	fragment
+T39	DNA 1078 1090	cDNA library
+T40	Cell 1096 1107	THP-1 cells
+T41	DNA 1117 1127	cDNA clone
+T42	DNA 1196 1206	cDNA clone
+T44	OrganicChemical 1252 1255	LPS
+T46	Cell 1270 1281	THP-1 cells
+T47	Protein 1299 1327	LPS-induced TNF-alpha factor
+T48	Protein 1329 1334	LITAF
+T50	Protein 1351 1356	LITAF
+T51	MessengerRNA 1357 1361	mRNA
+T53	Cell 1376 1387	THP-1 cells
+T55	Protein 1415 1424	TNF-alpha
+T56	Transcript 1425 1436	transcripts
+T58	Protein 1479 1484	LITAF
+T59	MessengerRNA 1485 1489	mRNA
+T60	Tissue 1524 1532	placenta
+T61	Cell 1534 1561	peripheral blood leukocytes
+T62	Tissue 1563 1574	lymph nodes
+T63	Tissue 1584 1590	spleen
+T64	Chromosome 1601 1612	chromosomal
+T66	Gene 1681 1686	LITAF
+T67	Chromosome 1697 1721	chromosome 16p12-16p13.3
+T68	Protein 1761 1766	LITAF
+T70	Eukaryote 1816 1821	human
+T71	Gene 1822 1836	TNF-alpha gene
+T73	Protein 1877 1886	TNF-alpha
+T32	TranscriptionFactorActivity 815 839	transcriptional activity

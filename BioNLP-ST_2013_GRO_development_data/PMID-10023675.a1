@@ -1,0 +1,37 @@
+T2	bHLH 28 32	bHLH
+T5	TranscriptionFactor 50 65	NF-kappaB1 p105
+T6	TranscriptionFactor 71 75	LYL1
+T7	Gene 76 80	gene
+T8	Eukaryote 196 201	human
+T11	TranscriptionFactor 253 257	LYL1
+T13	Cell 286 305	hematopoietic cells
+T14	Cell 340 354	T cell lineage
+T15	Gene 356 360	LYL1
+T16	bHLH 377 393	helix-loop-helix
+T17	bHLH 395 399	bHLH
+T18	bHLHTF 401 408	protein
+T19	TranscriptionFactor 427 432	TAL-1
+T21	Eukaryote 496 501	human
+T23	Protein 557 565	proteins
+T25	TranscriptionFactor 598 602	LYL1
+T27	TranscriptionFactor 651 655	p105
+T28	TranscriptionFactor 674 688	NF-kappaB1 p50
+T29	TranscriptionFactor 704 708	LYL1
+T31	Protein 721 728	protein
+T32	TranscriptionFactor 769 773	LYL1
+T33	TranscriptionFactor 778 782	p105
+T38	bHLH 914 924	bHLH motif
+T39	TranscriptionFactor 928 932	LYL1
+T40	BetaScaffoldDomain_WithMinorGrooveContacts 941 960	ankyrin-like motifs
+T41	Protein 964 968	p105
+T43	TranscriptionFactor 992 996	LYL1
+T44	Eukaryote 1002 1007	human
+T45	Cell 1008 1019	T cell line
+T47	TranscriptionFactor 1053 1062	NF-kappaB
+T3	TranscriptionFactor 33 45	LYL1 protein
+T9	Cell 202 208	T-cell
+T52	BindingAssay 512 535	yeast two-hybrid system
+T53	TranscriptionFactorActivity 625 635	activities
+T34	Cell 836 841	cells
+T49	TranscriptionFactor 1126 1142	kappaB1 proteins
+T50	Eukaryote 826 835	mammalian

@@ -1,0 +1,49 @@
+T10	SignalingPathway 174 193	signal transduction
+E2	SignalingPathway:T10 
+T11	PositiveRegulation 260 269	activated
+E3	PositiveRegulation:T11 hasAgent:T13
+R1	locatedIn Arg1:T13 Arg2:T12
+R3	fromSpecies Arg1:T19 Arg2:T18
+R6	hasPart Arg1:T22 Arg2:T23
+R7	hasPart Arg1:T22 Arg2:T26
+R8	hasPart Arg1:T22 Arg2:T27
+R9	fromSpecies Arg1:T31 Arg2:T30
+T34	PositiveRegulation 847 856	activated
+E4	PositiveRegulation:T34 hasAgent:T33 hasPatient:E1
+T36	PositiveRegulation 915 925	activation
+E5	PositiveRegulation:T36 hasPatient:E16
+T52	BindingToProtein 1406 1414	interact
+E8	BindingToProtein:T52 hasPatient:T53 hasPatient2:T51
+T58	BindingToProtein 1616 1627	interaction
+E9	BindingToProtein:T58 
+T59	RegulatoryProcess 1632 1640	mediated
+E10	RegulatoryProcess:T59 hasAgent:T60 hasPatient:E9
+T62	RegulatoryProcess 1720 1728	mediates
+E11	RegulatoryProcess:T62 hasAgent:T61 hasPatient:E12
+T63	PositiveRegulation 1733 1743	activation
+E12	PositiveRegulation:T63 hasPatient:T64 hasAgent:T65
+R10	locatedIn Arg1:T68 Arg2:T67
+T70	PositiveRegulation 1952 1960	activate
+E13	PositiveRegulation:T70 hasAgent:T68 hasPatient:E17
+T72	Increase 1988 1999	stimulating
+E14	Increase:T72 hasPatient:T73
+T74	PositiveRegulation 2063 2071	activate
+E15	PositiveRegulation:T74 hasPatient:T71
+R13	hasPart Arg1:T2 Arg2:T1	
+R2	hasPart Arg1:T15 Arg2:T14	
+R4	hasPart Arg1:T22 Arg2:T6	
+T7	Pathway 857 892	biological and biochemical pathways
+E1	Pathway:T7 hasPatient:T35
+T8	NegativeRegulation 1107 1126	negative regulatory
+E6	NegativeRegulation:T8 hasAgent:T44
+T42	Pathway 935 943	pathways
+E16	Pathway:T42 
+R5	hasPart Arg1:T46 Arg2:T54	
+R14	hasPart Arg1:T46 Arg2:T56	
+R15	hasPart Arg1:T46 Arg2:T57	
+T47	SignalingPathway 1901 1917	transmit signals
+E7	SignalingPathway:T47 hasAgent:T69
+T48	SignalingPathway 1961 1983	Rho-dependent pathways
+E17	SignalingPathway:T48 
+E18	PositiveRegulation:T63 hasPatient:T64 hasAgent:T66
+E19	RegulatoryProcess:T62 hasAgent:T61 hasPatient:E18

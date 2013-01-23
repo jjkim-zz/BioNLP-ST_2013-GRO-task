@@ -1,0 +1,71 @@
+T1	RegulatoryProcess 0 10	Regulation
+E1	RegulatoryProcess:T1 hasPatient:E2 hasAgent:T4
+T3	GeneExpression 33 43	expression
+E2	GeneExpression:T3 hasPatient:T2
+T8	ModificationOfMolecularEntity 156 162	modify
+E3	ModificationOfMolecularEntity:T8 hasAgent:T7 hasPatient:T9
+T10	RegulatoryProcess 222 232	regulation
+E4	RegulatoryProcess:T10 hasPatient:E5
+T12	GeneExpression 255 265	expression
+E5	GeneExpression:T12 hasPatient:T11
+R1	fromSpecies Arg1:T14 Arg2:T13
+R2	fromSpecies Arg1:T16 Arg2:T15
+R3	fromSpecies Arg1:T18 Arg2:T17
+R4	fromSpecies Arg1:T20 Arg2:T19
+R5	fromSpecies Arg1:T22 Arg2:T21
+R6	encodes Arg1:T25 Arg2:T24
+R7	fromSpecies Arg1:T25 Arg2:T23
+R8	fromSpecies Arg1:T29 Arg2:T28
+T31	BindingOfTFToTFBindingSiteOfDNA 713 718	binds
+E6	BindingOfTFToTFBindingSiteOfDNA:T31 hasAgent:T32 hasPatient:T30
+R9	hasPart Arg1:T33 Arg2:T32
+T36	BindingOfTFToTFBindingSiteOfDNA 920 925	binds
+E7	BindingOfTFToTFBindingSiteOfDNA:T36 hasAgent:T34 hasPatient:T37
+T38	PositiveRegulation 948 954	drives
+E8	PositiveRegulation:T38 hasAgent:T34 hasPatient:E9
+T39	GeneExpression 968 978	expression
+E9	GeneExpression:T39 hasPatient:T42
+R10	fromSpecies Arg1:T42 Arg2:T40
+R11	fromSpecies Arg1:T42 Arg2:T41
+R12	encodes Arg1:T45 Arg2:T44
+T46	RegulatoryProcess 1088 1097	regulated
+E10	RegulatoryProcess:T46 hasAgent:T47 hasPatient:T45
+R13	fromSpecies Arg1:T50 Arg2:T48
+T51	BindingOfProteinToDNA 1151 1156	binds
+E11	BindingOfProteinToDNA:T51 hasAgent:T52 hasPatient:T50
+R14	fromSpecies Arg1:T57 Arg2:T56
+R15	fromSpecies Arg1:T60 Arg2:T59
+R16	hasPart Arg1:T63 Arg2:T64
+R17	fromSpecies Arg1:T64 Arg2:T62
+T65	PositiveRegulation 1482 1491	Induction
+E12	PositiveRegulation:T65 
+T66	Decrease 1495 1505	attenuated
+E13	Decrease:T66 
+R18	fromSpecies Arg1:T68 Arg2:T67
+T69	Mutation 1561 1569	Mutation
+E14	Mutation:T69 hasPatient:T70
+R19	fromSpecies Arg1:T72 Arg2:T71
+R20	hasPart Arg1:T72 Arg2:T70
+T73	NegativeRegulation 1617 1626	abolishes
+E15	NegativeRegulation:T73 hasAgent:E14 hasPatient:E16
+T75	BindingOfProteinToDNA 1632 1639	binding
+E16	BindingOfProteinToDNA:T75 hasAgent:T74
+T76	Decrease 1658 1665	reduces
+E17	Decrease:T76 hasAgent:E14 hasPatient:E18
+T78	PositiveRegulation 1677 1686	induction
+E18	PositiveRegulation:T78 hasAgent:T77
+T80	RegulatoryProcess 1709 1717	mediates
+E19	RegulatoryProcess:T80 hasAgent:T79 hasPatient:E20
+T81	GeneExpression 1729 1739	expression
+E20	GeneExpression:T81 
+T82	ResponseToChemicalStimulus 1743 1751	response
+E21	ResponseToChemicalStimulus:T82 hasAgent:T83
+R21	locatedIn Arg1:T83 Arg2:T84
+R22	fromSpecies Arg1:T86 Arg2:T85
+T88	ResponseProcess 1879 1893	responsiveness
+E22	ResponseProcess:T88 hasAgent:T89
+T94	Splicing 578 585	spliced
+E23	Splicing:T94 hasPatient:T26
+R23	locatedIn Arg1:T57 Arg2:T60	
+E24	RegulatoryProcess:T1 hasPatient:E2 hasAgent:T5
+E25	ResponseProcess:T88 hasAgent:T90

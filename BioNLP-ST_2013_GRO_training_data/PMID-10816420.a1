@@ -1,0 +1,53 @@
+T1	Eukaryote 0 5	Human
+T2	Protein 6 14	Sug1/p45
+T3	ProteinComplex 34 44	proteasome
+T5	TranscriptionFactor 70 73	Sp1
+T6	TranscriptionFactor 79 103	transcription factor Sp1
+T7	ProteinComplex 136 146	proteasome
+T9	Cell 174 179	cells
+T12	OrganicChemical 252 261	forskolin
+T13	TranscriptionFactor 417 420	Sp1
+T15	Eukaryote 436 441	human
+T16	Protein 442 446	Sug1
+T17	Protein 447 453	[hSug1
+T18	Protein 469 472	p45
+T19	Protein 476 520	thyroid-hormone-receptor interacting protein
+T20	ProteinSubunit 536 550	ATPase subunit
+T21	ProteinComplex 563 573	proteasome
+T25	TranscriptionFactor 638 641	Sp1
+T26	ProteinDomain 661 671	C-terminus
+T27	Protein 675 680	hSug1
+T28	ProteinDomain 682 692	the region
+T29	ProteinDomain 721 734	ATPase domain
+T30	Protein 738 750	this protein
+T31	Protein 846 851	hSug1
+T33	Eukaryote 879 882	rat
+T34	Tissue 883 889	kidney
+T35	Cell 890 895	cells
+T36	Protein 907 924	full-length hSug1
+T38	ProteinComplex 950 960	proteasome
+T40	TranscriptionFactor 986 989	Sp1
+T41	MutatedProtein 1000 1017	hSug1 truncations
+T42	Protein 1066 1071	hSug1
+T44	TranscriptionFactor 1110 1113	Sp1
+T46	MutantProtein 1145 1158	ATPase mutant
+T47	Protein 1162 1167	hSug1
+T49	TranscriptionFactor 1194 1197	Sp1
+T51	TranscriptionFactor 1237 1240	Sp1
+T53	Protein 1311 1316	hSug1
+T55	TranscriptionFactor 1351 1354	Sp1
+T58	Protein 1382 1387	hSug1
+T60	Protein 1446 1451	hSug1
+T61	ProteinComplex 1471 1482	proteasomal
+T62	ProteinComplex 1538 1548	proteasome
+T64	TranscriptionFactor 1574 1577	Sp1
+T65	Protein 1719 1724	hSug1
+T67	TranscriptionFactor 1782 1785	Sp1
+T68	ProteinComplex 1790 1800	proteasome
+T11	OrganicChemical 225 250	adenylate cyclase inducer
+T71	TranscriptionFactor 291 294	Sp1
+T72	Protein 523 528	TRIP1
+T22	TranscriptionRegulator 589 614	transcriptional modulator
+T56	TranscriptionFactor 1621 1624	Sp1
+T57	Protein 1588 1593	hSug1
+T74	Cell 1644 1649	cells

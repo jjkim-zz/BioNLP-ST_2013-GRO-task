@@ -1,0 +1,23 @@
+T1	CellComponent 0 9	Nucleolar
+T2	TranscriptionFactor 10 35	transcription factor hUBF
+T3	DNABindingDomainOfProtein 47 64	DNA-binding motif
+T4	HMGTF 82 94	HMG proteins
+T5	Eukaryote 100 110	eukaryotic
+T6	TranscriptionFactor 136 139	UBF
+T7	RibosomalRNA 157 170	ribosomal RNA
+T8	Gene 171 175	gene
+T9	Promoter 176 184	promoter
+T13	RNAPolymerase 225 241	RNA polymerase I
+T16	DNA 327 344	complementary DNA
+T17	SequenceHomologyAnalysis 356 373	sequence analysis
+T18	DNABindingDomainOfProtein 403 422	DNA binding domains
+T19	Eukaryote 426 431	human
+T20	TranscriptionFactor 437 441	hUBF
+T21	HMGTF 468 471	HMG
+T24	Gene 575 579	hUBF
+T25	Protein 590 606	nucleolar factor
+T27	UpstreamRegulatorySequence 638 662	upstream control element
+T28	RibosomalRNA 679 683	rRNA
+T29	Gene 684 688	gene
+T30	Promoter 689 697	promoter
+T15	Protein 309 312	SL1

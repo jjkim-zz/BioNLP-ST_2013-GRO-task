@@ -1,0 +1,37 @@
+T4	PositiveRegulation 53 62	activates
+E1	PositiveRegulation:T4 hasAgent:T1 hasPatient:E2
+T6	GeneExpression 70 85	gene expression
+E2	GeneExpression:T6 hasPatient:T5
+R2	locatedIn Arg1:E2 Arg2:T7
+T9	RegulatoryProcess 112 121	Regulated
+E3	RegulatoryProcess:T9 hasAgent:E4 hasPatient:T8
+T10	PositiveRegulation 127 137	Activation
+E4	PositiveRegulation:T10 
+T12	GeneExpression 153 162	Expressed
+E5	GeneExpression:T12 hasPatient:T8
+R3	locatedIn Arg1:E5 Arg2:T11
+T18	GeneExpression 342 351	expressed
+E6	GeneExpression:T18 hasPatient:T17
+T19	PositiveRegulation 374 384	activation
+E7	PositiveRegulation:T19 
+R4	locatedIn Arg1:E7 Arg2:T20
+R5	precedes Arg1:E7 Arg2:E6
+T26	Phosphorylation 599 613	phosphorylated
+E8	Phosphorylation:T26 hasPatient:T25
+T29	GeneExpression 656 665	expressed
+E9	GeneExpression:T29 hasPatient:T25
+R7	locatedIn Arg1:E9 Arg2:T30
+T31	PositiveRegulation 690 700	activation
+E10	PositiveRegulation:T31 
+R8	precedes Arg1:E10 Arg2:E9
+T33	GeneExpression 725 735	expression
+E11	GeneExpression:T33 hasPatient:T32
+T36	GeneExpression 789 804	gene expression
+E12	GeneExpression:T36 hasPatient:T35 hasAgent:T34
+R9	locatedIn Arg1:E12 Arg2:T37
+T3	Transport 167 175	Secreted
+E14	Transport:T3 hasPatient:T8
+T13	ResponseToChemicalStimulus 182 197	chemoattractant
+E15	ResponseToChemicalStimulus:T13 
+R1	locatedIn Arg1:T40 Arg2:T41	
+R10	hasFunction Arg1:T38 Arg2:T28	

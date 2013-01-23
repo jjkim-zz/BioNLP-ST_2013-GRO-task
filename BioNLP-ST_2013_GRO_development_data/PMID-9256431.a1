@@ -1,0 +1,32 @@
+T1	Protein 2 38	thyroid hormone receptor coactivator
+T4	Protein 67 89	retinoblastoma protein
+T5	Protein 95 117	retinoblastoma protein
+T6	Protein 119 121	Rb
+T10	Protein 231 233	Rb
+T14	DNA 360 368	clone C5
+T15	Protein 401 408	protein
+T16	AminoAcid 418 429	amino acids
+T17	Gene 493 497	gene
+T18	Chromosome 514 530	chromosome 14q31
+T19	OrganicChemical 625 640	thyroid hormone
+T21	Protein 655 662	protein
+T22	ProteinDomain 672 688	distinct regions
+T24	Protein 697 699	Rb
+T25	Protein 704 728	thyroid hormone receptor
+T26	Protein 730 732	TR
+T27	Protein 768 775	Trip230
+T28	Protein 777 784	Trip230
+T30	Protein 794 796	Rb
+T31	OrganicChemical 814 829	thyroid hormone
+T33	ProteinComplex 847 854	complex
+T34	Protein 860 862	TR
+T35	OrganicChemical 868 883	thyroid hormone
+T37	Protein 928 943	protein Trip230
+T38	Cell 947 952	cells
+T40	Protein 1024 1026	TR
+T43	Protein 1079 1091	wild-type Rb
+T46	Protein 1200 1220	coactivator molecule
+T48	Protein 1236 1247	TR activity
+T49	Protein 1277 1279	Rb
+T51	OrganicChemical 1310 1325	thyroid hormone
+T3	Protein 316 339	Rb-interacting proteins

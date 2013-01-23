@@ -1,0 +1,28 @@
+T2	Gene 20 24	gene
+T5	Protein 33 57	DNA-binding protein AP-2
+T6	Eukaryote 61 66	human
+T7	Chromosome 67 89	chromosome 6p22.3-pter
+T8	Cell 104 112	cellular
+T9	Protein 113 121	proteins
+T11	Cell 130 138	cellular
+T12	Virus 143 148	viral
+T13	Enhancer 149 166	enhancer elements
+T14	TranscriptionFactor 194 198	AP-2
+T15	TranscriptionFactor 212 232	transcription factor
+T17	Virus 272 276	SV40
+T18	Gene 281 296	metallothionein
+T19	Enhancer 297 306	enhancers
+T20	TranscriptionFactor 344 348	AP-2
+T22	Virus 362 366	SV40
+T23	Gene 367 376	T-antigen
+T24	TranscriptionFactorActivity 378 391	AP-2 activity
+T28	TranscriptionFactor 526 530	AP-2
+T31	Chromosome 616 627	chromosomal
+T32	Gene 653 658	genes
+T33	TranscriptionFactor 668 689	transcription factors
+T34	Gene 720 724	gene
+T35	TranscriptionFactor 734 738	AP-2
+T36	Eukaryote 742 747	human
+T37	Chromosome 748 768	chromosome 6p22.3-24
+T38	Cell 784 796	somatic cell
+T39	Chromosome 834 845	chromosomes

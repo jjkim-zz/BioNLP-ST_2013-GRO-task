@@ -1,0 +1,28 @@
+T2	Eukaryote 30 35	human
+T5	Gene 53 59	hSOX20
+T6	Gene 61 64	SOX
+T7	Gene 80 85	genes
+T8	Gene 101 124	testis-determining gene
+T9	Gene 126 129	SRY
+T10	Gene 165 171	hSOX20
+T11	DNA 172 176	cDNA
+T12	Cell 184 193	cell line
+T13	Eukaryote 197 202	human
+T15	DNA 229 233	cDNA
+T16	OpenReadingFrame 246 264	open reading frame
+T17	AminoAcid 284 295	amino acids
+T18	Protein 301 308	protein
+T19	Protein 324 327	SRY
+T20	HMG 333 340	HMG box
+T21	Eukaryote 382 387	mouse
+T22	Protein 388 393	Sox15
+T23	Protein 398 403	Sox16
+T24	Tissue 413 436	adult and fetal tissues
+T26	Gene 453 459	hSOX20
+T27	MessengerRNA 460 464	mRNA
+T29	Tissue 523 535	fetal testis
+T30	Transcript 556 566	transcript
+T31	Gene 643 649	hSOX20
+T32	Peptide 650 661	polypeptide
+T34	Sequence 687 702	AACAAT sequence
+T3	DNA 36 52	SRY-related cDNA

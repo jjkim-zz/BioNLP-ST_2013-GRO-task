@@ -1,0 +1,45 @@
+T3	GeneExpression 33 42	expressed
+E1	GeneExpression:T3 hasPatient:T1
+R1	locatedIn Arg1:E1 Arg2:T4
+T5	Mutation 75 82	mutated
+E2	Mutation:T5 hasPatient:T1
+T8	RegulatoryProcess 124 132	regulate
+E4	RegulatoryProcess:T8 hasAgent:T7 hasPatient:E5
+T10	SignalingPathway 144 153	signaling
+E5	SignalingPathway:T10 
+T12	Mutation 202 211	Mutations
+E6	Mutation:T12 hasPatient:T13
+R2	encodes Arg1:T13 Arg2:T14
+T17	Disease 356 364	deafness
+E8	Disease:T17 
+T19	Disease 487 517	nonsyndromic dominant deafness
+E9	Disease:T19 
+T21	GeneExpression 541 550	expressed
+E10	GeneExpression:T21 
+R4	locatedIn Arg1:E10 Arg2:T22
+T23	Mutation 582 590	mutation
+E11	Mutation:T23 hasPatient:T24
+T26	NegativeRegulation 671 680	abolishes
+E12	NegativeRegulation:T26 
+T28	Mutation 785 794	mutations
+E13	Mutation:T28 hasPatient:T29
+T30	Disease 810 818	deafness
+E14	Disease:T30 hasAgent:E15
+T31	Affecting 822 831	affecting
+E15	Affecting:T31 hasPatient:E16 hasAgent:E13
+T32	CellularProcess 832 851	endolymph secretion
+E16	CellularProcess:T32 
+T34	Disease 892 904	hearing loss
+E17	Disease:T34 hasAgent:T33
+T6	Disease 86 103	dominant deafness
+E3	Disease:T6 
+T36	CellHomeostasis 168 200	composition of biological fluids
+E18	CellHomeostasis:T36 
+T16	Disease 295 324	inherited cardiac arrhythmias
+E7	Disease:T16 hasAgent:E6
+T37	Disease 370 387	neonatal epilepsy
+E19	Disease:T37 hasAgent:E6
+R3	locatedIn Arg1:T22 Arg2:T20	
+R8	locatedIn Arg1:T24 Arg2:T39	
+R5	locatedIn Arg1:E17 Arg2:T35	
+E20	RegulatoryProcess:T8 hasAgent:T7 hasPatient:E18

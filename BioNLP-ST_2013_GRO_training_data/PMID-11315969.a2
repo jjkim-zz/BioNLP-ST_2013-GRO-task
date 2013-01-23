@@ -1,0 +1,42 @@
+T1	GeneExpression 65 75	expression
+E1	GeneExpression:T1 hasPatient:T2
+R1	locatedIn Arg1:E1 Arg2:T5
+R2	fromSpecies Arg1:T5 Arg2:T4
+R3	locatedIn Arg1:T12 Arg2:T13
+R4	locatedIn Arg1:T12 Arg2:T15
+R5	locatedIn Arg1:T15 Arg2:T14
+R6	fromSpecies Arg1:T17 Arg2:T16
+R7	fromSpecies Arg1:T19 Arg2:T16
+R8	encodes Arg1:T23 Arg2:T24
+R9	encodes Arg1:T23 Arg2:T25
+R10	locatedIn Arg1:T23 Arg2:T21
+R11	locatedIn Arg1:T23 Arg2:T22
+R12	locatedIn Arg1:T26 Arg2:T27
+R13	locatedIn Arg1:T26 Arg2:T28
+R14	locatedIn Arg1:T27 Arg2:T29
+R15	locatedIn Arg1:T28 Arg2:T29
+T30	Elongation 926 942	elongation phase
+E2	Elongation:T30 
+T32	Localization 956 967	accumulated
+E3	Localization:T32 hasPatient:T31
+R16	locatedIn Arg1:E3 Arg2:T34
+R17	locatedIn Arg1:T34 Arg2:T33
+T36	Elongation 1077 1093	elongation phase
+E4	Elongation:T36 
+R18	encodes Arg1:T39 Arg2:T37
+R19	encodes Arg1:T39 Arg2:T38
+T40	Transcription 1171 1195	transcriptional activity
+E5	Transcription:T40 
+R22	locatedIn Arg1:T44 Arg2:T43
+T45	CellularDevelopmentalProcess 193 207	spermiogenesis
+E6	CellularDevelopmentalProcess:T45 
+R23	fromSpecies Arg1:E6 Arg2:T8	
+R24	locatedIn Arg1:T7 Arg2:T6	
+T46	Decrease 1161 1167	arrest
+E7	Decrease:T46 hasPatient:E5
+T47	Localization 1206 1216	deposition
+E8	Localization:T47 hasPatient:T41
+R20	locatedIn Arg1:E8 Arg2:T44	
+E9	GeneExpression:T1 hasPatient:T3
+E10	Localization:T47 hasPatient:T42
+R21	locatedIn Arg1:E10 Arg2:T44	

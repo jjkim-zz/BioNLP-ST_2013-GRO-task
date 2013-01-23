@@ -1,0 +1,29 @@
+T3	Gene 88 93	genes
+T5	Cell 136 146	cell lines
+T6	Tissue 151 158	tissues
+T9	DNA 360 364	cDNA
+T10	DNA 439 443	cDNA
+T12	RNA 608 611	RNA
+T13	Cell 686 710	breast cancer cell lines
+T15	Cell 812 822	cell lines
+T17	DNA 885 890	cDNAs
+T18	DNA 1031 1035	cDNA
+T19	Protein 1193 1205	CD24 protein
+T21	Cell 1244 1254	cell lines
+T23	Gene 1368 1373	genes
+T25	Gene 1444 1449	genes
+T1	ExperimentalMethod 10 13	SSH
+T27	ExpressionProfiling 18 34	cDNA microarrays
+T7	ExpressionProfiling 288 304	cDNA microarrays
+T28	ExperimentalMethod 424 427	SSH
+T11	ExpressionProfiling 534 545	cDNA arrays
+T29	Protein 617 619	ER
+T30	Protein 800 802	ER
+T31	Gene 945 959	cytokeratin 19
+T32	Gene 961 967	GATA-3
+T33	Gene 969 973	CD24
+T34	Gene 978 1008	glutathione-S-transferase mu-3
+T35	Protein 1232 1234	ER
+T36	ExperimentalMethod 1273 1276	SSH
+T37	ExpressionProfiling 1281 1291	microarray
+T26	DNA 1495 1500	cDNAs

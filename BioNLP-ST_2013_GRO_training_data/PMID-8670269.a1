@@ -1,0 +1,26 @@
+T1	TranscriptionFactor 40 45	Spi-B
+T2	TranscriptionFactor 46 66	transcription factor
+T3	TranscriptionFactor 68 73	Spi-B
+T4	TranscriptionFactor 80 83	Ets
+T5	TranscriptionFactor 84 104	transcription factor
+T6	Protein 120 131	oncoprotein
+T7	Protein 132 142	Spi-1/PU.1
+T9	Cell 167 183	B lymphoid cells
+T10	Protein 189 201	Ets proteins
+T11	ProteinDomain 220 230	Ets domain
+T13	DNA 254 257	DNA
+T15	TranscriptionFactor 267 272	Spi-B
+T17	DNARegion 279 292	DNA sequences
+T20	DNARegion 363 368	motif
+T21	TranscriptionFactor 409 414	Spi-B
+T22	TranscriptionFactor 510 515	Spi-B
+T23	Protein 523 533	deltaSpi-B
+T24	ProteinDomain 554 564	Ets domain
+T25	Cell 569 585	B lymphoid cells
+T26	Protein 587 597	deltaspi-B
+T27	TranscriptionFactor 602 607	spi-B
+T28	MessengerRNA 608 613	mRNAs
+T29	Protein 793 804	delta Spi-B
+T31	TranscriptionFactor 818 823	Spi-B
+T32	Protein 847 854	factors
+T33	TranscriptionFactor 867 872	Spi-B

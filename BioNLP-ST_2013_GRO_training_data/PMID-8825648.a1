@@ -1,0 +1,34 @@
+T1	Chromosome 25 36	chromosomal
+T3	Gene 57 67	gene TCF15
+T4	Tissue 87 97	mesodermal
+T7	bHLHTF 128 136	bHLH-EC2
+T8	bHLHTF 138 146	bHLH-EC2
+T9	bHLHTF 205 249	basic helix-loop-helix transcription factors
+T10	bHLHTF 251 262	This family
+T13	bHLHTF 293 298	twist
+T17	bHLHTF 400 405	TAL-1
+T19	Chromosome 468 479	chromosomal
+T21	Cell 508 514	T-cell
+T24	bHLHTF 598 606	bHLH-EC2
+T25	Gene 650 659	this gene
+T27	Promoter 742 750	promoter
+T28	Eukaryote 763 768	mouse
+T29	bHLHTF 769 777	bHLH-EC2
+T30	Gene 778 782	gene
+T31	Exon 811 816	exons
+T32	Eukaryote 884 889	mouse
+T33	bHLHTF 890 895	twist
+T34	Gene 896 900	gene
+T36	Promoter 1015 1023	promoter
+T37	ReporterGene 1024 1037	reporter gene
+T38	ExperimentalMethod 1038 1062	transfection experiments
+T39	Cell 1066 1080	cultured cells
+T40	UpstreamRegulatorySequence 1117 1134	upstream sequence
+T43	Gene 1266 1274	bHLH-EC2
+T44	Chromosome 1310 1321	chromosomal
+T46	Gene 1334 1343	this gene
+T47	Eukaryote 1351 1356	human
+T48	Chromosome 1422 1443	chromosome band 20p13
+T2	bHLHTF 98 127	basic helix-loop-helix factor
+T5	bHLHTF 272 284	bHLH factors
+T6	bHLHTF 379 391	bHLH factors

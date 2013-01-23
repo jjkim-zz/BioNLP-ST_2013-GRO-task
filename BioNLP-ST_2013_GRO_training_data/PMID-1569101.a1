@@ -1,0 +1,39 @@
+T1	Eukaryote 4 9	human
+T2	TranscriptionFactor 10 39	T cell transcription factor-1
+T3	Gene 40 44	gene
+T4	DNA 128 139	cDNA clones
+T5	TranscriptionFactor 188 224	T cell-specific transcription factor
+T6	TranscriptionFactor 226 231	TCF-1
+T7	Eukaryote 276 281	human
+T8	Gene 282 286	gene
+T9	TranscriptionFactor 296 307	this factor
+T10	Gene 313 323	TCF-1 gene
+T11	Exon 343 348	exons
+T12	Exon 381 385	exon
+T13	DNA 391 394	DNA
+T15	HMG 424 427	HMG
+T16	TranscriptionFactor 436 441	TCF-1
+T17	Exon 475 480;488 491	exons VII
+T18	Exon 475 483	exons VI
+T20	Exon 539 548	exon (IX)
+T21	Nucleotide 559 580	splice acceptor sites
+T22	Exon 584 590	exon X
+T23	Sequence 615 623	sequence
+T24	Exon 663 667	exon
+T25	TranscriptionFactor 669 674	TCF-1
+T26	HMG 729 736	HMG box
+T27	TranscriptionFactor 737 773	transcription factor TCF-1 alpha/LEF
+T28	HMG 794 803	HMG boxes
+T29	Gene 823 832	TCF genes
+T30	Gene 862 872	TCF-1 gene
+T31	Chromosome 884 907	chromosome 5 band q31.1
+T32	Gene 913 918	TCF-1
+T33	Promoter 919 927	promoter
+T34	CpGIsland 945 955	CpG island
+T35	ExperimentalMethod 974 1016	chloramphenicol acetyltransferase analysis
+T36	Promoter 1022 1030	promoter
+T38	Cell 1059 1066	T cells
+T39	Cell 1228 1234	T cell
+T40	TranscriptionFactor 1235 1256	transcription factors
+T42	Cell 1286 1292	T cell
+T44	Promoter 75 83	promoter

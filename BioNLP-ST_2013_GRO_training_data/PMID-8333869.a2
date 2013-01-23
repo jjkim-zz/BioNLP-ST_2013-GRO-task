@@ -1,0 +1,26 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T3	RNASplicing 103 123	alternative splicing
+E1	RNASplicing:T3 
+T6	Transcription 193 206	transcription
+E2	Transcription:T6 hasPatient:T9
+T11	RegulatoryProcess 351 361	regulation
+E3	RegulatoryProcess:T11 hasPatient:E4
+T12	GeneExpression 365 380	gene expression
+E4	GeneExpression:T12 hasPatient:T13
+R4	locatedIn Arg1:T14 Arg2:T15
+R5	encodes Arg1:T17 Arg2:T18
+R6	locatedIn Arg1:T17 Arg2:T19
+R7	locatedIn Arg1:T20 Arg2:T22
+R8	fromSpecies Arg1:T22 Arg2:T21
+T24	BindingOfProteinToDNA 720 728	interact
+E5	BindingOfProteinToDNA:T24 hasPatient:T25
+R9	encodes Arg1:T27 Arg2:T29
+R10	fromSpecies Arg1:T29 Arg2:T28
+R11	hasPart Arg1:T30 Arg2:T31
+R12	hasPart Arg1:T32 Arg2:T33
+T36	GeneExpression 1069 1078	generated
+E6	GeneExpression:T36 hasPatient:T35
+T37	RNASplicing 1082 1102	alternative splicing
+E7	RNASplicing:T37 
+R3	fromSpecies Arg1:T9 Arg2:T7	
+R13	hasPart Arg1:T5 Arg2:T10	

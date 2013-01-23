@@ -1,0 +1,43 @@
+R1	encodes Arg1:T1 Arg2:T3
+R2	fromSpecies Arg1:T3 Arg2:T2
+T4	GeneExpression 53 63	expression
+E1	GeneExpression:T4 hasPatient:T3
+T5	PositiveRegulationOfGeneExpression 67 78	upregulated
+E2	PositiveRegulationOfGeneExpression:T5 hasAgent:E3 hasPatient:E1
+T7	CellDifferentiation 92 107	differentiation
+E3	CellDifferentiation:T7 hasPatient:T6
+T9	GeneExpression 127 136	expressed
+E4	GeneExpression:T9 hasPatient:T8
+R3	locatedIn Arg1:E4 Arg2:T10
+T11	CellDifferentiation 148 163	differentiation
+E5	CellDifferentiation:T11 hasPatient:T10
+R4	locatedIn Arg1:T13 Arg2:T14
+R5	fromSpecies Arg1:T16 Arg2:T15
+T17	CellDifferentiation 283 298	differentiating
+E6	CellDifferentiation:T17 hasAgent:T20 hasPatient:T18
+R6	locatedIn Arg1:T22 Arg2:T21
+R7	hasPart Arg1:T23 Arg2:T24
+T29	Binding 680 687	binding
+E7	Binding:T29 hasPatient:T28
+R9	fromSpecies Arg1:T32 Arg2:T31
+R10	encodes Arg1:T33 Arg2:T36
+T34	TranscriptionOfGene 720 730	expression
+E8	TranscriptionOfGene:T34 hasPatient:T33
+R11	fromSpecies Arg1:T36 Arg2:T35
+T37	PositiveRegulationOfTranscriptionOfGene 750 761	upregulated
+E9	PositiveRegulationOfTranscriptionOfGene:T37 hasPatient:E8
+T39	CellDifferentiation 787 802	differentiation
+E10	CellDifferentiation:T39 hasPatient:T38
+T40	GeneExpression 830 839	expressed
+E11	GeneExpression:T40 hasPatient:T36
+R12	locatedIn Arg1:E11 Arg2:T41
+R13	locatedIn Arg1:T43 Arg2:T44
+R14	fromSpecies Arg1:T43 Arg2:T42
+T45	Transport 953 963	exocytosis
+E12	Transport:T45 hasPatient:T47
+R15	locatedIn Arg1:T47 Arg2:T46
+T48	CellularProcess 1002 1015	degranulation
+E13	CellularProcess:T48 
+R16	locatedIn Arg1:E13 Arg2:T49
+R17	locatedIn Arg1:E13 Arg2:T50
+E14	CellDifferentiation:T17 hasAgent:T20 hasPatient:T19

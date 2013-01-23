@@ -1,0 +1,52 @@
+T1	Eukaryote 52 57	human
+T2	Tissue 58 63	renal
+T3	Protein 64 90	organic anion transporters
+T4	Protein 92 97	hOAT1
+T5	Protein 102 107	hOAT3
+T6	Protein 121 147	organic anion transporters
+T7	Eukaryote 153 156	rat
+T8	Eukaryote 158 163	mouse
+T9	Eukaryote 169 184	winter flounder
+T10	Protein 186 191	rOAT1
+T11	Protein 193 198	mOAT1
+T12	Protein 200 205	fROAT
+T14	Chemical 239 258	alpha-ketoglutarate
+T15	Chemical 299 315	p-aminohippurate
+T16	Chemical 317 320	PAH
+T17	GeneProduct 350 363	gene products
+T18	Eukaryote 369 374	human
+T19	Tissue 375 381	kidney
+T20	Protein 427 431	OATs
+T21	DNA 499 504	cDNAs
+T22	Gene 506 511	hOAT1
+T23	Gene 516 521	hOAT3
+T24	AminoAcid 547 557	amino-acid
+T25	Protein 566 574	proteins
+T26	Gene 590 595	hOAT1
+T27	Gene 600 605	hOAT3
+T28	MessengerRNA 606 611	mRNAs
+T30	Tissue 638 644	kidney
+T31	Tissue 659 664	brain
+T32	Chromosome 684 694	chromosome
+T33	Chemical 712 715	PAH
+T34	Gene 763 768	hOAT1
+T35	MessengerRNA 769 773	mRNA
+T36	Chemical 832 835	PAH
+T37	Chemical 951 954	PAH
+T39	Chemical 971 981	probenicid
+T40	Chemical 983 1002	alpha-ketoglutarate
+T41	Chemical 1004 1014	bumetanide
+T42	Chemical 1016 1026	furosemide
+T43	Chemical 1032 1040	losartan
+T44	Chemical 1053 1063	salicylate
+T45	Chemical 1065 1070	urate
+T46	Chemical 1072 1079	choline
+T47	Chemical 1081 1091	amilioride
+T48	Chemical 1097 1116	hydrochlorothiazide
+T49	Ion 273 287	organic anions
+T51	Protein 450 480	amphiphilic solute facilitator
+T52	Protein 482 485	ASF
+T53	Gene 671 676	genes
+T54	Eukaryote 726 740	Xenopus laevis
+T55	Cell 741 748	oocytes
+T57	Cell 823 830	oocytes

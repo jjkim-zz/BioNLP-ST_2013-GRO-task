@@ -1,0 +1,41 @@
+T3	RNASplicing 88 96	splicing
+E1	RNASplicing:T3 hasPatient:T2
+T5	Disease 123 126	SMA
+E3	Disease:T5 
+T6	Disease 166 173	disease
+E4	Disease:T6 
+R1	locatedIn Arg1:T9 Arg2:T10
+R2	locatedIn Arg1:T9 Arg2:T11
+T13	BindingToProtein 357 366	interacts
+E5	BindingToProtein:T13 hasPatient:T12 hasPatient2:T15
+R3	hasPart Arg1:T14 Arg2:T15
+T17	BindingToRNA 426 434	assembly
+E6	BindingToRNA:T17 hasAgent:T16
+R4	locatedIn Arg1:E6 Arg2:T18
+T21	CellularComponentOrganizationAndBiogenesis 529 543	reorganization
+E7	CellularComponentOrganizationAndBiogenesis:T21 hasPatient:T22
+R5	locatedIn Arg1:E7 Arg2:T23
+T25	NegativeRegulation 595 603	inhibits
+E8	NegativeRegulation:T25 hasAgent:T24 hasPatient:E9
+T27	RNASplicing 613 621	splicing
+E9	RNASplicing:T27 hasPatient:T26
+T29	PositiveRegulation 652 662	stimulates
+E10	PositiveRegulation:T29 hasAgent:T28 hasPatient:E11
+T30	RNASplicing 663 671	splicing
+E11	RNASplicing:T30 
+T32	Disease 694 697	SMA
+E12	Disease:T32 
+T36	RNASplicing 825 833	splicing
+E14	RNASplicing:T36 hasPatient:T35
+T38	RNABiosynthesis 856 871	mRNA biogenesis
+E15	RNABiosynthesis:T38 
+T40	Disease 926 929	SMA
+E16	Disease:T40 
+T7	Disease 98 121	Spinal muscular atrophy
+E2	Disease:T7 
+T41	Mutation 214 223	mutations
+E17	Mutation:T41 hasPatient:T8
+T42	Decrease 192 206	reduced levels
+E18	Decrease:T42 hasPatient:T8
+T34	RegulatoryProcess 834 843	machinery
+E13	RegulatoryProcess:T34 hasPatient:E14

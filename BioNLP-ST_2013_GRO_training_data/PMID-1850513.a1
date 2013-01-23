@@ -1,0 +1,5 @@
+T1	Eukaryote 0 5	Human
+T2	Protein 6 10	MyoD
+T3	DNA 12 16	cDNA
+T4	AminoAcid 29 39	amino acid
+T5	Sequence 40 48	sequence

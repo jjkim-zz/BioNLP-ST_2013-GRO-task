@@ -1,0 +1,35 @@
+T4	Cell 104 130	retinal pigment epithelium
+T6	Eukaryote 149 154	mouse
+T7	Locus 155 160	locus
+T10	TranscriptionFactor 218 222	Mitf
+T13	Cell 255 265	cell types
+T14	Cell 277 303	retinal pigment epithelium
+T15	Cell 305 308	RPE
+T16	Cell 311 322	melanocytes
+T17	Cell 324 334	mast cells
+T18	Cell 340 351	osteoclasts
+T19	TranscriptionFactor 385 389	Mitf
+T20	Protein 399 405	Mitf-a
+T21	Eukaryote 415 420	human
+T22	Protein 431 437	MITF-A
+T23	DNA 441 445	cDNA
+T24	Protein 455 461	MITF-A
+T25	AminoAcid 478 497	amino acid residues
+T26	Protein 547 567	melanocyte-type MITF
+T27	Protein 569 575	MITF-M
+T28	MessengerRNA 578 589	MITF-A mRNA
+T30	Protein 639 643	MITF
+T31	Cell 664 673	RPE cells
+T32	MessengerRNA 683 694	MITF-M mRNA
+T34	Cell 723 734	melanocytes
+T35	Cell 739 753	melanoma cells
+T36	MessengerRNA 801 812	Mitf-a mRNA
+T38	Cell 844 847	RPE
+T39	Eukaryote 851 856	mouse
+T40	Tissue 857 863	embryo
+T41	Protein 922 928	MITF-A
+T46	Protein 1011 1024	MITF-A/Mitf-a
+T48	Cell 1082 1085	RPE
+T1	TranscriptionFactor 37 83	microphthalmia-associated transcription factor
+T2	TranscriptionFactor 170 216	microphthalmia-associated transcription factor
+T9	Gene 960 1009	tyrosinase and tyrosinase-related protein 1 genes

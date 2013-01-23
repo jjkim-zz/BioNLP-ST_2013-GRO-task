@@ -1,0 +1,37 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+R2	fromSpecies Arg1:T2 Arg2:T4
+R3	fromSpecies Arg1:T2 Arg2:T5
+R4	fromSpecies Arg1:T3 Arg2:T4
+T10	RegulatoryProcess 228 236	controls
+E1	RegulatoryProcess:T10 hasAgent:T8
+T11	RegulatoryProcess 306 314	controls
+E2	RegulatoryProcess:T11 
+R6	fromSpecies Arg1:T14 Arg2:T13
+R7	fromSpecies Arg1:T14 Arg2:T12
+R8	encodes Arg1:T21 Arg2:T19
+R9	fromSpecies Arg1:T24 Arg2:T23
+R10	locatedIn Arg1:T26 Arg2:T27
+R11	fromSpecies Arg1:T26 Arg2:T25
+R12	fromSpecies Arg1:T31 Arg2:T30
+T34	Transcription 1084 1097	Transcription
+E3	Transcription:T34 hasPatient:T37
+R13	fromSpecies Arg1:T37 Arg2:T35
+R14	fromSpecies Arg1:T37 Arg2:T36
+R15	fromSpecies Arg1:T38 Arg2:T39
+R16	fromSpecies Arg1:T38 Arg2:T40
+R17	encodes Arg1:T43 Arg2:T44
+R18	fromSpecies Arg1:T48 Arg2:T47
+R19	encodes Arg1:T51 Arg2:T52
+T56	RegulatoryProcess 1971 1981	regulation
+E6	RegulatoryProcess:T56 hasPatient:T55
+R5	locatedIn Arg1:T59 Arg2:T58	
+R21	fromSpecies Arg1:T21 Arg2:T20	
+T64	TranscriptionInitiation 1138 1147	initiated
+E7	TranscriptionInitiation:T64 hasPatient:E3
+T41	RegulationOfTranscription 1330 1356	transcriptional regulation
+E4	RegulationOfTranscription:T41 
+R22	hasPart Arg1:T48 Arg2:T65	
+T66	MetabolicPathway 1673 1693	bile acid metabolism
+E5	MetabolicPathway:T66 
+R23	fromSpecies Arg1:T67 Arg2:T50	
+R20	fromSpecies Arg1:T54 Arg2:T53	

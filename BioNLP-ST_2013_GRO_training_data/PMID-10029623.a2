@@ -1,0 +1,8 @@
+T3	Disease 105 125	autoimmune hepatitis
+E1	Disease:T3 
+R1	locatedIn Arg1:T6 Arg2:T5	
+R2	fromSpecies Arg1:T12 Arg2:T11	
+T16	Disease 1392 1412	autoimmune hepatitis
+E2	Disease:T16 
+T18	Disease 281 309	autoimmune hepatitis type II
+E3	Disease:T18 

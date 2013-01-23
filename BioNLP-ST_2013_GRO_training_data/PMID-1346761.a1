@@ -1,0 +1,56 @@
+T1	UpstreamRegulatorySequence 4 19	upstream region
+T2	Eukaryote 27 32	human
+T3	Gene 33 52	homeobox gene HOX3D
+T5	OrganicChemical 83 96	retinoic acid
+T6	HomeoboxTF 101 118	HOX homeoproteins
+T9	Gene 175 180	HOX3D
+T10	Eukaryote 184 189	human
+T11	Gene 190 203	homeobox gene
+T12	DNARegion 219 231	HOX3 cluster
+T13	Chromosome 235 248	chromosome 12
+T14	Gene 250 255	HOX3D
+T18	OrganicChemical 341 343	RA
+T21	ExperimentalMethod 389 401	Transfection
+T22	Gene 405 410	HOX3D
+T23	UpstreamRegulatorySequence 411 437	upstream genomic sequences
+T24	ReporterGene 450 463	reporter gene
+T25	Promoter 505 513	promoter
+T26	TATAbox 538 550	TATA element
+T27	Promoter 557 565	promoter
+T30	ReporterGene 596 609	reporter gene
+T34	OrganicChemical 643 645	RA
+T36	OrganicChemical 657 659	RA
+T38	Protein 668 685	nuclear factor(s)
+T39	UpstreamRegulatorySequence 706 726	palindromic sequence
+T41	Gene 802 807	HOX3D
+T42	Promoter 808 816	promoter
+T44	Eukaryote 843 848	human
+T45	Eukaryote 853 859	murine
+T46	Cell 860 865	cells
+T47	ExperimentalMethod 871 884	cotransfected
+T48	DNA 890 897	vectors
+T50	Protein 913 920	protein
+T52	Gene 950 955	HOX3C
+T53	Gene 1006 1010	HOX4
+T54	Gene 1025 1030	HOX4D
+T55	Gene 1032 1037	HOX4C
+T56	Eukaryote 1046 1052	murine
+T57	Gene 1053 1060	Hox 4.3
+T58	Protein 1067 1080	HOX3D protein
+T59	Gene 1123 1128	HOX3E
+T60	Gene 1145 1150	HOX4B
+T63	Protein 1183 1197	HOX4D proteins
+T64	Prokaryote 1213 1221	bacteria
+T66	Sequence 1249 1257	sequence
+T67	TATAbox 1306 1314	TATA box
+T69	Eukaryote 1439 1448	mammalian
+T70	HomeoboxTF 1449 1459	homeogenes
+T71	Cell 1483 1488	cells
+T72	Gene 1585 1590	HOX3D
+T73	Promoter 1591 1599	promoter
+T76	Protein 1662 1677	nuclear factors
+T78	OrganicChemical 1689 1691	RA
+T19	Cell 378 380	EC
+T20	Cell 613 621	EC cells
+T31	Protein 964 972	paralogs
+T32	Protein 1173 1178	HOX4C

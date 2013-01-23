@@ -1,0 +1,90 @@
+T1	Dimerization 0 12	Dimerization
+E1	Dimerization:T1 hasPatient:T2
+T4	RegulatoryProcess 38 47	regulates
+E2	RegulatoryProcess:T4 hasPatient:E3 hasAgent:E1
+T6	BindingOfProteinToDNA 52 59	binding
+E3	BindingOfProteinToDNA:T6 hasPatient:T5
+T7	Transcription 61 76	transcriptional
+E4	Transcription:T7 
+T8	PositiveRegulation 77 87	activation
+E5	PositiveRegulation:T8 hasPatient:E4
+T9	NegativeRegulation 93 103	inhibition
+E6	NegativeRegulation:T9 hasAgent:T10
+T11	GeneExpression 145 155	expression
+E7	GeneExpression:T11 
+R1	locatedIn Arg1:E7 Arg2:T12
+T14	RegulatoryProcess 197 206	regulated
+E8	RegulatoryProcess:T14 hasAgent:T16 hasPatient:E7
+R2	hasPart Arg1:T17 Arg2:T18
+R3	hasPart Arg1:T17 Arg2:T22
+R4	hasPart Arg1:T17 Arg2:T21
+R5	hasPart Arg1:T17 Arg2:T24
+R6	hasPart Arg1:T17 Arg2:T23
+R7	hasPart Arg1:T17 Arg2:T20
+R8	encodes Arg1:T20 Arg2:T25
+R9	encodes Arg1:T21 Arg2:T25
+R10	encodes Arg1:T22 Arg2:T25
+R11	encodes Arg1:T23 Arg2:T25
+R12	encodes Arg1:T24 Arg2:T25
+T26	BindingOfProteinToDNA 436 440	bind
+E9	BindingOfProteinToDNA:T26 hasPatient:T27
+T30	Increase 564 573	stimulate
+E10	Increase:T30 hasAgent:T28 hasPatient:T32
+R13	locatedIn Arg1:E10 Arg2:T33
+R14	fromSpecies Arg1:T32 Arg2:T31
+T34	Transcription 665 680	transcriptional
+E11	Transcription:T34 hasPatient:T36
+T35	RegulatoryProcess 681 691	regulation
+E12	RegulatoryProcess:T35 hasAgent:T37 hasPatient:E11
+T40	BindingOfProteinToDNA 830 837	binding
+E13	BindingOfProteinToDNA:T40 hasPatient:T42 hasAgent:T38
+R15	fromSpecies Arg1:T42 Arg2:T41
+R16	fromSpecies Arg1:T45 Arg2:T44
+T51	Transcription 1226 1239	transcription
+E14	Transcription:T51 
+T52	Increase 1244 1254	stimulated
+E15	Increase:T52 hasAgent:T53 hasPatient:E14
+T54	Transcription 1337 1352	Transcriptional
+E16	Transcription:T54 hasPatient:T57
+T55	PositiveRegulation 1353 1363	activation
+E17	PositiveRegulation:T55 hasPatient:E16
+R17	fromSpecies Arg1:T57 Arg2:T56
+T58	RegulatoryProcess 1404 1414	regulation
+E18	RegulatoryProcess:T58 hasAgent:T59 hasPatient:E17
+T61	NegativeRegulation 1493 1502	inhibited
+E19	NegativeRegulation:T61 hasAgent:T60 hasPatient:T62
+R18	hasFunction Arg1:T63 Arg2:T62
+R19	hasFunction Arg1:T64 Arg2:T62
+R20	hasFunction Arg1:T65 Arg2:T62
+T66	Increase 1561 1571	stimulated
+E20	Increase:T66 hasAgent:T60 hasPatient:E21
+T67	BindingToProtein 1576 1583	binding
+E21	BindingToProtein:T67 hasPatient:T68 hasPatient2:T69
+T71	PositiveRegulation 1624 1634	activation
+E22	PositiveRegulation:T71 hasAgent:T74 hasPatient:T70
+R21	locatedIn Arg1:E22 Arg2:T75
+R22	fromSpecies Arg1:T73 Arg2:T72
+R23	hasFunction Arg1:T73 Arg2:T70
+T76	NegativeRegulation 1733 1742	inhibited
+E23	NegativeRegulation:T76 hasAgent:E24 hasPatient:E22
+T77	GeneExpression 1746 1758	coexpression
+E24	GeneExpression:T77 hasPatient:T78
+T79	BindingOfProteinToDNA 1793 1800	binding
+E25	BindingOfProteinToDNA:T79 hasAgent:T81 hasPatient:T83
+R24	hasPart Arg1:T80 Arg2:T81
+R25	fromSpecies Arg1:T83 Arg2:T82
+T86	RegulatoryProcess 1921 1929	mediates
+E26	RegulatoryProcess:T86 hasAgent:T85 hasPatient:E28
+T87	Transcription 1930 1945	transcriptional
+E27	Transcription:T87 
+T88	PositiveRegulation 1946 1956	activation
+E28	PositiveRegulation:T88 hasPatient:E27
+T89	RegulatoryProcess 1977 1987	regulation
+E29	RegulatoryProcess:T89 hasPatient:T90
+E30	RegulatoryProcess:T4 hasPatient:E5 hasAgent:E1
+E31	RegulatoryProcess:T4 hasPatient:E6 hasAgent:E1
+E32	Dimerization:T1 hasPatient:T3
+E33	BindingOfProteinToDNA:T40 hasPatient:T42 hasAgent:T39
+E34	RegulatoryProcess:T4 hasPatient:E6 hasAgent:E32
+E35	RegulatoryProcess:T4 hasPatient:E3 hasAgent:E32
+E36	RegulatoryProcess:T4 hasPatient:E5 hasAgent:E32

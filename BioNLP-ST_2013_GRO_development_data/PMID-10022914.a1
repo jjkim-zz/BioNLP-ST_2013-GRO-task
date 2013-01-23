@@ -1,0 +1,54 @@
+T1	Enzyme 47 51	PYK2
+T2	Eukaryote 63 73	Drosophila
+T4	Protein 98 102	rdgB
+T7	Enzyme 141 145	PYK2
+T10	Protein 201 228	G-protein-coupled receptors
+T11	Ion 244 251	calcium
+T12	Stress 257 271	stress signals
+T16	Protein 387 391	Nirs
+T18	Protein 450 462	Nir proteins
+T19	Protein 464 468	Nir1
+T20	Protein 470 474	Nir2
+T21	Protein 480 484	Nir3
+T23	ProteinDomain 498 519	amino-terminal domain
+T24	Enzyme 523 527	PYK2
+T25	Protein 618 622	Nirs
+T26	ProteinDomain 643 664	transmembrane domains
+T27	Protein 689 731	phosphatidylinositol (PI) transfer protein
+T28	ProteinDomain 740 753	acidic domain
+T29	Protein 759 771	Nir proteins
+T30	Eukaryote 780 785	human
+T31	Eukaryote 804 814	Drosophila
+T33	Protein 847 851	rdgB
+T34	Protein 856 863	protein
+T35	Protein 940 944	Nirs
+T36	Ion 949 956	calcium
+T38	Protein 965 973	proteins
+T40	Enzyme 1031 1035	PYK2
+T41	Ion 1073 1080	calcium
+T42	Chemical 1087 1100	phorbol ester
+T43	AminoAcid 1108 1116	tyrosine
+T45	Protein 1136 1140	Nirs
+T46	Enzyme 1152 1156	PYK2
+T47	Protein 1161 1165	Nirs
+T49	Tissue 1228 1233	brain
+T50	Tissue 1238 1244	retina
+T51	Enzyme 1259 1263	PYK2
+T52	Protein 1264 1267	Nir
+T53	Cell 1316 1330	cultured cells
+T54	Tissue 1339 1352	brain tissues
+T55	Protein 1367 1371	Nir1
+T56	Gene 1381 1385	gene
+T57	Eukaryote 1400 1405	human
+T58	Chromosome 1406 1416	chromosome
+T59	Eukaryote 1474 1479	human
+T60	Protein 1518 1521	Nir
+T61	Protein 1526 1539	rdgB proteins
+T64	Protein 1591 1612	PYK2-binding proteins
+T66	Ion 1648 1655	calcium
+T68	Protein 1702 1729	G-protein-coupled receptors
+T69	ProteinIdentification 0 14	Identification
+T70	ExperimentalMethod 294 311	molecular cloning
+T72	Eukaryote 913 918	flies
+T74	MolecularEntity 1039 1045	agents
+T76	ProteinComplex 1268 1277	complexes

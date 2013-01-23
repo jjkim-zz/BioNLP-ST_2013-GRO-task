@@ -1,0 +1,53 @@
+T3	Ion 55 62	calcium
+T5	Eukaryote 76 81	human
+T6	Cell 82 95	B lymphocytes
+T8	Ion 134 138	Ca2+
+T9	Cell 166 173	B cells
+T11	Chemical 273 276	IP3
+T13	Ion 287 291	Ca2+
+T17	Eukaryote 508 513	human
+T18	Cell 514 521	B cells
+T21	Protein 552 555	RYR
+T22	Ion 577 581	Ca2+
+T24	Protein 590 597	channel
+T26	Protein 634 637	BCR
+T28	Ion 650 654	Ca2+
+T30	Eukaryote 714 719	human
+T31	Cell 720 737	primary CD19(+) B
+T32	Cell 742 754	DAKIKI cells
+T34	Protein 788 795	protein
+T35	Protein 870 873	RYR
+T36	Protein 1046 1049	RYR
+T38	Cell 1063 1080	primary CD19(+) B
+T39	Cell 1085 1097	DAKIKI cells
+T40	Tissue 1118 1138	skeletal muscle type
+T41	Protein 1140 1144	RYR1
+T42	Chemical 1170 1183	[3H]ryanodine
+T43	Protein 1222 1229	protein
+T44	Cell 1249 1261	DAKIKI cells
+T45	Cell 1280 1289	CD19(+) B
+T46	Cell 1294 1306	DAKIKI cells
+T47	Chemical 1308 1325	4-chloro-m-cresol
+T49	Ion 1349 1353	Ca2+
+T52	Chemical 1378 1387	ryanodine
+T53	Ion 1398 1402	Ca2+
+T55	Protein 1411 1418	channel
+T57	Ion 1428 1432	Ca2+
+T59	Chemical 1465 1474	ryanodine
+T60	Protein 1507 1510	BCR
+T62	Ion 1520 1524	Ca2+
+T64	Cell 1536 1551	CD19(+) B cells
+T66	Chemical 1581 1598	4-chloro-m-cresol
+T67	Chemical 1603 1612	ryanodine
+T68	Protein 1642 1646	RYR1
+T69	Ion 1662 1666	Ca2+
+T71	Protein 1675 1682	channel
+T72	Protein 1690 1693	BCR
+T74	Ion 1705 1709	Ca2+
+T76	Ion 1745 1749	Ca2+
+T78	Cell 1798 1805	B cells
+T80	Protein 1845 1857	IP3 receptor
+T81	Protein 1862 1866	RYR1
+T1	Protein 0 39	Skeletal muscle type ryanodine receptor
+T10	Chemical 406 409	IP3
+T82	Ion 469 473	Ca2+

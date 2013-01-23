@@ -1,0 +1,22 @@
+T2	NegativeRegulationOfTranscription 0 26	Transcriptional repression
+E2	NegativeRegulationOfTranscription:T2 hasAgent:T3
+R1	hasPart Arg1:T4 Arg2:T3
+R2	hasPart Arg1:T5 Arg2:T9
+T11	BindingOfProteinToDNA 213 220	binding
+E4	BindingOfProteinToDNA:T11 hasAgent:T9 hasPatient:T10
+T12	PositiveRegulation 260 270	activating
+E5	PositiveRegulation:T12 hasAgent:T13
+T14	GeneExpression 316 325	expressed
+E6	GeneExpression:T14 hasPatient:T16
+T18	NegativeRegulation 409 418	repressed
+E7	NegativeRegulation:T18 hasAgent:T17 hasPatient:E8
+T19	Transcription 419 432	transcription
+E8	Transcription:T19 
+T22	NegativeRegulation 561 571	repressing
+E9	NegativeRegulation:T22 hasAgent:T21
+R4	hasPart Arg1:T23 Arg2:T21
+R5	hasPart Arg1:T25 Arg2:T24
+T26	NegativeRegulation 699 709	repressing
+E10	NegativeRegulation:T26 hasAgent:T27
+R6	fromSpecies Arg1:T29 Arg2:T28
+R7	hasPart Arg1:T29 Arg2:T27

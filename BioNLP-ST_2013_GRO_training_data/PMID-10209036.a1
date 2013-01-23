@@ -1,0 +1,37 @@
+T2	Protein 48 51	SIT
+T4	Eukaryote 96 101	human
+T5	Cell 102 108	T cell
+T7	Cell 121 134	T lymphocytes
+T9	Protein 172 202	transmembrane adaptor proteins
+T12	MolecularEntity 267 276	molecules
+T13	CellComponent 284 297	cell membrane
+T15	ProteinDomain 327 333	motifs
+T16	Protein 390 393	SIT
+T18	Protein 444 447	SIT
+T21	Cell 516 527	lymphocytes
+T22	AminoAcid 535 543	tyrosine
+T24	Protein 563 566	src
+T28	Protein 609 612	SIT
+T33	Enzyme 669 673	SHP2
+T34	AminoAcid 696 704	tyrosine
+T35	ProteinDomain 711 727	inhibition motif
+T37	Protein 747 750	SIT
+T38	Cell 754 766	Jurkat cells
+T40	Cell 781 787	T cell
+T41	Protein 788 796	receptor
+T42	Protein 802 820	phytohemagglutinin
+T46	Protein 885 890	NF-AT
+T50	Enzyme 984 999	phospholipase C
+T52	Protein 1021 1025	SHP2
+T53	Protein 1029 1032	SIT
+T55	Protein 1067 1072	NF-AT
+T57	Protein 1100 1103	SIT
+T59	Protein 1123 1128	NF-AT
+T61	Protein 1156 1161	NF-AT
+T63	Cell 1184 1190	T cell
+T65	Protein 1212 1216	SHP2
+T11	ProteinDomain 229 241	(SH)2 domain
+T66	Protein 482 494	glycoprotein
+T25	Enzyme 580 608	syk protein tyrosine kinases
+T26	Enzyme 626 668	SH2 domain-containing tyrosine phosphatase
+T27	Protein 681 695	immunoreceptor

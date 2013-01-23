@@ -1,0 +1,29 @@
+T1	DNA 0 4	cDNA
+T2	Tissue 14 20	tissue
+T4	Chromosome 37 47	chromosome
+T6	Eukaryote 59 64	human
+T7	Gene 76 81	SOX18
+T10	TranscriptionFactor 133 153	transcription factor
+T11	DNA 173 176	DNA
+T13	ProteinDomain 185 190	motif
+T14	HMG 202 205	HMG
+T17	HMG 311 325	HMG-box region
+T19	OpenReadingFrame 360 378	open reading frame
+T20	Protein 399 406	protein
+T21	AminoAcid 414 425	amino acids
+T22	Eukaryote 460 465	mouse
+T23	Protein 466 479	Sox18 protein
+T24	Eukaryote 535 540	human
+T25	Protein 541 546	SOX18
+T26	MessengerRNA 547 561	messenger RNAs
+T28	Tissue 593 598	heart
+T29	Tissue 635 640	brain
+T30	Tissue 642 647	liver
+T31	Tissue 649 655	testis
+T32	Cell 661 670	leukocyte
+T33	Eukaryote 734 746	human/rodent
+T34	Gene 815 819	gene
+T36	Chromosome 838 864	chromosome 20q13.33 region
+T5	Gene 87 90	SRY
+T8	Gene 240 243	SOX
+T15	DNA 341 345	cDNA

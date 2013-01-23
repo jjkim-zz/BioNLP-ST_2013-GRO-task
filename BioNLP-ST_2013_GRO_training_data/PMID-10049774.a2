@@ -1,0 +1,22 @@
+T3	GeneExpression 64 73	expressed
+E1	GeneExpression:T3 hasPatient:T2
+R1	locatedIn Arg1:E1 Arg2:T4
+T7	RegulatoryProcess 157 165	regulate
+E2	RegulatoryProcess:T7 hasAgent:T5 hasPatient:E3
+T9	Localization 176 188	infiltration
+E3	Localization:T9 hasPatient:T8
+T11	Disease 243 260	disease processes
+E4	Disease:T11 
+R2	fromSpecies Arg1:T14 Arg2:T13
+R3	locatedIn Arg1:T15 Arg2:T18
+T22	GeneExpression 657 666	expressed
+E5	GeneExpression:T22 hasPatient:T21
+R6	locatedIn Arg1:E5 Arg2:T23
+T24	GeneExpression 725 734	expressed
+E6	GeneExpression:T24 
+R8	fromSpecies Arg1:T28 Arg2:T27
+R9	locatedIn Arg1:E1 Arg2:T29	
+R4	locatedIn Arg1:T18 Arg2:T16	
+R5	locatedIn Arg1:T18 Arg2:T17	
+R7	locatedIn Arg1:E6 Arg2:T25	
+R10	locatedIn Arg1:T26 Arg2:T28	

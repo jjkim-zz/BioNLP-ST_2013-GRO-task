@@ -1,0 +1,59 @@
+T1	Enzyme 0 46	Mitogen- and stress-activated protein kinase-1
+T2	Enzyme 48 52	MSK1
+T4	Enzyme 79 83	MAPK
+T5	Enzyme 88 97	SAPK2/p38
+T8	Protein 129 133	CREB
+T9	Enzyme 162 206	mitogen- and stress-activated protein kinase
+T10	Enzyme 208 212	MSK1
+T11	ProteinDomain 232 254	protein kinase domains
+T12	Peptide 267 278	polypeptide
+T13	Enzyme 280 284	MSK1
+T15	Enzyme 310 320	MAPK2/ERK2
+T16	Enzyme 324 333	SAPK2/p38
+T17	Enzyme 346 350	MSK1
+T19	Cell 367 376	293 cells
+T20	Chemical 387 414	growth factor/phorbol ester
+T21	Stress 464 493	oxidative and chemical stress
+T23	Enzyme 513 517	MSK1
+T24	Chemical 521 550	growth factors/phorbol esters
+T26	Agonist 567 575	PD 98059
+T29	Enzyme 612 616	MAPK
+T31	Enzyme 650 654	MSK1
+T32	Stress 658 672	stress stimuli
+T34	Agonist 689 698	SB 203580
+T36	Enzyme 724 733	SAPK2/p38
+T37	Cell 738 742	HeLa
+T38	Cell 744 748	PC12
+T39	Cell 753 766	SK-N-MC cells
+T40	Agonist 768 776	PD 98059
+T41	Agonist 781 790	SB 203580
+T44	Enzyme 839 843	MSK1
+T45	Protein 847 850	TNF
+T46	Protein 852 855	NGF
+T47	Protein 860 863	FGF
+T48	Agonist 887 901	these agonists
+T50	Enzyme 920 928	MAPK/ERK
+T51	Enzyme 933 942	SAPK2/p38
+T52	Enzyme 953 957	MSK1
+T54	Nucleus 978 985	nucleus
+T55	Cell 1016 1021	cells
+T57	Protein 1042 1046	CREB
+T58	AminoAcid 1050 1056	Ser133
+T59	Enzyme 1088 1091	PKA
+T60	Enzyme 1093 1109	MAPKAP-K1(p90Rsk
+T61	Enzyme 1115 1124	MAPKAP-K2
+T62	Agonist 1141 1150	SB 203580
+T63	Agonist 1152 1160	PD 98059
+T64	Agonist 1165 1174	Ro 318220
+T65	Agonist 1178 1185	agonist
+T68	Protein 1208 1212	CREB
+T69	Protein 1217 1221	ATF1
+T70	Cell 1230 1240	cell-lines
+T71	Protein 1263 1279	these inhibitors
+T72	Enzyme 1283 1287	MSK1
+T74	Enzyme 1323 1332	MAPKAP-K1
+T75	Enzyme 1337 1348	MAPKAP-K2/3
+T76	Enzyme 1429 1433	MSK1
+T78	Protein 1450 1463	growth-factor
+T79	Stress 1468 1474	stress
+T82	Protein 1497 1501	CREB

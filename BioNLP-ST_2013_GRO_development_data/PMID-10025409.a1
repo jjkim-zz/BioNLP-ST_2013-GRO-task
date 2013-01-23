@@ -1,0 +1,21 @@
+T1	Protein 0 5	KCNQ4
+T2	Protein 15 32	potassium channel
+T4	Cell 46 70	sensory outer hair cells
+T7	Protein 105 123	Potassium channels
+T9	Ion 133 143	electrical
+T11	Ion 162 167	ionic
+T13	Gene 231 236	genes
+T14	Protein 244 248	KCNQ
+T18	Protein 408 413	KCNQ4
+T20	Tissue 526 533	cochlea
+T22	Cell 554 578	sensory outer hair cells
+T24	Gene 599 603	gene
+T25	Protein 649 654	KCNQ4
+T27	Protein 707 722	wild-type KCNQ4
+T29	Protein 798 803	KCNQ1
+T33	Protein 878 883	KCNQ4
+T35	Cell 921 937	outer hair cells
+T15	Gene 263 278	K+ channel gene
+T38	Locus 461 472	DFNA2 locus
+T39	Locus 609 614	DFNA2
+T40	Ion 685 694	potassium

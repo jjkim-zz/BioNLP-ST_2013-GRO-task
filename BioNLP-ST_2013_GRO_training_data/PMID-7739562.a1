@@ -1,0 +1,54 @@
+T1	ProteinDomain 30 36	domain
+T2	Protein 40 55	I kappa B alpha
+T3	TranscriptionFactor 81 91	NF-kappa B
+T5	Eukaryote 108 118	eukaryotic
+T6	TranscriptionFactor 119 139	transcription factor
+T7	TranscriptionFactor 140 150	NF-kappa B
+T10	Virus 201 236	human immunodeficiency virus type 1
+T12	Cell 297 303	T-cell
+T15	TranscriptionFactor 351 361	NF-kappa B
+T17	CellComponent 392 415	cytoplasmic compartment
+T18	ProteinSubunit 422 440	inhibitory subunit
+T19	Protein 448 463	I kappa B alpha
+T20	CellComponent 470 481	cytoplasmic
+T21	Protein 482 491	inhibitor
+T24	TranscriptionFactor 563 573	NF-kappa B
+T26	Chemical 583 589	agents
+T27	Cell 601 607	T-cell
+T28	Chemical 608 616	mitogens
+T29	Protein 618 643	proinflammatory cytokines
+T30	Virus 649 654	viral
+T31	TranscriptionActivator 655 670	transactivators
+T33	Eukaryote 698 703	human
+T34	Cell 704 710	T-cell
+T35	Virus 711 732	leukemia virus type 1
+T36	Protein 751 766	I kappa B alpha
+T37	TranscriptionFactor 792 802	NF-kappa B
+T39	MutantProtein 834 860	mutants of I kappa B alpha
+T41	Eukaryote 926 931	human
+T42	Cell 932 945	T lymphocytes
+T43	AminoAcid 990 1001	amino acids
+T44	Protein 1005 1020	I kappa B alpha
+T45	TranscriptionFactor 1081 1091	NF-kappa B
+T46	CellComponent 1099 1108	cytoplasm
+T47	MutatedProtein 1124 1141	deletion mutation
+T52	Protein 1225 1240	I kappa B alpha
+T53	TranscriptionFactor 1246 1256	NF-kappa B
+T54	Protein 1260 1263	Tax
+T56	Cell 1275 1280	cells
+T57	ProteinDomain 1361 1389	N-terminal regulatory region
+T58	Protein 1393 1408	I kappa B alpha
+T59	TranscriptionRepressor 1435 1445	repressors
+T60	Protein 1464 1467	Tax
+T65	TranscriptionFactor 1544 1554	NF-kappa B
+T68	Chemical 1597 1604	antigen
+T69	Protein 1609 1627	cytokine receptors
+T73	CellComponent 1843 1854	cytoplasmic
+T74	Protein 1855 1864	inhibitor
+T75	ProteinDomain 1932 1938	domain
+T76	Protein 1942 1957	I kappa B alpha
+T78	Protein 2012 2027	I kappa B alpha
+T79	TranscriptionFactor 2032 2042	NF-kappa B
+T80	Virus 2058 2063	viral
+T83	Nucleus 331 338	nuclear
+T32	Protein 683 694	Tax protein

@@ -1,0 +1,59 @@
+T1	ProteinComplex 67 93	mSin3A corepressor complex
+T2	ProteinComplex 99 125	mSin3A corepressor complex
+T3	Peptide 162 174	polypeptides
+T4	TranscriptionRepressor 199 225	transcriptional repressors
+T6	ProteinComplex 263 269	mSin3A
+T8	Enzyme 305 331	histone deacetylases HDAC1
+T9	Enzyme 336 341	HDAC2
+T10	ProteinComplex 383 389	mSin3A
+T11	Peptide 401 413	polypeptides
+T12	ProteinComplex 458 472	mSin3A complex
+T13	Cell 478 504	K562 erythroleukemia cells
+T17	Protein 558 561	SAP
+T18	Protein 564 570	SAP180
+T19	Protein 572 578	SAP130
+T20	Protein 584 589	SAP45
+T21	Protein 591 597	SAP180
+T22	ProteinComplex 642 648	mSin3A
+T24	Protein 660 667	protein
+T25	Protein 669 673	RBP1
+T26	Protein 675 680	SAP45
+T27	Protein 697 702	mSDS3
+T28	Eukaryote 708 713	human
+T29	Protein 730 735	SDS3p
+T30	Eukaryote 753 777	Saccharomyces cerevisiae
+T31	ProteinComplex 778 809	Sin3p-Rpd3p corepressor complex
+T32	Protein 938 942	SAPs
+T33	ProteinComplex 990 1004	mSin3A complex
+T34	Protein 1015 1018	SAP
+T38	DNA 1060 1063	DNA
+T40	ProteinComplex 1105 1111	mSin3A
+T42	Protein 1145 1149	SAPs
+T43	ProteinComplex 1179 1207	mSin3A corepressor complexes
+T44	Protein 1209 1215	SAP180
+T46	ProteinDomain 1235 1242	domains
+T47	ProteinDomain 1246 1263	C-terminal domain
+T49	ProteinComplex 1290 1309	mSin3A-HDAC complex
+T50	ProteinDomain 1318 1335	N-terminal domain
+T51	ProteinComplex 1370 1381	mSin3A-HDAC
+T52	Protein 1383 1389	SAP130
+T54	ProteinDomain 1407 1413	domain
+T56	ProteinComplex 1456 1475	mSin3A-HDAC complex
+T57	ProteinDomain 1483 1500	N-terminal domain
+T60	TranscriptionActivator 1546 1571	transcriptional activator
+T61	Protein 1617 1621	SAPs
+T63	CatalyticActivity 1654 1672	enzymatic activity
+T64	ProteinComplex 1680 1694	mSin3A complex
+T67	ProteinComplex 1736 1750	mSin3A complex
+T68	ProteinComplex 1761 1781	regulatory complexes
+T69	Protein 1802 1806	SAPs
+T71	ProteinDomain 1819 1842	HDAC-interaction domain
+T72	ProteinDomain 1844 1847	HID
+T73	ProteinComplex 1852 1858	mSin3A
+T74	ProteinDomain 1880 1883	HID
+T75	ProteinComplex 1928 1954	mSin3A corepressor complex
+T14	Protein 530 556	mSin3A-associated proteins
+T16	TranscriptionRepressorActivity 1224 1234	repression
+T35	TranscriptionRepressorActivity 1396 1406	repression
+T5	TranscriptionCorepressor 239 250	corepressor
+T36	ProteinDomain 1421 1431	C terminus

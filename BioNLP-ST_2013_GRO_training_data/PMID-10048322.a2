@@ -1,0 +1,8 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	locatedIn Arg1:T3 Arg2:T2
+T7	Cleavage 171 179	cleavage
+E1	Cleavage:T7 hasAgent:T6 hasPatient:T8
+T20	BindingToProtein 43 52	complexed
+E2	BindingToProtein:T20 hasAgent:T4 hasPatient:T3
+R3	hasFunction Arg1:T5 Arg2:T6	
+E3	Cleavage:T7 hasAgent:T6 hasPatient:T9

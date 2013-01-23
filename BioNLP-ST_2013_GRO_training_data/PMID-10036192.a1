@@ -1,0 +1,34 @@
+T1	Protein 0 7	DCAMKL1
+T2	Tissue 11 16	brain
+T3	Protein 26 47	transmembrane protein
+T4	Protein 78 90	doublecortin
+T5	Protein 92 95	DCX
+T7	Eukaryote 115 120	human
+T8	Protein 121 133	doublecortin
+T9	Protein 135 138	DCX
+T10	Tissue 143 148	brain
+T11	Protein 167 184	signaling protein
+T14	AminoAcid 265 275	amino-acid
+T15	Protein 276 283	protein
+T16	Eukaryote 289 294	human
+T17	Tissue 295 300	brain
+T18	AminoAcid 345 355	amino-acid
+T19	Protein 382 393	DCX protein
+T20	AminoAcid 415 425	amino-acid
+T21	ProteinDomain 451 472	transmembrane domains
+T22	Eukaryote 500 503	rat
+T25	Protein 570 577	protein
+T26	Protein 578 585	DCAMKL1
+T27	Chromosome 598 608	chromosome
+T28	Transcript 728 738	transcript
+T29	Gene 755 767	DCAMKL1 gene
+T31	Eukaryote 814 819	human
+T32	Tissue 820 825	fetal
+T33	Tissue 830 841	adult brain
+T34	Eukaryote 853 858	mouse
+T36	Protein 926 929	DCX
+T39	Protein 1002 1009	DCAMKL1
+T40	Protein 1010 1031	transmembrane protein
+T41	Tissue 1050 1061	adult brain
+T23	Enzyme 504 544	Ca2+/calmodulin-dependent protein kinase
+T24	Protein 934 975	Ca2+/calmodulin dependent kinase proteins

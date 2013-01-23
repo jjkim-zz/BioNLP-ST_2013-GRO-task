@@ -1,0 +1,72 @@
+T4	RegulatoryProcess 56 64	mediates
+E3	RegulatoryProcess:T4 hasPatient:E2
+T7	PositiveRegulation 75 84	triggered
+E6	PositiveRegulation:T7 hasAgent:T8
+T10	NegativeRegulation 119 129	inhibition
+E7	NegativeRegulation:T10 
+T12	NegativeRegulation 134 142	inhibits
+E8	NegativeRegulation:T12 hasAgent:T11 hasPatient:E9
+T13	CellCyclePhaseTransition 143 154	progression
+E9	CellCyclePhaseTransition:T13 
+T14	CellCyclePhase 160 162	G1
+E10	CellCyclePhase:T14 
+T15	CellCyclePhase 166 173	S phase
+E11	CellCyclePhase:T15 
+T16	CellCycle 181 191	cell cycle
+E12	CellCycle:T16 
+R1	locatedIn Arg1:T18 Arg2:T17
+T19	BindingToProtein 272 284	interactions
+E13	BindingToProtein:T19 
+T20	CellCycle 320 330	cell cycle
+E14	CellCycle:T20 
+T21	RegulatoryProcess 331 341	regulation
+E15	RegulatoryProcess:T21 hasPatient:E14
+T23	BindingOfTFToTFBindingSiteOfProtein 403 411	interact
+E16	BindingOfTFToTFBindingSiteOfProtein:T23 hasAgent2:T24 hasPatient:T22
+T26	CellCyclePhaseTransition 460 466	arrest
+E17	CellCyclePhaseTransition:T26 hasPatient:T27 hasAgent:E16
+T28	CellCyclePhase 476 478	G1
+E18	CellCyclePhase:T28 
+T29	CellCyclePhaseTransition 494 500	arrest
+E19	CellCyclePhaseTransition:T29 hasAgent:E4
+T33	NegativeRegulation 580 592	inactivation
+E22	NegativeRegulation:T33 
+T36	CellCycle 630 640	cell cycle
+E23	CellCycle:T36 
+T37	RegulatoryProcess 641 651	regulation
+E24	RegulatoryProcess:T37 hasPatient:E23
+T39	NegativeRegulation 718 728	repression
+E25	NegativeRegulation:T39 hasAgent:T40 hasPatient:E26
+T41	RegulatoryProcess 739 747	mediates
+E26	RegulatoryProcess:T41 hasPatient:E5
+T44	PositiveRegulation 762 771	triggered
+E29	PositiveRegulation:T44 hasAgent:T45
+T47	NegativeRegulation 806 816	inhibition
+E30	NegativeRegulation:T47 
+T1	NegativeRegulationOfTranscription 7 33	transcriptional repression
+E1	NegativeRegulationOfTranscription:T1 hasAgent:T3 hasPatient:E3
+T2	CellCyclePhaseTransition 65 74	G1 arrest
+E2	CellCyclePhaseTransition:T2 hasAgent:E6
+R4	hasPart Arg1:E12 Arg2:E10	
+R5	hasPart Arg1:E12 Arg2:E11	
+R6	precedes Arg1:E10 Arg2:E11	
+T5	NegativeRegulationOfTranscription 521 547	transcriptional repression
+E4	NegativeRegulationOfTranscription:T5 hasAgent:T32
+T6	CellCyclePhaseTransition 752 761	G1 arrest
+E5	CellCyclePhaseTransition:T6 hasAgent:E29
+E20	PositiveRegulation:T7 hasAgent:T9
+E21	PositiveRegulation:T7 hasAgent:E7
+E27	PositiveRegulation:T44 hasAgent:T46
+E28	PositiveRegulation:T44 hasAgent:E30
+E31	CellCyclePhaseTransition:T2 hasAgent:E20
+E32	CellCyclePhaseTransition:T2 hasAgent:E21
+E33	RegulatoryProcess:T4 hasPatient:E31
+E34	RegulatoryProcess:T4 hasPatient:E32
+E35	NegativeRegulationOfTranscription:T1 hasAgent:T3 hasPatient:E33
+E36	NegativeRegulationOfTranscription:T1 hasAgent:T3 hasPatient:E34
+E37	CellCyclePhaseTransition:T6 hasAgent:E27
+E38	CellCyclePhaseTransition:T6 hasAgent:E28
+E39	RegulatoryProcess:T41 hasPatient:E37
+E40	RegulatoryProcess:T41 hasPatient:E38
+E41	NegativeRegulation:T39 hasAgent:T40 hasPatient:E39
+E42	NegativeRegulation:T39 hasAgent:T40 hasPatient:E40

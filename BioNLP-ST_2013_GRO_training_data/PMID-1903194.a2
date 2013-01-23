@@ -1,0 +1,18 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	locatedIn Arg1:T3 Arg2:T6
+R3	locatedIn Arg1:T4 Arg2:T6
+R4	fromSpecies Arg1:T6 Arg2:T5
+R5	fromSpecies Arg1:T9 Arg2:T10
+R6	fromSpecies Arg1:T12 Arg2:T11
+R7	encodes Arg1:T18 Arg2:T17
+T19	BindingOfProteinToDNA 446 451	binds
+E1	BindingOfProteinToDNA:T19 hasAgent:T17 hasPatient:T20
+T21	Increase 489 499	stimulates
+E2	Increase:T21 hasAgent:T17 hasPatient:T22
+R8	hasPart Arg1:T23 Arg2:T24
+R9	hasFunction Arg1:T23 Arg2:T22
+T25	PositiveRegulation 565 575	activation
+E3	PositiveRegulation:T25 
+T27	Increase 643 653	stimulated
+E4	Increase:T27 hasAgent:T28 hasPatient:T26
+R10	fromSpecies Arg1:T29 Arg2:T30	

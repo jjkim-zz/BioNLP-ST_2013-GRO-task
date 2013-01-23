@@ -1,0 +1,58 @@
+T1	ProteinSubunit 0 7	Subunit
+T2	Protein 14 30	alpha-interferon
+T4	TranscriptionFactor 42 62	transcription factor
+T5	Protein 77 105	interferon regulatory factor
+T6	Protein 110 146	Myb families of DNA-binding proteins
+T9	Protein 148 164	Alpha interferon
+T14	TranscriptionFactor 217 248	transcriptional regulator ISGF3
+T16	Protein 287 295	receptor
+T17	CellComponent 325 334	cytoplasm
+T20	Protein 383 389	factor
+T21	Nucleus 397 404	nucleus
+T22	TranscriptionFactor 406 411	ISGF3
+T23	ProteinSubunit 439 450	ISGF3 alpha
+T24	ProteinSubunit 455 466	ISGF3 gamma
+T25	ProteinSubunit 468 479	ISGF3 gamma
+T26	DNA 494 497	DNA
+T27	ProteinSubunit 510 517	subunit
+T28	ProteinSubunit 525 536	ISGF3 alpha
+T29	Peptide 572 584	polypeptides
+T30	Protein 602 618	alpha interferon
+T34	TranscriptionFactor 703 708	ISGF3
+T35	ProteinSubunit 710 721	ISGF3 gamma
+T36	DNA 722 725	DNA
+T38	Peptide 770 781	polypeptide
+T39	AminoAcid 795 805	amino acid
+T40	Sequence 806 814	sequence
+T41	DNA 840 851	cDNA clones
+T42	ProteinSubunit 853 864	ISGF3 gamma
+T44	DNA 915 918	DNA
+T45	ProteinSubunit 969 980	ISGF3 gamma
+T46	Cell 995 1005	HeLa cells
+T47	SequenceHomologyAnalysis 1007 1017	Sequencing
+T48	ProteinSubunit 1021 1032	ISGF3 gamma
+T49	DNA 1033 1044	cDNA clones
+T50	Protein 1114 1117	IRF
+T54	AminoAcid 1176 1184	residues
+T55	ProteinSubunit 1188 1199	ISGF3 gamma
+T56	Protein 1211 1230	IRF family proteins
+T58	DNA 1236 1239	DNA
+T59	ProteinSubunit 1296 1307	ISGF3 gamma
+T60	SequenceHomologyAnalysis 1317 1338	sequence similarities
+T61	Protein 1370 1389	IRF family proteins
+T62	PrimaryStructure 1408 1426	tryptophan repeats
+T63	DNABindingDomainOfProtein 1448 1466	DNA-binding domain
+T64	Protein 1474 1491	c-myb oncoprotein
+T65	ProteinSubunit 1534 1545	ISGF3 gamma
+T66	Protein 1550 1562	IRF proteins
+T67	Protein 1571 1588	c-myb oncoprotein
+T68	PrimaryStructure 1602 1618	structural motif
+T69	DNA 1623 1626	DNA
+T70	ProteinSubunit 1652 1663	ISGF3 gamma
+T72	Cell 1707 1716	HeLa cell
+T73	ProteinSubunit 1717 1728	ISGF3 alpha
+T75	ProteinComplex 1748 1773	ISGF3 DNA-binding complex
+T78	Protein 1797 1807	IRF family
+T81	ProteinSubunit 1905 1913	subunits
+T82	ProteinSubunit 1927 1938	ISGF3 alpha
+T8	Protein 1129 1149	DNA binding proteins

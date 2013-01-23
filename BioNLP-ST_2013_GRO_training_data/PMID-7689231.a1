@@ -1,0 +1,35 @@
+T2	Gene 59 62	MLL
+T3	Gene 63 66	AF4
+T4	FusionGene 67 81	fusion product
+T5	Chromosome 85 96	chromosomal
+T8	Eukaryote 190 195	yeast
+T9	Chromosome 207 217	chromosome
+T10	Chromosome 240 251	chromosomal
+T12	Cell 292 308	RS4;11 cell line
+T13	DNARegion 347 362	inverted repeat
+T14	Enzyme 396 412	topoisomerase II
+T16	DNARegion 445 462	chi-like elements
+T17	Chromosome 468 486	der(11) chromosome
+T18	RNA 497 507	fusion RNA
+T19	Protein 522 538	chimeric protein
+T20	Gene 551 561	11q23 gene
+T21	Gene 562 565	MLL
+T22	Gene 572 581	4q21 gene
+T23	Gene 593 596	AF4
+T24	Sequence 602 610	sequence
+T25	OpenReadingFrame 627 645	open reading frame
+T26	Transcript 662 672	transcript
+T27	Gene 685 688	MLL
+T28	Protein 689 696	protein
+T29	Enzyme 719 740	DNA methyltransferase
+T30	Eukaryote 746 756	Drosophila
+T32	DNARegion 789 804	"AT-hook" motif
+T33	HMGTF 808 836	high-mobility-group proteins
+T36	DNARegion 877 891	AT-hook region
+T37	Gene 895 898	MLL
+T38	TranscriptionFactor 915 918	AF4
+T39	TranscriptionFactor 958 978	transcription factor
+T40	Gene 1052 1055	MLL
+T41	Gene 1056 1059	AF4
+T42	FusionGene 1060 1074	fusion product
+T31	GeneProduct 757 779	trithorax gene product

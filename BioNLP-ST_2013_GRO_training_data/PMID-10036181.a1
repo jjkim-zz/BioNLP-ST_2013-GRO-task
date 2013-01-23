@@ -1,0 +1,50 @@
+T1	Protein 32 59	G-protein-coupled receptors
+T3	Eukaryote 92 97	human
+T4	Gene 98 103	genes
+T5	Gene 105 110	GPR34
+T6	Gene 112 117	GPR44
+T7	Gene 123 128	GPR45
+T9	Protein 148 175	G-protein-coupled receptors
+T10	Protein 177 182	GPCRs
+T11	Protein 189 197	receptor
+T12	Gene 209 214	GPR34
+T13	Protein 238 260	P2Y receptor subfamily
+T14	Protein 272 280	receptor
+T15	Gene 292 297	GPR44
+T16	Protein 317 342	chemoattractant receptors
+T17	Protein 348 356	receptor
+T18	Gene 368 373	GPR45
+T19	Eukaryote 381 390	mammalian
+T20	Protein 416 446	lysophosphatidic acid receptor
+T21	Eukaryote 452 466	Xenopus laevis
+T22	Gene 488 493	GPR34
+T23	OpenReadingFrame 665 683	open reading frame
+T24	Eukaryote 691 696	human
+T25	Gene 754 759	GPR34
+T26	DNA 764 769	cDNAs
+T27	Gene 829 834	GPR34
+T28	MessengerRNA 835 851	mRNA transcripts
+T29	Eukaryote 863 868	human
+T30	Eukaryote 873 876	rat
+T31	Tissue 877 890	brain regions
+T32	Eukaryote 949 954	human
+T33	DNA 955 966	genomic DNA
+T34	Sequence 1015 1024	sequences
+T38	Protein 1144 1149	GPCRs
+T39	Protein 1157 1162	GPR44
+T40	Protein 1167 1172	GPR45
+T41	OpenReadingFrame 1240 1259	open reading frames
+T42	Eukaryote 1267 1272	human
+T43	Protein 1295 1300	GPR44
+T44	Protein 1305 1310	GPR45
+T46	Chromosome 1374 1385	chromosomal
+T48	Gene 1468 1473	GPR34
+T49	Chromosome 1477 1488	chromosomes
+T50	Gene 1507 1512	GPR44
+T51	Chromosome 1516 1526	chromosome
+T52	Gene 1544 1549	GPR45
+T53	Chromosome 1553 1563	chromosome
+T2	ProteinDomain 1034 1063	transmembrane domains 3 and 7
+T8	Protein 1067 1100	opioid and somatostatin receptors
+T35	Tissue 1332 1368	central nervous system and periphery
+T36	ExperimentalMethod 1386 1398	localization

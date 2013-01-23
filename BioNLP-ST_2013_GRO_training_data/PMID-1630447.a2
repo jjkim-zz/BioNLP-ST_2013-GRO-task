@@ -1,0 +1,50 @@
+T3	ResponseProcess 31 41	responsive
+E1	ResponseProcess:T3 hasAgent2:T2 hasPatient:T4
+R1	hasPart Arg1:T4 Arg2:T1
+T10	Increase 165 175	stimulates
+E3	Increase:T10 hasAgent:T9 hasPatient:E4
+T11	Transcription 176 189	transcription
+E4	Transcription:T11 
+T12	RegulatoryProcess 193 203	converting
+E5	RegulatoryProcess:T12 hasPatient:T14
+T18	Localization 352 365	translocation
+E7	Localization:T18 hasPatient:T20
+R5	locatedIn Arg1:E7 Arg2:T21
+T19	PositiveRegulation 373 382	activated
+E8	PositiveRegulation:T19 hasPatient:T20
+R6	hasPart Arg1:T22 Arg2:T24
+R7	hasPart Arg1:T22 Arg2:T23
+R8	hasPart Arg1:T28 Arg2:T29
+T31	SignalingPathway 619 628	signaling
+E9	SignalingPathway:T31 
+T32	PositiveRegulation 672 682	activation
+E10	PositiveRegulation:T32 
+T33	FormationOfTranscriptionFactorComplex 698 702	form
+E11	FormationOfTranscriptionFactorComplex:T33 hasPatient:T34
+T37	BindingOfProteinToDNA 726 733	binding
+E12	BindingOfProteinToDNA:T37 hasAgent:T35 hasPatient:T36
+T43	BindingOfProteinToDNA 909 914	bound
+E13	BindingOfProteinToDNA:T43 hasAgent:T42 hasPatient:T44
+R10	locatedIn Arg1:T45 Arg2:T46
+R11	encodes Arg1:T49 Arg2:T48
+R12	hasPart Arg1:T55 Arg2:T54
+T57	BindingOfProteinToDNA 1231 1235	bind
+E15	BindingOfProteinToDNA:T57 hasAgent:T56 hasPatient:T58
+R13	hasPart Arg1:T63 Arg2:T62
+R14	hasPart Arg1:T64 Arg2:T63
+R15	hasPart Arg1:T65 Arg2:T68
+R16	hasPart Arg1:T66 Arg2:T68
+R17	hasPart Arg1:T67 Arg2:T68
+T71	BindingToProtein 1691 1701	interacted
+E16	BindingToProtein:T71 hasPatient:T70 hasPatient2:T73
+R18	locatedIn Arg1:T73 Arg2:T72
+T79	SignalingPathway 1835 1853	signaling pathways
+E19	SignalingPathway:T79 
+T80	BindingToProtein 1857 1868	interacting
+E20	BindingToProtein:T80 hasPatient:T78 hasPatient2:T81
+T7	RegulatoryProcess 296 304	mediated
+E2	RegulatoryProcess:T7 hasAgent:T16
+R3	locatedIn Arg1:E2 Arg2:T17	
+R4	hasPart Arg1:T35 Arg2:T38	
+R9	hasPart Arg1:T75 Arg2:T73	
+R20	hasPart Arg1:T75 Arg2:T70	

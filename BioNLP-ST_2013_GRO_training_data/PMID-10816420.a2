@@ -1,0 +1,52 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T4	ProteinCatabolism 55 66	degradation
+E1	ProteinCatabolism:T4 hasPatient:T5
+T8	ProteinCatabolism 157 168	degradation
+E2	ProteinCatabolism:T8 hasPatient:T6
+T10	PositiveRegulation 205 215	stimulated
+E3	PositiveRegulation:T10 hasAgent:T12 hasPatient:T9
+T14	BindingToProtein 421 430	interacts
+E5	BindingToProtein:T14 hasPatient:T16 hasPatient2:T13
+R2	fromSpecies Arg1:T16 Arg2:T15
+T24	BindingOfTFToTFBindingSiteOfProtein 616 632	This interaction
+E8	BindingOfTFToTFBindingSiteOfProtein:T24 hasAgent:T25 hasPatient:T26
+R4	hasPart Arg1:T27 Arg2:T26
+R5	hasPart Arg1:T28 Arg2:T29
+T32	PositiveRegulationOfGeneExpression 855 868	overexpressed
+E9	PositiveRegulationOfGeneExpression:T32 hasPatient:T31
+R7	locatedIn Arg1:E9 Arg2:T35
+R8	fromSpecies Arg1:T34 Arg2:T33
+R9	locatedIn Arg1:T35 Arg2:T34
+T37	PositiveRegulation 936 945	stimulate
+E10	PositiveRegulation:T37 hasAgent:T36 hasPatient:E11
+T39	ProteinCatabolism 971 982	degradation
+E11	ProteinCatabolism:T39 hasPatient:T40
+T43	NegativeRegulation 1099 1109	inhibiting
+E12	NegativeRegulation:T43 hasAgent:T41 hasPatient:E13
+T45	ProteinCatabolism 1114 1125	degradation
+E13	ProteinCatabolism:T45 hasPatient:T44
+T48	BindingToProtein 1189 1193	bind
+E14	BindingToProtein:T48 hasPatient:T49 hasPatient2:T46
+T50	NegativeRegulation 1228 1236	blocking
+E15	NegativeRegulation:T50 hasAgent:T46 hasPatient:E16
+T52	ProteinCatabolism 1241 1252	degradation
+E16	ProteinCatabolism:T52 hasPatient:T51
+T54	ProteinCatabolism 1336 1347	degradation
+E17	ProteinCatabolism:T54 hasPatient:T55
+T59	ProteinCatabolism 1405 1417	this process
+E18	ProteinCatabolism:T59 
+T63	ProteinCatabolism 1559 1570	degradation
+E19	ProteinCatabolism:T63 hasPatient:T64
+T66	ProteinTargeting 1775 1781	target
+E20	ProteinTargeting:T66 hasAgent:T65 hasPatient:T67
+T69	ProteinCatabolism 1801 1812	degradation
+E21	ProteinCatabolism:T69 hasPatient:T67
+T70	ProteinCatabolism 295 314	degradation process
+E4	ProteinCatabolism:T70 hasPatient:T71
+R3	hasPart Arg1:T21 Arg2:T20	
+R6	hasPart Arg1:T30 Arg2:T28	
+T23	CatabolicPathway 1364 1378	ATP hydrolysis
+E6	CatabolicPathway:T23 hasAgent:T58
+T73	ProteinCatabolism 1625 1636	degradation
+E7	ProteinCatabolism:T73 hasPatient:T56
+R10	locatedIn Arg1:E7 Arg2:T74	

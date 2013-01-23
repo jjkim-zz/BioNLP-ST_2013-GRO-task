@@ -1,0 +1,56 @@
+T1	TranscriptionFactor 80 100	transcription factor
+T2	TranscriptionFactor 101 105	Nrf3
+T5	TranscriptionFactorBindingSiteOfDNA 134 158	Maf recognition elements
+T6	TranscriptionFactorBindingSiteOfDNA 160 164	MARE
+T7	Cell 229 238	erythroid
+T8	Gene 248 253	genes
+T9	Cell 272 281	erythroid
+T10	TranscriptionFactor 282 302	transcription factor
+T11	TranscriptionFactor 303 308	NF-E2
+T12	ProteinSubunit 322 325	p45
+T13	ProteinSubunit 330 334	MafK
+T14	ProteinSubunit 350 353	p45
+T15	TranscriptionFactor 362 369	factors
+T16	TranscriptionFactor 370 374	Nrf1
+T17	TranscriptionFactor 379 383	Nrf2
+T18	TranscriptionFactor 472 483	CNC factors
+T20	TranscriptionFactorBindingSiteOfDNA 492 496	MARE
+T22	Protein 538 550	Maf proteins
+T23	TranscriptionFactor 618 628	CNC factor
+T24	Gene 630 634	Nrf3
+T25	Protein 664 671	protein
+T26	bZIP 692 713	leucine zipper domain
+T27	TranscriptionFactor 750 762	CNC proteins
+T28	TranscriptionFactor 806 810	Nrf3
+T30	ProteinSubunit 835 839	MafK
+T31	TranscriptionFactorComplex 854 861	complex
+T33	TranscriptionFactorBindingSiteOfDNA 875 879	MARE
+T34	Eukaryote 887 894	chicken
+T35	Gene 895 906	beta-globin
+T36	Enhancer 907 915	enhancer
+T39	TranscriptionFactor 948 952	Nrf3
+T40	MessengerRNA 953 957	mRNA
+T42	Eukaryote 981 986	human
+T43	Cell 987 995	placenta
+T44	Cell 1000 1006	B cell
+T45	Cell 1011 1027	monocyte lineage
+T46	Chromosome 1029 1040	Chromosomal
+T48	Eukaryote 1057 1062	human
+T49	TranscriptionFactor 1063 1067	Nrf3
+T50	HomeoboxTF 1100 1109	hoxA gene
+T51	HomeoboxTF 1195 1199	hoxC
+T52	HomeoboxTF 1201 1205	hoxB
+T53	HomeoboxTF 1211 1215	hoxD
+T54	Gene 1302 1306	gene
+T55	HomeoboxTF 1377 1388	Hox cluster
+T56	TranscriptionFactor 1444 1455	CNC factors
+T57	Chromosome 1464 1474	chromosome
+T3	TranscriptionFactorBindingSiteOfDNA 111 130	NF-E2-binding sites
+T4	RegulatoryDNARegion 207 225	regulatory regions
+T59	TranscriptionFactorBindingSiteOfDNA 180 199	cis-acting elements
+T60	BasicDomain 679 691	basic region
+T47	Chromosome 1071 1078	7p14-15
+T61	Locus 1110 1115	locus
+T62	ProteinSubunit 1140 1143	p45
+T63	TranscriptionFactor 1145 1149	nrf1
+T64	TranscriptionFactor 1155 1159	nrf2

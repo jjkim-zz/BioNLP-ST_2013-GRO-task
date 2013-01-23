@@ -1,0 +1,53 @@
+T3	BindingOfProteinToDNA 49 54	binds
+E1	BindingOfProteinToDNA:T3 hasAgent:T1 hasPatient:T5
+R1	fromSpecies Arg1:T5 Arg2:T4
+T6	PositiveRegulationOfGeneExpression 146 162	trans activation
+E2	PositiveRegulationOfGeneExpression:T6 
+T12	Disease 284 288	AIDS
+E3	Disease:T12 
+T22	PositiveRegulation 563 573	activation
+E4	PositiveRegulation:T22 hasAgent:T24 hasPatient:T21
+R2	locatedIn Arg1:T24 Arg2:T23
+T28	Transcription 718 733	transcriptional
+E5	Transcription:T28 
+T29	PositiveRegulation 734 744	activation
+E6	PositiveRegulation:T29 hasAgent:T27 hasPatient:E5
+T32	PositiveRegulation 809 817	activate
+E7	PositiveRegulation:T32 hasPatient:E8 hasAgent:T30
+T34	Transcription 824 837	transcription
+E8	Transcription:T34 
+R3	locatedIn Arg1:E8 Arg2:T35
+T38	BindingOfProteinToDNA 944 949	binds
+E9	BindingOfProteinToDNA:T38 hasAgent:T36 hasPatient:T39
+R4	fromSpecies Arg1:T41 Arg2:T40
+R5	hasPart Arg1:T41 Arg2:T39
+T43	BindingOfTFToTFBindingSiteOfDNA 1066 1073	binding
+E10	BindingOfTFToTFBindingSiteOfDNA:T43 hasAgent:T42 hasPatient:T44
+T45	PositiveRegulation 1097 1106	induction
+E11	PositiveRegulation:T45 hasPatient:E12
+T47	Transcription 1116 1129	transcription
+E12	Transcription:T47 
+R6	locatedIn Arg1:T49 Arg2:T48
+T50	RegulatoryProcess 1156 1164	mediated
+E13	RegulatoryProcess:T50 hasAgent:T49 hasPatient:E14
+T52	PositiveRegulation 1172 1182	activation
+E14	PositiveRegulation:T52 hasPatient:T51
+R7	precedes Arg1:E14 Arg2:E12
+T55	PositiveRegulation 1230 1239	activated
+E15	PositiveRegulation:T55 hasPatient:T56
+R8	locatedIn Arg1:T57 Arg2:T56
+R9	hasPart Arg1:T57 Arg2:T53
+T58	BindingOfTFToTFBindingSiteOfDNA 1269 1274	binds
+E16	BindingOfTFToTFBindingSiteOfDNA:T58 hasAgent:T53 hasPatient:T59
+R10	locatedIn Arg1:T63 Arg2:T62
+T64	RegulatoryProcess 1428 1436	mediated
+E17	RegulatoryProcess:T64 hasAgent:T63 hasPatient:E18
+T65	PositiveRegulation 1437 1453	trans activation
+E18	PositiveRegulation:T65 hasAgent:T60 hasPatient:E19
+T67	GeneExpression 1463 1478	gene expression
+E19	GeneExpression:T67 
+R11	fromSpecies Arg1:E19 Arg2:T66
+R12	locatedIn Arg1:E2 Arg2:T7	
+R13	fromSpecies Arg1:E3 Arg2:T13	
+R14	fromSpecies Arg1:E8 Arg2:T33	
+E20	PositiveRegulation:T32 hasPatient:E8 hasAgent:T31

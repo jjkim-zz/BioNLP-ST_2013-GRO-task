@@ -1,0 +1,40 @@
+R2	locatedIn Arg1:T5 Arg2:T12
+R3	locatedIn Arg1:T5 Arg2:T13
+R4	locatedIn Arg1:T5 Arg2:T14
+R5	fromSpecies Arg1:T12 Arg2:T11
+R6	fromSpecies Arg1:T13 Arg2:T11
+R7	fromSpecies Arg1:T14 Arg2:T11
+R8	hasPart Arg1:T16 Arg2:T15
+T19	RegulatoryProcess 402 412	regulation
+E1	RegulatoryProcess:T19 hasPatient:T8
+R11	hasPart Arg1:T24 Arg2:T23
+R15	encodes Arg1:T28 Arg2:T27
+T35	GeneExpression 891 901	expression
+E2	GeneExpression:T35 hasPatient:T32
+R20	locatedIn Arg1:E2 Arg2:T36
+R21	hasPart Arg1:T43 Arg2:T45
+R22	hasPart Arg1:T44 Arg2:T45
+T47	BindingOfProteinToDNA 1080 1084	bind
+E3	BindingOfProteinToDNA:T47 hasAgent:T46 hasPatient:T49
+R23	hasPart Arg1:T50 Arg2:T49
+R24	hasPart Arg1:T51 Arg2:T49
+R25	hasPart Arg1:T52 Arg2:T49
+R26	hasPart Arg1:T53 Arg2:T49
+R27	hasPart Arg1:T54 Arg2:T49
+T55	GeneExpression 1239 1248	expressed
+E4	GeneExpression:T55 
+T58	GeneExpression 1293 1304	coexpressed
+E5	GeneExpression:T58 hasPatient:T56
+R28	locatedIn Arg1:E5 Arg2:T59
+T61	RegulatoryProcess 1353 1363	regulation
+E6	RegulatoryProcess:T61 hasPatient:T62
+R1	encodes Arg1:T5 Arg2:T10	
+R9	fromSpecies Arg1:T9 Arg2:T31	
+R10	locatedIn Arg1:T28 Arg2:T9	
+T20	RNASplicing 786 804	alternative splice
+E7	RNASplicing:T20 hasPatient:T28
+R12	hasFunction Arg1:T37 Arg2:T41	
+R13	hasFunction Arg1:T38 Arg2:T41	
+E8	GeneExpression:T35 hasPatient:T33
+E9	GeneExpression:T35 hasPatient:T34
+E10	GeneExpression:T58 hasPatient:T57

@@ -1,0 +1,43 @@
+R1	hasPart Arg1:T3 Arg2:T1
+T7	PositiveRegulation 177 185	initiate
+E1	PositiveRegulation:T7 hasAgent:T4 hasPatient:E2
+T8	SignalingPathway 186 195	signaling
+E2	SignalingPathway:T8 
+T9	BindingToProtein 199 209	assembling
+E3	BindingToProtein:T9 hasPatient:T10
+R3	hasPart Arg1:T10 Arg2:T12
+R4	locatedIn Arg1:T12 Arg2:T11
+R5	hasPart Arg1:T17 Arg2:T16
+R6	hasPart Arg1:T17 Arg2:T18
+R7	hasPart Arg1:T17 Arg2:T19
+T20	NegativeRegulation 485 490	block
+E4	NegativeRegulation:T20 hasAgent:T17 hasPatient:E5
+T22	SignalingPathway 499 508	signaling
+E5	SignalingPathway:T22 
+T24	BindingToProtein 570 575	bound
+E6	BindingToProtein:T24 hasPatient:T26 hasPatient2:T23
+T28	Mutation 653 662	mutations
+E7	Mutation:T28 hasPatient:T27
+R8	hasPart Arg1:T29 Arg2:T27
+T31	NegativeRegulation 766 773	inhibit
+E8	NegativeRegulation:T31 hasPatient:T32 hasAgent:T66
+T41	Mutation 932 939	mutated
+E9	Mutation:T41 hasPatient:T42
+T45	Affecting 1057 1065	affected
+E10	Affecting:T45 hasAgent:T44 hasPatient:E11
+T47	BindingToProtein 1074 1081	binding
+E11	BindingToProtein:T47 hasPatient:T48 hasPatient2:T46
+R11	hasPart Arg1:T53 Arg2:T52
+R12	hasPart Arg1:T54 Arg2:T52
+T59	BindingToProtein 1528 1535	binding
+E12	BindingToProtein:T59 hasPatient:T60 hasPatient2:T58
+R13	hasPart Arg1:T61 Arg2:T57
+R14	hasPart Arg1:T63 Arg2:T62
+T65	BindingToProtein 1670 1677	binding
+E13	BindingToProtein:T65 hasPatient:T64 hasPatient2:T62
+R2	hasPart Arg1:T35 Arg2:T33	
+R9	hasPart Arg1:T34 Arg2:T35	
+R10	hasPart Arg1:T68 Arg2:T67	
+R15	hasPart Arg1:T50 Arg2:T68	
+T71	BindingToProtein 1207 1214	binding
+E14	BindingToProtein:T71 hasPatient:T70 hasPatient2:T69

@@ -1,0 +1,47 @@
+T1	Protein 0 3	Ma1
+T2	Tissue 13 19	neuron
+T3	Tissue 25 31	testis
+T4	Protein 41 48	protein
+T6	Protein 168 178	antibodies
+T8	Tissue 354 360	neuron
+T9	Protein 370 378	proteins
+T10	Protein 435 445	antibodies
+T13	Protein 707 717	antibodies
+T14	Protein 759 767	proteins
+T15	Protein 777 787	antibodies
+T16	Cell 928 942	Purkinje cells
+T17	Cell 1101 1108	T cells
+T18	Tissue 1132 1141	brainstem
+T19	Eukaryote 1168 1173	human
+T20	Eukaryote 1178 1181	rat
+T21	Tissue 1182 1189	tissues
+T22	Protein 1203 1213	antibodies
+T23	Tissue 1239 1246	neurons
+T24	Tissue 1256 1266	testicular
+T25	Cell 1267 1277	germ cells
+T26	Nucleus 1343 1351	nucleoli
+T27	CellComponent 1380 1389	cytoplasm
+T28	Protein 1399 1409	antibodies
+T29	Tissue 1441 1447	breast
+T30	Tissue 1449 1454	colon
+T31	Tissue 1459 1466	parotid
+T32	Tissue 1585 1592	tissues
+T34	Protein 1668 1683	immunoglobulins
+T35	Eukaryote 1698 1703	human
+T36	DNA 1704 1721	complementary DNA
+T37	Gene 1778 1782	gene
+T38	Protein 1811 1818	protein
+T39	Protein 1820 1823	Mal
+T40	Protein 1826 1841	Recombinant Mal
+T45	MessengerRNA 2162 2166	mRNA
+T46	Tissue 2195 2200	brain
+T47	Tissue 2205 2211	testis
+T48	Protein 2248 2251	Mal
+T49	Protein 2270 2284	phosphoprotein
+T51	Protein 2379 2389	antibodies
+T52	Protein 2398 2401	Mal
+T53	Tissue 2442 2456	'brain/testis'
+T54	Protein 2457 2465	proteins
+T65	Protein 1096 1099	CD8
+T66	Nucleus 1308 1327	subnuclear elements
+T69	Protein 2158 2161	Mal

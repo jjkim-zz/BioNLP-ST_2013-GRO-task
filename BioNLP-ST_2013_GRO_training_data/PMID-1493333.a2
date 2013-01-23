@@ -1,0 +1,76 @@
+R1	hasPart Arg1:T1 Arg2:T3
+T4	NegativeRegulation 115 122	inhibit
+E1	NegativeRegulation:T4 hasAgent:T3 hasPatient:E2
+T7	BindingOfProteinToDNA 142 149	binding
+E2	BindingOfProteinToDNA:T7 hasAgent:T5 hasPatient:T6
+R2	hasPart Arg1:T8 Arg2:T12
+T11	BindingOfProteinToDNA 245 252	binding
+E3	BindingOfProteinToDNA:T11 hasAgent:T12 hasPatient:T10
+R5	encodes Arg1:T15 Arg2:T16
+R6	hasPart Arg1:T18 Arg2:T17
+T20	NegativeRegulation 529 538	inhibitor
+E4	NegativeRegulation:T20 hasPatient:T21
+R8	fromSpecies Arg1:T27 Arg2:T26
+T29	BindingOfProteinToDNA 938 945	binding
+E6	BindingOfProteinToDNA:T29 hasPatient:T28
+T31	RegulatoryProcess 957 965	mediated
+E7	RegulatoryProcess:T31 hasAgent:T30 hasPatient:E8
+T32	NegativeRegulation 966 976	inhibition
+E8	NegativeRegulation:T32 
+T34	PositiveRegulation 992 999	induced
+E9	PositiveRegulation:T34 hasAgent:T33 hasPatient:E10
+T36	Transport 1008 1017	exclusion
+E10	Transport:T36 hasPatient:T37
+T40	NegativeRegulation 1186 1194	inhibits
+E11	NegativeRegulation:T40 hasAgent:T39 hasPatient:E12
+T44	RegulatoryProcess 1247 1255	mediated
+E14	RegulatoryProcess:T44 hasAgent:T46 hasPatient:E12
+R9	locatedIn Arg1:T46 Arg2:T48
+R10	fromSpecies Arg1:T46 Arg2:T45
+R11	fromSpecies Arg1:T48 Arg2:T47
+T49	BindingToProtein 1352 1359	binding
+E15	BindingToProtein:T49 hasPatient:T51 hasPatient2:T50
+T52	ProteinTargeting 1414 1422	retarget
+E16	ProteinTargeting:T52 hasAgent:E15 hasPatient:T53
+R12	hasPart Arg1:T60 Arg2:T65
+R13	hasPart Arg1:T61 Arg2:T60
+T62	NegativeRegulation 1689 1699	attenuates
+E17	NegativeRegulation:T62 hasAgent:T60 hasPatient:E18
+T64	Localization 1716 1728	localization
+E18	Localization:T64 
+T67	RegulatoryProcess 1784 1792	mediated
+E19	RegulatoryProcess:T67 hasAgent:T66 hasPatient:E20
+T68	NegativeRegulation 1793 1803	inhibition
+E20	NegativeRegulation:T68 hasPatient:E21
+T71	BindingOfProteinToDNA 1826 1842	binding activity
+E21	BindingOfProteinToDNA:T71 hasAgent:T69 hasPatient:T70
+R15	hasPart Arg1:T73 Arg2:T72
+R16	hasFunction Arg1:T75 Arg2:T74
+T77	BindingToProtein 2136 2141	binds
+E22	BindingToProtein:T77 hasPatient:T78 hasPatient2:T76
+T79	BindingToProtein 2175 2186	interaction
+E23	BindingToProtein:T79 
+T80	ProteinTargeting 2216 2227	retargeting
+E24	ProteinTargeting:T80 hasPatient:T81
+R18	hasPart Arg1:T85 Arg2:T84
+T87	Localization 34 46	localization
+E25	Localization:T87 hasPatient:T2
+R3	locatedIn Arg1:E4 Arg2:T19	
+T23	RegulatoryProcess 786 796	regulatory
+E5	RegulatoryProcess:T23 hasAgent:E26
+T88	BindingToProtein 797 808	interaction
+E26	BindingToProtein:T88 hasPatient:T24 hasPatient2:T25
+T42	PositiveRegulationOfTranscription 1220 1246	transcriptional activation
+E12	PositiveRegulationOfTranscription:T42 
+T89	Localization 1521 1533	localization
+E13	Localization:T89 
+T90	Mutation 1486 1494	deletion
+E27	Mutation:T90 hasPatient:T91
+R4	hasPart Arg1:T57 Arg2:T91	
+T92	NegativeRegulation 1594 1602	disrupts
+E28	NegativeRegulation:T92 hasAgent:E27 hasPatient:E29
+R7	hasPart Arg1:T58 Arg2:T57	
+T94	BindingToProtein 1618 1624	engage
+E29	BindingToProtein:T94 hasPatient:T93 hasPatient2:T59
+T96	Localization 1894 1906	localization
+E30	Localization:T96 hasPatient:T73

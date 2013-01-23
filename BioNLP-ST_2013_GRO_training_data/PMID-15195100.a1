@@ -1,0 +1,42 @@
+T1	Protein 0 3	PML
+T3	Protein 14 17	p53
+T5	Enzyme 44 48	Mdm2
+T6	Nucleus 56 65	nucleolus
+T7	Protein 71 126	promyelocytic leukaemia (PML) tumour-suppressor protein
+T10	Protein 139 142	p53
+T11	Function 143 151	function
+T14	Protein 208 211	CBP
+T16	Enzyme 238 242	Chk2
+T18	Nucleus 277 293	PML-Nuclear Body
+T19	Nucleus 295 297	NB
+T20	Protein 300 303	PML
+T25	Enzyme 365 369	Mdm2
+T26	Protein 414 417	PML
+T28	Enzyme 428 432	Mdm2
+T29	Protein 469 472	PML
+T31	Protein 482 485	p53
+T33	Enzyme 512 516	Mdm2
+T34	Nucleus 524 533	nucleolus
+T35	DNA 555 558	DNA
+T37	Protein 567 570	PML
+T38	Enzyme 575 579	Mdm2
+T40	Nucleus 598 607	nucleolus
+T41	Protein 614 617	Arf
+T42	Nucleus 669 678	nucleolar
+T44	Protein 695 698	PML
+T45	Enzyme 715 718	ATR
+T48	Protein 753 756	PML
+T49	Enzyme 760 763	ATR
+T50	Cell 777 791	Pml(-/-) cells
+T52	Enzyme 810 814	Mdm2
+T53	Nucleus 822 831	nucleolus
+T55	Protein 857 860	p53
+T58	Protein 940 943	PML
+T60	Protein 975 996	nucleolar protein L11
+T61	Protein 1007 1010	L11
+T64	Protein 1044 1047	PML
+T66	Nucleus 1063 1071	nucleoli
+T67	DNA 1078 1081	DNA
+T69	Protein 1139 1142	PML
+T70	Nucleus 1150 1159	nucleolar
+T8	Enzyme 344 364	p53 ubiquitin-ligase

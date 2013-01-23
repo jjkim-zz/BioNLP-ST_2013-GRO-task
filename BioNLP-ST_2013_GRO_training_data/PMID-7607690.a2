@@ -1,0 +1,22 @@
+R1	fromSpecies Arg1:T4 Arg2:T1
+R2	hasPart Arg1:T4 Arg2:T2
+R4	fromSpecies Arg1:T7 Arg2:T6
+R5	hasPart Arg1:T9 Arg2:T11
+T13	GeneExpression 282 291	expressed
+E2	GeneExpression:T13 hasPatient:T12
+T14	GeneExpression 301 311	expression
+E3	GeneExpression:T14 hasPatient:T15
+R6	locatedIn Arg1:E3 Arg2:T16
+R7	hasPart Arg1:T19 Arg2:T18
+R8	fromSpecies Arg1:T23 Arg2:T22
+R9	locatedIn Arg1:T24 Arg2:T23
+R10	fromSpecies Arg1:T28 Arg2:T26
+R11	fromSpecies Arg1:T29 Arg2:T26
+R12	fromSpecies Arg1:T33 Arg2:T32
+R13	fromSpecies Arg1:T36 Arg2:T35
+R14	hasPart Arg1:T36 Arg2:T34
+R15	fromSpecies Arg1:T38 Arg2:T37
+R16	hasPart Arg1:T38 Arg2:T34
+R18	locatedIn Arg1:T44 Arg2:T41
+R3	locatedIn Arg1:T7 Arg2:T8	
+R17	locatedIn Arg1:T43 Arg2:T44	

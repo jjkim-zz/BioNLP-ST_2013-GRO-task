@@ -1,0 +1,41 @@
+T1	Protein 0 3	Ski
+T2	Enzyme 26 53	histone deacetylase complex
+T6	Protein 97 100	Mad
+T9	ProteinComplex 135 153	N-CoR/SMRT complex
+T10	Protein 165 170	mSin3
+T11	Enzyme 175 194	histone deacetylase
+T13	Enzyme 196 200	HDAC
+T20	Protein 271 274	Mad
+T21	Protein 280 288	proteins
+T22	Gene 304 322	ski proto-oncogene
+T24	Protein 347 357	N-CoR/SMRT
+T25	Protein 362 368	mSin3A
+T26	ProteinComplex 382 389	complex
+T27	Enzyme 395 399	HDAC
+T28	Protein 401 406	c-Ski
+T29	GeneProduct 423 435	gene product
+T30	Protein 436 439	Sno
+T33	Protein 487 490	Mad
+T36	Protein 521 527	TRbeta
+T37	Protein 550 555	v-Ski
+T38	Protein 573 579	mSin3A
+T40	ProteinDomain 588 594	domain
+T44	Protein 677 680	Mad
+T45	Protein 685 691	TRbeta
+T46	Gene 696 699	ski
+T47	Eukaryote 710 715	mouse
+T48	LivingEntity 716 723	embryos
+T49	Enzyme 729 752	ornithine decarboxylase
+T50	Gene 753 757	gene
+T53	Protein 801 804	Mad
+T54	Protein 805 808	Max
+T56	Protein 860 863	Ski
+T57	Enzyme 886 898	HDAC complex
+T58	Protein 908 911	Ski
+T62	ProteinComplex 971 983	this complex
+T63	Protein 1004 1009	c-Ski
+T64	Enzyme 1017 1029	HDAC complex
+T65	Enzyme 1065 1077	HDAC complex
+T4	Protein 105 129	thyroid hormone receptor
+T7	Protein 241 266	nuclear hormone receptors
+T12	Protein 495 519	thyroid hormone receptor

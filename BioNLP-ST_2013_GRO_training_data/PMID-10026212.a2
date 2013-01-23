@@ -1,0 +1,28 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+R2	encodes Arg1:T3 Arg2:T2
+T4	GeneExpression 60 70	expression
+E1	GeneExpression:T4 hasPatient:T2
+T9	MetabolicPathway 140 149	synthesis
+E2	MetabolicPathway:T9 hasPatient:T10 hasAgent:T6
+T12	ProteinBiosynthesis 233 245	biosynthesis
+E3	ProteinBiosynthesis:T12 hasPatient:T11
+T13	RegulatoryProcess 258 268	regulation
+E4	RegulatoryProcess:T13 hasPatient:T15
+R3	locatedIn Arg1:T15 Arg2:T14
+R4	fromSpecies Arg1:T17 Arg2:T16
+R5	encodes Arg1:T18 Arg2:T17
+T27	GeneExpression 486 495	expressed
+E5	GeneExpression:T27 hasPatient:T26
+R9	fromSpecies Arg1:E5 Arg2:T28
+R10	fromSpecies Arg1:T33 Arg2:T32
+R11	fromSpecies Arg1:T35 Arg2:T34
+R12	locatedIn Arg1:T36 Arg2:T35
+R13	fromSpecies Arg1:T38 Arg2:T37
+R14	locatedIn Arg1:T39 Arg2:T38
+T22	MetabolicPathway 535 544	formation
+E6	MetabolicPathway:T22 hasAgent:T23 hasPatient:T29
+R7	hasFunction Arg1:T26 Arg2:T23	
+R8	hasFunction Arg1:T8 Arg2:T6	
+R15	fromSpecies Arg1:T25 Arg2:T21	
+E7	MetabolicPathway:T22 hasAgent:T23 hasPatient:T30
+E8	MetabolicPathway:T22 hasAgent:T23 hasPatient:T31

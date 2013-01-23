@@ -1,0 +1,76 @@
+T3	DevelopmentalProcess 51 60	formation
+E1	DevelopmentalProcess:T3 hasPatient:T2
+R1	locatedIn Arg1:E1 Arg2:T4
+T7	CellDifferentiation 138 151	differentiate
+E2	CellDifferentiation:T7 hasPatient2:T5
+T13	CellDifferentiation 397 412	differentiation
+T14	Decrease 414 421	Removal
+E5	Decrease:T14 hasPatient:T15
+T16	NegativeRegulationOfTranscriptionOfGene 458 467	decreased
+E6	NegativeRegulationOfTranscriptionOfGene:T16 hasPatient:E7
+T20	TranscriptionOfGene 499 509	expression
+E7	TranscriptionOfGene:T20 hasPatient:T19
+T23	NegativeRegulation 562 572	inhibition
+E8	NegativeRegulation:T23 hasAgent:E5 hasPatient:E9
+T25	DevelopmentalProcess 589 598	formation
+E9	DevelopmentalProcess:T25 hasPatient:T24
+T27	DevelopmentalProcess 621 632	development
+E10	DevelopmentalProcess:T27 hasPatient:T26
+T29	GeneExpression 655 664	expresses
+E11	GeneExpression:T29 hasPatient:T30 hasAgent:T28
+T31	Maintenance 711 722	maintenance
+E12	Maintenance:T31 hasAgent:T28 hasPatient:E24
+T33	GeneExpression 743 753	expression
+E13	GeneExpression:T33 hasPatient:T32
+R10	locatedIn Arg1:E13 Arg2:T34
+T38	RegulatoryProcess 853 861	restored
+E14	RegulatoryProcess:T38 hasAgent:E28 hasPatient:E15
+T42	TranscriptionOfGene 900 910	expression
+E15	TranscriptionOfGene:T42 hasPatient:T41
+T45	DevelopmentalProcess 953 962	formation
+E16	DevelopmentalProcess:T45 hasPatient:T44
+T46	PositiveRegulation 971 981	initiation
+E17	PositiveRegulation:T46 hasPatient2:E29
+T49	SignalingPathway 1012 1021	signaling
+E18	SignalingPathway:T49 hasAgent:T48
+T53	CellularProcess 1152 1164	interactions
+E19	CellularProcess:T53 hasPatient:T54 hasPatient2:T55 hasPatient3:T56
+T58	DevelopmentalProcess 1269 1278	formation
+E20	DevelopmentalProcess:T58 hasPatient:T57
+T59	PositiveRegulation 1287 1297	initiation
+E21	PositiveRegulation:T59 hasPatient:E22
+#1	AnnotatorNotes T2	Consider a new term, "Organ".
+T65	Decrease 824 831	lacking
+E27	Decrease:T65 hasPatient:T37
+T66	Increase 781 789	Addition
+E28	Increase:T66 hasPatient:T35
+T47	DevelopmentalProcess 985 998	nephrogenesis
+E29	DevelopmentalProcess:T47 
+T68	Maintenance 1065 1075	supporting
+E31	Maintenance:T68 hasPatient:E32 hasAgent:E18
+T52	DevelopmentalProcess 1089 1102	morphogenesis
+E32	DevelopmentalProcess:T52 hasPatient:T51
+T61	DevelopmentalProcess 224 235	development
+E3	DevelopmentalProcess:T61 hasPatient:T9
+T62	RegulatoryProcess 446 454	resulted
+E23	RegulatoryProcess:T62 hasAgent:E5 hasPatient:E6
+R7	locatedIn Arg1:T74 Arg2:T22	
+R8	locatedIn Arg1:T22 Arg2:T21	
+R17	locatedIn Arg1:E7 Arg2:T74	
+T63	PositiveRegulationOfGeneExpression 726 736	high-level
+E24	PositiveRegulationOfGeneExpression:T63 hasPatient:E13
+R4	locatedIn Arg1:E28 Arg2:T36	
+R5	locatedIn Arg1:E27 Arg2:T36	
+R11	locatedIn Arg1:T73 Arg2:T43	
+R12	locatedIn Arg1:E15 Arg2:T73	
+T64	DevelopmentalProcess 1312 1323	development
+E22	DevelopmentalProcess:T64 hasPatient:T60
+R2	encodes Arg1:T19 Arg2:T17	
+R3	encodes Arg1:T19 Arg2:T18	
+R6	encodes Arg1:T41 Arg2:T39	
+R9	encodes Arg1:T41 Arg2:T40	
+E26	CellDifferentiation:T13 hasPatient:T11
+E4	NegativeRegulation:T23 hasAgent:E5 hasPatient:E10
+E25	RegulatoryProcess:T38 hasAgent:E28 hasPatient:E16
+E30	RegulatoryProcess:T38 hasAgent:E28 hasPatient:E17
+E33	CellDifferentiation:T13 hasPatient:T10

@@ -1,0 +1,25 @@
+T1	Protein 0 12	Oxidized LDL
+T3	Cell 23 33	macrophage
+T5	Ligand 58 64	ligand
+T7	Protein 79 88	PPARgamma
+T8	Cell 90 100	Macrophage
+T10	Protein 111 143	oxidized low-density lipoprotein
+T11	Protein 145 150	oxLDL
+T12	Cell 189 198	foam cell
+T14	Protein 275 280	oxLDL
+T16	Protein 291 300	PPARgamma
+T19	Protein 369 387	scavenger receptor
+T22	Lipid 453 467	oxidized lipid
+T23	Protein 482 487	oxLDL
+T24	Lipid 489 495	9-HODE
+T25	Lipid 500 507	13-HODE
+T27	Ligand 538 545	ligands
+T28	Protein 549 558	PPARgamma
+T29	Protein 606 611	oxLDL
+T30	Protein 643 652	receptors
+T31	CellComponent 665 677	cell surface
+T34	MolecularEntity 712 720	particle
+T35	Nucleus 737 744	nucleus
+T38	Lipid 800 806	lipids
+T39	Protein 835 844	PPARgamma
+T41	Cell 871 880	foam cell

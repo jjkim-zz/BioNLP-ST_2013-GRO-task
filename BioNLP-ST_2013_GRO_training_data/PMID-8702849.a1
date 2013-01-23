@@ -1,0 +1,38 @@
+T1	Gene 41 45	NFAT
+T3	Gene 84 88	gene
+T4	Protein 103 108	NFATc
+T5	Protein 129 132	CsA
+T6	Protein 187 191	NFAT
+T8	Gene 241 255	cytokine genes
+T9	Cell 259 266	T cells
+T10	Protein 277 281	NFAT
+T11	Cell 333 351	non-T immune cells
+T12	Gene 357 366	NFAT gene
+T13	Cell 433 440	T cells
+T14	Protein 466 470	NFAT
+T15	Eukaryote 483 488	human
+T16	Cell 489 496	B cells
+T17	Gene 516 529	cytokine gene
+T18	Protein 545 558	NFAT proteins
+T19	DNA 615 625	cDNA clone
+T20	Cell 635 651	Raji B cell line
+T21	DNA 657 667	cDNA clone
+T22	Protein 691 701	NFATc.beta
+T23	Gene 710 719	NFAT gene
+T24	Gene 734 739	NFATc
+T25	Protein 757 768	NFATc.alpha
+T26	AminoAcid 775 794	amino acid sequence
+T27	Protein 798 808	NFATc.beta
+T28	Protein 830 842	NFATc. alpha
+T29	MessengerRNA 1042 1046	mRNA
+T30	Protein 1095 1105	NFATc.beta
+T31	MessengerRNA 1157 1161	mRNA
+T33	Tissue 1204 1210	spleen
+T35	Protein 1236 1246	NFATc.beta
+T37	Protein 1276 1289	interleukin-2
+T38	ReporterGene 1302 1315	reporter gene
+T39	Cell 1330 1342	Jurkat cells
+T40	Peptide 1348 1351	CsA
+T41	Gene 1631 1640	NFAT gene
+T44	Gene 1695 1709	cytokine genes
+T45	Protein 1290 1294	NFAT

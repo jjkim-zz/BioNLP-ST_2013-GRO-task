@@ -1,0 +1,35 @@
+T1	Ion 0 7	Calcium
+T3	Cell 22 29	T cells
+T7	Protein 46 75	cyclophilin B-binding protein
+T8	Peptide 104 117	cyclosporin A
+T10	Ion 127 134	calcium
+T14	Protein 178 181	TCR
+T15	Cell 206 212	T-cell
+T17	Protein 239 250	cyclophilin
+T18	Peptide 252 265	cyclosporin A
+T22	Enzyme 320 331	calcineurin
+T23	Peptide 378 391	cyclosporin A
+T25	Ion 412 419	calcium
+T27	Eukaryote 447 452	human
+T28	Gene 453 458	genes
+T31	Protein 468 498	cyclophilin B-binding-proteins
+T32	GeneProduct 538 550	gene product
+T34	Cell 574 588	Jurkat T cells
+T37	Gene 634 647	interleukin-2
+T38	Enhancer 648 656	enhancer
+T40	Cell 676 682	T-cell
+T41	TranscriptionFactor 692 713	transcription factors
+T42	TranscriptionFactor 714 719	NF-AT
+T43	TranscriptionFactor 724 731	NF-IL2A
+T44	Protein 738 745	protein
+T45	Protein 754 798	calcium-signal modulating cyclophilin ligand
+T46	Protein 800 804	CAML
+T48	Protein 830 833	TCR
+T49	Enzyme 850 861	calcineurin
+T52	Ion 886 893	calcium
+T53	Protein 895 899	CAML
+T54	Ion 939 946	calcium
+T56	Protein 988 1001	cyclophilin B
+T57	Ion 1005 1012	calcium
+T59	Peptide 1048 1059	cyclosporin
+T12	Protein 161 176	T-cell receptor

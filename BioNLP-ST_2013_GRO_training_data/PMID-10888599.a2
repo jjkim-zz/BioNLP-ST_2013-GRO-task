@@ -1,0 +1,64 @@
+T4	ProteinTargeting 78 87	targeting
+E1	ProteinTargeting:T4 
+R1	locatedIn Arg1:E1 Arg2:T3
+T7	Disease 140 158	Fragile X syndrome
+E2	Disease:T7 
+T17	BindingToRNA 363 370	binding
+E3	BindingToRNA:T17 hasPatient:T16
+T19	Binding 386 397	association
+E4	Binding:T19 hasPatient:T18
+T21	Transport 420 429	shuttling
+E5	Transport:T21 
+R3	locatedIn Arg1:E5 Arg2:T20
+T24	Transport 481 488	shuttle
+E6	Transport:T24 hasPatient:T22
+R4	locatedIn Arg1:E6 Arg2:T25
+R5	locatedIn Arg1:E6 Arg2:T26
+T28	Transport 536 544	shuttles
+E7	Transport:T28 hasPatient:T27
+R6	locatedIn Arg1:E7 Arg2:T29
+R7	locatedIn Arg1:E7 Arg2:T30
+T33	ProteinTargeting 604 613	targeting
+E8	ProteinTargeting:T33 hasPatient:T34
+R8	locatedIn Arg1:E8 Arg2:T31
+R9	locatedIn Arg1:E8 Arg2:T32
+R10	hasPart Arg1:T35 Arg2:T36
+R11	fromSpecies Arg1:T39 Arg2:T38
+R12	hasPart Arg1:T41 Arg2:T40
+T43	RNASplicing 947 967	alternative splicing
+E9	RNASplicing:T43 hasPatient:T42
+R13	hasPart Arg1:T44 Arg2:T42
+T47	Transport 1213 1219	export
+E10	Transport:T47 
+T48	NegativeRegulation 1220 1229	inhibitor
+E11	NegativeRegulation:T48 hasAgent:T49 hasPatient:E10
+T53	Localization 1284 1296	localization
+E12	Localization:T53 hasPatient:T50
+R15	locatedIn Arg1:E12 Arg2:T52
+R16	locatedIn Arg1:T55 Arg2:T56
+R17	fromSpecies Arg1:T60 Arg2:T59
+T61	Localization 1586 1611	intranuclear distribution
+E13	Localization:T61 hasPatient:T62
+T64	RegulatoryProcess 1661 1669	mediated
+E14	RegulatoryProcess:T64 hasAgent:T77 hasPatient:E13
+T68	RNAMetabolism 1886 1900	RNA metabolism
+E15	RNAMetabolism:T68 
+R18	locatedIn Arg1:E15 Arg2:T69
+R19	hasPart Arg1:T2 Arg2:T70	
+R20	hasPart Arg1:T1 Arg2:T70	
+T12	ProteinTargeting 804 813	targeting
+E16	ProteinTargeting:T12 hasAgent:T71
+R21	locatedIn Arg1:E16 Arg2:T37	
+R2	fromSpecies Arg1:T6 Arg2:T5	
+R22	locatedIn Arg1:T45 Arg2:T74	
+R14	hasPart Arg1:T58 Arg2:T76	
+R23	hasPart Arg1:T78 Arg2:T77	
+T80	Localization 1527 1533	signal
+E17	Localization:T80 
+R24	locatedIn Arg1:E17 Arg2:T79	
+E18	Localization:T53 hasPatient:T51
+E19	Localization:T61 hasPatient:T63
+E20	RegulatoryProcess:T64 hasAgent:T77 hasPatient:E19
+E21	Transport:T24 hasPatient:T23
+R25	locatedIn Arg1:E21 Arg2:T25	
+R26	locatedIn Arg1:E21 Arg2:T26	

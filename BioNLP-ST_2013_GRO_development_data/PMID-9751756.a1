@@ -1,0 +1,35 @@
+T1	FusionProtein 4 18	PEBP2betaMYH11
+T2	MutantGene 37 53	Inv(16)(p13;q22)
+T7	Chromosome 147 158	Chromosomal
+T9	Gene 188 193	genes
+T10	ProteinSubunit 222 230	subunits
+T13	Eukaryote 295 300	human
+T17	MutantGene 371 387	Inv(16)(p13;q22)
+T18	Gene 398 402	gene
+T19	ProteinSubunit 416 428	beta subunit
+T20	Protein 432 437	Pebp2
+T21	Gene 445 455	MYH11 gene
+T24	MutantGene 538 554	inv(16)(p13;q22)
+T25	Promoter 584 598	hMRP8 promoter
+T26	Eukaryote 630 634	mice
+T28	FusionProtein 650 664	Pebp2betaSmmhc
+T29	FusionProtein 674 688	fusion protein
+T30	Cell 692 705	myeloid cells
+T33	FusionProtein 745 759	PEBP2betaMYH11
+T34	Eukaryote 771 775	mice
+T35	Eukaryote 801 805	mice
+T36	Cell 828 851	circulating neutrophils
+T37	Tissue 859 870	bone marrow
+T38	Cell 911 929	neutrophilic cells
+T39	FusionProtein 986 1000	PEBP2betaMYH11
+T42	Cell 1065 1090	hematopoietic progenitors
+T44	FusionProtein 1113 1127	PEBP2betaMYH11
+T46	Protein 1142 1146	NRAS
+T48	Phenotype 1169 1178	phenotype
+T49	Nucleus 1205 1212	nuclear
+T51	FusionProtein 1286 1300	PEBP2betaMYH11
+T54	Protein 1376 1381	Pebp2
+T11	TranscriptionFactor 238 268	Pebp2/Cbf transcription factor
+T12	Protein 467 499	smooth muscle myosin heavy chain
+T22	Protein 501 506	Smmhc
+T23	Cell 1043 1051	colonies

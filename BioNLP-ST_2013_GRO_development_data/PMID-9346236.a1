@@ -1,0 +1,31 @@
+T3	Gene 40 52	myb oncogene
+T10	Gene 160 164	gene
+T11	Protein 172 189	v-Myb oncoprotein
+T12	Virus 205 231	avian myeloblastosis virus
+T13	Virus 233 236	AMV
+T14	Gene 239 243	GBX2
+T16	Protein 258 263	c-Myb
+T17	Virus 348 351	AMV
+T18	Protein 352 357	v-Myb
+T20	Gene 385 394	GBX2 gene
+T22	DNABindingDomainOfProtein 413 431	DNA binding domain
+T23	Virus 435 438	AMV
+T24	Protein 439 442	Myb
+T27	Protein 538 541	Myb
+T28	Protein 546 577	CCAAT Enhancer Binding Proteins
+T29	Protein 579 584	C/EBP
+T32	Protein 660 664	GBX2
+T33	Protein 668 681	growth factor
+T34	Cell 692 703	myeloblasts
+T36	Cell 712 721	monocytic
+T37	Function 722 730	features
+T38	Protein 763 772	cytokines
+T39	Virus 806 809	AMV
+T40	Cell 822 827	cells
+T41	Protein 854 857	Myb
+T42	Gene 861 868	factors
+T43	Protein 869 871	it
+T1	Gene 4 17	homeobox gene
+T2	Gene 18 22	GBX2
+T7	Gene 114 127	homeobox gene
+T8	Gene 128 132	GBX2

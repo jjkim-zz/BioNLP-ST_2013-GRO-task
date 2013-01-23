@@ -1,0 +1,44 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T5	RegulatoryProcess 150 159	regulated
+E1	RegulatoryProcess:T5 hasPatient:E2
+T6	GeneExpression 160 170	expression
+E2	GeneExpression:T6 hasPatient:T7
+R4	fromSpecies Arg1:T16 Arg2:T15
+R5	hasPart Arg1:T19 Arg2:T22
+R6	fromSpecies Arg1:T19 Arg2:T18
+R8	encodes Arg1:T24 Arg2:T26
+R9	fromSpecies Arg1:T26 Arg2:T25
+T27	PositiveRegulationOfTranscriptionOfGene 777 790	overexpressed
+E4	PositiveRegulationOfTranscriptionOfGene:T27 hasPatient:T24
+R10	locatedIn Arg1:E4 Arg2:T28
+T31	GeneExpression 936 945	expressed
+E5	GeneExpression:T31 hasPatient:T33
+R11	fromSpecies Arg1:T33 Arg2:T32
+T36	Binding 1024 1031	binding
+E6	Binding:T36 hasPatient:T35
+R12	fromSpecies Arg1:T41 Arg2:T40
+T42	GeneExpression 1246 1256	expression
+E7	GeneExpression:T42 hasPatient:T43
+R14	encodes Arg1:T47 Arg2:T48
+R15	locatedIn Arg1:T47 Arg2:T50
+R16	locatedIn Arg1:T47 Arg2:T51
+R2	locatedIn Arg1:E2 Arg2:T9	
+R17	hasFunction Arg1:T10 Arg2:T8	
+T53	Heterodimerization 293 306	heterodimeric
+E8	Heterodimerization:T53 hasPatient:T12
+R3	hasPart Arg1:T12 Arg2:T11	
+T54	MetabolicPathway 422 444	aminoacylation process
+E9	MetabolicPathway:T54 
+T55	Binding 519 528	complexed
+E10	Binding:T55 hasPatient:T16
+T20	BindingOfProteinToDNA 633 644	DNA-binding
+E3	BindingOfProteinToDNA:T20 
+T21	Disease 798 809	tumorigenic
+E11	Disease:T21 
+T44	Disease 1384 1402	tumorigenic events
+E12	Disease:T44 
+T49	Heterodimerization 1592 1603	heterodimer
+E13	Heterodimerization:T49 hasPatient:T45
+T56	Disease 1607 1625	tumorigenic events
+E14	Disease:T56 
+E15	Binding:T55 hasPatient:T17

@@ -1,0 +1,32 @@
+T4	GeneExpression 35 44	expressed
+E1	GeneExpression:T4 hasPatient:T2
+R1	locatedIn Arg1:E1 Arg2:T5
+R2	encodes Arg1:T6 Arg2:T7
+R4	encodes Arg1:T20 Arg2:T19
+T21	TranscriptionOfGene 538 548	expression
+E2	TranscriptionOfGene:T21 hasPatient:T20
+R5	locatedIn Arg1:E2 Arg2:T23
+R6	fromSpecies Arg1:T23 Arg2:T22
+T26	GeneExpression 620 629	expressed
+E3	GeneExpression:T26 hasPatient:T24
+R7	locatedIn Arg1:E3 Arg2:T27
+T29	GeneExpression 677 686	expressed
+E4	GeneExpression:T29 hasPatient:T28
+R8	locatedIn Arg1:E4 Arg2:T30
+R9	locatedIn Arg1:T31 Arg2:T33
+R10	fromSpecies Arg1:T33 Arg2:T32
+R11	encodes Arg1:T39 Arg2:T37
+R12	encodes Arg1:T39 Arg2:T38
+T40	TranscriptionOfGene 907 916	expressed
+E7	TranscriptionOfGene:T40 hasPatient:T39
+R13	locatedIn Arg1:E7 Arg2:T42
+R14	fromSpecies Arg1:T42 Arg2:T41
+T45	GeneExpression 1002 1012	expression
+E8	GeneExpression:T45 
+T46	CellularDevelopmentalProcess 1041 1051	myogenesis
+E9	CellularDevelopmentalProcess:T46 
+R3	hasPart Arg1:T13 Arg2:T11	
+T15	Disease 852 867	muscle diseases
+E5	Disease:T15 
+E6	GeneExpression:T4 hasPatient:T3
+E10	GeneExpression:T26 hasPatient:T25

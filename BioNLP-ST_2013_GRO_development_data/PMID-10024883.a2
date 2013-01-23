@@ -1,0 +1,22 @@
+R1	hasPart Arg1:T4 Arg2:T2
+T5	RegulationOfTranscription 69 93	transcription regulation
+E1	RegulationOfTranscription:T5 
+R3	fromSpecies Arg1:T7 Arg2:T6
+T8	NegativeRegulation 133 140	repress
+E2	NegativeRegulation:T8 hasAgent:T7 hasPatient:E3
+T10	Transcription 161 174	transcription
+E3	Transcription:T10 hasAgent2:T12
+T15	Increase 247 254	enhance
+E5	Increase:T15 hasPatient:E6
+T17	Transcription 275 288	transcription
+E6	Transcription:T17 
+R4	fromSpecies Arg1:T20 Arg2:T19
+R5	fromSpecies Arg1:T27 Arg2:T26
+R7	hasFunction Arg1:T37 Arg2:T38
+R8	fromSpecies Arg1:T42 Arg2:T41
+R2	fromSpecies Arg1:T4 Arg2:T1	
+R6	hasPart Arg1:T35 Arg2:T11	
+R11	fromSpecies Arg1:T35 Arg2:T33	
+R12	hasPart Arg1:T36 Arg2:T40	
+T47	RegulatoryProcess 920 941	regulatory mechanisms
+E4	RegulatoryProcess:T47 

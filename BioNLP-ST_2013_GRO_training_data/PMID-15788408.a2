@@ -1,0 +1,93 @@
+T3	PositiveRegulation 32 41	activates
+E1	PositiveRegulation:T3 hasAgent:T2 hasPatient:E2
+R1	encodes Arg1:T5 Arg2:T4
+T6	Transcription 82 95	transcription
+E2	Transcription:T6 hasPatient:T5
+T9	GeneExpression 145 155	expression
+E3	GeneExpression:T9 hasPatient:T10
+R2	locatedIn Arg1:E3 Arg2:T8
+T11	CellularProcess 212 230	neovascularization
+E4	CellularProcess:T11 
+T12	Disease 267 287	macular degeneration
+E5	Disease:T12 
+T13	Disease 292 312	diabetic retinopathy
+E6	Disease:T13 
+R4	locatedIn Arg1:T14 Arg2:T15
+T16	Disease 425 445	macular degeneration
+E7	Disease:T16 
+T17	Disease 450 470	diabetic retinopathy
+E8	Disease:T17 
+T19	GeneExpression 513 523	expression
+E9	GeneExpression:T19 hasPatient:T18
+T20	Disease 533 541	diseases
+E10	Disease:T20 
+T23	PositiveRegulation 590 597	induces
+E11	PositiveRegulation:T23 hasAgent:T21 hasPatient:E12
+T25	GeneExpression 603 613	expression
+E12	GeneExpression:T25 hasPatient:T24
+T30	Increase 735 744	increases
+E13	Increase:T30 hasAgent:T27 hasPatient:E14
+T32	Transcription 750 763	transcription
+E14	Transcription:T32 hasPatient:T31
+T33	PositiveRegulation 794 804	activating
+E15	PositiveRegulation:T33 hasPatient:T34
+T36	GeneExpression 848 857	expressed
+E16	GeneExpression:T36 hasPatient:T35
+T39	Increase 942 951	increased
+E17	Increase:T39 hasAgent:T38 hasPatient:E18
+T41	Transcription 957 970	transcription
+E18	Transcription:T41 hasPatient:T40
+T44	Increase 1022 1031	increased
+E19	Increase:T44 hasAgent:T43 hasPatient:T46
+R6	encodes Arg1:T45 Arg2:T46
+T47	PositiveRegulation 1069 1078	activated
+E20	PositiveRegulation:T47 hasAgent:T43 hasPatient:E21
+T48	Transcription 1079 1092	transcription
+E21	Transcription:T48 hasPatient:T50
+R7	hasPart Arg1:T49 Arg2:T50
+T52	PositiveRegulation 1134 1141	induced
+E22	PositiveRegulation:T52 hasAgent:T51 hasPatient:E23
+T54	Phosphorylation 1152 1167	phosphorylation
+E23	Phosphorylation:T54 hasPatient:T53
+T55	Increase 1182 1191	increased
+E24	Increase:T55 hasPatient:T56
+T57	NegativeRegulation 1213 1225	Inactivation
+E25	NegativeRegulation:T57 hasPatient:T58
+T59	Decrease 1250 1260	diminished
+E26	Decrease:T59 hasAgent:E25 hasPatient:E27
+T61	ResponseToChemicalStimulus 1270 1278	response
+E27	ResponseToChemicalStimulus:T61 hasAgent:T60
+T63	GeneExpression 1302 1316	Overexpression
+E28	GeneExpression:T63 hasPatient:T64
+T65	PositiveRegulation 1343 1351	activate
+E29	PositiveRegulation:T65 hasAgent:E28 hasPatient:T67
+R9	hasPart Arg1:T66 Arg2:T67
+T70	PositiveRegulation 1426 1434	activate
+E30	PositiveRegulation:T70 hasPatient:T71 hasAgent:T68
+R10	hasPart Arg1:T72 Arg2:T73
+T74	BindingOfProteinToDNA 1475 1480	binds
+E31	BindingOfProteinToDNA:T74 hasAgent:T72 hasPatient:T75
+T78	BindingOfTFToTFBindingSiteOfDNA 1558 1578	DNA binding activity
+E32	BindingOfTFToTFBindingSiteOfDNA:T78 
+T79	Increase 1582 1591	increased
+E33	Increase:T79 hasAgent:T80 hasPatient:E32
+T83	NegativeRegulation 1685 1692	inhibit
+E34	NegativeRegulation:T83 hasAgent:T82 hasPatient:T84
+T86	GeneExpression 1724 1734	expression
+E35	GeneExpression:T86 hasPatient:T85
+T87	NegativeRegulation 1765 1772	inhibit
+E36	NegativeRegulation:T87 hasAgent:T81 hasPatient:E37
+T88	Phosphorylation 1773 1788	phosphorylation
+E37	Phosphorylation:T88 hasPatient:T89
+T91	GeneExpression 1819 1829	expression
+E38	GeneExpression:T91 hasPatient:T90
+T93	PositiveRegulation 1846 1853	induced
+E39	PositiveRegulation:T93 hasAgent:T92 hasPatient:E40
+T94	PositiveRegulation 1854 1867	up-regulation
+E40	PositiveRegulation:T94 hasAgent:T92 hasPatient:E41
+T96	Transcription 1876 1894	gene transcription
+E41	Transcription:T96 hasPatient:T95
+T98	Disease 336 347	vision loss
+E42	Disease:T98 
+E43	PositiveRegulation:T70 hasPatient:T71 hasAgent:T69
+E44	NegativeRegulation:T87 hasAgent:T81 hasPatient:E38

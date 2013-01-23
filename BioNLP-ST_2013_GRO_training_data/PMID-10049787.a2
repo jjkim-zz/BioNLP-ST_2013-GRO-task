@@ -1,0 +1,40 @@
+T2	RegulatoryProcess 20 29	regulated
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:E9
+R1	locatedIn Arg1:T3 Arg2:T5
+R2	locatedIn Arg1:T3 Arg2:T6
+R3	fromSpecies Arg1:T5 Arg2:T4
+R4	fromSpecies Arg1:T6 Arg2:T4
+T9	GeneExpression 148 158	expression
+E2	GeneExpression:T9 hasPatient:T7
+R5	locatedIn Arg1:E2 Arg2:T10
+T16	GeneExpression 315 324	expressed
+E3	GeneExpression:T16 hasPatient:T17
+R6	locatedIn Arg1:E3 Arg2:T13
+R7	locatedIn Arg1:E3 Arg2:T14
+R8	locatedIn Arg1:E3 Arg2:T15
+T21	GeneExpression 480 490	expressing
+E4	GeneExpression:T21 hasPatient:T22
+T24	NegativeRegulation 510 520	eliminated
+E5	NegativeRegulation:T24 hasAgent:E4 hasPatient:T25
+R10	locatedIn Arg1:E5 Arg2:T20
+R11	encodes Arg1:T28 Arg2:T27
+R12	locatedIn Arg1:T28 Arg2:T26
+R13	encodes Arg1:T29 Arg2:T30
+R14	fromSpecies Arg1:T30 Arg2:T31
+R15	fromSpecies Arg1:T33 Arg2:T32
+R16	encodes Arg1:T36 Arg2:T35
+R17	locatedIn Arg1:T36 Arg2:T34
+R18	locatedIn Arg1:T41 Arg2:T42
+T45	GeneExpression 984 991	express
+E6	GeneExpression:T45 hasAgent:T47 hasPatient:T46
+R19	locatedIn Arg1:E6 Arg2:T44
+T52	PositiveRegulation 1090 1100	stimulates
+E7	PositiveRegulation:T52 hasAgent:T51 hasPatient:T53
+T59	PositiveRegulationOfGeneExpression 1230 1244	overexpression
+E8	PositiveRegulationOfGeneExpression:T59 hasPatient:T58
+T61	ProteinBiosynthesis 30 40	production
+E9	ProteinBiosynthesis:T61 hasPatient:T3
+T62	ResponseProcess 332 340	response
+E10	ResponseProcess:T62 hasAgent:T18 hasPatient:E3
+T64	MetabolicPathway 1183 1196	bone turnover
+E11	MetabolicPathway:T64 hasAgent:T56

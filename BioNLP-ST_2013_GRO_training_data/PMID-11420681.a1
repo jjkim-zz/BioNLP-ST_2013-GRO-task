@@ -1,0 +1,40 @@
+T1	ProteinDomain 18 36	functional domains
+T2	Protein 49 53	BTG1
+T3	Cell 54 58	cell
+T5	Protein 103 107	BTG1
+T8	Protein 163 170	protein
+T9	Nucleus 188 195	nuclear
+T11	Cell 212 231	confluent myoblasts
+T14	CellComponent 322 331	cytoplasm
+T15	Tissue 335 350	mature myotubes
+T16	ProteinDomain 368 375	domains
+T18	Protein 416 420	BTG1
+T20	Protein 462 466	BTG1
+T21	Enzyme 486 503	betaGalactosidase
+T22	ProteinDomain 526 531	B box
+T23	Protein 557 567	BTG family
+T25	Nucleus 590 597	nuclear
+T28	Protein 662 666	BTG1
+T29	Sequence 720 741	Nuclear Export Signal
+T30	Sequence 743 746	NES
+T31	ProteinDomain 761 766	B box
+T32	AminoAcid 818 829	amino acids
+T34	Nucleus 842 849	nuclear
+T36	Protein 880 887	protein
+T37	Protein 906 910	BTG1
+T38	ProteinDomain 911 932	amino-terminal domain
+T39	ProteinDomain 942 953	LxxLL motif
+T40	Nucleus 964 971	nuclear
+T42	ProteinDomain 1022 1027	A box
+T44	Nucleus 1039 1046	nuclear
+T46	MutantProtein 1078 1089	BTG1 mutant
+T48	CellComponent 1119 1128	cytoplasm
+T50	MutantProtein 1156 1162	mutant
+T54	Protein 1318 1322	BTG1
+T55	Protein 1358 1362	BTG1
+T56	Cell 1385 1393	cellular
+T58	Protein 1412 1416	BTG1
+T60	Nucleus 1453 1460	nuclear
+T61	FusionOfGeneWithReporterGene 477 482	fused
+T62	Nucleus 1176 1183	nuclear
+T65	Cell 1206 1215	myoblasts

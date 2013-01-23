@@ -1,0 +1,44 @@
+T4	Eukaryote 103 112	mammalian
+T5	Tissue 113 119	retina
+T6	Enzyme 142 159	guanylyl cyclases
+T7	Enzyme 161 164	GC1
+T8	Enzyme 169 172	GC2
+T12	Protein 220 225	GCAP1
+T13	Protein 230 235	GCAP2
+T14	Protein 288 301	photoreceptor
+T15	Protein 311 315	GCAP
+T16	Protein 324 329	GCAP3
+T17	Protein 359 364	GCAP1
+T18	Protein 393 398	GCAP3
+T19	Protein 404 409	GCAP1
+T20	Protein 414 419	GCAP2
+T21	Protein 461 466	GCAP3
+T22	Protein 471 476	GCAP2
+T24	Enzyme 487 490	GC1
+T25	Enzyme 495 498	GC2
+T26	Ion 506 516	[Ca2+]free
+T28	Enzyme 529 532	GCs
+T29	Ion 538 548	[Ca2+]free
+T30	Protein 569 574	GCAP1
+T32	Enzyme 598 601	GC1
+T33	Protein 603 608	GCAP3
+T34	Gene 634 638	gene
+T35	Eukaryote 656 665	mammalian
+T36	Eukaryote 732 739	rodents
+T37	Eukaryote 741 751	amphibians
+T38	Eukaryote 757 774	lower vertebrates
+T39	Gene 811 821	GCAP3 gene
+T40	Gene 856 866	GCAP genes
+T41	Gene 878 883	GCAP1
+T42	Gene 888 899	GCAP2 genes
+T43	Chromosome 940 950	chromosome
+T44	Eukaryote 957 962	human
+T45	Gene 968 978	GCAP3 gene
+T46	Gene 1025 1029	gene
+T50	Protein 1094 1115	Ca2+-binding proteins
+T52	Enzyme 1135 1137	GC
+T53	Protein 1189 1202	photoreceptor
+T54	Enzyme 1203 1205	GC
+T1	Protein 52 87	guanylyl cyclase-activating protein
+T2	Protein 182 218	guanylyl cyclase-activating proteins
+T3	Chromosome 993 999	3q13.1

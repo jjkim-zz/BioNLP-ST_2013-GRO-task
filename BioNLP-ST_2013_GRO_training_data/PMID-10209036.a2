@@ -1,0 +1,54 @@
+T3	RegulatoryProcess 85 95	regulating
+E1	RegulatoryProcess:T3 hasPatient:E2 hasAgent:T2
+R1	fromSpecies Arg1:T5 Arg2:T4
+T6	PositiveRegulation 109 119	activation
+E2	PositiveRegulation:T6 hasPatient:T5
+T8	GeneExpression 135 142	express
+E3	GeneExpression:T8 hasPatient:T9
+R2	locatedIn Arg1:E3 Arg2:T7
+T10	Localization 208 215	recruit
+E4	Localization:T10 hasAgent:T9 hasPatient:T12
+T20	GeneExpression 503 512	expressed
+E5	GeneExpression:T20 hasPatient:T18
+R4	locatedIn Arg1:E5 Arg2:T21
+T23	Phosphorylation 544 559	phosphorylation
+E6	Phosphorylation:T23 hasAgent:T24 hasPatient:T22
+T29	Localization 613 621	recruits
+E7	Localization:T29 hasAgent:T28 hasPatient:T26
+T36	PositiveRegulationOfGeneExpression 729 743	Overexpression
+E9	PositiveRegulationOfGeneExpression:T36 hasPatient:T37
+R7	locatedIn Arg1:E9 Arg2:T38
+T39	Decrease 767 780	downmodulates
+E10	Decrease:T39 hasAgent:E9 hasPatient:E12
+R8	locatedIn Arg1:T41 Arg2:T40
+T43	RegulatoryProcess 821 829	mediated
+E11	RegulatoryProcess:T43 hasPatient:E12 hasAgent:T41
+T44	PositiveRegulation 830 840	activation
+E12	PositiveRegulation:T44 hasPatient:T46
+T47	Affecting 895 906	interfering
+E13	Affecting:T47 hasAgent:E14
+T48	SignalingPathway 912 931	signaling processes
+E14	SignalingPathway:T48 
+R10	precedes Arg1:E14 Arg2:E15
+T49	PositiveRegulation 970 980	activation
+E15	PositiveRegulation:T49 hasPatient:T50
+T51	BindingToProtein 1010 1017	binding
+E16	BindingToProtein:T51 hasPatient:T53 hasPatient2:T52
+T54	NegativeRegulation 1053 1063	inhibition
+E17	NegativeRegulation:T54 hasPatient:E18
+T56	Increase 1073 1082	induction
+E18	Increase:T56 hasPatient:T55
+T58	RegulatoryProcess 1113 1122	regulates
+E19	RegulatoryProcess:T58 hasAgent:T57 hasPatient:T59
+T60	RegulatoryProcess 1147 1155	controls
+E20	RegulatoryProcess:T60 hasAgent:T57 hasPatient:E21
+T62	SignalingPathway 1172 1180	pathways
+E21	SignalingPathway:T62 
+T64	PositiveRegulation 1191 1201	activation
+E22	PositiveRegulation:T64 hasPatient:T63
+R3	hasPart Arg1:T12 Arg2:T11	
+T14	SignalingPathway 302 326	tyrosine-based signaling
+E23	SignalingPathway:T14 
+T19	Homodimerization 470 481	homodimeric
+E24	Homodimerization:T19 hasPatient:T66
+E8	RegulatoryProcess:T43 hasPatient:E12 hasAgent:T42

@@ -1,0 +1,48 @@
+T1	Gene 0 3	RP1
+T2	Protein 25 51	adenomatous polyposis coli
+T4	Gene 60 80	EB1-like gene family
+T7	Cell 123 130	T cells
+T8	ExperimentalMethod 132 145	Cross-linking
+T9	Protein 153 156	CD3
+T10	Protein 161 165	CD28
+T11	Cell 179 192	T lymphocytes
+T12	Cell 242 254	T lymphocyte
+T15	Gene 331 336	genes
+T17	Cell 359 366	T cells
+T18	MessengerRNA 386 390	mRNA
+T19	Cell 396 409	T lymphocytes
+T22	Protein 473 476	CD3
+T23	Protein 481 485	CD28
+T25	MessengerRNA 539 543	mRNA
+T26	DNA 566 570	cDNA
+T27	DNA 593 597	cDNA
+T28	Protein 603 607	CD28
+T29	Protein 612 615	CD3
+T30	Cell 637 648	lymphocytes
+T32	DNAFragment 739 753	cDNA fragments
+T34	Protein 780 783	CD3
+T35	Protein 789 793	CD28
+T37	Cell 804 811	T cells
+T38	Protein 827 830	RP1
+T42	Protein 936 962	adenomatous polyposis coli
+T43	Protein 964 967	APC
+T46	Gene 985 1000	EB1 gene family
+T47	Protein 1030 1039	protein(s
+T48	Prokaryote 1042 1053	Bacterially
+T50	Protein 1064 1075	RP1 protein
+T54	Protein 1174 1177	RP1
+T55	MessengerRNA 1178 1182	mRNA
+T57	Cell 1205 1212	T cells
+T58	Gene 1227 1236	this gene
+T59	Gene 1273 1284	gene family
+T62	Protein 1351 1354	TCR
+T64	Gene 1387 1395	RP1 gene
+T66	Cell 1409 1416	T cells
+T67	Cell 1449 1459	cell lines
+T69	Cell 1508 1513	cells
+T70	Gene 1530 1550	EB1-like gene family
+T74	Cell 1683 1688	cells
+T21	ProteinCodingDNARegion 847 868	protein-coding region
+T39	Gene 872 875	RP1
+T40	Protein 1105 1114	wild-type
+T41	MutatedProtein 1126 1145	mutated APC protein

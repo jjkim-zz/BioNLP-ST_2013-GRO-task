@@ -1,0 +1,26 @@
+T1	Eukaryote 26 35	mammalian
+T2	Enzyme 50 79	NSF/CDC48p/Pas1p/TBP-1 family
+T4	Eukaryote 115 120	yeast
+T5	Ion 168 177	potassium
+T7	Eukaryote 198 222	Saccharomyces cerevisiae
+T8	Eukaryote 244 249	mouse
+T9	DNA 250 273	cDNA expression library
+T10	Gene 294 298	SKD1
+T11	Gene 303 307	SKD2
+T12	Ion 323 325	K+
+T14	DNA 357 362	cDNAs
+T15	Enzyme 395 402	ATPases
+T17	Chemical 432 448	N-ethylmaleimide
+T18	FusionProtein 459 473	fusion protein
+T19	Protein 475 478	NSF
+T22	Protein 513 519	CDC48p
+T24	Protein 543 548	Pas1p
+T27	Protein 583 588	TBP-1
+T28	Protein 595 607	SKD1 protein
+T29	AminoAcid 662 672	amino acid
+T30	Sequence 673 681	sequence
+T31	Nucleotide 742 745	ATP
+T34	Peptide 764 780	SKD2 polypeptide
+T35	Eukaryote 788 793	mouse
+T36	Protein 805 808	NSF
+T32	BindingSiteOfProtein 746 758	binding site

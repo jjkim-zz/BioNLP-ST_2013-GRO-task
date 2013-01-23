@@ -1,0 +1,42 @@
+T2	Eukaryote 35 40	human
+T6	Virus 92 97	HIV-1
+T7	Protein 98 117	regulatory proteins
+T9	Eukaryote 169 174	human
+T13	Protein 198 203	RPS25
+T15	Protein 255 260	RPS25
+T16	DNA 261 266	cDNAs
+T17	Cell 270 281	Cos-1 cells
+T18	Protein 294 299	RPS25
+T19	Cell 321 325	cell
+T20	Nucleus 326 333	nucleus
+T21	Nucleus 369 378	nucleolus
+T22	Protein 405 410	RPS25
+T23	Peptide 513 540	nucleolar targeting signals
+T24	Peptide 542 545	NOS
+T25	RNA 561 564	RNA
+T27	TranscriptionActivator 573 588	transactivators
+T28	Virus 600 631	human immunodeficiency viruses'
+T29	Virus 633 636	HIV
+T30	Protein 638 650	Rev proteins
+T31	Peptide 727 730	NOS
+T33	Protein 806 811	RPS25
+T34	Peptide 826 850	nuclear targeting signal
+T35	Peptide 880 883	NOS
+T36	Nucleus 1027 1036	nucleolar
+T39	Protein 1231 1236	RPS25
+T40	DNA 1237 1241	cDNA
+T41	Peptide 1307 1314	peptide
+T42	Protein 1318 1323	RPS25
+T43	Peptide 1390 1397	peptide
+T44	Peptide 1442 1445	NOS
+T45	RNA 1508 1511	RNA
+T47	TranscriptionActivator 1520 1535	transactivators
+T3	Protein 41 62	ribosomal protein S25
+T5	Protein 175 196	ribosomal protein S25
+T8	Virus 550 560	lentiviral
+T11	Nucleus 768 789	nuclear and nucleolar
+T1	Nucleus 0 21	Nuclear and nucleolar
+T4	Nucleus 123 144	nuclear and nucleolar
+T49	Nucleus 1064 1081	nuclear/nucleolar
+T51	Peptide 1048 1054	Signal
+T52	Virus 1497 1507	lentiviral

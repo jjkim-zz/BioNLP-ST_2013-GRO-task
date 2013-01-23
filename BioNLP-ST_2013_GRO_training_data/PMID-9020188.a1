@@ -1,0 +1,50 @@
+T1	TranscriptionActivator 0 5	Stat2
+T2	TranscriptionActivator 11 36	transcriptional activator
+T3	Sequence 51 59	sequence
+T4	PhysicalContact 69 77	contacts
+T5	Protein 90 95	stat1
+T6	Protein 100 103	p48
+T8	DNA 132 135	DNA
+T12	Protein 178 181	IFN
+T14	AminoAcid 199 207	tyrosine
+T16	CellComponent 228 235	nuclear
+T18	TranscriptionFactor 253 274	transcription factors
+T19	TranscriptionActivator 304 313	activator
+T20	TranscriptionRegulator 317 344	transcription (Stat) family
+T21	Protein 350 363	Stat1 protein
+T24	Protein 413 416	IFN
+T26	Protein 457 467	type I IFN
+T27	TranscriptionActivator 498 503	Stat2
+T31	Protein 512 552	IFN regulatory factor family protein p48
+T33	ProteinComplex 582 603	transcription complex
+T34	Protein 609 614	Stat1
+T35	ProteinComplex 622 627	ISGF3
+T36	Protein 629 634	Stat1
+T38	Protein 668 677	IFN-gamma
+T40	Protein 711 714	p48
+T42	TranscriptionActivatorActivity 731 757	transcriptional activators
+T43	TranscriptionActivator 776 781	Stat2
+T46	Protein 843 846	p48
+T47	DNA 868 871	DNA
+T50	Protein 931 936	Stat1
+T52	TranscriptionActivator 1023 1028	Stat2
+T53	Protein 1029 1032	p48
+T54	ProteinComplex 1033 1042	complexes
+T55	Protein 1063 1075	Stat protein
+T56	ProteinComplex 1087 1117	transcription factor complexes
+T57	Protein 1276 1281	Stat1
+T59	Protein 1344 1347	p48
+T60	DNA 1348 1351	DNA
+T62	Protein 1442 1445	p48
+T63	Sequence 1458 1466	sequence
+T64	ProteinComplex 1474 1479	ISGF3
+T65	Protein 1498 1501	p48
+T66	Protein 1520 1535	adaptor protein
+T67	Protein 1547 1552	Stat1
+T68	TranscriptionActivator 1557 1562	Stat2
+T70	TranscriptionActivator 1608 1613	Stat2
+T71	DNA 1692 1695	DNA
+T72	Protein 1703 1708	Stat1
+T73	PhysicalContact 1747 1757	contacting
+T74	DNA 1758 1761	DNA
+T29	RegulatoryDNARegion 1569 1606	IFN-alpha-stimulated response element

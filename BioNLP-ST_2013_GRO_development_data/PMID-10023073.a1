@@ -1,0 +1,36 @@
+T1	Eukaryote 4 9	human
+T3	Gene 53 57	CBP2
+T5	Gene 77 84	pshsp47
+T6	Eukaryote 139 145	humans
+T7	Gene 149 154	hsp47
+T8	Gene 189 194	genes
+T9	Gene 221 226	hsp47
+T10	Gene 268 273	genes
+T11	Eukaryote 323 328	human
+T12	Gene 329 334	hsp47
+T13	DNA 335 339	cDNA
+T14	Gene 363 367	gene
+T15	Gene 382 386	CBP2
+T17	Transcript 408 418	transcript
+T18	Eukaryote 473 478	human
+T19	Gene 492 497	hsp47
+T20	Exon 551 568	exon III fragment
+T21	Eukaryote 572 577	mouse
+T22	Gene 578 583	hsp47
+T23	Enzyme 646 652	enzyme
+T24	Gene 690 694	gene
+T26	Gene 756 763	pshsp47
+T27	Eukaryote 780 785	human
+T28	Gene 814 824	pseudogene
+T29	Chromosome 828 838	chromosome
+T30	GeneRegion 906 922	genomic fragment
+T31	Gene 945 952	pshsp47
+T32	Gene 1014 1019	hsp47
+T33	Gene 1030 1034	CBP2
+T34	Gene 1076 1086	pseudogene
+T35	Eukaryote 1105 1110	human
+T36	Gene 436 444	colligin
+T37	ExperimentalMethod 297 304	Cloning
+T38	ExperimentalMethod 309 319	sequencing
+T39	ExperimentalMethod 886 890	FISH
+T40	Gene 1043 1051	colligin

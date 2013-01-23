@@ -1,0 +1,33 @@
+T1	Ion 0 4	Zinc
+T3	Protein 24 36	S100 protein
+T4	Ion 73 77	Ca2+
+T6	Eukaryote 84 89	human
+T7	Protein 90 99	psoriasin
+T8	Protein 101 107	S100A7
+T9	Ion 116 120	Zn2+
+T10	Ion 132 136	Zn2+
+T11	Eukaryote 175 180	human
+T12	Protein 181 190	psoriasin
+T13	Protein 192 198	S100A7
+T14	Ion 215 222	calcium
+T16	Protein 284 291	protein
+T17	Ion 322 335	divalent zinc
+T18	Protein 367 382	dimeric protein
+T19	Chemical 426 433	holmium
+T20	Ion 486 490	zinc
+T22	BindingSiteOfProtein 499 503	site
+T23	Protein 511 518	protein
+T24	AminoAcid 545 555	histidines
+T25	AminoAcid 563 580	aspartate residue
+T26	Ion 622 630	zinc ion
+T27	Enzyme 679 695	metalloproteases
+T28	Enzyme 718 729	collagenase
+T29	Protein 740 748	proteins
+T30	Ion 789 793	zinc
+T31	Protein 854 858	S100
+T32	Protein 884 890	S100A7
+T33	Ion 922 926	zinc
+T34	Ion 954 958	zinc
+T35	Ion 1062 1069	calcium
+T36	BindingSiteOfProtein 13 17	site
+T37	BindingSiteOfProtein 794 798	site

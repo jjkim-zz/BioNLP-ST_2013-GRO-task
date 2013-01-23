@@ -1,0 +1,35 @@
+T1	CellComponent 0 9	Nucleolar
+T4	Protein 43 49	Nop58p
+T6	Protein 64 69	Nop1p
+T7	Ribosome 91 99	ribosome
+T10	CellComponent 145 154	nucleolar
+T11	Protein 155 174	protein fibrillarin
+T12	Protein 176 181	Nop1p
+T13	Eukaryote 185 209	Saccharomyces cerevisiae
+T15	Ribosome 242 250	ribosome
+T19	Gene 391 396	NOP56
+T21	RNA 460 468	pre-rRNA
+T24	Gene 507 512	NOP58
+T25	Protein 526 532	Nop56p
+T26	Protein 537 543	Nop58p
+T27	Protein 587 595	proteins
+T29	CellComponent 644 653	nucleolus
+T30	Gene 701 708	nop56-2
+T33	RNA 786 794	25S/5.8S
+T36	Protein 896 902	Nop56p
+T37	Protein 907 913	Nop58p
+T39	Protein 934 939	Noplp
+T40	Protein 954 960	Nop56p
+T41	Protein 965 970	Nop1p
+T44	Phenotype 1076 1086	phenotypes
+T45	Protein 1103 1111	homologs
+T46	Eukaryote 1159 1165	humans
+T47	Eukaryote 1188 1193	human
+T48	Protein 1194 1201	hNop56p
+T49	Eukaryote 1206 1211	yeast
+T50	Protein 1212 1218	Nop56p
+T51	ProteinComplex 1237 1252	these complexes
+T2	Protein 10 31	KKE/D repeat proteins
+T3	Protein 32 38	Nop56p
+T35	Ribosome 833 844	60S subunit
+T38	ProteinComplex 943 952	complexes

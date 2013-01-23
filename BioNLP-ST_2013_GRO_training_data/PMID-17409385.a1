@@ -1,0 +1,50 @@
+T1	ProteinSubunit 69 76	subunit
+T2	Eukaryote 80 85	human
+T3	TranscriptionFactor 86 113	transcription factor TFIIIC
+T4	TranscriptionFactor 115 121	TFIIIC
+T5	Eukaryote 125 130	yeast
+T6	Eukaryote 135 141	humans
+T8	tRNA 175 179	tRNA
+T9	RNA 184 191	5 S RNA
+T10	Gene 192 197	genes
+T11	RNAPolymerase 201 219	RNA polymerase III
+T12	Eukaryote 228 233	yeast
+T13	Eukaryote 234 258	Saccharomyces cerevisiae
+T14	TranscriptionFactor 260 266	TFIIIC
+T15	ProteinSubunit 286 294	subunits
+T16	Eukaryote 327 333	humans
+T17	ProteinSubunit 418 425	subunit
+T18	Eukaryote 429 434	human
+T19	TranscriptionFactor 435 441	TFIIIC
+T20	ProteinSubunit 443 451	TFIIIC35
+T21	ProteinSubunit 486 493	subunit
+T22	Eukaryote 497 502	yeast
+T23	TranscriptionFactor 503 509	TFIIIC
+T24	Protein 618 626	proteins
+T25	AminoAcid 669 679	amino acid
+T26	ProteinDomain 680 686	domain
+T27	TranscriptionFactor 710 716	TFIIIC
+T28	ProteinSubunit 717 724	subunit
+T29	Eukaryote 754 764	eukaryotes
+T30	Eukaryote 828 833	human
+T31	TranscriptionFactor 834 840	TFIIIC
+T32	ProteinSubunit 864 872	TFIIIC35
+T33	Cell 873 882	cell line
+T36	Gene 935 938	VA1
+T37	Gene 939 943	gene
+T38	ProteinSubunit 967 975	TFIIIC35
+T40	Eukaryote 1008 1013	human
+T41	TranscriptionFactor 1014 1020	TFIIIC
+T42	ProteinSubunit 1021 1038	subunits TFIIIC63
+T43	ProteinSubunit 1064 1072	TFIIIC90
+T44	ProteinSubunit 1139 1146	subunit
+T45	Eukaryote 1150 1155	yeast
+T46	TranscriptionFactor 1156 1162	TFIIIC
+T48	Eukaryote 1207 1212	yeast
+T49	TranscriptionFactor 1213 1219	TFIIIC
+T50	ProteinSubunit 1220 1234	subunit ScTfc1
+T51	ProteinSubunit 1251 1259	TFIIIC63
+T52	AminoAcid 1311 1321	amino acid
+T53	ProteinDomain 1322 1328	domain
+T54	Eukaryote 1352 1357	yeast
+T55	Eukaryote 1361 1367	humans

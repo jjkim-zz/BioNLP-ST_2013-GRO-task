@@ -1,0 +1,29 @@
+T1	Protein 50 77	angiopoietin family protein
+T2	Protein 79 93	angiopoietin-3
+T3	DNA 138 142	cDNA
+T4	AminoAcid 172 183	amino acids
+T5	Protein 192 204	angiopoietin
+T6	Protein 206 209	Ang
+T7	Eukaryote 223 228	human
+T8	Tissue 235 240	heart
+T9	DNA 241 245	cDNA
+T11	Protein 285 289	Ang3
+T12	Protein 339 344	Ang-3
+T13	ProteinDomain 372 390	coiled-coil domain
+T14	ProteinDomain 395 417	fibrinogen-like domain
+T15	Protein 452 456	Angs
+T16	Protein 458 462	Ang3
+T18	Protein 604 608	Ang3
+T19	MessengerRNA 609 613	mRNA
+T20	Tissue 634 647	adrenal gland
+T21	Tissue 649 657	placenta
+T22	Tissue 659 672	thyroid gland
+T23	Tissue 674 679	heart
+T24	Tissue 684 699	small intestine
+T25	Eukaryote 703 708	human
+T26	Tissue 715 722	tissues
+T27	Protein 738 742	Ang3
+T28	Protein 748 765	secretory protein
+T29	Protein 780 787	mitogen
+T30	Cell 791 808	endothelial cells
+T31	Sequence 565 580	signal sequence

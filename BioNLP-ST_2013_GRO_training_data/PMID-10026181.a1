@@ -1,0 +1,28 @@
+T1	Eukaryote 22 27	human
+T2	Enzyme 28 39	XPG protein
+T3	CatalyticActivity 54 71	nuclease activity
+T5	Eukaryote 120 125	human
+T6	Enzyme 126 142	XPG endonuclease
+T7	DNA 168 171	DNA
+T10	Enzyme 227 230	XPG
+T13	Enzyme 307 310	XPG
+T14	Enzyme 391 400	nucleases
+T15	Enzyme 405 417	exonucleases
+T16	CatalyticActivity 533 554	endonuclease activity
+T17	Enzyme 558 570	isolated XPG
+T18	Protein 657 665	proteins
+T19	CatalyticActivity 839 860	endonuclease activity
+T20	Enzyme 904 925	Isolated XPG proteins
+T23	MutantProtein 1213 1227	mutant protein
+T24	Enzyme 1370 1373	XPG
+T25	Enzyme 1467 1479	XPG proteins
+T26	Enzyme 1492 1495	XPG
+T27	Peptide 1496 1508	polypeptides
+T29	Enzyme 1580 1583	XPG
+T31	Enzyme 1667 1670	XPG
+T33	Enzyme 1798 1806	nuclease
+T36	CatalyticActivity 441 460	catalytic mechanism
+T39	Enzyme 793 797	XP-G
+T42	Phenotype 893 902	phenotype
+T46	Cell 1312 1327	XP-G cell lines
+T48	DNA 1717 1723	strand

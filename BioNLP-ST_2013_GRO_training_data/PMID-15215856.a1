@@ -1,0 +1,43 @@
+T1	CellComponent 2 10	membrane
+T2	ProteinComplex 11 26	protein complex
+T5	CellComponent 65 73	ER lumen
+T6	CellComponent 83 90	cytosol
+T8	Protein 107 125	misfolded proteins
+T9	CellComponent 135 156	endoplasmic reticulum
+T10	CellComponent 158 160	ER
+T12	Stress 229 238	ER stress
+T13	Substrate 279 288	substrate
+T14	CellComponent 296 304	ER lumen
+T16	CellComponent 345 353	membrane
+T17	CellComponent 361 370	cytosolic
+T18	Enzyme 371 381	p97 ATPase
+T19	Protein 402 405	p97
+T21	CellComponent 418 426	membrane
+T22	ProteinComplex 427 442	protein complex
+T23	Eukaryote 450 459	mammalian
+T24	CellComponent 460 462	ER
+T25	ProteinComplex 517 528	the complex
+T26	Protein 530 538	Derlin-1
+T27	Protein 558 562	Der1
+T28	Eukaryote 566 571	yeast
+T29	Protein 572 579	protein
+T33	CellComponent 637 647	luminal ER
+T34	Protein 648 656	proteins
+T35	Protein 658 666	Derlin-1
+T37	Substrate 693 703	substrates
+T39	CellComponent 729 737	membrane
+T41	Protein 759 767	Derlin-1
+T42	Eukaryote 771 781	C. elegans
+T43	Stress 789 798	ER stress
+T44	Protein 800 808	Derlin-1
+T46	Protein 824 828	US11
+T47	Virus 832 839	virally
+T48	CellComponent 848 850	ER
+T49	Protein 851 858	protein
+T51	CellComponent 930 932	ER
+T52	Protein 950 954	VIMP
+T53	CellComponent 964 972	membrane
+T54	Protein 973 980	protein
+T55	Enzyme 999 1009	p97 ATPase
+T56	Protein 1018 1026	cofactor
+T57	Protein 885 909	MHC class I heavy chains

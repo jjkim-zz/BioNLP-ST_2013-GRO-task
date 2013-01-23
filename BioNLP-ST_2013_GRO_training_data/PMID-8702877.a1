@@ -1,0 +1,41 @@
+T1	Eukaryote 24 29	human
+T2	Gene 30 51	forkhead gene FREAC-4
+T4	Gene 80 108	Wilms' tumor suppressor gene
+T5	Gene 110 114	WT-1
+T6	Protein 120 123	p53
+T7	DNA 195 199	cDNA
+T8	DNAFragment 245 261	genomic fragment
+T9	Protein 271 278	FREAC-4
+T12	DNA 342 346	cDNA
+T14	Protein 473 480	protein
+T15	AminoAcid 488 499	amino acids
+T16	ForkheadWingedHelix 541 568	DNA binding forkhead domain
+T17	Peptide 575 592	carboxyl-terminal
+T18	AminoAcid 636 644	prolines
+T19	AminoAcid 649 657	alanines
+T20	DNAFragment 758 770	DNA fragment
+T22	ReporterGeneConstruction 831 836	fused
+T23	ReporterGene 842 866	luciferase reporter gene
+T24	FusionGene 929 943	this construct
+T25	ExperimentalMethod 948 959	transfected
+T26	Tissue 969 975	kidney
+T27	Cell 984 994	cell lines
+T28	Cell 996 999	293
+T29	Cell 1004 1015	COS-7 cells
+T30	ReporterGene 1041 1054	reporter gene
+T32	Cell 1084 1093	cell line
+T35	Protein 1156 1160	WT-1
+T36	MutatedProtein 1162 1166	WTAR
+T38	Protein 1193 1196	p53
+T42	Protein 1294 1298	WT-1
+T44	MutatedProtein 1324 1335	mutated p53
+T46	Protein 1376 1379	p53
+T47	DNAFragment 1422 1434	DNA fragment
+T48	Protein 1449 1453	WT-1
+T50	DNAFragment 1498 1511	This fragment
+T51	DNARegion 1545 1556	cis-element
+T53	Protein 1605 1609	WT-1
+T10	ForkheadWingedHelixTF 296 336	forkhead family of transcription factors
+T11	Peptide 507 533	hyperacidic amino-terminal
+T21	MutatedProtein 1204 1223	mutated form of p53
+T33	MutatedProtein 1170 1190	mutated form of WT-1

@@ -1,0 +1,83 @@
+T4	Transcription 74 89	transcriptional
+E1	Transcription:T4 hasPatient:T3
+T5	PositiveRegulation 90 100	activation
+E2	PositiveRegulation:T5 hasPatient:E1 hasAgent:T2
+R1	locatedIn Arg1:T8 Arg2:T7
+T9	RegulatoryProcess 182 190	mediates
+E3	RegulatoryProcess:T9 hasAgent:T6 hasPatient:T10
+R3	hasFunction Arg1:T11 Arg2:T10
+T13	BindingToProtein 263 271	interact
+E4	BindingToProtein:T13 hasPatient:T14 hasPatient2:T12
+T15	RegulatoryProcess 284 292	regulate
+E5	RegulatoryProcess:T15 hasAgent:T12 hasPatient:E6
+T16	Transcription 297 321	transcriptional activity
+E6	Transcription:T16 hasPatient:T14
+T18	BindingToMolecularEntity 333 337	bind
+E7	BindingToMolecularEntity:T18 hasPatient:T19
+T20	RegulatoryProcess 363 372	influence
+E8	RegulatoryProcess:T20 hasPatient:E9
+T21	CellularProcess 378 393	cellular events
+E9	CellularProcess:T21 
+T22	RegulatoryProcess 397 405	altering
+E10	RegulatoryProcess:T22 hasPatient:E11
+T24	Localization 424 436	localization
+E11	Localization:T24 hasPatient:T19
+R4	locatedIn Arg1:E11 Arg2:T23
+T27	PositiveRegulation 510 519	activated
+E12	PositiveRegulation:T27 hasAgent:T26 hasPatient:E13
+T28	ProteinCatabolism 520 531	degradation
+E13	ProteinCatabolism:T28 hasPatient:T29
+T31	MetabolicPathway 575 594	degradation pathway
+E14	MetabolicPathway:T31 
+T32	NegativeRegulation 604 614	inhibition
+E15	NegativeRegulation:T32 hasPatient:T34
+R5	hasFunction Arg1:T33 Arg2:T34
+T35	PositiveRegulation 639 646	induces
+E16	PositiveRegulation:T35 hasAgent:E15
+T39	PositiveRegulationOfTranscription 671 679	enhances
+E18	PositiveRegulationOfTranscription:T39 hasAgent:E15 hasPatient:E19
+T40	Transcription 684 708	transcriptional activity
+E19	Transcription:T40 hasPatient:T41
+T44	SignalingPathway 785 799	signal pathway
+E20	SignalingPathway:T44 
+T47	PositiveRegulation 855 862	induced
+E21	PositiveRegulation:T47 hasAgent:T46 hasPatient:E23
+T49	Transcription 866 881	transcriptional
+E22	Transcription:T49 hasPatient:T48
+T50	PositiveRegulation 882 892	activation
+E23	PositiveRegulation:T50 hasPatient:E22
+T52	Increase 904 912	Enhanced
+E24	Increase:T52 hasAgent:T51 hasPatient:E25
+T53	Transcription 917 941	transcriptional activity
+E25	Transcription:T53 hasPatient:T54
+T60	Increase 1084 1093	increased
+E26	Increase:T60 
+R6	locatedIn Arg1:E26 Arg2:T61
+R7	locatedIn Arg1:E26 Arg2:T62
+T64	Increase 1150 1158	elevated
+E27	Increase:T64 hasAgent:T65 hasPatient:T63
+R8	locatedIn Arg1:E27 Arg2:T66
+T68	NegativeRegulation 1197 1206	Inhibited
+E28	NegativeRegulation:T68 hasAgent:T67 hasPatient:E30
+T70	PositiveRegulation 1214 1221	induced
+E29	PositiveRegulation:T70 hasAgent:T69 hasPatient:E30
+T71	NegativeRegulation 1222 1237	down-regulation
+E30	NegativeRegulation:T71 hasPatient:T72
+T76	SignalingPathway 1599 1613	signal pathway
+E32	SignalingPathway:T76 
+T77	NegativeRegulation 1617 1625	blocking
+E33	NegativeRegulation:T77 hasPatient:E34
+T78	ProteinMetabolism 1630 1641	degradation
+E34	ProteinMetabolism:T78 hasPatient:T79
+T80	PositiveRegulation 1652 1660	inducing
+E35	PositiveRegulation:T80 hasPatient:E36
+T81	Increase 1664 1673	elevation
+E36	Increase:T81 hasPatient:T82
+T83	Increase 1686 1695	enhancing
+E37	Increase:T83 hasPatient:T37
+R12	hasFunction Arg1:T1 Arg2:T2	
+T17	PositiveRegulation 647 660	up-regulation
+E17	PositiveRegulation:T17 hasPatient:T38 hasAgent:E16
+T36	PositiveRegulation 1558 1576	positive regulator
+E31	PositiveRegulation:T36 hasAgent:T73 hasPatient:E32
+R2	hasFunction Arg1:T85 Arg2:T37	

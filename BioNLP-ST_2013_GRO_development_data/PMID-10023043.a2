@@ -1,0 +1,29 @@
+R1	fromSpecies Arg1:T3 Arg2:T2
+T4	Disease 83 86	TTD
+E1	Disease:T4 
+T6	Disease 111 118	disease
+E2	Disease:T6 
+T7	Mutation 129 138	mutations
+E3	Mutation:T7 hasPatient:T8
+T15	NegativeRegulationOfTranscription 370 390	transcription defect
+E5	NegativeRegulationOfTranscription:T15 
+T17	GeneExpression 480 489	expressed
+E6	GeneExpression:T17 hasPatient:T16
+R4	locatedIn Arg1:E6 Arg2:T18
+R5	locatedIn Arg1:E6 Arg2:T19
+R6	hasPart Arg1:T20 Arg2:T21
+T23	RegulatoryProcess 832 842	regulation
+E7	RegulatoryProcess:T23 hasPatient:E8
+T24	Transcription 852 865	transcription
+E8	Transcription:T24 
+T25	RegulatoryProcess 883 890	control
+E9	RegulatoryProcess:T25 hasPatient:E10
+T26	GeneExpression 900 910	expression
+E10	GeneExpression:T26 hasPatient:T22 hasAgent:E12
+T28	Mutation 932 941	mutations
+E12	Mutation:T28 hasPatient:T30
+R7	hasPart Arg1:T29 Arg2:T30
+R8	fromSpecies Arg1:E2 Arg2:T5	
+R2	hasPart Arg1:T11 Arg2:T10	
+R3	fromSpecies Arg1:T12 Arg2:T13	
+E4	Mutation:T7 hasPatient:T9

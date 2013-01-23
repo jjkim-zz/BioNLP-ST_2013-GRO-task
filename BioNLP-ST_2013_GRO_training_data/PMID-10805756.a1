@@ -1,0 +1,98 @@
+T2	TranscriptionFactor 19 23	SOX9
+T3	SecondMessenger 27 37	cyclic AMP
+T4	Enzyme 48 64	protein kinase A
+T6	TranscriptionFactor 74 80	SOX9's
+T8	Gene 108 114	Col2a1
+T9	Cell 115 126	chondrocyte
+T10	Enhancer 136 144	enhancer
+T11	TranscriptionFactor 146 150	Sox9
+T16	Protein 324 340	Son of Sevenless
+T18	Cell 371 382	chondrocyte
+T19	DNA 383 395	cDNA library
+T20	ProteinSubunit 425 432	subunit
+T22	SecondMessenger 448 452	cAMP
+T23	Enzyme 464 480	protein kinase A
+T24	Enzyme 482 492	PKA-Calpha
+T26	TranscriptionFactor 523 527	SOX9
+T27	Enzyme 562 565	PKA
+T29	AminoAcid 582 587	sites
+T30	TranscriptionFactor 595 599	SOX9
+T32	Enzyme 627 630	PKA
+T33	TranscriptionFactor 649 653	SOX9
+T35	Enzyme 681 691	PKA-Calpha
+T36	Cell 704 715	COS-7 cells
+T37	Enzyme 735 745	PKA-Calpha
+T38	TranscriptionFactor 750 754	SOX9
+T40	DNA 766 774	plasmids
+T41	Enzyme 776 779	PKA
+T44	TranscriptionFactor 812 826	wild-type SOX9
+T45	TranscriptionFactor 1018 1022	SOX9
+T47	AminoAcid 1041 1051	serine 211
+T48	Enzyme 1068 1071	PKA
+T50	AminoAcid 1088 1093	sites
+T51	SecondMessenger 1128 1132	cAMP
+T52	Cell 1136 1148	chondrocytes
+T55	TranscriptionFactor 1202 1206	Sox9
+T56	Eukaryote 1245 1250	mouse
+T57	Tissue 1251 1267	embryo hind legs
+T58	TranscriptionFactor 1280 1284	Sox9
+T60	AminoAcid 1303 1313	serine 211
+T62	CellComponent 1347 1367	prehypertrophic zone
+T67	SecondMessenger 1502 1506	cAMP
+T69	MessengerRNA 1561 1565	mRNA
+T70	Protein 1576 1582	Col2a1
+T71	MolecularEntity 1593 1609	specific markers
+T73	Enzyme 1675 1678	PKA
+T76	TranscriptionFactor 1726 1730	SOX9
+T77	SecondMessenger 1744 1756	8-bromo-cAMP
+T78	Cell 1760 1772	chondrocytes
+T80	TranscriptionFactor 1836 1840	SOX9
+T81	Gene 1857 1863	Col2a1
+T82	Cell 1864 1875	chondrocyte
+T83	Enhancer 1885 1893	enhancer
+T84	Enzyme 1924 1934	PKA-Calpha
+T86	Enhancer 1961 1974	this enhancer
+T88	Enzyme 1997 2000	PKA
+T90	AminoAcid 2027 2032	sites
+T91	TranscriptionFactor 2036 2040	SOX9
+T93	Enzyme 2064 2074	PKA-Calpha
+T95	Enhancer 2089 2102	this enhancer
+T96	TranscriptionFactor 2106 2110	SOX9
+T97	Enzyme 2112 2115	PKA
+T99	Protein 2196 2200	SOX9
+T100	Nucleus 2219 2226	nuclear
+T103	TranscriptionFactor 2269 2273	SOX9
+T104	Enzyme 2277 2280	PKA
+T105	DNA 2308 2311	DNA
+T107	TranscriptionFactor 2338 2342	SOX9
+T108	SecondMessenger 2358 2362	cAMP
+T111	TranscriptionFactor 2401 2405	SOX9
+T112	Enzyme 2409 2412	PKA
+T114	TranscriptionFactor 2422 2425	its
+T116	DNA 2446 2449	DNA
+T118	Peptide 2476 2481	PTHrP
+T121	SecondMessenger 2507 2511	cAMP
+T122	TranscriptionFactor 2553 2557	Sox9
+T123	Peptide 2573 2578	PTHrP
+T125	Tissue 2596 2608	growth plate
+T127	TranscriptionFactorActivity 2632 2640	activity
+T128	TranscriptionFactor 2644 2648	Sox9
+T130	Peptide 2677 2682	PTHrP
+T132	Cell 2702 2707	cells
+T133	Cell 2711 2739	nonhypertrophic chondrocytes
+T7	TranscriptionActivatorActivity 81 105	ability to transactivate
+T12	HMGTF 156 214	high-mobility-group domain-containing transcription factor
+T13	Protein 342 345	SOS
+T134	CatalyticActivity 415 424	catalytic
+T21	SecondMessenger 436 446	cyclic AMP
+T136	TranscriptionFactor 867 879	SOX9 protein
+T137	AminoAcid 897 922	PKA phosphorylation sites
+T138	AminoAcid 924 929	S(64)
+T139	AminoAcid 934 940	S(211)
+T64	Peptide 1442 1477	parathyroid hormone-related peptide
+T65	Peptide 1479 1484	PTHrP
+T66	Protein 1486 1494	receptor
+T141	TranscriptionFactorActivity 1714 1722	activity
+T145	Enzyme 2167 2170	PKA
+T147	AminoAcid 2187 2192	sites
+T115	TranscriptionFactorActivity 2426 2441	transcriptional

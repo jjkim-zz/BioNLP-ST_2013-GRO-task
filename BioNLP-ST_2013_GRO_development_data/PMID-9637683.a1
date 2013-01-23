@@ -1,0 +1,66 @@
+T2	CellComponent 35 56	endoplasmic reticulum
+T3	Nucleus 64 71	nucleus
+T4	Enzyme 102 133	protein kinase/endoribonuclease
+T5	Eukaryote 145 154	mammalian
+T6	Cell 155 160	cells
+T7	Eukaryote 162 172	Eukaryotes
+T9	Protein 209 216	protein
+T10	CellComponent 224 245	endoplasmic reticulum
+T11	CellComponent 247 249	ER
+T15	Gene 289 294	genes
+T18	Protein 335 338	BiP
+T19	Eukaryote 365 370	human
+T20	DNA 371 375	cDNA
+T21	Protein 387 394	homolog
+T22	Eukaryote 398 422	Saccharomyces cerevisiae
+T23	Protein 423 428	Ire1p
+T25	Eukaryote 488 493	yeast
+T26	GeneProduct 499 518	gene product hIre1p
+T27	Protein 524 552	type 1 transmembrane protein
+T28	ProteinDomain 566 584	cytoplasmic domain
+T29	Eukaryote 617 622	yeast
+T30	Protein 623 634	counterpart
+T32	ProteinDomain 680 686	domain
+T33	Enzyme 701 708	RNase L
+T34	ProteinDomain 723 737	luminal domain
+T35	Eukaryote 772 777	yeast
+T36	GeneProduct 778 790	gene product
+T37	Protein 792 798	hIre1p
+T43	Eukaryote 945 950	yeast
+T44	Gene 951 955	HAC1
+T45	MessengerRNA 956 960	mRNA
+T47	Eukaryote 1011 1016	yeast
+T48	Protein 1017 1022	Ire1p
+T50	Protein 1038 1044	hIre1p
+T52	CellComponent 1066 1068	ER
+T53	CellComponent 1110 1126	nuclear envelope
+T54	CellComponent 1160 1180	nuclear pore complex
+T56	MessengerRNA 1196 1206	Ire1p mRNA
+T58	Protein 1270 1276	hIre1p
+T60	Protein 1321 1337	wild-type hIre1p
+T62	ReporterGene 1365 1378	reporter gene
+T63	Eukaryote 1416 1419	rat
+T64	Gene 1420 1423	BiP
+T65	Promoter 1424 1432	promoter
+T67	Protein 1481 1487	hIre1p
+T71	Gene 1575 1578	BiP
+T72	Promoter 1579 1587	promoter
+T73	CellComponent 1603 1605	ER
+T74	Stress 1606 1612	stress
+T78	Protein 1693 1699	hIre1p
+T79	Protein 1739 1755	unfolded protein
+T81	Eukaryote 1776 1785	mammalian
+T82	Cell 1786 1791	cells
+T83	Protein 135 140	Ire1p
+T13	Protein 304 325	ER protein chaperones
+T14	ProteinDomain 644 673	Ser/Thr protein kinase domain
+T16	Cell 822 827	cells
+T31	CatalyticActivity 868 876	activity
+T39	Enzyme 884 900	endoribonuclease
+T40	CatalyticActivity 901 909	activity
+T42	Enzyme 982 998	endoribonuclease
+T46	CatalyticActivity 999 1007	activity
+T84	Substrate 964 973	substrate
+T85	Enzyme 1277 1283	kinase
+T86	CatalyticActivity 1284 1292	activity
+T70	Eukaryote 812 821	mammalian

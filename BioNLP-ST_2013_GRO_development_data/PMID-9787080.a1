@@ -1,0 +1,30 @@
+T1	Eukaryote 22 27	human
+T2	Eukaryote 45 69	Saccharomyces cerevisiae
+T3	TranscriptionFactor 70 95	transcription factor spt3
+T4	TranscriptionFactor 97 103	SUPT3H
+T5	TranscriptionFactor 106 110	Spt3
+T6	Eukaryote 116 140	Saccharomyces cerevisiae
+T7	TranscriptionFactor 141 161	transcription factor
+T9	RNAPolymeraseII 224 241	RNA polymerase II
+T11	Gene 254 259	genes
+T12	Gene 290 294	gene
+T13	Eukaryote 308 313	human
+T14	TranscriptionFactor 327 331	Spt3
+T15	TranscriptionFactor 333 339	SUPT3H
+T16	Eukaryote 382 387	human
+T17	Eukaryote 392 397	yeast
+T18	TranscriptionFactor 398 402	Spt3
+T19	TranscriptionFactor 546 552	SUPT3H
+T20	TranscriptionFactor 574 578	Spt3
+T21	MutatedProtein 626 635	spt3Delta
+T23	Eukaryote 648 653	yeast
+T25	TranscriptionFactor 691 697	SUPT3H
+T26	MutatedProtein 725 734	spt3Delta
+T29	Eukaryote 761 766	human
+T30	Eukaryote 767 772	yeast
+T31	Gene 773 786	chimeric gene
+T32	Eukaryote 805 810	human
+T33	MutatedProtein 849 858	spt3Delta
+T37	TranscriptionFactor 936 940	Spt3
+T38	Eukaryote 965 970	yeast
+T39	Eukaryote 974 979	human

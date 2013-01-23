@@ -1,0 +1,45 @@
+T2	Protein 106 118	S100 protein
+T3	Ion 155 162	calcium
+T5	Protein 171 179	proteins
+T8	Protein 282 285	IgE
+T11	Cell 312 322	mast cells
+T13	Protein 464 474	calmodulin
+T14	Eukaryote 478 484	bovine
+T18	Protein 530 554	calcium-binding proteins
+T19	Protein 575 583	proteins
+T20	Protein 650 658	proteins
+T21	Protein 803 811	proteins
+T24	DNA 958 962	cDNA
+T25	AminoAcid 975 985	amino acid
+T26	Protein 1018 1025	protein
+T29	Protein 1051 1074	calcium-binding protein
+T30	Eukaryote 1078 1084	bovine
+T31	DNA 1122 1126	cDNA
+T32	AminoAcid 1139 1149	amino acid
+T33	Protein 1177 1184	protein
+T34	Eukaryote 1210 1215	human
+T35	Eukaryote 1220 1225	mouse
+T40	Chemical 15 34	anti-allergic drugs
+T41	Protein 79 86	S100A12
+T42	Protein 91 98	S100A13
+T43	Chemical 212 231	anti-allergic drugs
+T44	Tissue 485 489	lung
+T45	Protein 608 620	calcyphosine
+T46	Protein 625 637	annexins I-V
+T47	Chemical 869 874	drugs
+T48	Protein 885 899	S100A2 (S100L)
+T49	Protein 908 912	S100
+T50	Sequence 986 994	sequence
+T51	Protein 1101 1106	CAAF1
+T52	Protein 1108 1115	S100A12
+T53	Sequence 1150 1158	sequence
+T54	Protein 1226 1233	S100A13
+T55	Protein 1284 1291	S100A12
+T56	Protein 1308 1315	S100A12
+T57	Protein 1320 1327	S100A13
+T58	Chemical 1419 1438	anti-allergic drugs
+T59	Protein 1483 1490	S100A12
+T60	Protein 1495 1502	S100A13
+T16	Chemical 36 45	amlexanox
+T17	Chemical 47 55	cromolyn
+T27	Chemical 60 69	tranilast

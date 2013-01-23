@@ -1,0 +1,30 @@
+T1	Protein 26 29	Nmi
+T2	Protein 35 40	Stat5
+T3	Protein 45 50	Stat1
+T4	Protein 54 58	IL-2
+T5	Protein 64 72	IFNgamma
+T8	Protein 125 131	Stat5b
+T9	Protein 207 210	Nmi
+T10	Protein 214 221	protein
+T11	Protein 268 273	N-Myc
+T12	Protein 307 310	Nmi
+T14	Protein 330 335	STATs
+T15	Protein 367 375	cytokine
+T16	Protein 385 389	IL-2
+T17	Protein 394 402	IFNgamma
+T18	Protein 425 428	Nmi
+T20	Protein 438 442	STAT
+T24	Protein 487 496	cytokines
+T25	Protein 513 516	Nmi
+T29	Protein 580 583	Nmi
+T32	TranscriptionCoactivator 612 641	CBP/p300 coactivator proteins
+T33	Protein 647 652	Stat1
+T34	Protein 657 662	Stat5
+T35	Protein 682 690	CBP/p300
+T37	Protein 703 707	IL-2
+T38	Protein 713 721	IFNgamma
+T40	Protein 788 791	Nmi
+T42	Protein 807 811	STAT
+T45	TranscriptionCoactivator 874 893	coactivator protein
+T47	TranscriptionFactor 963 984	transcription factors
+T26	ProteinDomain 536 569	transcriptional activation domain

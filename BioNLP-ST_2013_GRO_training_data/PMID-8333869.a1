@@ -1,0 +1,28 @@
+T1	Eukaryote 19 24	human
+T2	TranscriptionFactor 25 61	mitochondrial transcription factor 1
+T5	TranscriptionFactor 165 170	mtTF1
+T7	Eukaryote 226 235	mammalian
+T9	DNA 255 260	mtDNA
+T10	HMG 300 303	HMG
+T13	TranscriptionFactor 384 389	mtTF1
+T14	MessengerRNA 433 437	mRNA
+T15	Cell 450 460	HeLa cells
+T16	MessengerRNA 501 505	mRNA
+T17	MessengerRNA 518 522	mRNA
+T18	TranscriptionFactor 526 531	mtTF1
+T19	Cell 539 544	cells
+T20	MessengerRNA 605 609	mRNA
+T21	Eukaryote 633 638	human
+T22	Tissue 639 646	tissues
+T23	HMG 701 708	HMG-box
+T25	DNA 743 746	DNA
+T26	MolecularStructure 764 773	structure
+T27	Gene 781 793	genomic gene
+T28	Eukaryote 807 812	human
+T29	TranscriptionFactor 813 818	mtTF1
+T30	Gene 881 885	gene
+T31	Exon 903 908	exons
+T32	Gene 950 953	its
+T33	Exon 958 962	exon
+T34	MessengerRNA 1015 1019	mRNA
+T35	TranscriptionFactor 1044 1049	mtTF1

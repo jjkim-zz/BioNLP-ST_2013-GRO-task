@@ -1,0 +1,42 @@
+T2	RegulatoryProcess 13 22	regulates
+E1	RegulatoryProcess:T2 hasAgent:T1 hasPatient:E2
+T4	GeneExpression 34 49	gene expression
+E2	GeneExpression:T4 
+R1	locatedIn Arg1:E2 Arg2:T3
+T6	PositiveRegulation 65 75	activation
+E3	PositiveRegulation:T6 hasAgent:T1 hasPatient:T7
+T9	Transport 101 107	uptake
+E4	Transport:T9 hasPatient:T11
+R3	locatedIn Arg1:E4 Arg2:T8
+T13	CellularProcess 199 208	formation
+E5	CellularProcess:T13 hasPatient:T12
+T15	PositiveRegulation 281 290	activates
+E6	PositiveRegulation:T15 hasAgent:T14 hasPatient:E7
+T17	Transcription 311 324	transcription
+E7	Transcription:T17 
+T18	SignalingPathway 341 358	signaling pathway
+E8	SignalingPathway:T18 
+T20	RegulatoryProcess 388 396	mediated
+E9	RegulatoryProcess:T20 hasAgent:T19 hasPatient:E10
+T21	Transport 397 412	particle uptake
+E10	Transport:T21 
+R5	hasPart Arg1:T23 Arg2:T24
+R6	hasPart Arg1:T23 Arg2:T25
+T26	PositiveRegulation 523 533	activators
+E11	PositiveRegulation:T26 hasPatient:T28 hasAgent:T24
+R7	locatedIn Arg1:T30 Arg2:T31
+R8	locatedIn Arg1:T30 Arg2:T35
+T32	BindingToProtein 685 690	binds
+E12	BindingToProtein:T32 hasPatient2:T30 hasAgent:T34
+T33	Transport 695 707	internalizes
+E13	Transport:T33 hasAgent:T30 hasPatient:T34
+T40	RegulatoryProcess 858 867	regulator
+E16	RegulatoryProcess:T40 hasAgent:T39 hasPatient:E17
+T42	GeneExpression 881 896	gene expression
+E17	GeneExpression:T42 
+R9	locatedIn Arg1:E17 Arg2:T41
+T43	Disease 217 248	pathogenesis of atherosclerosis
+E18	Disease:T43 
+T36	PositiveRegulationOfTranscription 755 782	transcriptionally activated
+E14	PositiveRegulationOfTranscription:T36 hasAgent:T38
+E15	PositiveRegulation:T26 hasPatient:T28 hasAgent:T25

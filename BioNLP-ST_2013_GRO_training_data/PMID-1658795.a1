@@ -1,0 +1,28 @@
+T10	DNA 221 228	pAT 133
+T19	Gene 349 353	gene
+T21	Eukaryote 405 410	human
+T22	Cell 411 418	T cells
+T23	Cell 426 437	fibroblasts
+T24	Protein 478 497	the encoded protein
+T25	ZincCoordinatingDomain 520 541	zinc-finger sequences
+T26	ZincCoordinatingDomain 576 594	zinc-finger region
+T28	DNA 621 624	DNA
+T42	Gene 1052 1092	these related zinc-finger-encoding genes
+T45	Cell 1159 1172	T lymphocytes
+T46	Cell 1188 1199	fibroblasts
+T52	Gene 1289 1304	the three genes
+T54	Eukaryote 1336 1341	human
+T55	Cell 1342 1364	histiocytic U937 cells
+T56	MessengerRNA 1365 1369	mRNA
+T59	MessengerRNA 1425 1429	mRNA
+T64	MessengerRNA 1514 1518	mRNA
+T65	TranscriptionFactor 1532 1544	pAT 591/EGR2
+T70	Protein 1690 1713	the respective proteins
+T12	Gene 195 199	gene
+T13	DNA 341 348	pAT 133
+T15	DNA 1379 1386	pAT 133
+T16	DNA 1433 1445	pAT 225/EGR1
+T1	Gene 27 31	gene
+T3	Gene 59 107	member of a class of growth factor-induced genes
+T4	Eukaryote 53 58	human
+T7	ZincCoordinatingDomain 130 149	zinc-finger domains

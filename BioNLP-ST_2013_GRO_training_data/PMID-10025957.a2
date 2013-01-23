@@ -1,0 +1,40 @@
+R3	locatedIn Arg1:T4 Arg2:T3
+R4	fromSpecies Arg1:T6 Arg2:T5
+R5	locatedIn Arg1:T10 Arg2:T9
+T11	CellularProcess 210 242	thermoregulatory heat production
+E1	CellularProcess:T11 
+T12	MetabolicPathway 272 281	metabolic
+E2	MetabolicPathway:T12 
+R6	fromSpecies Arg1:T14 Arg2:T13
+R7	locatedIn Arg1:T21 Arg2:T20
+R8	encodes Arg1:T24 Arg2:T23
+T25	GeneExpression 628 637	expressed
+E3	GeneExpression:T25 hasPatient:T24
+R9	locatedIn Arg1:E3 Arg2:T26
+R11	fromSpecies Arg1:T30 Arg2:T29
+R12	locatedIn Arg1:T32 Arg2:T33
+T34	GeneExpression 826 844	ectopic expression
+E4	GeneExpression:T34 hasPatient:T32
+R13	locatedIn Arg1:E4 Arg2:T36
+R14	fromSpecies Arg1:T36 Arg2:T35
+T39	CellularProcess 958 990	thermoregulatory heat production
+E5	CellularProcess:T39 
+R15	locatedIn Arg1:E5 Arg2:T41
+T40	MetabolicPathway 995 1005	metabolism
+E6	MetabolicPathway:T40 
+R16	locatedIn Arg1:E6 Arg2:T41
+R1	locatedIn Arg1:T3 Arg2:T2	
+T42	CellHomeostasis 64 82	membrane potential
+E7	CellHomeostasis:T42 
+T43	Affecting 56 63	reduces
+E8	Affecting:T43 hasAgent:T4 hasPatient:E7
+R2	locatedIn Arg1:E7 Arg2:T6	
+T44	Maintenance 247 258	maintenance
+E9	Maintenance:T44 hasPatient:E2
+R10	locatedIn Arg1:E3 Arg2:T27	
+R17	locatedIn Arg1:T28 Arg2:T30	
+T46	CellHomeostasis 886 904	membrane potential
+E10	CellHomeostasis:T46 
+R18	locatedIn Arg1:E10 Arg2:T37	
+T47	Affecting 864 871	reduces
+E11	Affecting:T47 hasAgent:E4 hasPatient:E10

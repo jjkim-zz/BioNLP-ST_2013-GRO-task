@@ -1,0 +1,43 @@
+T1	Protein 0 4	Nrf1
+T2	Protein 23 27	fosB
+T3	Protein 29 34	c-jun
+T4	Protein 36 40	junD
+T5	Protein 45 49	ATF2
+T7	Protein 60 63	AP1
+T8	Gene 81 90	TNF alpha
+T9	Promoter 91 99	promoter
+T10	Cell 114 124	mast cells
+T20	Protein 413 418	NF-E2
+T21	Protein 420 424	Nrf1
+T22	Protein 429 433	Nrf2
+T24	Eukaryote 470 476	murine
+T25	Cell 477 496	mast cell line CPII
+T27	TranscriptionFactor 516 546	transcription factor complexes
+T30	Protein 560 580	AP1 binding proteins
+T32	ProteinComplex 598 607	complexes
+T33	ProteinBindingSiteOfDNA 648 660	binding site
+T34	DNARegion 678 696	kappa3/AP1(+) site
+T35	Gene 704 712	TNFalpha
+T36	Promoter 713 721	promoter
+T38	Protein 742 746	Nrf1
+T39	Protein 752 758	c -jun
+T40	Protein 760 764	junD
+T41	Protein 766 770	fosB
+T42	Protein 775 779	ATF2
+T43	Cell 783 793	mast cells
+T45	Protein 845 849	Nrf1
+T46	DNARegion 863 881	kappa3/AP1(-) site
+T47	Cell 885 900	dendritic cells
+T49	Protein 977 981	Nrf1
+T50	Protein 985 995	mast cells
+T51	TranscriptionFactor 1073 1098	this transcription factor
+T52	Protein 1172 1184	Nrf1 protein
+T53	bZIP 1201 1222	leucine zipper region
+T55	ProteinDomain 1243 1277	altered binding/interaction domain
+T57	Protein 1294 1302	TNFalpha
+T60	MutantProtein 1348 1362	splice variant
+T61	ProteinComplex 1379 1396	AP1/NF-AT complex
+T62	Promoter 1400 1413	this promoter
+T12	bZIPTF 163 171	CNC-bZIP
+T14	bZIPTF 396 404	CNC-bZIP
+T16	ProteinComplex 10 17	complex

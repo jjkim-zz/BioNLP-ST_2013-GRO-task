@@ -1,0 +1,26 @@
+T1	Disease 0 28	Acute mixed-lineage leukemia
+E1	Disease:T1 
+T6	Mutation 97 110	translocation
+E2	Mutation:T6 hasPatient:T5
+T7	Disease 164 186	mixed-lineage leukemia
+E3	Disease:T7 
+R3	fromSpecies Arg1:T9 Arg2:T8
+T11	Mutation 271 284	translocation
+E4	Mutation:T11 hasPatient:T10
+R4	locatedIn Arg1:E4 Arg2:T12
+T15	BindingOfProteinToDNA 413 420	binding
+E5	BindingOfProteinToDNA:T15 
+R5	encodes Arg1:T17 Arg2:T18
+R6	locatedIn Arg1:T25 Arg2:T26
+R7	encodes Arg1:T27 Arg2:T28
+R9	hasPart Arg1:T33 Arg2:T32
+T34	RNASplicing 841 859	alternative splice
+E6	RNASplicing:T34 
+T35	Decrease 865 872	deletes
+E7	Decrease:T35 hasAgent:E6 hasPatient:T36
+R10	hasPart Arg1:T37 Arg2:T36
+T43	Disease 1168 1182	leukemogenesis
+E8	Disease:T43 
+R1	hasPart Arg1:T4 Arg2:T2	
+R2	hasPart Arg1:T4 Arg2:T3	
+R8	fromSpecies Arg1:T31 Arg2:T30	

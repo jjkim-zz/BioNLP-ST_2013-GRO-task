@@ -1,0 +1,45 @@
+T1	Eukaryote 43 48	human
+T2	Gene 60 64	RAI2
+T3	Eukaryote 71 76	mouse
+T6	Chromosome 107 111	Xp22
+T7	Eukaryote 140 145	human
+T8	Gene 146 150	gene
+T9	Chromosome 188 192	Xp22
+T10	Gene 297 301	gene
+T11	Exon 306 310	exon
+T12	Exon 392 397	exons
+T13	Exon 458 462	exon
+T14	Gene 463 467	gene
+T15	Gene 480 484	RAI2
+T16	Gene 486 509	retinoic acid-induced 2
+T17	Gene 512 516	RAI2
+T20	Transcript 755 765	transcript
+T21	Tissue 774 787	fetal tissues
+T22	Tissue 789 794	brain
+T23	Tissue 796 800	lung
+T24	Tissue 802 808	kidney
+T25	Tissue 814 819	heart
+T26	Tissue 831 844	adult tissues
+T27	Tissue 846 851	heart
+T28	Tissue 853 858	brain
+T29	Tissue 860 868	placenta
+T30	Tissue 870 874	lung
+T31	Tissue 876 891	skeletal muscle
+T32	Tissue 893 899	kidney
+T33	Tissue 901 909	pancreas
+T34	Tissue 915 921	retina
+T35	Tissue 943 954	adult liver
+T36	AminoAcid 964 974	amino-acid
+T37	Protein 975 982	protein
+T38	Eukaryote 1036 1041	mouse
+T40	GeneProduct 1064 1076	gene product
+T41	ProteinDomain 1117 1123	domain
+T42	AminoAcid 1130 1141	amino acids
+T43	Chemical 1143 1156	Retinoic acid
+T46	Gene 1367 1371	RAI2
+T47	Gene 1373 1377	RAI2
+T48	Gene 1398 1402	gene
+T49	Chromosome 1431 1435	Xp22
+T51	SequenceHomologyAnalysis 338 355	homology searches
+T4	Gene 77 103	retinoic acid-induced gene
+T5	Gene 1042 1063	retinoic acid-induced

@@ -1,0 +1,23 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T3	GeneExpression 101 111	expression
+E1	GeneExpression:T3 hasPatient:T2
+R2	locatedIn Arg1:E1 Arg2:T4
+T6	Transport 178 187	transport
+E2	Transport:T6 hasPatient:T5
+R3	fromSpecies Arg1:T9 Arg2:T8
+T13	Transport 326 335	transport
+E3	Transport:T13 hasPatient:T12
+T16	CellularProcess 415 430	membrane fusion
+E4	CellularProcess:T16 
+T20	CellCycle 481 500	cell division cycle
+E5	CellCycle:T20 
+T21	RegulatoryProcess 501 511	regulation
+E6	RegulatoryProcess:T21 hasPatient:E5
+T23	IntraCellularProcess 522 541	peroxisome assembly
+E7	IntraCellularProcess:T23 
+T25	Transcription 555 570	transcriptional
+E8	Transcription:T25 
+T26	RegulatoryProcess 571 581	regulation
+E9	RegulatoryProcess:T26 hasPatient:E8
+R7	fromSpecies Arg1:T34 Arg2:T35
+R4	encodes Arg1:T14 Arg2:T15	

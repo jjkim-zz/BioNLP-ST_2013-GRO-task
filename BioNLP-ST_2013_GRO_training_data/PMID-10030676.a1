@@ -1,0 +1,32 @@
+T1	Eukaryote 36 41	human
+T2	Protein 59 70	latrophilin
+T3	Gene 71 75	gene
+T5	Chromosome 160 170	chromosome
+T6	Eukaryote 236 241	human
+T10	Gene 625 629	gene
+T11	Gene 631 636	LPHH1
+T13	OpenReadingFrame 742 760	open reading frame
+T14	Protein 773 778	LPHH1
+T15	Transcript 779 789	transcript
+T16	Peptide 800 807	peptide
+T17	Eukaryote 850 853	rat
+T18	Protein 854 865	latrophilin
+T19	Protein 891 912	transmembrane protein
+T21	Protein 926 942	alpha-latrotoxin
+T22	Eukaryote 951 956	human
+T23	ProteinDomain 994 1014	transmembrane domain
+T27	Eukaryote 1195 1198	rat
+T28	Gene 1199 1203	gene
+T29	Cell 1229 1241	neurological
+T30	Cell 1259 1274	endocrine cells
+T31	Eukaryote 1280 1285	human
+T32	Sequence 1286 1294	sequence
+T34	Tissue 1345 1352	tissues
+T35	Cell 1404 1421	tumour cell lines
+T36	Gene 1434 1439	LPHH1
+T38	Transcript 1587 1598	transcripts
+T39	Cell 1612 1635	breast tumour cell line
+T40	GeneProduct 1679 1691	gene product
+T4	Chromosome 83 99	region of 1p31.1
+T24	ProteinDomain 1028 1060	intra- and extracellular domains
+T43	Tissue 1656 1662	breast

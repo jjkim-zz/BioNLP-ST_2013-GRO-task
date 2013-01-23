@@ -1,0 +1,33 @@
+T1	Eukaryote 59 64	human
+T2	Gene 65 74	PAX7 gene
+T3	Gene 80 89	PAX7 gene
+T4	TranscriptionFactor 100 120	transcription factor
+T5	Protein 145 155	PAX family
+T7	Gene 236 245	PAX genes
+T8	Eukaryote 296 301	human
+T10	Gene 328 337	PAX7 gene
+T11	Eukaryote 346 351	human
+T12	Chromosome 352 375	chromosomal region 1p36
+T13	Eukaryote 419 424	human
+T14	DNARegion 445 456	this region
+T15	Gene 496 505	PAX7 gene
+T16	Chromosome 509 520	chromosomal
+T18	DNA 610 614	cDNA
+T19	ProteinCodingRegion 630 648	full coding region
+T20	Eukaryote 656 661	human
+T21	Gene 662 671	PAX7 gene
+T22	Gene 717 721	gene
+T23	Protein 742 749	protein
+T24	AminoAcid 757 768	amino acids
+T25	AminoAcid 780 791	amino acids
+T26	Protein 842 854	PAX3 protein
+T27	ProteinCodingDNARegion 860 873	coding region
+T28	Gene 881 885	gene
+T29	Intron 910 917	introns
+T30	Intron 996 1003	introns
+T31	Gene 1011 1020	PAX3 gene
+T32	Gene 1066 1070	PAX7
+T33	Exon 1071 1076	exons
+T34	Exon 1160 1165	exons
+T35	Eukaryote 1250 1255	human
+T36	Gene 1256 1265	PAX7 gene

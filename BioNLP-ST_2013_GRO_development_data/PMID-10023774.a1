@@ -1,0 +1,27 @@
+T1	TranscriptionFactor 0 7	RFLAT-1
+T5	Protein 63 69	RANTES
+T7	Cell 89 102	T lymphocytes
+T8	Protein 104 110	RANTES
+T11	Cell 139 152	Normal T cell
+T14	Protein 208 217	chemokine
+T15	Virus 278 306	human immunodeficiency virus
+T16	Cell 318 330	immune cells
+T17	Protein 332 338	RANTES
+T20	Cell 388 401	T lymphocytes
+T21	Cell 460 472	T lymphocyte
+T22	TranslationFactor 484 504	transcription factor
+T23	TranscriptionFactor 519 566	RANTES Factor of Late Activated T Lymphocytes-1
+T24	TranscriptionFactor 569 576	RFLAT-1
+T25	TranscriptionFactor 579 586	RFLAT-1
+T30	Cell 669 676	T cells
+T32	TranscriptionFactor 718 724	RANTES
+T34	TranscriptionFactor 743 755	Rel proteins
+T35	Protein 782 788	RANTES
+T37	Cell 808 819	fibroblasts
+T38	TranscriptionFactor 821 828	RFLAT-1
+T40	Protein 860 866	RANTES
+T41	Cell 870 877	T cells
+T2	ZincCoordinatingDomainTF 15 47	zinc finger transcription factor
+T42	Protein 198 206	cytokine
+T27	ZincCoordinatingDomainTF 615 647	zinc finger transcription factor
+T28	TranscriptionActivatorActivity 841 855	transactivator

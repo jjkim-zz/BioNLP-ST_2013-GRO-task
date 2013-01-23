@@ -1,0 +1,61 @@
+T1	Gene 0 12	PU.1 (Spi-1)
+T4	Cell 45 58	myeloid cells
+T5	TranscriptionFactor 60 72	PU.1 (Spi-1)
+T6	TranscriptionFactor 90 121	Ets transcription factor family
+T8	Cell 153 160	myeloid
+T9	Cell 162 174	granulocytes
+T10	Cell 176 185	monocytes
+T11	Cell 190 201	macrophages
+T12	Cell 207 214	B cells
+T13	Gene 216 220	PU.1
+T15	Cell 263 289	multipotential progenitors
+T16	Cell 297 313	myeloid lineages
+T18	Gene 332 336	PU.1
+T19	Function 337 345	function
+T20	Eukaryote 349 354	human
+T21	Cell 355 372	CD34+ progenitors
+T25	Gene 439 443	PU.1
+T28	Gene 529 533	PU.1
+T29	Promoter 534 542	promoter
+T30	Eukaryote 568 574	murine
+T31	Gene 575 579	PU.1
+T32	Promoter 580 588	promoter
+T33	Eukaryote 605 610	human
+T34	Promoter 611 619	promoter
+T35	ReporterGene 649 662	reporter gene
+T37	Cell 677 695	myeloid cell lines
+T38	Gene 782 786	PU.1
+T39	Promoter 787 795	promoter
+T40	DNARegion 916 922	region
+T41	ProteinBindingSiteOfDNA 954 957	Oct
+T42	ProteinBindingSiteOfDNA 981 989	Sp1 site
+T43	ProteinBindingSiteOfDNA 1023 1035	binding site
+T44	TranscriptionFactor 1055 1059	PU.1
+T45	TranscriptionFactor 1083 1093	ets family
+T46	TranscriptionFactor 1101 1106	Spi-B
+T47	ProteinBindingSiteOfDNA 1195 1204	PU.1 site
+T48	Cell 1208 1221	myeloid cells
+T50	ProteinBindingSiteOfDNA 1257 1266	PU.1 site
+T52	TranscriptionFactor 1283 1287	PU.1
+T55	Promoter 1329 1337	promoter
+T56	Function 1338 1346	activity
+T58	ProteinBindingSiteOfDNA 1364 1367	Oct
+T59	ProteinBindingSiteOfDNA 1375 1383	Sp1 site
+T61	Promoter 1416 1424	promoter
+T62	Function 1425 1433	activity
+T63	Cell 1437 1450	myeloid cells
+T64	ExperimentalMethod 1452 1467	Co-transfection
+T65	Gene 1471 1475	PU.1
+T66	Gene 1479 1484	Spi-B
+T67	Cell 1488 1493	cells
+T68	Gene 1502 1506	PU.1
+T69	Gene 1511 1516	Spi-B
+T71	Promoter 1555 1563	promoter
+T72	ProteinBindingSiteOfDNA 1579 1596	PU.1 binding site
+T73	TranscriptionFactor 1614 1618	PU.1
+T75	Promoter 1640 1657	promoter elements
+T79	Gene 1716 1720	PU.1
+T80	Promoter 1721 1729	promoter
+T81	Function 1764 1772	function
+T82	Gene 1776 1780	PU.1
+T83	Cell 1784 1797	myeloid cells

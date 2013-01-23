@@ -1,0 +1,68 @@
+T1	Protein 0 10	BNIP3alpha
+T2	Eukaryote 14 19	human
+T3	CellComponent 31 44	mitochondrial
+T4	Protein 45 71	proapoptotic protein BNIP3
+T8	Virus 114 119	viral
+T9	Cell 124 132	cellular
+T10	Protein 133 168	BCL-2 family antiapoptotic proteins
+T11	Protein 182 204	pro-apoptotic proteins
+T12	Protein 247 259	BCL-2 family
+T13	Cell 261 269	Cellular
+T14	Protein 270 283	protein BNIP3
+T15	Protein 289 322	BCL-2 family proapoptotic protein
+T17	Virus 343 348	viral
+T18	Protein 349 371	antiapoptosis proteins
+T19	Virus 380 392	adenoviruses
+T20	Protein 393 400	E1B-19K
+T21	Protein 405 414	EBV-BHRF1
+T22	Cell 419 427	cellular
+T23	Protein 428 450	antiapoptosis proteins
+T24	Protein 459 464	BCL-2
+T25	Protein 469 475	BCL-xL
+T26	Eukaryote 513 518	human
+T27	DNA 519 525	genome
+T28	OpenReadingFrame 537 555	open reading frame
+T29	Protein 562 569	protein
+T30	Protein 571 581	BNIP3alpha
+T31	Protein 621 626	BNIP3
+T32	Gene 632 642	BNIP3alpha
+T33	OpenReadingFrame 643 661	open reading frame
+T34	Protein 672 679	protein
+T35	AminoAcid 687 698	amino acids
+T36	ProteinDomain 725 735	BH3 domain
+T37	ProteinDomain 742 777	COOH-terminal trans-membrane domain
+T38	Protein 805 839	BCL-2 family proapoptotic proteins
+T39	Protein 841 851	BNIP3alpha
+T41	Virus 867 872	viral
+T42	Protein 873 902	antiapoptosis protein E1B-19K
+T43	Cell 907 915	cellular
+T44	Protein 916 944	antiapoptosis proteins BCL-2
+T45	Protein 949 955	BCL-xL
+T47	Protein 975 985	BNIP3alpha
+T48	Cell 1001 1006	cells
+T51	Function 1047 1069	antiapoptosis activity
+T52	Protein 1073 1080	E1B-19K
+T53	Protein 1085 1091	BCL-xL
+T54	Protein 1098 1103	BNIP3
+T55	Protein 1105 1115	BNIP3alpha
+T57	CellComponent 1155 1167	mitochondria
+T58	Protein 1196 1206	BNIP3alpha
+T59	Protein 1251 1256	BNIP3
+T60	Protein 1258 1263	BNIP3
+T61	Protein 1268 1278	BNIP3alpha
+T62	Eukaryote 1341 1346	human
+T63	Protein 1347 1368	proapoptotic proteins
+T64	Protein 1406 1416	BNIP3alpha
+T66	Eukaryote 1451 1456	human
+T67	Tissue 1457 1464	tissues
+T68	Protein 1479 1484	BNIP3
+T70	Eukaryote 1514 1519	human
+T71	Tissue 1520 1527	tissues
+T72	Tissue 1559 1566	tissues
+T73	Tissue 1575 1583	placenta
+T74	Tissue 1588 1592	lung
+T75	Protein 1630 1635	BNIP3
+T76	Protein 1640 1650	BNIP3alpha
+T79	Eukaryote 1696 1701	human
+T80	Tissue 1702 1709	tissues
+T81	Protein 1711 1721	BNIP3alpha

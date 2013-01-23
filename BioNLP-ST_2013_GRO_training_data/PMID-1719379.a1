@@ -1,0 +1,19 @@
+T1	Eukaryote 2 7	human
+T6	Protein 52 57	ATBF1
+T7	HomeoBox 73 85	homeodomains
+T8	ZincCoordinatingDomain 100 112	zinc fingers
+T9	DNA 145 149	cDNA
+T10	Protein 161 168	protein
+T11	Protein 170 175	ATBF1
+T13	DNARegion 194 207	AT-rich motif
+T14	Eukaryote 215 220	human
+T15	Gene 221 243	alpha-fetoprotein gene
+T16	Enhancer 244 252	enhancer
+T17	AminoAcid 258 268	amino acid
+T18	Sequence 269 277	sequence
+T19	DNA 295 299	cDNA
+T22	Protein 334 353	DNA-binding protein
+T23	HomeoBox 395 407	homeodomains
+T24	ZincCoordinatingDomain 412 430	zinc finger motifs
+T27	Protein 617 622	ATBF1
+T2	Protein 8 50	alpha-fetoprotein enhancer-binding protein

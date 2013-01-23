@@ -1,0 +1,80 @@
+T1	Eukaryote 42 47	human
+T2	Protein 48 51	ERM
+T3	Protein 73 83	Ets family
+T4	Eukaryote 103 108	mouse
+T5	TranscriptionFactor 109 113	PEA3
+T6	TranscriptionFactor 118 144	ER81 transcription factors
+T7	Protein 150 153	ets
+T8	TranscriptionFactor 162 188	transcription factors PEA3
+T9	TranscriptionFactor 193 197	ER81
+T10	Eukaryote 251 256	mouse
+T11	AminoAcid 302 304	AA
+T12	ProteinDomain 306 312	domain
+T13	ProteinDomain 324 334	ETS domain
+T14	DNA 360 363	DNA
+T16	Protein 400 416	Ets family group
+T17	Eukaryote 433 438	human
+T18	Tissue 439 445	testis
+T19	DNA 446 458	cDNA library
+T20	Eukaryote 487 492	mouse
+T21	TranscriptionFactor 493 497	PEA3
+T22	ProteinDomain 498 508	ETS domain
+T23	AminoAcid 554 556	AA
+T24	OpenReadingFrame 557 575	open reading frame
+T25	ProteinDomain 587 597	ETS domain
+T27	ProteinDomain 625 648	carboxy terminal region
+T28	Protein 664 671	protein
+T29	TranscriptionFactor 709 713	PEA3
+T30	TranscriptionFactor 718 722	ER81
+T31	Protein 763 767	'Ets
+T32	TranscriptionFactor 785 789	PEA3
+T33	Protein 797 800	ERM
+T34	AminoAcid 826 828	AA
+T35	ProteinDomain 836 857	amino-terminal region
+T36	Protein 861 864	ERM
+T37	TranscriptionFactor 889 893	PEA3
+T38	TranscriptionFactor 907 911	ER81
+T39	Protein 913 916	ERM
+T40	Peptide 928 942	central region
+T41	AminoAcid 963 965	AA
+T42	Eukaryote 987 992	mouse
+T43	Protein 993 1001	proteins
+T44	Protein 1053 1064	ERM protein
+T46	Nucleotide 1100 1115	oligonucleotide
+T47	Nucleotide 1131 1151	consensus nucleotide
+T48	Protein 1189 1201	Ets proteins
+T50	AminoAcid 1240 1242	AA
+T51	Protein 1250 1253	ERM
+T52	ProteinDomain 1254 1264	ETS domain
+T53	Protein 1302 1309	protein
+T55	DNA 1330 1333	DNA
+T57	Cell 1381 1395	primary tumors
+T58	Cell 1400 1418	normal lymphocytes
+T60	Gene 1434 1437	ERM
+T61	Gene 1439 1448	this gene
+T63	Eukaryote 1485 1490	human
+T64	Tissue 1498 1505	tissues
+T65	Gene 1507 1510	ERM
+T66	MessengerRNA 1511 1515	mRNA
+T68	Tissue 1539 1544	brain
+T69	Tissue 1559 1567	placenta
+T70	Tissue 1596 1600	lung
+T71	Tissue 1602 1610	pancreas
+T72	Tissue 1616 1621	heart
+T73	Eukaryote 1644 1649	human
+T74	Cell 1650 1660	cell lines
+T76	MessengerRNA 1676 1678	it
+T77	Eukaryote 1701 1706	mouse
+T78	Tissue 1707 1714	tissues
+T79	Gene 1731 1735	PEA3
+T80	Gene 1740 1744	ER81
+T81	MessengerRNA 1745 1750	mRNAs
+T83	Gene 1790 1793	ERM
+T85	Eukaryote 1843 1848	human
+T86	Tissue 1849 1856	tissues
+T87	Protein 1897 1900	ERM
+T88	Protein 1918 1928	ets family
+T89	Eukaryote 1948 1953	human
+T90	TranscriptionFactor 1968 1972	PEA3
+T91	TranscriptionFactor 1976 1980	ER81
+T26	Sequence 1152 1170	core sequence GGAA

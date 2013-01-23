@@ -1,0 +1,61 @@
+T2	Protein 16 22	NF-KB2
+T3	Protein 28 37	RelA(p65)
+T5	DNA 48 51	DNA
+T10	Protein 110 133	I kappa B-alpha (MAD-3)
+T12	Virus 159 187	human immunodeficiency virus
+T13	Virus 189 192	HIV
+T15	TranscriptionFactor 221 241	transcription factor
+T16	TranscriptionFactor 267 277	NF-kappa B
+T17	TranscriptionFactor 280 290	NF-kappa B
+T18	ProteinSubunit 315 323	subunits
+T19	Gene 342 347	genes
+T20	Gene 349 360	NFKB1(p105)
+T21	Gene 362 373	NFKB2(p100)
+T22	Gene 375 384	RelA(p65)
+T23	Gene 386 391	c-rel
+T24	Gene 396 400	relB
+T25	Protein 422 430	proteins
+T27	DNARegion 444 464	kappa B DNA elements
+T28	Protein 515 529	NFKB2(p49/p52)
+T29	Protein 551 560	RelA(p65)
+T31	Virus 578 581	HIV
+T32	Enhancer 582 590	enhancer
+T33	Cell 594 617	Jurkat T-leukemia cells
+T36	Virus 695 698	HIV
+T37	Protein 702 707	NFKB2
+T38	Protein 796 799	p49
+T39	Protein 818 825	p49/p65
+T41	Virus 845 848	HIV
+T42	ProteinBindingSiteOfDNA 849 861	kappa B site
+T43	Protein 863 866	p49
+T44	Virus 918 921	HIV
+T45	ProteinBindingSiteOfDNA 922 934	kappa B site
+T46	Protein 985 1003	protein NFKB1(p50)
+T47	Protein 1017 1021	p105
+T48	ProteinComplex 1080 1100	NFKB2(p49)/RelA(p65)
+T49	ProteinBindingSiteOfDNA 1105 1114	this site
+T50	Protein 1174 1177	p49
+T53	ProteinComplex 1307 1335	NFKB2(p49)/RelA(p65) protein
+T56	Virus 1371 1374	HIV
+T57	Enhancer 1375 1383	enhancer
+T59	Protein 1434 1456	I kappa B-alpha(MAD-3)
+T60	Protein 1470 1492	I kappa B-alpha(MAD-3)
+T62	Function 1507 1527	DNA binding activity
+T63	Protein 1531 1534	p65
+T64	Protein 1536 1543	p49/p65
+T65	Protein 1549 1556	p50/p65
+T68	Protein 1587 1597	NFKB2(p49)
+T69	Protein 1601 1611	NFKB1(p50)
+T70	Function 1613 1623	Functional
+T72	Virus 1641 1644	HIV
+T73	ReporterGene 1645 1661	reporter plasmid
+T74	Protein 1665 1672	p49/p65
+T75	Cell 1700 1723	Jurkat T-leukemia cells
+T78	Protein 1762 1767	MAD-3
+T80	Protein 1808 1813	NFKB2
+T81	ProteinSubunit 1814 1821	subunit
+T82	Virus 1829 1832	HIV
+T83	Enhancer 1833 1841	enhancer
+T84	Protein 1860 1869	RelA(p65)
+T85	ProteinComplex 1884 1898	NFKB2(p49)/p65
+T90	Protein 1991 1996	MAD-3

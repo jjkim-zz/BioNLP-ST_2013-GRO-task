@@ -1,0 +1,55 @@
+T1	ProteinSubunit 0 5	Rpp14
+T2	ProteinSubunit 10 15	Rpp29
+T3	ProteinSubunit 21 37	protein subunits
+T4	Eukaryote 41 46	human
+T5	Enzyme 47 61	ribonuclease P
+T6	EukaryoticCell 66 76	HeLa cells
+T8	Enzyme 98 104	enzyme
+T9	Enzyme 105 119	ribonuclease P
+T10	Enzyme 121 128	RNase P
+T11	RNAMolecule 145 157	RNA molecule
+T12	ProteinSubunit 189 205	protein subunits
+T13	ProteinSubunit 207 212	hPop1
+T14	ProteinSubunit 214 219	Rpp14
+T15	ProteinSubunit 221 226	Rpp20
+T16	ProteinSubunit 228 233	Rpp25
+T17	ProteinSubunit 235 240	Rpp29
+T18	ProteinSubunit 242 247	Rpp30
+T19	ProteinSubunit 249 254	Rpp38
+T20	ProteinSubunit 260 265	Rpp40
+T21	Protein 281 289	proteins
+T22	ProteinSubunit 291 297	hPop1p
+T23	ProteinSubunit 299 304	Rpp20
+T24	ProteinSubunit 306 311	Rpp30
+T25	ProteinSubunit 313 318	Rpp38
+T26	ProteinSubunit 324 329	Rpp40
+T27	DNA 388 392	cDNA
+T28	ProteinSubunit 435 440	Rpp14
+T29	ProteinSubunit 445 450	Rpp29
+T30	Eukaryote 463 469	rabbit
+T31	Protein 470 480	antibodies
+T32	ProteinSubunit 496 513	recombinant Rpp14
+T33	ProteinSubunit 518 523	Rpp29
+T34	EukaryoticCell 566 576	HeLa cells
+T35	Enzyme 614 621	RNase P
+T36	ProteinSubunit 623 628	Rpp29
+T37	ProteinSubunit 653 658	Pop4p
+T38	ProteinSubunit 662 669	subunit
+T39	Eukaryote 673 678	yeast
+T40	Enzyme 687 694	RNase P
+T41	RibosomalRNA 703 716	ribosomal RNA
+T42	Enzyme 728 734	enzyme
+T43	Enzyme 735 744	RNase MRP
+T44	ProteinSubunit 746 751	Rpp14
+T45	Eukaryote 812 817	yeast
+T46	Gene 818 822	gene
+T47	Eukaryote 830 835	human
+T48	Enzyme 836 843	RNase P
+T49	Protein 874 881	protein
+T50	Protein 941 949	proteins
+T51	Eukaryote 960 965	yeast
+T52	Enzyme 966 972	enzyme
+T53	ExperimentalMethod 393 400	cloning
+T54	ExperimentalMethod 405 431	immunobiochemical analysis
+T55	ComplexMolecularEntity 581 592	precipitate
+T56	Nucleus 679 686	nuclear

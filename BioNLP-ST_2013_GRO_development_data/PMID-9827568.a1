@@ -1,0 +1,16 @@
+T1	Eukaryote 26 31	human
+T2	Gene 32 47	SOX gene family
+T3	HMGTF 122 134	SOX proteins
+T4	HMG 155 158	HMG
+T5	DNABindingDomainOfProtein 167 185	DNA-binding domain
+T7	Eukaryote 246 253	animals
+T9	Gene 276 285	SOX genes
+T10	Eukaryote 310 315	human
+T12	Gene 404 407	SOX
+T13	HMG 408 415	HMG-box
+T14	Gene 480 483	SOX
+T15	HMG 484 493	HMG boxes
+T16	Eukaryote 499 504	human
+T17	DNA 513 516	DNA
+T18	Gene 557 572	SOX gene family
+T19	Sequence 416 425	sequences

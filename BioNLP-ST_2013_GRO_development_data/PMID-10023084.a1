@@ -1,0 +1,38 @@
+T1	DNA 21 25	cDNA
+T2	Eukaryote 35 40	human
+T3	Protein 41 46	Rab3D
+T6	Cell 84 91	myeloid
+T8	Gene 121 126	genes
+T10	Cell 140 147	myeloid
+T12	DNA 179 192	cDNA fragment
+T13	RNA 223 226	RNA
+T14	Cell 241 252	HT93A cells
+T15	Eukaryote 256 261	human
+T16	Cell 262 271	cell line
+T18	Cell 304 314	neutrophil
+T19	Cell 319 338	eosinophil lineages
+T20	Chemical 354 367	retinoic acid
+T21	Cell 427 432	HT93A
+T22	DNA 433 445	cDNA library
+T23	Protein 478 485	protein
+T24	ProteinDomain 507 514	domains
+T25	Protein 532 535	Ras
+T26	AminoAcid 575 585	amino acid
+T27	Protein 614 626	Rab proteins
+T28	Nucleotide 676 679	GTP
+T30	Protein 688 695	protein
+T31	Eukaryote 697 703	murine
+T32	Protein 704 709	Rab3D
+T33	MessengerRNA 715 719	mRNA
+T35	Eukaryote 734 739	human
+T36	Protein 740 745	Rab3D
+T38	Cell 779 786	myeloid
+T41	Cell 843 855	granulocytes
+T42	Eukaryote 884 889	human
+T43	Protein 890 895	Rab3D
+T44	Cell 924 936	granulocytes
+T46	Cell 967 977	neutrophil
+T47	CellComponent 987 995	granules
+T49	Cell 1024 1035	eosinophils
+T50	Cell 1040 1049	basophils
+T51	ExperimentalMethod 196 216	differential display

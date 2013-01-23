@@ -1,0 +1,17 @@
+T3	MetabolicPathway 61 73	Biosynthesis
+E1	MetabolicPathway:T3 hasAgent:T6 hasPatient:T5
+R1	fromSpecies Arg1:T23 Arg2:T24
+R2	fromSpecies Arg1:T23 Arg2:T25
+T33	Producing 984 993	formation
+E2	Producing:T33 hasPatient:T34
+T39	MetabolicPathway 1086 1096	metabolism
+E3	MetabolicPathway:T39 hasPatient:T38
+T9	ModificationOfMolecularEntity 10 26	interconversions
+E4	ModificationOfMolecularEntity:T9 hasPatient:T1
+R6	hasFunction Arg1:T14 Arg2:T15	
+T10	ModificationOfMolecularEntity 526 540	interconverted
+E5	ModificationOfMolecularEntity:T10 hasPatient:T20
+R3	hasPart Arg1:T11 Arg2:T26	
+R4	fromSpecies Arg1:T11 Arg2:T30	
+R5	fromSpecies Arg1:T11 Arg2:T31	
+E6	ModificationOfMolecularEntity:T10 hasPatient:T21

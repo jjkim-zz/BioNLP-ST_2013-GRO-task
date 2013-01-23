@@ -1,0 +1,37 @@
+T3	ResponseProcess 70 78	response
+E1	ResponseProcess:T3 
+T7	GeneExpression 205 214	expressed
+E2	GeneExpression:T7 hasPatient:T5
+R1	locatedIn Arg1:E2 Arg2:T8
+T10	NegativeRegulation 238 247	abolished
+E3	NegativeRegulation:T10 hasAgent:T9 hasPatient:E4
+T12	PositiveRegulation 254 263	induction
+E4	PositiveRegulation:T12 hasAgent:T11 hasPatient:T13
+T16	PositiveRegulation 306 316	activation
+E5	PositiveRegulation:T16 hasPatient:T17
+R3	fromSpecies Arg1:T18 Arg2:T19
+T20	NegativeRegulation 374 383	abrogated
+E6	NegativeRegulation:T20 hasAgent:T18 hasPatient:T21
+T24	NegativeRegulation 450 459	inhibitor
+E7	NegativeRegulation:T24 hasPatient:E8
+T26	ResponseProcess 486 494	response
+E8	ResponseProcess:T26 hasPatient:T25
+T28	GeneExpression 522 531	expressed
+E9	GeneExpression:T28 hasPatient:T27
+R4	locatedIn Arg1:E9 Arg2:T29
+R6	fromSpecies Arg1:T35 Arg2:T34
+R7	fromSpecies Arg1:T38 Arg2:T37
+R8	fromSpecies Arg1:T41 Arg2:T40
+T42	NegativeRegulation 891 900	attenuate
+E11	NegativeRegulation:T42 hasAgent:T41 hasPatient:T43
+T45	ResponseProcess 947 955	response
+E12	ResponseProcess:T45 hasPatient:E13
+R2	locatedIn Arg1:T32 Arg2:T35	
+T33	RegulatoryProcess 911 920	interfere
+E10	RegulatoryProcess:T33 hasAgent:T41 hasPatient:E12
+T47	CellularProcess 930 939	cytotoxic
+E13	CellularProcess:T47 
+R5	locatedIn Arg1:E13 Arg2:T44	
+E14	NegativeRegulation:T10 hasAgent:T9 hasPatient:E5
+E15	PositiveRegulation:T12 hasAgent:T11 hasPatient:T15
+E16	NegativeRegulation:T10 hasAgent:T9 hasPatient:E15

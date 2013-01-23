@@ -1,0 +1,44 @@
+T5	BindingToProtein 50 58	interact
+E1	BindingToProtein:T5 hasPatient:T6 hasPatient2:T3 hasPatient3:T4
+T8	CellularComponentOrganizationAndBiogenesis 100 110	biogenesis
+E2	CellularComponentOrganizationAndBiogenesis:T8 hasPatient:T7
+T9	Mutation 122 137	point mutations
+E3	Mutation:T9 hasPatient:T11
+R4	locatedIn Arg1:T11 Arg2:T10
+R5	fromSpecies Arg1:T12 Arg2:T13
+T14	NegativeRegulation 215 222	inhibit
+E4	NegativeRegulation:T14 hasAgent:E3 hasPatient:E5
+T16	CellularComponentOrganizationAndBiogenesis 251 260	synthesis
+E5	CellularComponentOrganizationAndBiogenesis:T16 hasPatient:T15
+T17	NegativeRegulation 350 358	inhibits
+E6	NegativeRegulation:T17 hasAgent:T19 hasPatient:E7
+T18	RNAProcessing 359 378	pre-rRNA processing
+E7	RNAProcessing:T18 
+T20	NegativeRegulation 451 459	inhibits
+E8	NegativeRegulation:T20 hasAgent:E10 hasPatient:E9
+T22	Methylation 469 480	methylation
+E9	Methylation:T22 hasPatient:T21
+T23	Mutation 495 503	mutation
+E10	Mutation:T23 hasPatient:T24
+T28	Localization 627 636	localized
+E11	Localization:T28 hasPatient:T27
+R6	locatedIn Arg1:E11 Arg2:T29
+T31	NegativeRegulation 710 719	inhibited
+E12	NegativeRegulation:T31 hasAgent:T30 hasPatient:E13
+T32	RNAProcessing 734 753	pre-rRNA processing
+E13	RNAProcessing:T32 
+T34	RNABiosynthesis 795 809	rRNA synthesis
+E14	RNABiosynthesis:T34 hasPatient:T33
+T42	BindingToProtein 999 1010	association
+E16	BindingToProtein:T42 hasPatient:T41 hasPatient2:T40
+T43	BindingToProtein 1012 1039	These physical interactions
+E17	BindingToProtein:T43 
+R7	fromSpecies Arg1:T45 Arg2:T46
+R8	fromSpecies Arg1:T48 Arg2:T47
+R9	fromSpecies Arg1:T50 Arg2:T49
+R1	locatedIn Arg1:T3 Arg2:T1	
+R2	locatedIn Arg1:T4 Arg2:T1	
+R3	hasPart Arg1:T38 Arg2:T39	
+R10	hasPart Arg1:T38 Arg2:T37	
+R11	hasPart Arg1:T38 Arg2:T36	
+E15	NegativeRegulation:T31 hasAgent:T30 hasPatient:E14

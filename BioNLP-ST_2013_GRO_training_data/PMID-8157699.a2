@@ -1,0 +1,40 @@
+T4	GeneExpression 79 101	development expression
+E2	GeneExpression:T4 hasPatient:T5
+R2	hasPart Arg1:T5 Arg2:T3
+R3	encodes Arg1:T8 Arg2:T9
+R4	fromSpecies Arg1:T8 Arg2:T6
+R5	fromSpecies Arg1:T8 Arg2:T7
+R6	locatedIn Arg1:T11 Arg2:T10
+T12	BindingOfProteinToDNA 244 253	interacts
+E3	BindingOfProteinToDNA:T12 
+R7	fromSpecies Arg1:T16 Arg2:T14
+R8	fromSpecies Arg1:T16 Arg2:T15
+T20	GeneExpression 434 444	expression
+E5	GeneExpression:T20 hasPatient:T21
+R10	hasPart Arg1:T21 Arg2:T19
+R11	encodes Arg1:T22 Arg2:T25
+R12	hasPart Arg1:T22 Arg2:T26
+R13	fromSpecies Arg1:T25 Arg2:T23
+R14	fromSpecies Arg1:T25 Arg2:T24
+R15	locatedIn Arg1:T27 Arg2:T28
+R16	encodes Arg1:T32 Arg2:T33
+R17	locatedIn Arg1:T32 Arg2:T34
+R18	fromSpecies Arg1:T32 Arg2:T31
+R19	locatedIn Arg1:T36 Arg2:T37
+R20	fromSpecies Arg1:T36 Arg2:T35
+R21	locatedIn Arg1:T38 Arg2:T43
+R22	locatedIn Arg1:T39 Arg2:T43
+R23	locatedIn Arg1:T40 Arg2:T43
+R24	fromSpecies Arg1:T43 Arg2:T42
+R25	fromSpecies Arg1:T46 Arg2:T44
+R26	fromSpecies Arg1:T46 Arg2:T45
+T47	PositiveRegulation 908 917	initiated
+E6	PositiveRegulation:T47 hasAgent:T46 hasPatient:T48
+T52	GeneExpression 1048 1063	gene expression
+E7	GeneExpression:T52 hasPatient:T51
+T54	GeneExpression 1091 1100	expressed
+E8	GeneExpression:T54 hasPatient:T53
+R1	locatedIn Arg1:T5 Arg2:T1	
+R9	locatedIn Arg1:T21 Arg2:T17	
+R27	locatedIn Arg1:E8 Arg2:T18	
+R28	fromSpecies Arg1:T18 Arg2:T2	

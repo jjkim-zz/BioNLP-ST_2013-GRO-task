@@ -1,0 +1,33 @@
+T2	Protein 27 32	SMAD5
+T5	Tissue 56 69	tumor tissues
+T6	Protein 71 76	SMAD5
+T7	Protein 94 106	TGF-beta/BMP
+T8	Eukaryote 205 210	human
+T9	Chromosome 233 243	chromosome
+T10	Gene 280 284	gene
+T12	Protein 309 321	TGF-beta/BMP
+T14	Transcript 369 379	transcript
+T15	Protein 391 395	DAMS
+T16	Exon 455 459	exon
+T17	Protein 463 468	SMAD5
+T18	Protein 536 540	DAMS
+T19	Tissue 554 567	fetal tissues
+T20	Tissue 569 574	heart
+T21	Tissue 576 590	adrenal glands
+T22	Tissue 596 607	total fetus
+T23	DNA 630 634	cDNA
+T24	Protein 661 666	SMAD5
+T25	Protein 668 672	DAMS
+T29	Protein 799 804	SMAD5
+T30	Protein 809 813	DAMS
+T31	Transcript 814 825	transcripts
+T33	Protein 937 941	DAMS
+T35	Protein 997 1002	SMAD5
+T36	Transcript 1003 1013	transcript
+T1	AntisenseRNA 3 23	antisense transcript
+T4	Tissue 46 51	fetal
+T38	Protein 132 148	tumor suppressor
+T40	Exon 403 422	3' exonic sequences
+T41	Tissue 613 629	pancreatic tumor
+T27	Tissue 713 736	adult and fetal tissues
+T28	Cell 876 895	hematopoietic cells

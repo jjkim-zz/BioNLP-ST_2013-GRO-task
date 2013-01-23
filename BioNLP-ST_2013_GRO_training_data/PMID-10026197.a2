@@ -1,0 +1,62 @@
+T1	CellAdhesion 0 13	Cell adhesion
+E1	CellAdhesion:T1 
+T2	RegulatoryProcess 14 23	regulates
+E2	RegulatoryProcess:T2 hasAgent:E1 hasPatient:E3
+T3	BindingToProtein 28 39	interaction
+E3	BindingToProtein:T3 hasPatient:T6 hasPatient2:T4
+T9	Binding 119 126	binding
+E4	Binding:T9 hasPatient:T8
+T16	BindingToProtein 298 307	interacts
+E6	BindingToProtein:T16 hasPatient:T17 hasPatient2:T15
+R3	fromSpecies Arg1:T20 Arg2:T19
+T21	BindingToProtein 427 438	interaction
+E7	BindingToProtein:T21 
+T26	Decrease 547 554	reduced
+E8	Decrease:T26 hasAgent:T23 hasPatient:E9
+T27	BindingToProtein 570 574	bind
+E9	BindingToProtein:T27 hasAgent:T24 hasPatient:T28
+T30	BindingToProtein 619 630	interaction
+E10	BindingToProtein:T30 hasPatient:T29
+T31	RegulatoryProcess 647 656	regulated
+E11	RegulatoryProcess:T31 hasAgent:E13 hasPatient:E10
+T33	RegulatoryProcess 669 677	mediated
+E12	RegulatoryProcess:T33 hasAgent:T32 hasPatient:E13
+T34	CellAdhesion 678 691	cell adhesion
+E13	CellAdhesion:T34 
+T37	BindingToProtein 758 765	binding
+E14	BindingToProtein:T37 hasAgent2:T38 hasPatient:T39
+T40	NegativeRegulation 798 808	diminished
+E15	NegativeRegulation:T40 hasPatient:E14
+T41	Increase 863 870	induces
+E16	Increase:T41 
+T42	Localization 937 961	subcellular localization
+E17	Localization:T42 hasPatient:T43
+T45	RegulatoryProcess 988 997	regulated
+E18	RegulatoryProcess:T45 hasAgent:E19 hasPatient:E17
+T48	Binding 1017 1024	binding
+E19	Binding:T48 hasPatient:T47
+T53	PositiveRegulation 1225 1234	activated
+E20	PositiveRegulation:T53 hasAgent:T52 hasPatient:E21
+T54	SignalingPathway 1235 1253	signaling pathways
+E21	SignalingPathway:T54 
+T55	BindingToProtein 1268 1279	interaction
+E22	BindingToProtein:T55 hasAgent:T51 hasPatient:T56
+T57	RegulatoryProcess 1355 1364	regulated
+E23	RegulatoryProcess:T57 hasAgent:E24
+T58	CellAdhesion 1368 1381	cell adhesion
+E24	CellAdhesion:T58 
+T11	SignalingPathway 137 146	signaling
+E5	SignalingPathway:T11 hasAgent:E4
+T60	BindingToProtein 173 191	direct association
+E25	BindingToProtein:T60 hasPatient:T14
+T12	BindingToProtein 384 393	associate
+E26	BindingToProtein:T12 hasPatient:T18
+R1	locatedIn Arg1:E26 Arg2:T20	
+T13	Localization 1076 1088	localization
+E27	Localization:T13 hasPatient:T49
+R2	locatedIn Arg1:E24 Arg2:T59	
+T61	CellAdhesion 1096 1111	cell attachment
+E28	CellAdhesion:T61 
+R4	locatedIn Arg1:E28 Arg2:T50	
+E29	Localization:T42 hasPatient:T44
+E30	RegulatoryProcess:T45 hasAgent:E19 hasPatient:E29

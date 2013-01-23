@@ -1,0 +1,71 @@
+T2	Enzyme 14 32	aldehyde reductase
+T4	Protein 47 51	STAF
+T5	Protein 56 60	CHOP
+T6	Enzyme 62 80	Aldehyde reductase
+T7	Chemical 137 146	aldehydes
+T9	MolecularEntity 163 186	cellular macromolecules
+T11	Enzyme 236 254	aldehyde reductase
+T13	Eukaryote 281 287	murine
+T14	Gene 288 292	gene
+T15	Eukaryote 347 352	human
+T16	Gene 353 357	gene
+T17	Eukaryote 363 368	mouse
+T18	Enzyme 369 375	enzyme
+T19	Eukaryote 430 435	human
+T20	Enzyme 436 442	enzyme
+T21	Eukaryote 510 515	mouse
+T22	Gene 516 520	gene
+T23	Eukaryote 526 531	human
+T24	Enzyme 532 550	aldehyde reductase
+T25	Gene 551 555	gene
+T26	Transcript 586 597	transcripts
+T27	DNAFragment 601 609	fragment
+T28	Eukaryote 644 649	human
+T29	Promoter 650 658	promoter
+T30	RegulatoryDNARegion 702 712	3' element
+T32	TranscriptionFactor 719 740	transcription factors
+T33	Protein 748 758	Sp1 family
+T34	TranscriptionActivator 861 912	selenocysteine tRNA transcription activating factor
+T35	TranscriptionActivator 914 918	STAF
+T37	RegulatoryDNARegion 933 943	5' element
+T40	Eukaryote 987 992	mouse
+T41	Eukaryote 997 1002	human
+T42	Enzyme 1003 1021	aldehyde reductase
+T43	Gene 1023 1041	Aldehyde reductase
+T44	Protein 1066 1073	protein
+T45	Gene 1083 1087	gene
+T47	Protein 1101 1105	STAF
+T48	Eukaryote 1111 1116	human
+T49	Eukaryote 1130 1135	mouse
+T50	Promoter 1137 1145	promoter
+T52	Protein 1157 1181	C/EBP homologous protein
+T53	Protein 1183 1187	CHOP
+T54	Protein 1210 1214	STAF
+T55	ProteinBindingSiteOfDNA 1228 1240	binding site
+T56	Eukaryote 1262 1267	human
+T57	Promoter 1268 1276	promoter
+T58	Chemical 1282 1292	ethoxyquin
+T59	Eukaryote 1301 1306	mouse
+T60	Cell 1307 1316	3T3 cells
+T61	Promoter 1348 1356	promoter
+T62	Eukaryote 1447 1452	human
+T63	Gene 1453 1471	aldehyde reductase
+T64	Promoter 1472 1480	promoter
+T67	Eukaryote 1545 1550	mouse
+T68	Promoter 1551 1559	promoter
+T70	ProteinBindingSiteOfDNA 1577 1594	CHOP-binding site
+T71	Eukaryote 1602 1607	human
+T72	Promoter 1608 1616	promoter
+T74	Protein 1627 1631	CHOP
+T77	Chemical 1666 1676	ethoxyquin
+T79	Protein 1704 1708	CHOP
+T83	Chemical 1755 1767	antioxidants
+T84	Eukaryote 1775 1780	human
+T85	Eukaryote 1812 1817	human
+T86	Promoter 1818 1826	promoter
+T87	Promoter 1863 1871	promoter
+T89	Stress 1907 1913	stress
+T90	Chemical 1921 1927	toxins
+T91	RegulatoryDNARegion 306 323	regulatory region
+T92	Substrate 385 394	substrate
+T93	CatalyticActivity 469 478	catalytic

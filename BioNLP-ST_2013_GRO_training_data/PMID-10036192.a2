@@ -1,0 +1,28 @@
+T6	Mutation 98 107	Mutations
+E1	Mutation:T6 hasPatient:T8
+R3	fromSpecies Arg1:T8 Arg2:T7
+T12	Disease 192 214	X-linked lissencephaly
+E2	Disease:T12 
+T13	Disease 219 247	subcortical band heterotopia
+E3	Disease:T13 
+R4	locatedIn Arg1:T15 Arg2:T17
+R5	hasPart Arg1:T15 Arg2:T18
+R6	hasPart Arg1:T15 Arg2:T20
+R8	fromSpecies Arg1:T17 Arg2:T16
+R9	hasPart Arg1:T20 Arg2:T21
+R11	encodes Arg1:T29 Arg2:T28
+T30	GeneExpression 768 777	expressed
+E4	GeneExpression:T30 hasPatient:T29
+R12	locatedIn Arg1:E4 Arg2:T32
+R13	locatedIn Arg1:E4 Arg2:T33
+R14	fromSpecies Arg1:T32 Arg2:T31
+R15	fromSpecies Arg1:T33 Arg2:T31
+T35	DevelopmentalProcess 859 872	embryogenesis
+E5	DevelopmentalProcess:T35 
+R16	fromSpecies Arg1:E5 Arg2:T34
+R17	locatedIn Arg1:T39 Arg2:T41
+R18	locatedIn Arg1:T3 Arg2:T2	
+R1	locatedIn Arg1:T11 Arg2:T10	
+R2	fromSpecies Arg1:T23 Arg2:T22	
+T37	DevelopmentalProcess 1088 1108	cortical development
+E6	DevelopmentalProcess:T37 

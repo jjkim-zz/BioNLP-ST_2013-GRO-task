@@ -1,0 +1,35 @@
+T1	CellComponent 36 47	cytoplasmic
+T2	Gene 48 79	dynein intermediate chain genes
+T3	Eukaryote 83 88	mouse
+T4	Eukaryote 93 98	human
+T5	CellComponent 100 111	Cytoplasmic
+T6	Protein 112 118	dynein
+T7	ProteinSubunit 130 142	multisubunit
+T8	Protein 143 154	microtubule
+T9	Protein 161 174	motor protein
+T12	CellComponent 226 236	organelles
+T13	Eukaryote 279 284	human
+T14	CellComponent 298 309	cytoplasmic
+T15	Gene 344 349	DNCI1
+T17	Eukaryote 362 367	human
+T18	Chromosome 368 378	chromosome
+T19	Eukaryote 397 402	mouse
+T20	Gene 415 420	Dnci1
+T21	Gene 471 475	gene
+T22	Gene 477 482	Dnci2
+T23	RNA 494 497	RNA
+T25	Eukaryote 547 552	mouse
+T27	Gene 568 573	Dnci1
+T30	Tissue 648 657	forebrain
+T31	Gene 712 717	Dnci2
+T34	Gene 869 874	Dnci2
+T35	Eukaryote 893 898	mouse
+T36	Tissue 899 907	limb bud
+T37	Gene 1004 1009	Dnci1
+T38	Gene 1014 1019	Dnci2
+T39	Eukaryote 1023 1028	mouse
+T40	Gene 1033 1038	DNCI1
+T41	Eukaryote 1042 1047	human
+T29	Tissue 700 703	PNS
+T42	Tissue 777 799	central nervous system
+T43	Tissue 816 819	PNS

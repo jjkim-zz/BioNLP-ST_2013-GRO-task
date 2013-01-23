@@ -1,0 +1,63 @@
+R1	fromSpecies Arg1:T1 Arg2:T2
+R2	locatedIn Arg1:T4 Arg2:T3
+T5	CellDeath 73 82	Apoptosis
+E1	CellDeath:T5 
+T6	RegulatoryProcess 86 95	regulated
+E2	RegulatoryProcess:T6 hasAgent:E3 hasPatient:E1
+T7	BindingToProtein 99 110	interaction
+E3	BindingToProtein:T7 hasPatient:T10 hasPatient2:T11
+R3	locatedIn Arg1:T10 Arg2:T9
+R4	fromSpecies Arg1:T10 Arg2:T8
+R5	locatedIn Arg1:T14 Arg2:T13
+T16	BindingToProtein 328 337	interacts
+E4	BindingToProtein:T16 hasPatient:T18 hasPatient2:T14
+R6	fromSpecies Arg1:T18 Arg2:T17
+R7	fromSpecies Arg1:T20 Arg2:T19
+R8	fromSpecies Arg1:T21 Arg2:T19
+R9	locatedIn Arg1:T23 Arg2:T22
+R10	hasPart Arg1:T27 Arg2:T28
+R11	fromSpecies Arg1:T27 Arg2:T26
+R12	encodes Arg1:T28 Arg2:T30
+R13	hasPart Arg1:T32 Arg2:T33
+R14	encodes Arg1:T33 Arg2:T34
+R15	hasPart Arg1:T34 Arg2:T35
+R16	hasPart Arg1:T34 Arg2:T36
+R17	hasPart Arg1:T34 Arg2:T37
+R18	hasPart Arg1:T38 Arg2:T37
+T40	BindingToProtein 852 861	interacts
+E5	BindingToProtein:T40 hasPatient:T42 hasPatient2:T44 hasPatient3:T45 hasPatient4:T39
+R19	fromSpecies Arg1:T42 Arg2:T41
+R20	locatedIn Arg1:T44 Arg2:T43
+T46	PositiveRegulationOfGeneExpression 957 971	Overexpression
+E6	PositiveRegulationOfGeneExpression:T46 hasPatient:T47
+R21	locatedIn Arg1:E6 Arg2:T48
+T49	CellDeath 1018 1027	apoptosis
+E7	CellDeath:T49 
+T50	NegativeRegulation 1032 1042	suppresses
+E8	NegativeRegulation:T50 hasPatient:T51 hasAgent:E6
+R23	hasFunction Arg1:T52 Arg2:T51
+R24	hasFunction Arg1:T53 Arg2:T51
+T56	Localization 1142 1151	localized
+E9	Localization:T56 hasPatient:T55
+R25	locatedIn Arg1:E9 Arg2:T57
+R26	fromSpecies Arg1:T63 Arg2:T62
+T65	GeneExpression 1420 1429	expressed
+E10	GeneExpression:T65 hasPatient:T64
+R27	locatedIn Arg1:E10 Arg2:T67
+R28	fromSpecies Arg1:T67 Arg2:T66
+T69	GeneExpression 1488 1497	expressed
+E11	GeneExpression:T69 hasPatient:T68
+R29	locatedIn Arg1:E11 Arg2:T71
+R30	locatedIn Arg1:E11 Arg2:T72
+R31	locatedIn Arg1:E11 Arg2:T73
+R32	locatedIn Arg1:E11 Arg2:T74
+R33	fromSpecies Arg1:T71 Arg2:T70
+T77	PositiveRegulation 1655 1662	promote
+E12	PositiveRegulation:T77 hasPatient:E13 hasAgent:T75
+R34	locatedIn Arg1:E12 Arg2:T80
+T78	CellDeath 1663 1672	apoptosis
+E13	CellDeath:T78 
+R35	fromSpecies Arg1:T80 Arg2:T79
+R36	locatedIn Arg1:T45 Arg2:T43	
+E14	PositiveRegulation:T77 hasPatient:E13 hasAgent:T76
+R37	locatedIn Arg1:E14 Arg2:T80	

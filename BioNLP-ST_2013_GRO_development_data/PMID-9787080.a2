@@ -1,0 +1,30 @@
+R1	fromSpecies Arg1:T3 Arg2:T2
+R2	fromSpecies Arg1:T4 Arg2:T1
+R3	fromSpecies Arg1:T5 Arg2:T6
+T8	Transcription 195 208	transcription
+E1	Transcription:T8 hasPatient:T11
+T10	Transcription 242 253	transcribed
+E2	Transcription:T10 hasAgent:T9 hasPatient:T11
+R4	encodes Arg1:T12 Arg2:T15
+R5	fromSpecies Arg1:T15 Arg2:T13
+R6	fromSpecies Arg1:T18 Arg2:T16
+R7	fromSpecies Arg1:T18 Arg2:T17
+R8	fromSpecies Arg1:T21 Arg2:T23
+T22	Mutation 636 644	mutation
+E3	Mutation:T22 hasPatient:T21
+T24	GeneExpression 661 671	expression
+E4	GeneExpression:T24 hasPatient:T25
+T27	Mutation 735 743	mutation
+E5	Mutation:T27 
+T28	GeneExpression 745 755	expression
+E6	GeneExpression:T28 hasPatient:T31
+R9	fromSpecies Arg1:T31 Arg2:T29
+R10	fromSpecies Arg1:T31 Arg2:T30
+T34	Mutation 859 867	mutation
+E7	Mutation:T34 
+T35	Transcription 897 912	transcriptional
+E8	Transcription:T35 
+T36	RegulatoryProcess 913 920	control
+E9	RegulatoryProcess:T36 hasAgent:T37 hasPatient:E8
+R11	fromSpecies Arg1:T37 Arg2:T38
+R12	fromSpecies Arg1:T37 Arg2:T39

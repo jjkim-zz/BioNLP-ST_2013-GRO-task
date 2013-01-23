@@ -1,0 +1,52 @@
+T1	Protein 8 28	alphavbeta3 integrin
+T3	Protein 50 95	vascular endothelial growth factor receptor-2
+T5	Protein 117 137	integrin alphavbeta3
+T6	CellComponent 142 162	extracellular matrix
+T7	Cell 178 195	endothelial cells
+T10	Protein 258 266	integrin
+T14	Protein 311 334	growth factor receptors
+T19	Protein 418 446	angiogenic inducer receptors
+T20	Protein 454 462	integrin
+T22	Protein 511 531	alphavbeta3 integrin
+T23	Protein 536 597	tyrosine kinase vascular endothelial growth factor receptor-2
+T24	Protein 599 606	VEGFR-2
+T25	Eukaryote 611 616	human
+T26	Cell 617 634	endothelial cells
+T28	Protein 675 682	VEGFR-2
+T29	ExperimentalMethod 683 704	co-immunoprecipitated
+T30	ProteinSubunit 710 732	beta3 integrin subunit
+T31	Cell 768 773	cells
+T33	Protein 790 799	VEGF-A165
+T34	Protein 801 808	VEGFR-2
+T38	Protein 853 862	VEGF-A165
+T40	Cell 880 885	cells
+T41	ExperimentalMethod 886 892	plated
+T42	Protein 900 911	alphavbeta3
+T43	Ligand 912 918	ligand
+T44	Protein 920 931	vitronectin
+T45	Cell 947 952	cells
+T46	ExperimentalMethod 953 959	plated
+T47	Protein 967 978	alpha5beta1
+T48	Ligand 979 985	ligand
+T49	Protein 987 998	fibronectin
+T50	Protein 1006 1017	alpha2beta1
+T51	Ligand 1018 1024	ligand
+T52	Protein 1026 1034	collagen
+T53	Protein 1036 1063	BV4 anti-beta3 integrin mAb
+T54	Cell 1095 1111	endothelial cell
+T56	Protein 1124 1135	vitronectin
+T59	Protein 1181 1188	VEGFR-2
+T61	Enzyme 1236 1264	phosphoinositide 3-OH kinase
+T62	Function 1276 1294	biological effects
+T64	Protein 1308 1317	VEGF-A165
+T65	Protein 1357 1377	alphavbeta3 integrin
+T67	Cell 1433 1450	endothelial cells
+T68	Tissue 1505 1520	nascent vessels
+T70	Cell 1535 1539	cell
+T72	CellComponent 1552 1558	matrix
+T73	Protein 1560 1580	alphavbeta3 integrin
+T75	Protein 1620 1627	VEGFR-2
+T77	Protein 1641 1647	VEGF-A
+T81	Tissue 211 222	capillaries
+T13	ProteinSubunit 747 752	beta1
+T82	ProteinSubunit 756 761	beta5

@@ -1,0 +1,57 @@
+T1	Gene 20 24	EZH1
+T2	Eukaryote 28 33	human
+T3	Eukaryote 45 55	Drosophila
+T4	Gene 56 73	Enhancer of zeste
+T5	Gene 79 84	BRCA1
+T6	Chromosome 130 146	chromosome 17q21
+T7	Eukaryote 183 188	human
+T8	Eukaryote 204 214	Drosophila
+T9	Gene 215 237	gene Enhancer of zeste
+T10	Gene 239 243	E(z)
+T12	Eukaryote 296 306	Drosophila
+T13	Protein 307 311	E(z)
+T16	Gene 365 370	genes
+T17	Protein 378 390	Antennapedia
+T18	Protein 395 413	Bithorax complexes
+T19	Protein 446 453	protein
+T20	Sequence 461 469	sequence
+T21	Eukaryote 473 478	human
+T23	Gene 485 512	Enhancer of zeste homolog 1
+T24	Protein 541 548	protein
+T25	Sequence 549 558	sequences
+T26	Gene 576 580	EZH1
+T27	Protein 591 598	protein
+T28	AminoAcid 606 617	amino acids
+T29	AminoAcid 636 646	amino acid
+T30	Eukaryote 686 696	Drosophila
+T31	Gene 697 701	E(z)
+T32	AminoAcid 799 810	amino acids
+T33	ProteinDomain 826 836	SET domain
+T34	Protein 850 854	E(z)
+T35	Eukaryote 879 889	Drosophila
+T36	Protein 890 898	proteins
+T37	Peptide 961 975	Cysrich region
+T38	Protein 1053 1057	EZH1
+T39	Protein 1062 1066	E(z)
+T40	Gene 1129 1133	EZH1
+T41	Eukaryote 1137 1142	human
+T45	ProteinComplex 1208 1225	protein complexes
+T47	Heterochromatin 1247 1262	heterochromatin
+T48	Gene 1264 1268	EZH1
+T50	Transcript 1295 1306	transcripts
+T53	Eukaryote 1330 1335	human
+T54	DNA 1375 1380	cDNAs
+T56	Transcript 1453 1463	transcript
+T57	DNA 1497 1501	cDNA
+T59	Gene 1547 1551	EZH1
+T60	Gene 1579 1583	GPR2
+T62	Protein 1637 1649	EZH1 protein
+T63	ProteinDomain 1667 1684	C-terminal domain
+T64	Sequence 1690 1698	sequence
+T65	DNA 1712 1717	cDNAs
+T66	Gene 1779 1783	EZH1
+T67	ProteinDomain 1835 1842	domains
+T11	Protein 277 281	Pc-G
+T68	Chromatin 932 951	chromatin structure
+T69	AminoAcid 1008 1025	cysteine residues
+T51	Tissue 1336 1343	tissues

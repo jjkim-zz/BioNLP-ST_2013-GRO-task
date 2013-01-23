@@ -1,0 +1,77 @@
+T2	PositiveRegulation 36 46	activation
+E1	PositiveRegulation:T2 hasAgent:T1 hasPatient:T3
+T4	BindingToProtein 97 108	Interaction
+E2	BindingToProtein:T4 hasPatient:T5
+T8	CellularProcess 196 205	sprouting
+E3	CellularProcess:T8 hasPatient:T7 hasPatient2:T81
+T9	DevelopmentalProcess 231 243	angiogenesis
+E4	DevelopmentalProcess:T9 
+T11	RegulatoryProcess 267 275	mediated
+E5	RegulatoryProcess:T11 hasPatient:E6 hasAgent:T10
+T12	SignalingPathway 276 294	outside-in signals
+E6	SignalingPathway:T12 
+T15	PositiveRegulation 338 345	promote
+E8	PositiveRegulation:T15 hasPatient:E9 hasAgent:E5
+T16	CellGrowth 346 364	cell proliferation
+E9	CellGrowth:T16 
+T17	CellMotility 369 377	motility
+E10	CellMotility:T17 
+T18	RegulatoryProcess 404 414	regulation
+E11	RegulatoryProcess:T18 hasAgent:T20 hasPatient:T19
+T21	BindingToProtein 491 502	interaction
+E12	BindingToProtein:T21 hasPatient:T22 hasPatient2:T23
+R3	locatedIn Arg1:E12 Arg2:T26
+R4	fromSpecies Arg1:T26 Arg2:T25
+T27	Phosphorylation 651 674	tyrosine-phosphorylated
+E13	Phosphorylation:T27 hasPatient:T28
+R5	locatedIn Arg1:T30 Arg2:T31
+T32	PositiveRegulation 774 784	stimulated
+E14	PositiveRegulation:T32 hasAgent:T33 hasPatient:T31
+T35	Phosphorylation 809 824	phosphorylation
+E15	Phosphorylation:T35 hasPatient:T34
+T36	CellGrowth 829 841	mitogenicity
+E16	CellGrowth:T36 
+T37	Increase 842 849	induced
+E17	Increase:T37 hasAgent:T38 hasPatient:E16
+T39	PositiveRegulation 868 876	enhanced
+E18	PositiveRegulation:T39 hasPatient:E15
+R6	locatedIn Arg1:E18 Arg2:T40
+T55	CellAdhesion 1112 1120	adhesion
+E19	CellAdhesion:T55 hasAgent:T54 hasPatient:T56
+T57	NegativeRegulation 1137 1144	reduced
+E20	NegativeRegulation:T57 hasAgent:T53 hasPatient:E21
+T58	Phosphorylation 1153 1177	tyrosine phosphorylation
+E21	Phosphorylation:T58 hasPatient:T59
+T60	PositiveRegulation 1199 1209	activation
+E22	PositiveRegulation:T60 hasPatient:T61
+T63	PositiveRegulation 1295 1304	triggered
+E23	PositiveRegulation:T63 hasAgent:T64 hasPatient:T62
+T66	PositiveRegulation 1385 1395	activation
+E24	PositiveRegulation:T66 hasAgent:T65 hasPatient:E7
+T69	RegulatoryProcess 1524 1534	regulating
+E25	RegulatoryProcess:T69 hasAgent:T73 hasPatient:E26
+T71	CellAdhesion 1540 1548	adhesion
+E26	CellAdhesion:T71 hasAgent:T70 hasPatient:T72
+T74	PositiveRegulation 1606 1616	activation
+E27	PositiveRegulation:T74 hasPatient:T75 hasAgent:T73
+T78	Disease 1693 1699	tumors
+E29	Disease:T78 
+T79	CellularProcess 1701 1713	inflammation
+E30	CellularProcess:T79 
+T80	CellularProcess 1718 1737	tissue regeneration
+E31	CellularProcess:T80 
+T83	DevelopmentalProcess 1411 1421	angiogenic
+E7	DevelopmentalProcess:T83 
+R1	locatedIn Arg1:E7 Arg2:T67	
+T84	Maintenance 1485 1493	survival
+E32	Maintenance:T84 hasPatient:T68 hasAgent:E25
+T76	DevelopmentalProcess 1671 1681	angiogenic
+E28	DevelopmentalProcess:T76 hasAgent:T77
+E33	RegulatoryProcess:T11 hasPatient:E6 hasAgent:T14
+E34	PositiveRegulation:T15 hasPatient:E10 hasAgent:E5
+E35	PositiveRegulation:T15 hasPatient:E10 hasAgent:E33
+E36	PositiveRegulation:T15 hasPatient:E9 hasAgent:E33
+E37	PositiveRegulation:T74 hasPatient:T75 hasAgent:T77
+E38	NegativeRegulation:T57 hasAgent:T53 hasPatient:E22
+E39	NegativeRegulation:T57 hasAgent:T53 hasPatient:T62
+E40	PositiveRegulation:T39 hasPatient:E16

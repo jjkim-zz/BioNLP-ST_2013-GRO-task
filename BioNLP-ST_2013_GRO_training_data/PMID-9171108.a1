@@ -1,0 +1,28 @@
+T1	TranscriptionCoactivator 4 28	class II trans-activator
+T2	TranscriptionCoactivator 29 34	CIITA
+T6	Protein 76 83	TAFII32
+T7	TranscriptionCoactivator 89 114	class II trans- activator
+T8	TranscriptionCoactivator 116 121	CIITA
+T9	TranscriptionCoactivator 135 163	transcriptional co-activator
+T12	AminoAcid 228 239	amino acids
+T20	MolecularStructure 534 547	alpha-helices
+T23	TranscriptionCoactivator 600 605	CIITA
+T24	TranscriptionCoactivator 619 632	CIITA protein
+T25	MolecularStructure 658 671	alpha-helices
+T26	Phenotype 719 728	phenotype
+T29	TranscriptionCoactivator 756 761	CIITA
+T31	ProteinSubunit 781 795	32 kDa subunit
+T32	ProteinComplex 811 838	transcription complex TFIID
+T33	Protein 840 847	TAFII32
+T37	TranscriptionCoactivator 913 918	CIITA
+T40	Protein 972 979	TAFII32
+T42	Protein 1019 1026	TAFII32
+T43	TranscriptionCoactivator 1031 1036	CIITA
+T45	Gene 1071 1085	class II genes
+T4	Protein 54 75	TBP-associated factor
+T5	Protein 186 207	MHC class II proteins
+T11	ProteinDomain 267 300	transcriptional activation domain
+T13	PrimaryStructure 318 345	primary amino acid sequence
+T14	ProteinDomain 353 370	activation domain
+T15	MolecularStructure 401 414	alpha-helices
+T17	ProteinDomain 735 752	activation domain

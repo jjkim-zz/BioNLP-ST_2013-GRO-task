@@ -1,0 +1,37 @@
+T7	CellGrowth 148 166	cell proliferation
+E2	CellGrowth:T7 
+T8	CellDifferentiation 168 183	differentiation
+E3	CellDifferentiation:T8 
+T9	CellularDevelopmentalProcess 189 200	development
+E4	CellularDevelopmentalProcess:T9 
+R1	encodes Arg1:T14 Arg2:T15
+R2	hasPart Arg1:T15 Arg2:T16
+R3	locatedIn Arg1:T17 Arg2:T18
+T20	ResponseProcess 641 649	response
+E6	ResponseProcess:T20 hasAgent:T19
+R4	hasPart Arg1:T21 Arg2:T22
+T23	BindingToProtein 692 696	bind
+E7	BindingToProtein:T23 hasPatient:T24 hasPatient3:T22 hasPatient2:T26
+T29	BindingToProtein 785 790	binds
+E8	BindingToProtein:T29 hasPatient:T30 hasPatient2:T28
+T36	GeneExpression 902 920	Ectopic expression
+E10	GeneExpression:T36 hasPatient:T37
+R5	locatedIn Arg1:E10 Arg2:T38
+T39	Increase 1002 1010	enhances
+E11	Increase:T39 hasAgent:E10 hasPatient:E12
+T41	Transcription 1037 1061	transcriptional activity
+E12	Transcription:T41 
+T42	GeneExpression 1063 1075	Coexpression
+E13	GeneExpression:T42 hasPatient:T43
+T44	NegativeRegulation 1142 1150	inhibits
+E14	NegativeRegulation:T44 hasAgent:E13 hasPatient:E15
+T45	Transcription 1151 1164	such activity
+E15	Transcription:T45 
+T47	RegulatoryProcess 1226 1235	modulates
+E16	RegulatoryProcess:T47 hasAgent:T46 hasPatient:T48
+T50	ResponseProcess 1298 1306	responds
+E17	ResponseProcess:T50 hasAgent:T51
+T2	NegativeRegulation 39 59	negatively regulated
+E1	NegativeRegulation:T2 hasPatient:T1 hasAgent:T4
+R6	hasPart Arg1:T33 Arg2:T28	
+R7	hasPart Arg1:T33 Arg2:T34	

@@ -1,0 +1,51 @@
+T1	Eukaryote 18 23	human
+T2	tRNA 24 32	tRNA:m5C
+T3	Enzyme 33 50	methyltransferase
+T4	CatalyticActivity 51 61	catalysing
+T5	Intron 62 68	intron
+T6	Chemical 79 82	m5C
+T10	Eukaryote 175 180	human
+T11	tRNA 195 203	tRNA:m5C
+T12	Enzyme 204 221	methyltransferase
+T13	Eukaryote 227 251	Saccharomyces cerevisiae
+T14	CatalyticActivity 288 296	catalyse
+T16	Chemical 326 329	C34
+T17	Intron 337 343	intron
+T18	Eukaryote 355 360	yeast
+T21	Transcript 387 398	transcripts
+T22	Intron 402 408	intron
+T23	Intron 418 424	intron
+T24	Eukaryote 436 441	human
+T25	tRNA 442 450	pre-tRNA
+T26	Gene 451 466	Leu (CAA) genes
+T27	Chemical 501 506	m5C34
+T29	Intron 533 539	intron
+T30	tRNA 551 566	tRNA precursors
+T31	Eukaryote 609 613	HeLa
+T32	Chemical 623 628	m5C34
+T34	Nucleotide 654 664	nucleotide
+T36	Eukaryote 780 785	human
+T37	Gene 792 797	hTrm4
+T38	DNA 799 803	cDNA
+T39	Eukaryote 807 812	yeast
+T40	Enzyme 862 874	Trm4p enzyme
+T41	Eukaryote 880 885	yeast
+T42	Gene 946 955	TRM4 gene
+T43	Gene 977 982	hTrm4
+T44	DNA 983 987	cDNA
+T45	Eukaryote 1048 1053	human
+T46	tRNA 1054 1065	pre-tRNALeu
+T47	Transcript 1066 1077	transcripts
+T48	EukaryoticCell 1085 1089	HeLa
+T49	Enzyme 1103 1114	hTrm4 MTase
+T50	Eukaryote 1159 1164	yeast
+T51	Eukaryote 1185 1190	yeast
+T52	Intron 1350 1356	intron
+T57	Eukaryote 1428 1433	human
+T58	Gene 1434 1438	gene
+T59	tRNA 1448 1452	tRNA
+T60	Enzyme 1453 1462	methylase
+T8	tRNA 139 157	pre-tRNA Leu (CAA)
+T9	tRNA 361 379	pre-tRNA Leu (CAA)
+T19	Eukaryote 1382 1387	human
+T20	tRNA 1387 1405	pre-tRNA Leu (CAA)

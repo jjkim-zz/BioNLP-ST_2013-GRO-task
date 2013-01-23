@@ -1,0 +1,34 @@
+R2	fromSpecies Arg1:T4 Arg2:T3
+T6	RegulatoryProcess 183 192	regulated
+E1	RegulatoryProcess:T6 hasAgent:T5 hasPatient:T7
+R3	locatedIn Arg1:T7 Arg2:T8
+R6	fromSpecies Arg1:T18 Arg2:T17
+R10	locatedIn Arg1:T24 Arg2:T28
+T26	Increase 601 608	induced
+E2	Increase:T26 hasAgent:T25 hasPatient:T24
+R11	locatedIn Arg1:E2 Arg2:T27
+T29	TranscriptionOfGene 662 671	expressed
+E3	TranscriptionOfGene:T29 hasPatient:T24
+T42	RegulatoryProcess 951 959	mediated
+E4	RegulatoryProcess:T42 hasAgent:T41 hasPatient:E8
+T48	BindingToProtein 1039 1044	bound
+E7	BindingToProtein:T48 hasPatient:T49
+R14	hasPart Arg1:T50 Arg2:T51
+T58	Growth 1319 1325	growth
+E9	Growth:T58 hasPatient:T2
+T61	RegulatoryProcess 1371 1381	regulation
+R4	fromSpecies Arg1:E9 Arg2:T59	
+T9	RegulatoryProcess 1294 1301	control
+E6	RegulatoryProcess:T9 hasPatient:E9
+R9	fromSpecies Arg1:T8 Arg2:T11	
+E5	RegulatoryProcess:T61 hasAgent:T60
+R1	fromSpecies Arg1:T1 Arg2:T12	
+R5	locatedIn Arg1:T22 Arg2:T30	
+R7	hasFunction Arg1:T31 Arg2:T32	
+T33	ProteinCatabolism 960 971	proteolysis
+E8	ProteinCatabolism:T33 
+R8	locatedIn Arg1:T52 Arg2:T37	
+T38	CellGrowth 1385 1403	cell proliferation
+E10	CellGrowth:T38 
+T39	CellDifferentiation 1407 1422	differentiation
+E11	CellDifferentiation:T39 

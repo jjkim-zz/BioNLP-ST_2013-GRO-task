@@ -1,0 +1,60 @@
+R1	locatedIn Arg1:T1 Arg2:T2
+R2	locatedIn Arg1:T1 Arg2:T3
+T5	Disease 94 131	paraneoplastic neurological disorders
+E1	Disease:T5 
+T7	Disease 212 249	paraneoplastic neurological disorders
+E2	Disease:T7 
+R3	locatedIn Arg1:T9 Arg2:T8
+T11	Disease 475 512	paraneoplastic neurological disorders
+E3	Disease:T11 
+T12	Disease 616 653	paraneoplastic neurological disorders
+E4	Disease:T12 
+R4	locatedIn Arg1:T17 Arg2:T18
+R5	fromSpecies Arg1:T21 Arg2:T20
+R6	fromSpecies Arg1:T21 Arg2:T19
+T33	NegativeRegulation 1622 1631	abrogated
+E5	NegativeRegulation:T33 
+R10	fromSpecies Arg1:T36 Arg2:T35
+R11	encodes Arg1:T37 Arg2:T39
+T41	Disease 1996 2032	paraneoplastic neurological symptoms
+E6	Disease:T41 
+T42	Disease 2051 2075	paraneoplastic syndromes
+E7	Disease:T42 
+T43	Disease 2116 2138	neurological disorders
+E8	Disease:T43 
+T44	TranscriptionOfGene 2144 2154	expression
+E9	TranscriptionOfGene:T44 hasPatient:T45
+R12	locatedIn Arg1:E9 Arg2:T46
+R13	locatedIn Arg1:E9 Arg2:T47
+T50	Disease 2333 2370	paraneoplastic neurological disorders
+E10	Disease:T50 
+R14	locatedIn Arg1:T54 Arg2:T53
+T55	Disease 292 299	tumours
+E11	Disease:T55 
+T56	Disease 809 845	brainstem and cerebellar dysfunction
+E12	Disease:T56 
+T57	Disease 859 868	dysphagia
+E13	Disease:T57 
+T58	Disease 873 887	motor weakness
+E14	Disease:T58 
+T59	Decrease 920 924	loss
+E15	Decrease:T59 hasPatient:T16
+T61	Disease 965 1018	deep cerebellar white matter inflammatory infiltrates
+E16	Disease:T61 
+T60	Disease 944 960	Bergmann gliosis
+E17	Disease:T60 
+T62	Disease 1020 1051	Extensive neuronal degeneration
+E18	Disease:T62 
+T63	Disease 1053 1060	gliosis
+E19	Disease:T63 
+T64	Disease 1065 1076	infiltrates
+E20	Disease:T64 
+R7	locatedIn Arg1:T25 Arg2:T24	
+T67	Disease 1432 1439	cancers
+E21	Disease:T67 
+R8	locatedIn Arg1:E21 Arg2:T29	
+R9	locatedIn Arg1:E21 Arg2:T30	
+R15	locatedIn Arg1:E21 Arg2:T31	
+T68	Disease 1529 1536	tumours
+E22	Disease:T68 
+R16	encodes Arg1:T45 Arg2:T69	

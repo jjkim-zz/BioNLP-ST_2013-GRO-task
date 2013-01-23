@@ -1,0 +1,56 @@
+T3	TranscriptionRegulator 51 62	coregulator
+T4	Eukaryote 66 82	steroid receptor
+T6	Gene 92 96	gene
+T8	DNABindingDomainOfProtein 122 140	DNA-binding domain
+T9	Protein 144 161	androgen receptor
+T10	Protein 163 165	AR
+T11	Eukaryote 182 187	yeast
+T12	CellComponent 237 244	nuclear
+T15	Protein 273 278	SNURF
+T17	Protein 300 302	AR
+T18	OrganicChemical 308 315	hormone
+T19	Eukaryote 342 347	yeast
+T20	Eukaryote 352 361	mammalian
+T21	Cell 362 367	cells
+T23	Protein 398 400	AR
+T24	Protein 405 410	SNURF
+T25	Eukaryote 520 523	Rat
+T26	Protein 524 529	SNURF
+T27	Protein 554 561	protein
+T28	AminoAcid 580 599	amino acid residues
+T29	ZincCoordinatingDomain 627 644	C3HC4 zinc finger
+T30	ZincCoordinatingDomain 646 650	RING
+T31	CellComponent 703 710	nuclear
+T32	Protein 799 804	SNURF
+T33	CellComponent 810 817	nuclear
+T34	Protein 818 825	protein
+T35	Protein 827 832	SNURF
+T36	MessengerRNA 833 837	mRNA
+T38	Eukaryote 867 872	human
+T39	Eukaryote 877 880	rat
+T40	Tissue 881 888	tissues
+T42	Protein 908 913	SNURF
+T43	Eukaryote 926 935	mammalian
+T44	Cell 936 941	cells
+T46	Lipid 960 968	androgen
+T47	Lipid 970 984	glucocorticoid
+T48	Protein 990 1011	progesterone receptor
+T51	Lipid 1072 1079	steroid
+T53	Promoter 1090 1099	promoters
+T55	AminoAcid 1152 1161	cysteines
+T56	AminoAcid 1165 1172	serines
+T57	ProteinDomain 1180 1191	RING finger
+T59	Protein 1228 1233	SNURF
+T63	Protein 1298 1314	steroid receptor
+T66	ProteinDomain 1390 1397	domains
+T67	Protein 1401 1406	SNURF
+T70	Protein 1448 1466	regulatory factors
+T71	Protein 1468 1473	SNURF
+T75	Protein 1518 1538	TATA-binding protein
+T76	ZincCoordinatingDomain 1548 1566	RING finger domain
+T81	Protein 1696 1701	SNURF
+T83	Protein 1755 1771	steroid receptor
+T85	Protein 1872 1891	integrator proteins
+T1	Protein 26 45	RING finger protein
+T2	Protein 245 264	RING finger protein
+T13	Protein 1675 1694	RING finger protein

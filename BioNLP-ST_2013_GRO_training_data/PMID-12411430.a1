@@ -1,0 +1,46 @@
+T1	TranscriptionFactor 9 34	RFX transcription factors
+T2	Cell 38 55	non-neuronal cell
+T5	Gene 116 121	MAP1A
+T6	Promoter 122 130	promoter
+T10	Cell 196 210	mature neurons
+T12	Phenotype 247 266	neuronal morphology
+T14	MolecularEntity 292 301	molecules
+T15	CellComponent 326 337	microtubule
+T16	CellComponent 344 356	cytoskeleton
+T17	Protein 390 393	its
+T19	Protein 433 438	MAP1B
+T23	Eukaryote 528 533	mouse
+T24	Gene 534 544	Map1A gene
+T29	Cell 681 694	neuronal cell
+T31	Gene 722 727	MAP1A
+T32	Promoter 728 739	5' promoter
+T33	TranscriptionRegulator 759 776	regulatory factor
+T34	TranscriptionFactorBindingSiteOfDNA 781 806	X box (RFX) binding sites
+T36	Exon 810 815	exon1
+T37	Eukaryote 828 833	mouse
+T38	Eukaryote 838 843	human
+T39	Gene 844 849	genes
+T42	Cell 922 940	non-neuronal cells
+T43	TranscriptionFactor 967 998	RFX transcription factor family
+T44	TranscriptionFactor 1008 1012	RFX1
+T45	TranscriptionFactor 1008 1011;1017 1018	RFX 3
+T47	RegulatoryDNARegion 1040 1059	repressive elements
+T48	TranscriptionFactor 1108 1112	RFX1
+T52	Gene 1166 1171	MAP1A
+T53	Promoter 1172 1183	5' promoter
+T54	Cell 1196 1214	non-neuronal cells
+T55	TranscriptionFactor 1230 1234	RFX3
+T57	Cell 1269 1283	neuronal cells
+T62	Cell 1352 1370	non-neuronal cells
+T63	TranscriptionFactor 1474 1478	RFX1
+T64	TranscriptionFactor 1474 1477;1483 1484	RFX 3
+T67	Gene 1531 1536	MAP1A
+T68	Promoter 1537 1548	5' promoter
+T69	Cell 1552 1570	non-neuronal cells
+T70	Cell 1576 1585	cell type
+T3	Gene 85 115	microtubule-associated protein
+T4	Protein 132 162	Microtubule-associated protein
+T7	Protein 163 168	MAP1A
+T8	Promoter 581 606	5' and intronic promoters
+T51	TranscriptionFactor 1653 1656	RFX
+T59	RegulatoryDNARegion 1676 1684	elements

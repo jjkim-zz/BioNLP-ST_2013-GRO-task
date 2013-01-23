@@ -1,0 +1,62 @@
+T1	Chromosome 14 25	chromosomal
+T2	Gene 44 75	sterol 12alpha-hydroxylase gene
+T3	Gene 77 83	CYP8B1
+T4	Eukaryote 88 93	human
+T5	Eukaryote 98 103	mouse
+T6	Eukaryote 105 115	eukaryotic
+T8	Enzyme 157 183	Sterol 12alpha-hydroxylase
+T9	Enzyme 185 191	CYP8B1
+T12	Eukaryote 355 360	human
+T13	Eukaryote 369 374	mouse
+T14	Gene 375 381	CYP8B1
+T15	DNA 382 399	complementary DNA
+T16	Gene 404 408	gene
+T17	DNA 471 482	genomic DNA
+T18	Intron 519 526	introns
+T19	Transcript 538 548	transcript
+T20	Eukaryote 556 561	human
+T21	Gene 562 566	gene
+T22	Promoter 613 621	promoter
+T23	Eukaryote 671 677	murine
+T24	Gene 689 693	gene
+T25	Eukaryote 791 796	human
+T26	Gene 797 808	CYP8B1 gene
+T27	Chromosome 824 834	chromosome
+T28	Eukaryote 871 877	murine
+T29	Chromosome 893 903	chromosome
+T30	Eukaryote 951 956	human
+T31	Chromosome 957 967	chromosome
+T32	Chromosome 990 1000	chromosome
+T33	Gene 1050 1054	gene
+T35	Eukaryote 1105 1110	mouse
+T36	Eukaryote 1115 1120	human
+T37	Gene 1121 1133	CYP8B1 genes
+T38	Promoter 1266 1274	promoter
+T39	Eukaryote 1286 1291	mouse
+T40	Eukaryote 1296 1301	human
+T43	Gene 1389 1395	CYP8B1
+T44	MessengerRNA 1396 1400	mRNA
+T45	Eukaryote 1433 1437	mice
+T46	Promoter 1508 1516	promoter
+T47	Eukaryote 1559 1564	human
+T48	Promoter 1565 1573	promoter
+T49	Cell 1717 1726	COS cells
+T50	Eukaryote 1736 1741	human
+T51	MessengerRNA 1757 1761	mRNA
+T52	Enzyme 1793 1812	12alpha-hydroxylase
+T53	Eukaryote 1848 1857	mammalian
+T55	Gene 1966 1970	gene
+T7	Gene 116 137	cytochrome P-450 gene
+T57	Intron 148 155	introns
+T58	Tissue 198 205	hepatic
+T59	Protein 206 222	cytochrome P-450
+T60	OrganicChemical 250 261	cholic acid
+T61	OrganicChemical 267 288	chenodeoxycholic acid
+T62	Lipid 333 344	cholesterol
+T63	TATAbox 1230 1238	TATA box
+T42	RegulatoryDNARegion 1531 1550	cis-acting elements
+T65	RegulatoryDNARegion 1592 1610	cis-acting regions
+T67	ProteinCodingRegion 1742 1755	coding region
+T68	CatalyticActivity 1766 1784	enzymatic activity
+T54	Gene 1858 1879	cytochrome P-450 gene
+T69	Intron 1897 1904	introns

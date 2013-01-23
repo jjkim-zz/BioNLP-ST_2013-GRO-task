@@ -1,0 +1,48 @@
+T1	TranscriptionRegulator 25 44	repressor/activator
+T2	TranscriptionRegulator 46 51	NF-E1
+T3	TranscriptionRegulator 53 64	YY-1, delta
+T9	Enhancer 153 163	mu E1 site
+T13	Enhancer 252 261	kappa E3'
+T17	Enhancer 390 408	kappa E3' enhancer
+T19	Cell 426 436	pre-B-cell
+T26	Enhancer 536 553	enhancer activity
+T27	Cell 611 621	pre-B-cell
+T28	Eukaryote 648 653	human
+T29	DNA 654 664	cDNA clone
+T31	TranscriptionRegulator 676 695	zinc finger protein
+T32	TranscriptionRegulator 697 702	NF-E1
+T36	Enhancer 753 771	kappa E3' enhancer
+T37	TranscriptionRegulator 778 785	protein
+T41	Enhancer 831 839	enhancer
+T42	DNARegion 840 850	mu E1 site
+T43	TranscriptionRegulator 852 857	NF-E1
+T44	Gene 881 885	gene
+T45	TranscriptionRegulator 893 905	YY-1 protein
+T49	TranscriptionRegulator 962 967	NF-E1
+T50	Eukaryote 980 985	human
+T51	Eukaryote 1003 1008	mouse
+T52	Protein 1009 1022	delta protein
+T54	Protein 1039 1056	ribosomal protein
+T55	Gene 1057 1061	gene
+T56	Promoter 1062 1071	promoters
+T57	AminoAcid 1087 1097	amino acid
+T58	Sequence 1098 1106	sequence
+T59	TranscriptionRegulator 1110 1122	this protein
+T60	TranscriptionActivator 1159 1185	transcriptional activators
+T61	TranscriptionRepressor 1197 1223	transcriptional repressors
+T62	DNA 1258 1262	cDNA
+T64	Promoter 1298 1315	promoter activity
+T65	Function 1335 1343	function
+T66	TranscriptionRegulator 1347 1359	this protein
+T5	Gene 85 105	immunoglobulin kappa
+T6	Enhancer 106 117	3' enhancer
+T7	Gene 126 152	immunoglobulin heavy-chain
+T8	RegulatoryDNARegion 315 353	positive- and negative-acting elements
+T11	Gene 218 238	immunoglobulin kappa
+T12	Enhancer 239 250	3' enhancer
+T14	RegulatoryDNARegion 472 496	negative-acting elements
+T15	RegulatoryDNARegion 502 527	negative-acting sequences
+T16	RegulatoryDNARegion 722 745	negative-acting segment
+T21	Gene 804 830	immunoglobulin heavy-chain
+T22	Virus 926 948	adeno-associated virus
+T23	Promoter 949 960	P5 promoter

@@ -1,0 +1,46 @@
+T1	TranscriptionRepressor 0 18	RET finger protein
+T2	TranscriptionRepressor 24 49	transcriptional repressor
+T6	TranscriptionRepressor 131 149	RET finger protein
+T7	TranscriptionRepressor 151 154	RFP
+T8	ZincCoordinatingDomainTF 177 209	B-box RING finger protein family
+T9	Enzyme 258 277	RET tyrosine kinase
+T10	TranscriptionRepressor 288 291	RFP
+T11	Nucleus 312 319	nuclear
+T12	Protein 320 327	protein
+T14	TranscriptionRepressor 418 421	RFP
+T16	Protein 437 457	Enhancer of Polycomb
+T17	Protein 459 462	EPC
+T21	ProteinDomain 553 571	coiled-coil domain
+T22	Protein 575 578	RFP
+T24	ProteinDomain 603 614	EPcA domain
+T25	ProteinDomain 623 647	carboxyl-terminal region
+T26	Protein 651 654	EPC
+T27	Protein 669 682	both proteins
+T28	Eukaryote 724 729	human
+T29	Cell 730 735	cells
+T31	Nucleus 766 773	nucleus
+T32	ReporterGene 796 809	reporter-gene
+T33	Protein 831 835	they
+T37	Enhancer 910 919	enhancers
+T38	Promoter 924 933	promoters
+T39	TranscriptionRepressorActivity 953 972	repressive activity
+T40	Protein 976 979	RFP
+T41	Protein 1011 1014	EPC
+T42	ProteinDomain 1020 1038	coiled-coil domain
+T43	Protein 1042 1045	RFP
+T44	ProteinDomain 1054 1078	carboxyl-terminal region
+T45	Protein 1082 1085	EPC
+T46	TranscriptionRepressorActivity 1114 1133	repressive activity
+T47	Protein 1142 1149	protein
+T48	ProteinDomain 1163 1174	EPcA domain
+T51	Protein 1238 1260	Polycomb group protein
+T52	Protein 1300 1303	RFP
+T54	Protein 1380 1403	Polycomb group proteins
+T55	Protein 1413 1416	EPC
+T56	TranscriptionRepressorActivity 1448 1458	repressive
+T57	TranscriptionActivatorActivity 1463 1489	transactivating activities
+T59	Function 120 129	functions
+T13	CellComponent 359 365	matrix
+T60	Nucleus 351 358	nuclear
+T4	Protein 69 89	enhancer of polycomb
+T35	TranscriptionActivatorActivity 1183 1215	transcription activating ability

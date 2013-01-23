@@ -1,0 +1,54 @@
+T3	Disease 57 73	myeloid leukemia
+E1	Disease:T3 
+T4	Decrease 74 81	impairs
+E2	Decrease:T4 hasAgent:T1 hasPatient:E3
+T5	CellularProcess 82 103	neutrophil maturation
+E3	CellularProcess:T5 
+T6	Disease 123 145	granulocytic dysplasia
+E4	Disease:T6 hasAgent:T1
+R2	hasPart Arg1:T7 Arg2:T9
+T8	Mutation 159 173	translocations
+E5	Mutation:T8 hasPatient:T9
+R6	encodes Arg1:T9 Arg2:T10
+T14	Disease 301 323	acute myeloid leukemia
+E6	Disease:T14 hasAgent:E5
+R8	fromSpecies Arg1:E6 Arg2:T13
+T15	Disease 332 343	preleukemic
+E7	Disease:T15 hasAgent:E5
+T16	Disease 355 369	myelodysplasia
+E8	Disease:T16 hasAgent:E5
+R9	encodes Arg1:T18 Arg2:T19
+R10	hasPart Arg1:T20 Arg2:T19
+R13	locatedIn Arg1:T25 Arg2:T30
+T27	GeneExpression 635 645	expressing
+E9	GeneExpression:T27 hasPatient:T28
+R14	locatedIn Arg1:E9 Arg2:T30
+R15	fromSpecies Arg1:E9 Arg2:T26
+T31	CellularProcess 707 728	Neutrophil maturation
+E10	CellularProcess:T31 
+T32	NegativeRegulation 733 741	impaired
+E11	NegativeRegulation:T32 hasAgent:T33 hasPatient:E10
+R16	fromSpecies Arg1:T33 Arg2:T34
+R17	fromSpecies Arg1:T36 Arg2:T35
+T40	NegativeRegulation 1001 1010	inhibited
+E12	NegativeRegulation:T40 hasAgent:T39 hasPatient:E13
+T41	CellDifferentiation 1011 1039	neutrophilic differentiation
+E13	CellDifferentiation:T41 
+T43	GeneExpression 1092 1104	Coexpression
+E14	GeneExpression:T43 hasPatient:T44
+T45	PositiveRegulation 1132 1141	activated
+E15	PositiveRegulation:T45 hasPatient:T46
+T47	PositiveRegulation 1147 1154	induced
+E16	PositiveRegulation:T47 hasPatient:T48 hasAgent:E14
+T50	Disease 1238 1260	granulocytic dysplasia
+E17	Disease:T50 
+T52	NegativeRegulation 1305 1311	impair
+E18	NegativeRegulation:T52 hasAgent:T51 hasPatient:E19
+T53	CellularDevelopmentalProcess 1312 1334	neutrophil development
+E19	CellularDevelopmentalProcess:T53 
+T55	Disease 1415 1429	myelodysplasia
+E20	Disease:T55 
+R1	encodes Arg1:T21 Arg2:T22	
+R3	locatedIn Arg1:E13 Arg2:T23	
+E21	GeneExpression:T43 hasPatient:T46
+E22	PositiveRegulation:T47 hasPatient:T48 hasAgent:E21

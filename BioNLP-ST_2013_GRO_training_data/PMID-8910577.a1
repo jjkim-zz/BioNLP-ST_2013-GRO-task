@@ -1,0 +1,43 @@
+T1	Cell 41 50	leukocyte
+T2	CellComponent 77 89	nuclear body
+T3	CellComponent 95 107	nuclear body
+T4	CellComponent 109 111	NB
+T5	CellComponent 118 136	cellular organelle
+T9	CellComponent 231 233	NB
+T10	Protein 254 264	antibodies
+T14	DNA 435 439	cDNA
+T15	CellComponent 474 476	NB
+T16	Protein 488 495	protein
+T17	Protein 507 512	Sp140
+T18	AminoAcid 528 547	amino acid sequence
+T19	ProteinDomain 555 577	amino-terminal portion
+T20	Protein 581 586	Sp140
+T21	Protein 602 607	Sp100
+T24	ProteinDomain 649 665	carboxyl portion
+T25	Protein 669 674	Sp140
+T26	ZincCoordinatingDomain 687 705	zinc-finger domain
+T27	ProteinDomain 712 723	bromodomain
+T28	Protein 752 760	proteins
+T30	Gene 772 776	gene
+T32	Protein 807 812	Sp140
+T33	MessengerRNA 813 817	mRNA
+T34	Eukaryote 835 840	human
+T35	Tissue 841 847	spleen
+T36	Tissue 852 879	peripheral blood leukocytes
+T37	Protein 923 928	SP140
+T38	MessengerRNA 929 933	mRNA
+T39	Cell 955 965	cell lines
+T40	Cell 966 970	HL60
+T41	Cell 975 978	NB4
+T43	Chemical 1013 1023	chemically
+T46	Protein 1119 1124	SP140
+T47	CellComponent 1142 1144	NB
+T49	Cell 1163 1167	HL60
+T50	Cell 1172 1181	NB4 cells
+T51	Protein 1199 1204	Sp140
+T52	CellComponent 1212 1214	NB
+T54	Gene 1239 1243	gene
+T55	Cell 1247 1252	cells
+T56	Protein 1292 1297	Sp140
+T12	PhysicalContinuant 360 365	serum
+T22	Protein 633 643	NB protein

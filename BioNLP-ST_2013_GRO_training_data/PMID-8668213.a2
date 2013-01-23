@@ -1,0 +1,55 @@
+T3	RegulatoryProcess 29 38	regulated
+E1	RegulatoryProcess:T3 hasAgent:T4 hasPatient:T2
+T6	RegulatoryProcess 69 77	mediates
+E2	RegulatoryProcess:T6 hasPatient:E3 hasAgent:T2
+T7	Transcription 78 91	transcription
+E3	Transcription:T7 hasPatient:T9
+R2	encodes Arg1:T9 Arg2:T8
+T11	Transcription 183 196	transcription
+E4	Transcription:T11 hasPatient:T13
+R3	encodes Arg1:T13 Arg2:T12
+T18	GeneExpression 389 398	expressed
+E5	GeneExpression:T18 hasPatient:T16
+R4	locatedIn Arg1:E5 Arg2:T21
+R5	fromSpecies Arg1:T21 Arg2:T19
+R6	fromSpecies Arg1:T21 Arg2:T20
+T22	GeneExpression 433 442	expressed
+E6	GeneExpression:T22 
+R7	locatedIn Arg1:E6 Arg2:T23
+T25	RegulatoryProcess 483 492	regulated
+E7	RegulatoryProcess:T25 hasAgent:T27 hasPatient:T24
+T28	NegativeRegulation 580 589	inhibited
+E8	NegativeRegulation:T28 hasAgent:T29
+T31	PositiveRegulation 642 657	Transactivation
+E9	PositiveRegulation:T31 hasAgent:T32
+R8	locatedIn Arg1:E9 Arg2:T33
+T36	GeneExpression 807 819	coexpression
+E10	GeneExpression:T36 hasPatient:T37
+T38	NegativeRegulation 864 873	inhibited
+E11	NegativeRegulation:T38 hasAgent:T39
+R10	locatedIn Arg1:T40 Arg2:T41
+T43	Transport 1009 1021	translocates
+E12	Transport:T43 hasPatient:T40
+T47	GeneExpression 1103 1112	expressed
+E13	GeneExpression:T47 hasPatient:T49
+R12	locatedIn Arg1:E13 Arg2:T48
+T50	PositiveRegulation 1156 1171	transactivation
+E14	PositiveRegulation:T50 hasAgent:T49
+T52	RegulatoryProcess 1389 1396	mediate
+E15	RegulatoryProcess:T52 hasAgent:T51 hasPatient:E16
+T53	Transcription 1397 1410	transcription
+E16	Transcription:T53 hasPatient:T58
+R14	hasPart Arg1:T54 Arg2:T58
+R15	hasPart Arg1:T55 Arg2:T58
+R16	hasPart Arg1:T56 Arg2:T58
+R17	hasPart Arg1:T57 Arg2:T58
+T61	Increase 1574 1585	contributes
+E17	Increase:T61 hasAgent:T60 hasPatient:E18
+T63	Transcription 1607 1620	transcription
+E18	Transcription:T63 hasPatient:T64
+R1	locatedIn Arg1:T4 Arg2:T5	
+R9	hasPart Arg1:T42 Arg2:T41	
+T66	PositiveRegulation 1085 1096	stimulation
+E19	PositiveRegulation:T66 hasAgent:T46
+R11	locatedIn Arg1:T58 Arg2:T59	
+E20	Transcription:T11 hasPatient:T14

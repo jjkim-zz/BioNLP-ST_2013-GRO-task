@@ -1,0 +1,24 @@
+T1	Protein 21 24	SMN
+T2	MessengerRNA 79 87	pre-mRNA
+T8	Protein 259 262	SMN
+T9	Protein 273 276	SMN
+T10	CellComponent 293 302	cytoplasm
+T11	Nucleus 311 318	nucleus
+T12	Protein 353 356	SMN
+T14	Spliceosome 372 384	spliceosomal
+T15	Protein 385 399	snRNP proteins
+T16	Protein 420 425	snRNP
+T18	CellComponent 442 451	cytoplasm
+T19	MutantProtein 486 496	mutant SMN
+T20	MutantProtein 498 509	SMNdeltaN27
+T22	Protein 547 553	snRNPs
+T23	Nucleus 561 568	nucleus
+T24	MutantProtein 583 594	SMNdeltaN27
+T26	MessengerRNA 604 612	pre-mRNA
+T28	Protein 638 651	wild-type SMN
+T31	MutantProtein 673 684	SMN mutants
+T33	Protein 766 769	SMN
+T35	MessengerRNA 816 824	pre-mRNA
+T39	Protein 903 906	SMN
+T4	GeneProduct 30 74	spinal muscular atrophy disease gene product
+T43	Protein 232 257	Survival of Motor Neurons

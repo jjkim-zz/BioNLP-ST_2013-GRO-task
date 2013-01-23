@@ -1,0 +1,29 @@
+T1	Protein 0 3	Tap
+T2	Protein 22 29	protein
+T4	Protein 50 53	tip
+T5	Virus 57 76	herpesvirus saimiri
+T6	Cell 89 99	lymphocyte
+T7	Protein 113 116	Tip
+T8	Virus 120 139	herpesvirus saimiri
+T12	Protein 235 257	Tip-associated protein
+T13	Protein 259 262	Tap
+T14	Protein 294 297	Tap
+T15	Protein 314 317	Tip
+T17	Cell 352 363	COS-1 cells
+T19	Eukaryote 389 394	human
+T20	Cell 395 409	Jurkat-T cells
+T22	Protein 425 428	Tip
+T23	Protein 433 436	Tap
+T24	Cell 440 454	Jurkat-T cells
+T25	Cell 472 476	cell
+T27	Protein 591 605	integrin alpha
+T28	Protein 607 617	L-selectin
+T29	Protein 619 625	ICAM-3
+T30	Protein 631 636	H-CAM
+T31	TranscriptionFactor 651 660	NF-kappaB
+T32	Protein 781 784	Tap
+T33	Protein 835 838	Tip
+T35	Protein 156 159	Lck
+T37	Protein 179 182	Lck
+T41	Protein 562 580	adhesion molecules
+T43	Virus 876 895	herpesvirus saimiri

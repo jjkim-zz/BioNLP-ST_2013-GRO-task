@@ -1,0 +1,51 @@
+T1	Gene 0 5	GPR56
+T2	Protein 15 23	secretin
+T3	Eukaryote 29 34	human
+T7	GeneProduct 76 88	gene product
+T8	Protein 90 95	GPR56
+T11	Eukaryote 275 280	human
+T12	Tissue 281 286	heart
+T13	DNA 287 291	cDNA
+T14	DNA 321 325	cDNA
+T15	Protein 342 349	protein
+T16	AminoAcid 357 368	amino acids
+T17	Protein 406 409	HE6
+T21	Eukaryote 521 526	human
+T22	Tissue 527 534	tissues
+T23	Transcript 571 581	transcript
+T24	Tissue 611 624	thyroid gland
+T25	Tissue 626 631	brain
+T26	Tissue 637 642	heart
+T27	Eukaryote 678 683	human
+T28	Tissue 684 697	thyroid gland
+T29	Eukaryote 709 712	rat
+T30	Tissue 713 718	heart
+T31	Tissue 723 735	brain tissue
+T32	Tissue 778 789	hippocampus
+T33	Tissue 794 813	hypothalamic nuclei
+T34	Tissue 817 828	brain areas
+T36	Protein 866 871	GPR56
+T37	MessengerRNA 872 876	mRNA
+T38	MessengerRNA 896 900	mRNA
+T40	Protein 944 949	mucin
+T41	ProteinDomain 955 975	extracellular domain
+T42	Protein 983 999	receptor protein
+T43	Protein 1033 1041	receptor
+T47	Eukaryote 1082 1087	human
+T48	Gene 1088 1092	gene
+T49	Protein 1097 1102	GPR56
+T50	Exon 1129 1133	exon
+T51	Intron 1134 1140	intron
+T52	Eukaryote 1187 1192	human
+T53	Gene 1193 1203	GPR56 gene
+T54	Exon 1250 1255	exons
+T55	Cell 1309 1321	somatic cell
+T56	Eukaryote 1349 1354	mouse
+T57	Gene 1392 1397	genes
+T58	Eukaryote 1401 1406	human
+T59	Chromosome 1407 1417	chromosome
+T60	Eukaryote 1428 1433	mouse
+T61	Chromosome 1434 1444	chromosome
+T4	Gene 35 66	G-protein-coupled receptor gene
+T5	Protein 118 153	seven transmembrane-domain receptor
+T6	Protein 441 490	class B secretin-like G-protein-coupled receptors

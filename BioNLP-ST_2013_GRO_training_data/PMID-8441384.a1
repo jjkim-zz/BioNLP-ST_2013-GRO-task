@@ -1,0 +1,59 @@
+T1	DNA 0 12	cDNA cloning
+T2	TranscriptionFactor 16 42	transcription factor E4TF1
+T3	ProteinSubunit 43 51	subunits
+T4	DNABindingDomainOfProtein 57 60	Ets
+T5	Peptide 65 77	notch motifs
+T6	TranscriptionFactor 79 84	E4TF1
+T7	TranscriptionFactor 125 146	transcription factors
+T8	Virus 163 173	adenovirus
+T9	Gene 174 181	E4 gene
+T11	TranscriptionFactor 197 199	It
+T12	ProteinSubunit 219 227	subunits
+T15	Protein 231 250	DNA binding protein
+T18	Protein 321 328	protein
+T20	ProteinSubunit 362 370	subunits
+T21	Protein 392 399	protein
+T22	Function 403 411	function
+T23	TranscriptionFactor 417 437	transcription factor
+T24	TranscriptionFactor 474 479	E4TF1
+T25	ProteinSubunit 480 487	subunit
+T26	ProteinSubunit 500 508	E4TF1-47
+T28	ProteinSubunit 567 575	E4TF1-60
+T29	DNA 596 601	cDNAs
+T30	TranscriptionFactor 618 623	E4TF1
+T31	ProteinSubunit 624 632	subunits
+T32	TranscriptionFactor 634 639	E4TF1
+T33	AminoAcid 670 680	amino acid
+T34	Sequence 681 689	sequence
+T35	ProteinSubunit 698 705	subunit
+T36	AminoAcid 736 746	amino acid
+T37	Sequence 747 755	sequence
+T38	DNA 764 774	cDNA clone
+T39	ProteinSubunit 789 797	E4TF1-60
+T40	DNABindingDomainOfProtein 805 815	ETS domain
+T41	DNABindingDomainOfProtein 828 846	DNA binding domain
+T42	DNABindingDomainOfProtein 857 860	ets
+T43	TranscriptionFactor 869 890	transcription factors
+T44	ProteinSubunit 892 900	E4TF1-53
+T45	Peptide 928 948	notch-ankyrin motifs
+T46	DNA 963 967	cDNA
+T47	ProteinSubunit 971 979	E4TF1-47
+T48	AminoAcid 1002 1012	amino acid
+T49	Sequence 1013 1022	sequences
+T50	ProteinSubunit 1026 1034	E4TF1-53
+T51	AminoAcid 1065 1076	amino acids
+T52	ProteinSubunit 1097 1102;1110 1113	E4TF1 -53
+T53	ProteinSubunit 1097 1105	E4TF1-47
+T54	AminoAcid 1144 1154	amino acid
+T55	ProteinSubunit 1168 1176	E4TF1-53
+T56	DNA 1253 1264	cDNA clones
+T58	Prokaryote 1283 1299	Escherichia coli
+T59	Protein 1309 1317	proteins
+T60	Nucleotide 1394 1404	Nucleotide
+T61	AminoAcid 1419 1429	amino acid
+T62	Sequence 1430 1439	sequences
+T63	Protein 1466 1476	GABP-alpha
+T64	Protein 1466 1470;1481 1486	GABP -beta
+T65	Protein 1539 1561	GABP-specific antibody
+T66	Eukaryote 1576 1581	human
+T67	TranscriptionFactor 1582 1587	E4TF1

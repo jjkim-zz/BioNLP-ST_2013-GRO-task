@@ -1,0 +1,34 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+R2	fromSpecies Arg1:T2 Arg2:T3
+R3	fromSpecies Arg1:T2 Arg2:T4
+R4	locatedIn Arg1:T6 Arg2:T5
+R5	hasPart Arg1:T9 Arg2:T7
+T10	RegulatoryProcess 182 190	mediates
+E1	RegulatoryProcess:T10 hasAgent:T6 hasPatient:E2
+T11	CellularProcess 191 199	movement
+E2	CellularProcess:T11 hasPatient:T12
+R6	locatedIn Arg1:T15 Arg2:T14
+R7	fromSpecies Arg1:T15 Arg2:T13
+R8	fromSpecies Arg1:T18 Arg2:T17
+R9	fromSpecies Arg1:T20 Arg2:T19
+T24	GeneExpression 506 516	expression
+E3	GeneExpression:T24 hasPatient:T23
+T26	DevelopmentalProcess 553 566	embryogenesis
+E4	DevelopmentalProcess:T26 
+R10	fromSpecies Arg1:E4 Arg2:T25
+T28	GeneExpression 612 622	expression
+E5	GeneExpression:T28 hasPatient:T27
+T32	GeneExpression 736 746	expression
+E6	GeneExpression:T32 hasPatient:T31
+T33	GeneExpression 831 841	expression
+E7	GeneExpression:T33 hasPatient:T34
+R13	locatedIn Arg1:T34 Arg2:T36
+R14	fromSpecies Arg1:T36 Arg2:T35
+R15	fromSpecies Arg1:T37 Arg2:T39
+R16	fromSpecies Arg1:T38 Arg2:T39
+R17	fromSpecies Arg1:T40 Arg2:T41
+R18	locatedIn Arg1:T15 Arg2:T18	
+R11	locatedIn Arg1:E5 Arg2:T30	
+R12	locatedIn Arg1:E5 Arg2:T29	
+R19	locatedIn Arg1:E6 Arg2:T42	
+R20	locatedIn Arg1:E6 Arg2:T43	

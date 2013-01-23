@@ -1,0 +1,45 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T3	Splicing 75 93	Alternative splice
+E1	Splicing:T3 
+T5	NegativeRegulation 171 181	inhibition
+E2	NegativeRegulation:T5 hasAgent:T4
+T14	MetabolicPathway 430 442	biosynthesis
+E3	MetabolicPathway:T14 hasPatient:T15
+R2	fromSpecies Arg1:T18 Arg2:T17
+R3	fromSpecies Arg1:T21 Arg2:T20
+R4	encodes Arg1:T22 Arg2:T21
+R5	hasPart Arg1:T22 Arg2:T23
+R6	hasPart Arg1:T24 Arg2:T25
+R7	encodes Arg1:T25 Arg2:T26
+T28	Splicing 808 828	alternative splicing
+E4	Splicing:T28 
+R8	hasPart Arg1:T31 Arg2:T30
+R9	fromSpecies Arg1:T35 Arg2:T34
+R10	encodes Arg1:T36 Arg2:T35
+R11	encodes Arg1:T38 Arg2:T37
+T39	GeneExpression 1224 1233	expressed
+E5	GeneExpression:T39 
+R12	locatedIn Arg1:E5 Arg2:T43
+T45	GeneExpression 1441 1451	expression
+E6	GeneExpression:T45 hasPatient:T48
+R13	fromSpecies Arg1:T47 Arg2:T46
+R14	encodes Arg1:T48 Arg2:T47
+R15	fromSpecies Arg1:T55 Arg2:T54
+T57	NegativeRegulation 1774 1783	inhibited
+E7	NegativeRegulation:T57 hasAgent:T58
+T60	NegativeRegulation 1894 1904	inhibition
+E8	NegativeRegulation:T60 hasAgent:T59
+T62	NegativeRegulation 1958 1967	abolishes
+E9	NegativeRegulation:T62 hasPatient:E10 hasAgent:T61
+T63	NegativeRegulation 1977 1987	inhibition
+E10	NegativeRegulation:T63 hasAgent:T65 hasPatient:T72
+T66	ResponseProcess 146 157	sensitivity
+E11	ResponseProcess:T66 hasAgent:E2
+T68	MetabolicPathway 341 350	reduction
+E12	MetabolicPathway:T68 hasAgent:T12 hasPatient:T13
+T69	MetabolicPathway 1405 1416	prototrophy
+E13	MetabolicPathway:T69 hasPatient:T44
+T70	MetabolicPathway 1504 1515	prototrophy
+E14	MetabolicPathway:T70 hasPatient:T49
+R16	hasFunction Arg1:T56 Arg2:T71	
+E15	MetabolicPathway:T14 hasPatient:T16

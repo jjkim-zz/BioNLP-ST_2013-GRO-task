@@ -1,0 +1,38 @@
+T1	Protein 2 22	redox factor protein
+T2	Protein 24 28	ref1
+T4	Gene 54 58	gene
+T6	Ion 87 94	calcium
+T8	Ion 129 134	Ca2+e
+T11	Peptide 190 193	PTH
+T13	Peptide 222 225	PTH
+T14	Gene 226 230	gene
+T15	Ion 257 261	Ca2+
+T16	Nucleus 271 278	nuclear
+T17	Protein 279 289	protein(s)
+T19	DNARegion 339 351	DNA elements
+T20	DNARegion 388 394	nCaREs
+T21	Eukaryote 403 408	human
+T22	Peptide 409 412	PTH
+T23	Gene 413 417	gene
+T24	Ion 443 448	Ca2+e
+T25	Protein 545 549	ref1
+T27	TranscriptionFactor 588 609	transcription factors
+T31	Protein 663 684	nCaRE binding protein
+T32	Gene 699 703	ref1
+T33	MessengerRNA 704 708	mRNA
+T34	Protein 727 734	protein
+T37	Ion 766 771	Ca2+e
+T38	Protein 807 825	anti-ref1 antibody
+T41	ProteinComplex 854 875	nCaRE-protein complex
+T42	Protein 914 924	protein(s)
+T44	DNARegion 942 948	nCaREs
+T45	Protein 953 957	ref1
+T46	Gene 998 1001	ref
+T47	DNA 1002 1006	cDNA
+T49	DNARegion 1076 1081	nCaRE
+T50	Protein 1083 1087	ref1
+T52	Ion 1107 1112	Ca2+e
+T56	Protein 1178 1182	ref1
+T57	TranscriptionRepressorActivity 1193 1225	transcription repressor activity
+T58	Function 1245 1253	function
+T60	Protein 1275 1292	auxiliary protein

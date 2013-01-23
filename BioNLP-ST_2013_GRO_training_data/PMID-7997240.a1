@@ -1,0 +1,41 @@
+T3	Protein 83 90	Rev-Erb
+T4	DNA 109 133	complementary DNA clones
+T7	Protein 209 213	BD73
+T8	Protein 215 227	This protein
+T9	AminoAcid 241 251	amino acid
+T10	Protein 300 314	Rev-ErbA alpha
+T11	Gene 323 330	Rev-Erb
+T12	Tissue 437 444	thyroid
+T13	NuclearReceptor 445 469	hormone receptor isoform
+T14	Protein 526 530	BD73
+T15	OpenReadingFrame 559 578	open reading frames
+T16	Gene 580 584	BD73
+T17	MessengerRNA 585 598	messenger RNA
+T19	Tissue 633 640	tissues
+T20	Cell 645 655	cell lines
+T21	Cell 660 681	quiescent HepG2 cells
+T22	Gene 683 687	BD73
+T23	MessengerRNA 688 701	messenger RNA
+T24	Protein 768 775	Rev-Erb
+T25	Protein 777 781	BD73
+T27	DNA 806 818	DNA sequence
+T28	DNARegion 848 865	A/T-rich sequence
+T29	DNARegion 892 911	hexameric half-site
+T30	ProteinDomain 929 934	P box
+T31	DNABindingDomainOfProtein 942 960	DNA-binding domain
+T32	SequenceHomologyAnalysis 973 993	sequence comparisons
+T33	ProteinDomain 1011 1025	A box sequence
+T38	DNABindingDomainOfProtein 1128 1146	DNA-binding domain
+T39	Protein 1150 1154	BD73
+T40	Protein 1159 1166	Rev-Erb
+T41	Protein 1181 1190	receptors
+T42	Protein 1231 1235	BD73
+T43	Protein 1240 1247	Rev-Erb
+T44	Ligand 1384 1390	ligand
+T46	Protein 1438 1442	BD73
+T47	Protein 1447 1454	Rev-Erb
+T48	Protein 1476 1492	orphan receptors
+T50	DNARegion 1520 1529	half-site
+T51	DNARegion 1565 1582	A/T-rich sequence
+T1	NuclearReceptor 27 51	nuclear hormone receptor
+T2	NuclearReceptor 172 188	nuclear receptor

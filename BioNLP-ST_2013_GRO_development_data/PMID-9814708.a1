@@ -1,0 +1,24 @@
+T1	Cell 13 35	pluripotent stem cells
+T2	Eukaryote 43 52	mammalian
+T3	LivingEntity 53 59	embryo
+T4	TranscriptionFactor 75 99	POU transcription factor
+T5	TranscriptionFactor 100 104	Oct4
+T6	TranscriptionFactor 106 110	Oct4
+T7	Eukaryote 116 125	mammalian
+T8	TranscriptionFactor 126 150	POU transcription factor
+T12	Cell 187 197	germ cells
+T13	TranscriptionFactor 230 234	Oct4
+T14	Cell 272 299	pluripotential founder cell
+T15	Eukaryote 318 327	mammalian
+T16	LivingEntity 328 334	embryo
+T17	TranscriptionFactor 336 340	Oct4
+T18	LivingEntity 351 358	embryos
+T19	Cell 416 421	cells
+T24	Protein 746 772	fibroblast growth factor-4
+T25	TranscriptionFactor 785 789	Oct4
+T29	Cell 845 855	stem cells
+T30	Cell 863 876	trophectoderm
+T10	Cell 164 182	early embryo cells
+T31	Cell 501 535	extraembryonic trophoblast lineage
+T20	GeneProduct 720 744	Oct4 target gene product
+T21	Protein 806 829	paracrine growth factor

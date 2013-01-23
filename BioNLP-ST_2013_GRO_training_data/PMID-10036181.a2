@@ -1,0 +1,25 @@
+R1	fromSpecies Arg1:T4 Arg2:T3
+R2	encodes Arg1:T5 Arg2:T9
+R3	encodes Arg1:T6 Arg2:T9
+R4	encodes Arg1:T7 Arg2:T9
+R5	encodes Arg1:T12 Arg2:T11
+R6	encodes Arg1:T15 Arg2:T14
+R7	fromSpecies Arg1:T17 Arg2:T19
+R8	encodes Arg1:T18 Arg2:T17
+R9	fromSpecies Arg1:T20 Arg2:T21
+R10	encodes Arg1:T27 Arg2:T28
+R11	locatedIn Arg1:T28 Arg2:T31
+R12	fromSpecies Arg1:T31 Arg2:T29
+R13	fromSpecies Arg1:T31 Arg2:T30
+R14	fromSpecies Arg1:T33 Arg2:T32
+T45	GeneExpression 1315 1324	expressed
+E1	GeneExpression:T45 hasPatient:T43
+R19	locatedIn Arg1:T48 Arg2:T49
+R20	locatedIn Arg1:T50 Arg2:T51
+R21	locatedIn Arg1:T52 Arg2:T53
+R22	fromSpecies Arg1:T23 Arg2:T24	
+R15	encodes Arg1:T34 Arg2:T2	
+R16	hasPart Arg1:T8 Arg2:T2	
+R17	fromSpecies Arg1:T41 Arg2:T42	
+R23	locatedIn Arg1:E1 Arg2:T35	
+E2	GeneExpression:T45 hasPatient:T44

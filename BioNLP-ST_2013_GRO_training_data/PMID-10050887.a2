@@ -1,0 +1,36 @@
+R3	fromSpecies Arg1:T7 Arg2:T6
+T14	GeneExpression 226 236	expression
+E1	GeneExpression:T14 hasPatient:T16
+R6	locatedIn Arg1:E1 Arg2:T17
+R7	encodes Arg1:T16 Arg2:T15
+R8	locatedIn Arg1:T18 Arg2:T20
+R9	locatedIn Arg1:T18 Arg2:T21
+R10	locatedIn Arg1:T20 Arg2:T19
+T26	BindingToRNA 565 572	binding
+E2	BindingToRNA:T26 hasAgent:T27 hasPatient:T25
+R11	hasPart Arg1:T27 Arg2:T23
+R12	fromSpecies Arg1:T30 Arg2:T28
+T37	RegulatoryProcess 1055 1063	mediated
+E3	RegulatoryProcess:T37 hasPatient:E10 hasAgent:T51
+T38	GeneExpression 1142 1152	expression
+E4	GeneExpression:T38 hasPatient:T40
+R14	encodes Arg1:T40 Arg2:T39
+R15	hasPart Arg1:T42 Arg2:T41
+R16	hasPart Arg1:T44 Arg2:T43
+T46	BindingToRNA 1512 1519	binding
+E5	BindingToRNA:T46 hasAgent:T47 hasPatient:T45
+R1	fromSpecies Arg1:T3 Arg2:T2	
+R2	fromSpecies Arg1:T5 Arg2:T9	
+R4	fromSpecies Arg1:T27 Arg2:T8	
+T10	Localization 790 802	localization
+E8	Localization:T10 hasPatient:T33
+R5	hasPart Arg1:T35 Arg2:T34	
+T12	ProteinTargeting 1037 1046	targeting
+E9	ProteinTargeting:T12 
+T32	ProteinTargeting 22 31	targeting
+E6	ProteinTargeting:T32 hasPatient:T3
+T48	ProteinTargeting 145 154	targeting
+E7	ProteinTargeting:T48 hasPatient:T5
+T50	ProteinTargeting 1082 1091	targeting
+E10	ProteinTargeting:T50 
+R13	fromSpecies Arg1:T47 Arg2:T52	

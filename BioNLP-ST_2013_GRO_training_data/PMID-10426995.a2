@@ -1,0 +1,41 @@
+T1	PositiveRegulation 24 33	triggered
+E1	PositiveRegulation:T1 hasAgent:T3 hasPatient:E15
+R1	locatedIn Arg1:T3 Arg2:T2
+T6	RegulatoryProcess 112 120	mediated
+E2	RegulatoryProcess:T6 hasAgent2:T5 hasPatient:E16
+T7	ProteinBiosynthesis 177 187	production
+E3	ProteinBiosynthesis:T7 hasPatient:T8
+T10	Increase 301 307	induce
+E4	Increase:T10 hasPatient:E5
+T12	ProteinBiosynthesis 314 324	production
+E5	ProteinBiosynthesis:T12 hasPatient:T11 hasAgent:T13
+R3	locatedIn Arg1:T15 Arg2:T14
+T18	ProteinBiosynthesis 474 484	production
+E6	ProteinBiosynthesis:T18 hasAgent:T20 hasPatient:T17
+R4	fromSpecies Arg1:T20 Arg2:T19
+T21	Increase 516 525	induction
+E7	Increase:T21 
+T22	RegulatoryProcess 529 537	mediated
+E8	RegulatoryProcess:T22 hasAgent:T23 hasPatient:E7
+T26	Increase 590 600	stimulated
+E9	Increase:T26 hasAgent:T25 hasPatient:E10
+T28	Transcription 615 628	transcription
+E10	Transcription:T28 hasPatient:T29
+T31	Producing 672 682	production
+E11	Producing:T31 hasPatient:T32
+T34	PositiveRegulation 733 743	Activation
+E12	PositiveRegulation:T34 hasAgent:T37 hasPatient:T35
+R5	locatedIn Arg1:T37 Arg2:T36
+T38	PositiveRegulation 782 790	initiate
+E13	PositiveRegulation:T38 hasAgent:E12 hasPatient:E14
+T39	ResponseProcess 791 816	innate defense mechanisms
+E14	ResponseProcess:T39 
+T40	ResponseProcess 0 23	Host defense mechanisms
+E15	ResponseProcess:T40 
+T41	CellularProcess 121 129	immunity
+E16	CellularProcess:T41 
+T16	Increase 453 464	stimulators
+E17	Increase:T16 hasAgent:T15 hasPatient:E6
+T30	Pathway 711 731	microbicidal pathway
+E18	Pathway:T30 
+E19	Increase:T26 hasAgent:T25 hasPatient:E11

@@ -1,0 +1,25 @@
+T6	CellCycle 146 156	cell-cycle
+E1	CellCycle:T6 
+T7	Transcription 167 180	transcription
+E2	Transcription:T7 hasPatient:T8
+T9	RegulatoryProcess 195 201	direct
+E3	RegulatoryProcess:T9 hasAgent:T8 hasPatient:E4
+T10	CellDivision 217 230	cell division
+E4	CellDivision:T10 
+T12	BindingToProtein 337 347	associated
+E5	BindingToProtein:T12 hasPatient2:T11 hasPatient:T15 hasPatient3:T16 hasPatient4:T17
+T13	CellCycle 357 367	cell cycle
+E6	CellCycle:T13 
+T26	Dimerization 693 705	dimerization
+E10	Dimerization:T26 hasPatient:T29
+T28	BindingOfProteinToDNA 714 721	binding
+E11	BindingOfProteinToDNA:T28 hasAgent:T29 hasPatient:T27
+T36	Decrease 968 978	countering
+E14	Decrease:T36 hasPatient:T37
+R2	hasFunction Arg1:T38 Arg2:T37
+T18	NegativeRegulationOfTranscriptionOfGene 444 451	repress
+E7	NegativeRegulationOfTranscriptionOfGene:T18 hasPatient:T20
+T19	PositiveRegulationOfTranscriptionOfGene 455 481	activate the transcription
+E8	PositiveRegulationOfTranscriptionOfGene:T19 hasPatient:T20
+T21	NegativeRegulationOfTranscriptionOfGene 915 940	repress the transcription
+E9	NegativeRegulationOfTranscriptionOfGene:T21 hasPatient:T22 hasAgent:T31

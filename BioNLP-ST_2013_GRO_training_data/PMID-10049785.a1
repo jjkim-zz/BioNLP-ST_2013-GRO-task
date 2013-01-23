@@ -1,0 +1,39 @@
+T1	Eukaryote 0 5	Human
+T2	Enzyme 6 34	phenylalanyl-tRNA synthetase
+T3	AminoAcid 77 87	amino acid
+T4	ProteinDomain 114 132	structural domains
+T7	ProteinSubunit 178 201	alpha and beta subunits
+T9	Cell 205 235	chronic myeloid leukemia cells
+T10	ProteinSubunit 258 271	alpha-subunit
+T11	ProteinSubunit 277 289	beta-subunit
+T14	AminoAcid 385 396	amino acids
+T15	Prokaryote 496 511	T. thermophilus
+T16	Enzyme 512 518	enzyme
+T17	tRNA 534 541	tRNAPhe
+T18	Prokaryote 577 588	prokaryotic
+T19	ProteinSubunit 589 601	beta-subunit
+T22	ProteinDomain 650 657	domains
+T23	Protein 713 721	proteins
+T24	MessengerRNA 745 749	mRNA
+T25	Eukaryote 757 762	human
+T26	ProteinSubunit 763 776	alpha-subunit
+T28	Cell 904 907	CML
+T32	Eukaryote 946 951	human
+T33	Enzyme 952 957	PheRS
+T34	Eukaryote 977 982	human
+T35	tRNA 1019 1023	tRNA
+T37	Prokaryote 1078 1089	prokaryotes
+T38	Eukaryote 1094 1104	eukaryotes
+T39	AminoAcid 1113 1126	phenylalanine
+T40	Eukaryote 1198 1203	human
+T41	Tissue 1204 1211	tissues
+T43	ProteinSubunit 1271 1295	alpha- and beta-subunits
+T46	ProteinSubunit 1368 1380	beta-subunit
+T47	MessengerRNA 1418 1422	mRNA
+T48	ProteinSubunit 1444 1468	alpha- and beta-subunits
+T50	Cell 1500 1504	cell
+T51	Tissue 1515 1522	tissues
+T52	Sequence 88 97	sequences
+T8	CatalyticActivity 248 257	catalytic
+T12	Enzyme 350 355	PheRS
+T45	Protein 1579 1591	(alphabeta)2

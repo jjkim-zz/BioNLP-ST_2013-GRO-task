@@ -1,0 +1,35 @@
+T1	Cell 0 6	B cell
+T3	Chromosome 27 38	chromosomal
+T5	Gene 72 87	oncogene lyt-10
+T6	Gene 103 117	NF-kappa B p50
+T7	Cell 121 127	B cell
+T9	Chromosome 148 159	chromosomal
+T11	Locus 209 239	immunoglobulin C alpha 1 locus
+T12	Gene 251 255	gene
+T13	Gene 257 263	lyt-10
+T14	Gene 276 282	lyt-10
+T15	DNA 283 287	cDNA
+T16	Protein 306 313	protein
+T17	ProteinDomain 362 386	rel (DNA-binding) domain
+T20	Protein 394 415	NF-kappa B-rel family
+T21	TranscriptionFactor 419 440	transcription factors
+T22	Protein 480 494	NF-kappa B p50
+T23	Protein 505 512	protein
+T24	ProteinDomain 537 564	proteolytic cleavage domain
+T25	ProteinDomain 582 609	ankyrin-like repeat domains
+T26	Protein 615 629	lyt-10 protein
+T28	DNARegion 642 659	kappa B sequences
+T29	Protein 711 725	NF-kappa B p50
+T30	DNA 740 743	DNA
+T34	ProteinDomain 783 797	ankyrin domain
+T35	Chromosome 799 810	Chromosomal
+T37	FusionGene 838 866	lyt-10-C alpha 1 fusion gene
+T38	Protein 880 887	protein
+T39	ProteinDomain 905 924	rel effector domain
+T40	ProteinDomain 936 961	ankyrin regulatory domain
+T42	DNARegion 973 990	kappa B sequences
+T45	Gene 1081 1092	lyt-10 gene
+T46	Gene 1165 1176	lyt-10 gene
+T47	Protein 1202 1220	rel/poly-G/ankyrin
+T52	Eukaryote 1305 1310	human
+T18	TranslationFactor 1225 1261	NF-kappa B-rel transcription factors

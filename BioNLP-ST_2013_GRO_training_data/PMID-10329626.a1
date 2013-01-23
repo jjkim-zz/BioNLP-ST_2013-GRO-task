@@ -1,0 +1,48 @@
+T1	Protein 0 13	Rel/NF-kappaB
+T3	Protein 30 35	Notch
+T7	Ligand 84 91	Jagged1
+T8	Ligand 95 101	ligand
+T11	Ligand 123 130	Jagged1
+T12	Ligand 146 156	DSL family
+T13	Ligand 160 167	ligands
+T19	Cell 250 263	cell lineages
+T20	TranscriptionFactor 300 321	transcription factors
+T23	Ligand 371 378	Jagged1
+T24	Protein 384 397	Rel/NF-kappaB
+T25	Gene 409 413	gene
+T26	Protein 420 425	c-Rel
+T27	Protein 430 434	RelA
+T29	Ligand 443 450	jagged1
+T31	Ligand 537 544	jagged1
+T32	Transcript 545 556	transcripts
+T34	Protein 593 602	NF-kappaB
+T37	Protein 668 680	IkappaBalpha
+T39	Protein 711 720	NF-kappaB
+T40	CellComponent 722 734	Cell surface
+T42	Ligand 749 756	Jagged1
+T43	Protein 760 765	c-Rel
+T45	Cell 777 781	cell
+T47	Cell 830 841	lymphocytes
+T53	Protein 943 948	Notch
+T55	Protein 986 991	HES-1
+T56	Transcript 992 1003	transcripts
+T57	Cell 1021 1028	T cells
+T58	Protein 1036 1040	CD23
+T59	Transcript 1041 1052	transcripts
+T60	Cell 1070 1077	B cells
+T61	Protein 1099 1112	Rel/NF-kappaB
+T63	Ligand 1134 1141	Jagged1
+T65	Tissue 1178 1185	splenic
+T66	Cell 1186 1193	B cells
+T67	Protein 1200 1205	c-Rel
+T69	Protein 1266 1271	c-Rel
+T71	Protein 1288 1293	Notch
+T74	Ligand 1345 1352	jagged1
+T76	Ligand 1393 1400	Jagged1
+T77	Cell 1404 1410	B-cell
+T80	Protein 1525 1530	Notch
+T81	Protein 1535 1544	NF-kappaB
+T9	Protein 106 121	Notch receptors
+T10	Protein 172 187	Notch receptors
+T15	MutantProtein 649 664	dominant mutant
+T49	Protein 857 878	Notch1/TAN-1 receptor

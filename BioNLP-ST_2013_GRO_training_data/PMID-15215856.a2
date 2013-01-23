@@ -1,0 +1,40 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+T3	RegulatoryProcess 27 35	mediates
+E1	RegulatoryProcess:T3 hasAgent:T2 hasPatient:E2
+T4	Transport 36 55	retro-translocation
+E2	Transport:T4 
+T7	Decrease 92 103	Elimination
+E3	Decrease:T7 hasPatient:T8
+T11	Transport 165 184	retro-translocation
+E4	Transport:T11 
+R3	locatedIn Arg1:T13 Arg2:T14
+T15	Transport 324 332	movement
+E5	Transport:T15 hasPatient:T13
+R4	locatedIn Arg1:T18 Arg2:T17
+T20	BindingToProtein 406 417	interacting
+E6	BindingToProtein:T20 hasPatient:T19 hasPatient2:T22
+R5	locatedIn Arg1:T22 Arg2:T21
+R6	fromSpecies Arg1:T24 Arg2:T23
+R7	hasPart Arg1:T25 Arg2:T26
+R8	fromSpecies Arg1:T29 Arg2:T28
+T30	NegativeRegulation 586 598	inactivation
+E7	NegativeRegulation:T30 hasPatient:T29
+T31	NegativeRegulation 599 607	prevents
+E8	NegativeRegulation:T31 hasAgent:E7 hasPatient:E9
+T32	Decrease 612 623	elimination
+E9	Decrease:T32 hasPatient:T34
+R9	locatedIn Arg1:T34 Arg2:T33
+T36	BindingToProtein 667 677	associates
+E10	BindingToProtein:T36 hasPatient:T35
+T38	Transport 712 716	move
+E11	Transport:T38 hasPatient:T37
+T40	NegativeRegulation 743 755	inactivation
+E12	NegativeRegulation:T40 hasPatient:T41
+R10	fromSpecies Arg1:E12 Arg2:T42
+T45	BindingToProtein 809 818	interacts
+E13	BindingToProtein:T45 hasPatient:T44 hasPatient2:T46
+R12	locatedIn Arg1:T49 Arg2:T48
+R13	fromSpecies Arg1:T49 Arg2:T47
+T50	Transport 914 920	export
+E14	Transport:T50 hasPatient:T57
+R14	locatedIn Arg1:T54 Arg2:T53

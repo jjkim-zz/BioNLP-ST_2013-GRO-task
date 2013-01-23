@@ -1,0 +1,66 @@
+T3	SignalingPathway 21 38	signaling pathway
+E1	SignalingPathway:T3 
+T4	RegulatoryProcess 39 47	mediates
+E2	RegulatoryProcess:T4 hasAgent:E1 hasPatient:E3
+T6	ResponseProcess 65 74	responses
+E3	ResponseProcess:T6 hasAgent:T5
+T8	RegulatoryProcess 115 125	influences
+E4	RegulatoryProcess:T8 hasAgent:T7 hasPatient:E5
+T9	CellHomeostasis 144 155	homeostasis
+E5	CellHomeostasis:T9 
+T12	RegulatoryProcess 305 313	mediates
+E6	RegulatoryProcess:T12 hasAgent:T11 hasPatient:E8
+T14	PositiveRegulation 331 338	induced
+E7	PositiveRegulation:T14 hasAgent:T13 hasPatient:E8
+T15	CellDeath 339 349	cell death
+E8	CellDeath:T15 
+T18	PositiveRegulation 391 401	activating
+E9	PositiveRegulation:T18 hasPatient:T19
+T21	Phosphorylation 439 453	phosphorylates
+E10	Phosphorylation:T21 hasAgent:T20 hasPatient:T22
+R5	hasPart Arg1:T22 Arg2:T23
+T24	NegativeRegulation 520 528	disrupts
+E11	NegativeRegulation:T24 hasAgent:E10 hasPatient:E12
+T25	BindingToProtein 535 546	interaction
+E12	BindingToProtein:T25 hasPatient:T26
+T27	Increase 569 577	promotes
+E13	Increase:T27 hasAgent:E10 hasPatient:E14
+T30	Localization 591 604	translocation
+E14	Localization:T30 hasPatient:T28
+R6	locatedIn Arg1:E14 Arg2:T29
+R7	precedes Arg1:E14 Arg2:E15
+T31	PositiveRegulation 618 625	induces
+E15	PositiveRegulation:T31 hasPatient:E16
+R8	locatedIn Arg1:E15 Arg2:T33
+T32	CellDeath 626 636	cell death
+E16	CellDeath:T32 
+T36	SignalingPathway 677 686	signaling
+E17	SignalingPathway:T36 
+R9	fromSpecies Arg1:E17 Arg2:T37
+R10	fromSpecies Arg1:T41 Arg2:T39
+T42	Decrease 754 762	shortens
+E18	Decrease:T42 hasAgent:T38
+T43	Increase 777 788	accelerates
+E19	Increase:T43 hasAgent:T38 hasPatient:E20
+T45	CellAging 796 801	aging
+E20	CellAging:T45 
+R11	locatedIn Arg1:E20 Arg2:T44
+T46	PositiveRegulationOfGeneExpression 809 823	overexpression
+E21	PositiveRegulationOfGeneExpression:T46 hasPatient:E22
+T47	Acetylation 827 832	cst-1
+E22	Acetylation:T47 
+T48	Increase 833 841	promotes
+E23	Increase:T48 hasAgent:E21
+T49	Decrease 856 862	delays
+E24	Decrease:T49 hasAgent:E21 hasPatient:E25
+T50	CellAging 863 868	aging
+E25	CellAging:T50 
+T52	PositiveRegulation 880 887	induced
+E26	PositiveRegulation:T52 hasAgent:T51
+T58	ResponseProcess 1141 1159	cellular responses
+E27	ResponseProcess:T58 hasAgent:T59
+T60	CellularProcess 126 139	cell survival
+E28	CellularProcess:T60 
+R1	locatedIn Arg1:E8 Arg2:T16	
+R2	fromSpecies Arg1:T16 Arg2:T17	
+E29	RegulatoryProcess:T8 hasAgent:T7 hasPatient:E28

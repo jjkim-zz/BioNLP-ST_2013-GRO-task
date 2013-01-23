@@ -1,0 +1,36 @@
+T1	Protein 0 4	UCP4
+T2	Tissue 14 19	brain
+T3	CellComponent 29 42	mitochondrial
+T4	Protein 43 50	protein
+T5	Eukaryote 86 95	mammalian
+T6	Cell 96 101	cells
+T7	Protein 103 122	Uncoupling proteins
+T8	Protein 124 128	UCPs
+T9	CellComponent 146 159	mitochondrial
+T10	Protein 160 180	transporter proteins
+T13	Eukaryote 357 362	human
+T14	Protein 363 381	uncoupling protein
+T15	Protein 397 417	uncoupling protein-4
+T16	Protein 419 423	UCP4
+T17	Protein 426 433	Protein
+T18	Protein 464 468	UCP4
+T19	Protein 488 492	UCP3
+T20	CellComponent 534 547	mitochondrial
+T21	Protein 548 568	transporter proteins
+T22	Protein 589 593	UCPs
+T23	Protein 595 599	UCP4
+T24	Transcript 600 611	transcripts
+T26	Tissue 646 651	fetal
+T28	Protein 677 681	UCP4
+T29	Eukaryote 690 695	human
+T30	Chromosome 696 706	chromosome
+T31	Protein 760 778	uncoupling protein
+T32	Protein 780 784	UCP4
+T33	CellComponent 805 817	mitochondria
+T35	Eukaryote 848 857	mammalian
+T36	Cell 858 863	cells
+T37	CellComponent 872 885	mitochondrial
+T38	Protein 934 938	UCP4
+T41	Tissue 1013 1018	brain
+T45	ProteinIdentification 296 306	identified
+T27	Tissue 656 675	adult brain tissues

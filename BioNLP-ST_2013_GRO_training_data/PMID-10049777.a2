@@ -1,0 +1,18 @@
+T4	GeneExpression 96 105	expressed
+E1	GeneExpression:T4 hasPatient:T1
+R3	locatedIn Arg1:E1 Arg2:T6
+R4	fromSpecies Arg1:T6 Arg2:T5
+R8	fromSpecies Arg1:T14 Arg2:T13
+R9	locatedIn Arg1:T15 Arg2:T14
+R10	hasPart Arg1:T16 Arg2:T17
+R11	fromSpecies Arg1:T19 Arg2:T18
+R12	locatedIn Arg1:T20 Arg2:T19
+R13	fromSpecies Arg1:T23 Arg2:T22
+T25	GeneExpression 775 784	expressed
+E2	GeneExpression:T25 hasPatient:T24
+R14	locatedIn Arg1:E2 Arg2:T27
+R15	fromSpecies Arg1:T27 Arg2:T26
+R16	fromSpecies Arg1:T29 Arg2:T28
+R17	fromSpecies Arg1:T31 Arg2:T30
+R1	encodes Arg1:T1 Arg2:T2	
+R2	fromSpecies Arg1:T3 Arg2:T7	

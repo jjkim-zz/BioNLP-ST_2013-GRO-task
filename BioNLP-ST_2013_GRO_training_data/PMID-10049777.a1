@@ -1,0 +1,27 @@
+T1	DNA 34 38	cDNA
+T5	Eukaryote 109 114	human
+T6	Tissue 115 120	heart
+T7	Eukaryote 130 135	human
+T10	Protein 162 166	hFGF
+T13	Eukaryote 275 280	human
+T14	Tissue 281 286	heart
+T15	DNA 287 291	cDNA
+T16	Protein 349 356	protein
+T17	AminoAcid 376 386	amino acid
+T18	Eukaryote 511 516	human
+T19	Tissue 517 522	heart
+T20	DNA 523 527	cDNA
+T21	Gene 669 673	gene
+T22	Eukaryote 708 713	human
+T23	Tissue 723 730	tissues
+T24	Gene 752 756	gene
+T26	Eukaryote 788 793	human
+T27	Tissue 794 799	heart
+T28	Eukaryote 827 832	human
+T29	Tissue 833 838	brain
+T30	Eukaryote 880 885	human
+T31	Tissue 886 893	tissues
+T2	Protein 56 80	fibroblast growth factor
+T3	Protein 136 160	fibroblast growth factor
+T8	Protein 208 234	fibroblast growth factor-9
+T9	ProteinCodingRegion 543 556	coding region

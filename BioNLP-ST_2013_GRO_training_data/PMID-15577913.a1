@@ -1,0 +1,41 @@
+T1	Gene 4 8	BCL6
+T2	Gene 9 23	proto-oncogene
+T4	Gene 35 38	p53
+T6	Cell 53 76	germinal-centre B cells
+T7	Eukaryote 82 87	human
+T8	Gene 88 102	proto-oncogene
+T9	Gene 103 107	BCL6
+T10	ZincCoordinatingDomain 118 137	BTB/POZ-zinc-finger
+T11	TranscriptionRepressor 138 163	transcriptional repressor
+T14	Gene 294 298	BCL6
+T17	Gene 385 389	BCL6
+T18	Gene 397 402	genes
+T19	Gene 445 449	BCL6
+T22	Gene 483 486	p53
+T23	Gene 502 506	tp53
+T24	Gene 526 530	gene
+T26	DNA 545 548	DNA
+T28	Cell 587 610	germinal-centre B cells
+T29	Protein 612 616	BCL6
+T31	Gene 627 630	p53
+T34	ProteinBindingSiteOfDNA 669 678	DNA sites
+T35	Gene 690 693	p53
+T36	Promoter 694 709	promoter region
+T37	Gene 728 731	p53
+T39	Cell 756 779	germinal-centre B cells
+T40	Gene 786 790	BCL6
+T43	Gene 827 831	BCL6
+T47	Gene 907 910	p53
+T48	MessengerRNA 911 924	messenger RNA
+T49	Protein 929 936	protein
+T50	DNA 984 987	DNA
+T52	Gene 1037 1041	BCL6
+T53	Cell 1051 1063	B cell lines
+T55	DNA 1090 1093	DNA
+T56	Gene 1154 1158	BCL6
+T57	Cell 1171 1194	germinal-centre B cells
+T58	DNA 1225 1228	DNA
+T60	Gene 1336 1339	p53
+T62	Gene 1413 1417	BCL6
+T65	Gene 1498 1501	p53
+T45	SmallInterferingRNA 856 877	short interfering RNA

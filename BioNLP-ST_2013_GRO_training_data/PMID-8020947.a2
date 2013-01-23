@@ -1,0 +1,5 @@
+R1	encodes Arg1:T3 Arg2:T2
+R2	locatedIn Arg1:T3 Arg2:T6
+R3	fromSpecies Arg1:T3 Arg2:T1
+T5	Disease 82 100	Zellweger syndrome
+E1	Disease:T5 

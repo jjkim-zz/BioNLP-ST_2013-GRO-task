@@ -1,0 +1,48 @@
+T1	Chromosome 43 54	chromosomal
+T3	Promoter 65 73	promoter
+T5	TranscriptionFactor 109 146	alpha-globin transcription factor CP2
+T6	Eukaryote 167 173	murine
+T7	Eukaryote 178 183	human
+T8	DNA 184 189	cDNAs
+T9	TranscriptionFactor 202 205	CP2
+T10	Cell 209 217	cellular
+T11	TranscriptionFactor 218 238	transcription factor
+T13	Promoter 263 284	alpha-globin promoter
+T14	Cell 312 320	cellular
+T15	Virus 325 330	viral
+T16	Promoter 331 348	promoter elements
+T17	Chromosome 399 409	chromosome
+T19	Promoter 420 428	promoter
+T21	TranscriptionFactor 456 466	the factor
+T22	Gene 468 473	Genes
+T23	Eukaryote 482 488	murine
+T24	Eukaryote 493 498	human
+T25	MessengerRNA 499 504	mRNAs
+T26	Exon 525 530	exons
+T27	Gene 551 556	genes
+T28	ChromosomalDNA 595 610	chromosomal DNA
+T29	Exon 629 634	exons
+T30	Exon 640 651	exon/intron
+T31	Eukaryote 683 688	human
+T32	Gene 689 693	gene
+T33	TranscriptionFactor 698 701	CP2
+T34	Chromosome 725 738	chromosome 12
+T35	Eukaryote 749 755	murine
+T36	Gene 756 760	gene
+T37	Chromosome 789 802	chromosome 15
+T38	Gene 809 814	Gdc-1
+T39	Gene 816 821	Wnt-1
+T40	Gene 827 831	Rarg
+T41	DNARegion 835 841	region
+T42	Eukaryote 856 861	human
+T43	Chromosome 862 875	chromosome 12
+T44	Eukaryote 881 887	murine
+T45	Eukaryote 892 897	human
+T46	Promoter 898 907	promoters
+T48	MessengerRNA 918 923	mRNAs
+T49	DNARegion 953 969	conserved region
+T50	Nucleotide 997 1008	nucleotides
+T51	TranscriptionFactor 1044 1047	CP2
+T53	TranscriptionFactor 1076 1086	the factor
+T2	Eukaryote 1124 1130	murine
+T18	Tissue 1131 1138	tissues

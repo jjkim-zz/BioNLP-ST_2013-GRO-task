@@ -1,0 +1,38 @@
+T1	Protein 18 22	APC2
+T8	Protein 165 168	Wnt
+T11	ProteinComplex 201 208	complex
+T13	Enzyme 246 255	GSK-3beta
+T14	Protein 258 272	axin/conductin
+T15	Protein 277 288	betacatenin
+T16	ProteinComplex 290 297	Complex
+T20	Protein 341 352	betacatenin
+T23	Protein 388 391	APC
+T25	Protein 421 432	betacatenin
+T26	Nucleus 440 447	nucleus
+T31	Protein 595 598	APC
+T32	Eukaryote 611 620	Mammalian
+T33	Protein 621 625	APC2
+T34	Protein 651 654	APC
+T35	ProteinDomain 666 682	domain structure
+T36	ProteinDomain 735 747	SAMP domains
+T38	Protein 791 800	conductin
+T39	Protein 807 810	APC
+T40	Protein 812 816	APC2
+T43	Protein 851 862	betacatenin
+T44	Protein 863 866	Tcf
+T45	ProteinComplex 867 876	complexes
+T48	Protein 947 950	APC
+T50	Eukaryote 978 983	Human
+T51	Protein 984 988	APC2
+T52	Chromosome 997 1015	chromosome 19p13.3
+T53	Protein 1017 1020	APC
+T54	Protein 1025 1029	APC2
+T2	Protein 43 87	adenomatous polyposis coli tumour suppressor
+T5	Cell 373 378	cells
+T4	Tissue 357 372	colon carcinoma
+T6	Tissue 955 970	colon carcinoma
+T21	Cell 971 976	cells
+T49	Function 1060 1069	functions
+T55	ExperimentalMethod 937 943	assays
+T3	Protein 93 151	adenomatous polyposis coli (APC) tumour-suppressor protein
+T17	TranscriptionFactor 485 511	Tcf-4 transcription factor

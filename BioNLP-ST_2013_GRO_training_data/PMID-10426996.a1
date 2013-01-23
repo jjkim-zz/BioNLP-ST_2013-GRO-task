@@ -1,0 +1,23 @@
+T1	Cell 0 4	Cell
+T4	Prokaryote 33 42	bacterial
+T5	Protein 43 55	lipoproteins
+T6	Protein 64 84	toll-like receptor-2
+T14	Protein 227 239	lipoproteins
+T15	Protein 241 245	BLPs
+T18	Protein 290 294	BLPs
+T21	Cell 329 350	THP-1 monocytic cells
+T22	Eukaryote 359 364	human
+T23	Protein 365 385	Toll-like receptor-2
+T24	Protein 387 392	hTLR2
+T25	Protein 395 399	BLPs
+T28	Cell 431 451	epithelial cell line
+T29	Protein 469 474	hTLR2
+T30	Protein 489 493	BLPs
+T32	TranscriptionActivator 505 526	nuclear factor-kappaB
+T33	TranscriptionActivator 530 555	transcriptional activator
+T34	Gene 581 586	genes
+T37	Protein 632 637	hTLR2
+T38	Protein 645 650	hTLR2
+T39	Microorganism 679 688	microbial
+T9	Prokaryote 174 193	bacterial pathogens
+T10	Prokaryote 199 218	bacterial pathogens

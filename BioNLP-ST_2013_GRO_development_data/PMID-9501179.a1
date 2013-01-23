@@ -1,0 +1,25 @@
+T1	Protein 0 5	E2F-6
+T2	Protein 23 33	E2F family
+T3	TranscriptionRepressor 55 80	transcriptional repressor
+T4	Protein 86 96	E2F family
+T5	Protein 100 108	proteins
+T8	Gene 184 189	genes
+T11	Protein 258 270	E2F proteins
+T14	Protein 383 405	retinoblastoma protein
+T15	Protein 407 410	pRB
+T16	Protein 413 417	p107
+T17	Protein 422 426	p130
+T23	Protein 565 582	E2F family member
+T24	Protein 584 589	E2F-6
+T25	TranscriptionFactor 658 687	transcription factor families
+T27	DNA 710 713	DNA
+T29	Protein 736 741	E2F-6
+T30	Protein 776 794	E2F family members
+T31	Protein 901 903	it
+T37	Function 983 991	activity
+T38	ProteinComplex 1005 1018	E2F complexes
+T39	Protein 1025 1028	pRB
+T40	Protein 1031 1035	p107
+T41	Protein 1041 1045	p130
+T20	Gene 485 505	E2F-responsive genes
+T22	Gene 944 964	E2F responsive genes

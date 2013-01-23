@@ -1,0 +1,44 @@
+T5	RegulatoryProcess 59 69	regulation
+E1	RegulatoryProcess:T5 hasAgent:T6 hasPatient:T4
+T9	NegativeRegulation 136 146	suppresses
+E2	NegativeRegulation:T9 hasAgent:T8 hasPatient:E3
+T10	Transport 156 165	secretion
+E3	Transport:T10 hasPatient:T11
+T12	GeneExpression 204 214	expression
+E4	GeneExpression:T12 hasPatient:T14
+R1	encodes Arg1:T14 Arg2:T13
+R2	locatedIn Arg1:T17 Arg2:T16
+T18	BindingOfProteinToDNA 317 322	bound
+E5	BindingOfProteinToDNA:T18 hasAgent:T17 hasPatient:T20
+R3	locatedIn Arg1:T20 Arg2:T23
+R4	encodes Arg1:T23 Arg2:T22
+R5	fromSpecies Arg1:T23 Arg2:T21
+T26	PositiveRegulation 571 579	activate
+E6	PositiveRegulation:T26 hasAgent:T25 hasPatient:T27
+T28	ModificationOfMolecularEntity 614 625	alterations
+E7	ModificationOfMolecularEntity:T28 
+R7	encodes Arg1:T32 Arg2:T33
+R8	encodes Arg1:T32 Arg2:T34
+T35	Increase 739 747	elevated
+E9	Increase:T35 hasPatient:T32 hasAgent:E10
+T36	Increase 754 762	increase
+E10	Increase:T36 hasPatient:T37
+T39	Decrease 826 836	eliminated
+E11	Decrease:T39 hasAgent:T38 hasPatient:E12
+T40	FormationOfProteinDNAComplex 837 846	formation
+E12	FormationOfProteinDNAComplex:T40 hasPatient:T41
+T43	BindingToProtein 925 936	interacting
+E13	BindingToProtein:T43 hasPatient:T42 hasPatient2:T45 hasPatient3:T44
+T51	BindingOfProteinToDNA 1088 1099	interaction
+E14	BindingOfProteinToDNA:T51 hasAgent:T50 hasPatient:T49
+T53	RegulatoryProcess 1113 1121	mediated
+E15	RegulatoryProcess:T53 hasAgent:T52 hasPatient:E16
+T54	NegativeRegulationOfTranscription 1122 1149	transcriptional suppression
+E16	NegativeRegulationOfTranscription:T54 
+R11	hasFunction Arg1:T56 Arg2:T57
+R12	hasFunction Arg1:T56 Arg2:T58
+T59	Transcription 1259 1274	transcriptional
+E18	Transcription:T59 
+T3	NegativeRegulation 45 53	negative
+E19	NegativeRegulation:T3 hasPatient:E1
+E8	NegativeRegulation:T9 hasAgent:T8 hasPatient:E4

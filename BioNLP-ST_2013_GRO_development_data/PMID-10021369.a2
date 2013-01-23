@@ -1,0 +1,49 @@
+T7	RegulatoryProcess 152 160	controls
+E3	RegulatoryProcess:T7 hasPatient:E4 hasAgent:T3
+T9	SignalingPathway 169 187	signalling pathway
+E4	SignalingPathway:T9 
+R3	hasPart Arg1:T11 Arg2:T14
+R4	hasPart Arg1:T11 Arg2:T15
+T18	PositiveRegulation 308 315	induces
+E7	PositiveRegulation:T18 hasPatient:E8 hasAgent:T16
+T19	ProteinCatabolism 326 337	degradation
+E8	ProteinCatabolism:T19 hasPatient:T20
+T22	Decrease 380 384	loss
+E9	Decrease:T22 hasPatient:T23
+T24	Increase 405 417	accumulation
+E10	Increase:T24 hasPatient:T25
+R7	locatedIn Arg1:E10 Arg2:T26
+T27	BindingToProtein 458 463	binds
+E11	BindingToProtein:T27 hasPatient:T17
+T28	PositiveRegulation 471 480	activates
+E12	PositiveRegulation:T28 hasPatient:T17
+R8	fromSpecies Arg1:T33 Arg2:T32
+T37	BindingToProtein 780 787	binding
+E13	BindingToProtein:T37 hasPatient2:T38
+T41	RegulatoryProcess 817 826	regulates
+E14	RegulatoryProcess:T41 hasAgent:T40 hasPatient:E15
+T42	FormationOfTranscriptionFactorComplex 831 840	formation
+E15	FormationOfTranscriptionFactorComplex:T42 hasPatient:T45
+R9	hasPart Arg1:T45 Arg2:T43
+R10	hasPart Arg1:T45 Arg2:T44
+T46	Transcription 910 925	transcriptional
+E16	Transcription:T46 
+T47	PositiveRegulation 926 936	activation
+E17	PositiveRegulation:T47 hasPatient:E16
+R12	locatedIn Arg1:T51 Arg2:T52
+R13	fromSpecies Arg1:T51 Arg2:T50
+T56	DevelopmentalProcess 1073 1084	development
+E18	DevelopmentalProcess:T56 
+T57	Disease 1089 1095	cancer
+E19	Disease:T57 
+R5	locatedIn Arg1:T5 Arg2:T4	
+R17	locatedIn Arg1:E9 Arg2:T5	
+R11	locatedIn Arg1:T21 Arg2:T6	
+R23	locatedIn Arg1:T48 Arg2:T21	
+R1	hasPart Arg1:T33 Arg2:T36	
+R6	hasPart Arg1:T11 Arg2:T3	
+T10	PositiveRegulation 392 397	leads
+E1	PositiveRegulation:T10 hasAgent:E9 hasPatient:E10
+R14	hasFunction Arg1:T54 Arg2:T49	
+R15	hasFunction Arg1:T53 Arg2:T49	
+R16	hasPart Arg1:T11 Arg2:T13	

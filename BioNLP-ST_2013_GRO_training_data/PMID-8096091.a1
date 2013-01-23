@@ -1,0 +1,27 @@
+T1	TranscriptionFactor 0 10	NF-kappa B
+T4	Protein 44 59	I kappa B alpha
+T5	Eukaryote 115 125	eukaryotic
+T6	TranscriptionFactor 126 146	transcription factor
+T7	TranscriptionFactor 147 169	nuclear factor-kappa B
+T8	TranscriptionFactor 171 181	NF-kappa B
+T10	Cell 243 255	T lymphocyte
+T13	Nucleus 279 286	Nuclear
+T15	TranscriptionFactor 301 311	NF-kappa B
+T17	CellComponent 359 370	cytoplasmic
+T18	Protein 381 396	I kappa B alpha
+T19	Chemical 398 411	Phorbol ester
+T20	Protein 416 443	tumor necrosis factor-alpha
+T22	Nucleus 457 464	nuclear
+T23	TranscriptionFactor 465 475	NF-kappa B
+T25	Protein 529 544	I kappa B alpha
+T27	Protein 567 582	I kappa B alpha
+T29	Protein 639 654	I kappa B alpha
+T30	Gene 655 659	gene
+T33	ProteinSubunit 721 728	subunit
+T34	TranscriptionFactor 732 742	NF-kappa B
+T35	Protein 781 796	I kappa B alpha
+T36	Protein 802 805	p65
+T38	TranscriptionFactor 843 853	NF-kappa B
+T39	DNA 854 857	DNA
+T41	TranscriptionFactor 961 971	NF-kappa B
+T44	Protein 999 1014	I kappa B alpha

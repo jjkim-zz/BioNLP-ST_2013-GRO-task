@@ -1,0 +1,50 @@
+T1	TranscriptionFactor 8 40	Ets-related transcription factor
+T2	TranscriptionFactor 42 47	Elf-1
+T4	Virus 58 93	human immunodeficiency virus type 2
+T5	RegulatoryDNARegion 94 113	regulatory elements
+T7	Cell 166 173	T cells
+T8	Virus 175 210	Human immunodeficiency virus type 1
+T9	Virus 212 217	HIV-1
+T10	Virus 223 228	HIV-2
+T11	Virus 254 266	retroviruses
+T13	Eukaryote 292 298	humans
+T14	Virus 314 321	viruses
+T17	Virus 411 416	HIV-2
+T18	Virus 462 467	HIV-1
+T19	Virus 495 500	HIV-1
+T20	Virus 505 510	HIV-2
+T21	Cell 556 562	T-cell
+T23	Cell 599 608	host cell
+T24	TranscriptionFactor 609 630	transcription factors
+T25	Virus 647 652	HIV-1
+T26	TranscriptionFactor 658 678	transcription factor
+T27	TranscriptionFactor 679 689	NF-kappa B
+T30	TranscriptionFactor 759 766	factors
+T31	TranscriptionFactor 782 792	NF-kappa B
+T33	Virus 818 823	HIV-2
+T35	Cell 850 857	T cells
+T36	TranscriptionFactor 903 935	Ets-related transcription factor
+T37	TranscriptionFactor 937 942	Elf-1
+T39	DNARegion 970 988	purine-rich motifs
+T40	Virus 996 1001	HIV-2
+T41	Enhancer 1002 1010	enhancer
+T42	TranscriptionFactor 1060 1065	Elf-1
+T44	DNABindingSite 1074 1079	sites
+T46	Virus 1110 1115	HIV-2
+T48	Cell 1140 1146	T-cell
+T49	Protein 1147 1155	receptor
+T51	Cell 1165 1171	T-cell
+T53	TranscriptionFactor 1194 1199	Elf-1
+T54	TranscriptionFactor 1212 1218	factor
+T56	Cell 1240 1246	T-cell
+T57	Nucleus 1247 1263	nuclear extracts
+T59	DNABindingSite 1278 1289	these sites
+T60	TranscriptionFactor 1338 1343	Elf-1
+T61	TranscriptionFactor 1355 1375	transcription factor
+T62	Cell 1412 1418	T-cell
+T63	Protein 1419 1427	receptor
+T66	Virus 1457 1462	HIV-2
+T68	Virus 1564 1569	HIV-1
+T69	Virus 1574 1579	HIV-2
+T70	Virus 1655 1660	HIV-2
+T15	EukaryoticCell 353 383	human-peripheral-blood T cells

@@ -1,0 +1,52 @@
+T1	Eukaryote 0 9	Mammalian
+T2	Protein 10 17	staufen
+T3	RNA 23 42	double-stranded-RNA
+T6	Protein 48 71	tubulin-binding protein
+T8	CellComponent 95 122	rough endoplasmic reticulum
+T9	Protein 124 131	Staufen
+T10	Protein 133 137	Stau
+T11	RNA 144 163	double-stranded RNA
+T12	RNA 165 170	dsRNA
+T14	Protein 180 187	protein
+T15	MessengerRNA 200 204	mRNA
+T18	Eukaryote 235 245	Drosophila
+T19	MessengerRNA 289 293	mRNA
+T21	Eukaryote 307 314	mammals
+T22	Eukaryote 326 331	human
+T23	Protein 333 338	hStau
+T24	Eukaryote 344 349	mouse
+T25	Protein 351 356	mStau
+T26	Protein 358 365	staufen
+T27	DNA 366 371	cDNAs
+T28	Eukaryote 376 382	humans
+T29	Transcript 389 400	transcripts
+T31	Gene 439 448	Stau gene
+T32	Protein 466 474	proteins
+T33	Protein 524 529	hStau
+T34	Protein 534 539	mStau
+T36	RNA 545 550	dsRNA
+T37	RNA 579 584	dsRNA
+T39	ProteinDomain 593 600	domains
+T40	Protein 605 612	tubulin
+T41	CellComponent 641 652	microtubule
+T43	ProteinDomain 661 667	domain
+T44	Protein 671 677	MAP-1B
+T45	Protein 695 699	Stau
+T46	CellComponent 712 724	cytoskeletal
+T47	RNA 729 743	RNA components
+T48	Cell 804 809	cells
+T49	Protein 824 828	Stau
+T51	CellComponent 849 876	rough endoplasmic reticulum
+T52	CellComponent 878 881	RER
+T55	Protein 901 920	RNA-binding protein
+T56	MessengerRNA 924 928	mRNA
+T58	CellComponent 946 949	RER
+T59	CellComponent 993 1005	microtubules
+T62	Protein 1074 1093	RNA-binding protein
+T63	CellComponent 1109 1118	ribosomal
+T64	Protein 1119 1127	proteins
+T65	CellComponent 1138 1141	RER
+T66	Protein 1169 1177	proteins
+T68	RNA 1198 1201	RNA
+T70	ExperimentalMethod 745 778	Immunofluorescent double labeling
+T4	Eukaryote 794 803	mammalian

@@ -1,0 +1,73 @@
+T8	Splicing 125 133	splicing
+E2	Splicing:T8 hasPatient:T7 hasAgent:T6
+T9	BindingToRNA 139 155	assembly pathway
+E3	BindingToRNA:T9 
+T14	NegativeRegulation 252 260	blocking
+E5	NegativeRegulation:T14 hasPatient:E6 hasAgent:E31
+T15	BindingToRNA 265 273	assembly
+E6	BindingToRNA:T15 hasPatient:T16
+T26	Mutation 619 628	Mutations
+E10	Mutation:T26 hasPatient:T27
+R6	hasPart Arg1:T27 Arg2:T30
+R7	hasPart Arg1:T27 Arg2:T29
+R8	hasPart Arg1:T27 Arg2:T28
+T31	MolecularInteraction 691 702	disassembly
+E11	MolecularInteraction:T31 hasAgent:E10 hasPatient:T18
+T33	CatabolicPathway 735 746	degradation
+E12	CatabolicPathway:T33 hasPatient:T34 hasAgent:E10
+T35	PositiveRegulation 798 809	accumulated
+E13	PositiveRegulation:T35 hasPatient:T36 hasAgent:T5
+T43	Increase 1074 1085	accumulates
+E17	Increase:T43 hasPatient:T42
+T45	ProteinBiosynthesis 1109 1119	production
+E19	ProteinBiosynthesis:T45 hasPatient:T46 hasAgent:E16
+T47	NegativeRegulation 1170 1179	abolished
+E20	NegativeRegulation:T47 hasPatient:E19
+T49	Splicing 1233 1239	splice
+E21	Splicing:T49 hasPatient:T50
+T53	Mutation 1341 1349	mutation
+E23	Mutation:T53 
+T54	Affecting 1365 1372	affects
+E24	Affecting:T54 hasAgent:E23 hasPatient:E25
+T55	BindingToRNA 1373 1381	assembly
+E25	BindingToRNA:T55 hasPatient:T56
+R12	hasPart Arg1:T64 Arg2:T65
+R1	fromSpecies Arg1:T1 Arg2:T4	
+T2	BindingToRNA 418 426	assemble
+E1	BindingToRNA:T2 hasPatient:T21 hasPatient2:T13
+T11	Increase 370 380	accumulate
+E7	Increase:T11 hasPatient:T20
+R2	locatedIn Arg1:T23 Arg2:T10	
+R5	fromSpecies Arg1:T23 Arg2:T12	
+T24	Mutation 242 251	mutations
+E31	Mutation:T24 
+T38	Splicing 539 547	splicing
+E32	Splicing:T38 
+T39	NegativeRegulation 548 557	defective
+E33	NegativeRegulation:T39 hasPatient:E32
+T52	BindingToRNA 601 609	assembly
+E34	BindingToRNA:T52 
+T57	NegativeRegulation 610 617	defects
+E35	NegativeRegulation:T57 hasPatient:E34
+R4	hasPart Arg1:T18 Arg2:T32	
+R9	hasPart Arg1:T18 Arg2:T19	
+T59	BindingToRNA 947 955	assembly
+E4	BindingToRNA:T59 
+T61	NegativeRegulation 956 962	defect
+E8	NegativeRegulation:T61 hasPatient:E4
+T66	NegativeRegulation 994 1002	impaired
+E14	NegativeRegulation:T66 hasPatient:E15
+T67	Splicing 1006 1014	splicing
+E15	Splicing:T67 
+T68	Splicing 1090 1098	splicing
+E16	Splicing:T68 
+T71	Splicing 1300 1308	splicing
+E18	Splicing:T71 
+T72	NegativeRegulation 1309 1318	defective
+E22	NegativeRegulation:T72 hasPatient:E18
+R3	locatedIn Arg1:T60 Arg2:T62	
+T22	BindingToRNA 1564 1574	associated
+E9	BindingToRNA:T22 hasPatient:T76
+E26	PositiveRegulation:T35 hasPatient:T37 hasAgent:T5
+E27	PositiveRegulation:T35 hasPatient:T37 hasAgent:T3
+E28	PositiveRegulation:T35 hasPatient:T36 hasAgent:T3

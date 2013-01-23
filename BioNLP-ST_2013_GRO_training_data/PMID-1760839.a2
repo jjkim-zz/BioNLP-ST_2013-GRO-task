@@ -1,0 +1,37 @@
+T2	Disease 7 15	lymphoma
+E1	Disease:T2 
+T4	Mutation 39 52	translocation
+E2	Mutation:T4 hasPatient:T3
+R1	locatedIn Arg1:E2 Arg2:T1
+T8	Disease 128 136	lymphoma
+E3	Disease:T8 
+T10	Mutation 160 173	translocation
+E4	Mutation:T10 hasPatient:T9
+R2	locatedIn Arg1:E4 Arg2:T7
+R4	encodes Arg1:T15 Arg2:T16
+R5	hasPart Arg1:T20 Arg2:T17
+R6	hasPart Arg1:T22 Arg2:T24
+R7	hasPart Arg1:T22 Arg2:T25
+T27	BindingOfProteinToDNA 634 638	bind
+E6	BindingOfProteinToDNA:T27 hasAgent:T26 hasPatient:T28
+T31	BindingOfProteinToDNA 744 751	binding
+E7	BindingOfProteinToDNA:T31 hasPatient:T30
+T32	PositiveRegulation 755 764	activated
+E8	PositiveRegulation:T32 hasAgent:E9 hasPatient:E7
+T33	Decrease 768 775	removal
+E9	Decrease:T33 hasPatient:T34
+T36	Mutation 811 824	translocation
+E10	Mutation:T36 hasPatient:T35
+R9	encodes Arg1:T37 Arg2:T38
+R10	hasPart Arg1:T38 Arg2:T39
+T41	BindingOfProteinToDNA 967 972	binds
+E11	BindingOfProteinToDNA:T41 hasAgent:T38 hasPatient:T42
+T43	PositiveRegulation 1029 1039	activation
+E12	PositiveRegulation:T43 
+T44	Mutation 1059 1073	rearrangements
+E13	Mutation:T44 hasPatient:T45
+T51	PositiveRegulation 1291 1301	activation
+E14	PositiveRegulation:T51 hasAgent:T47
+T53	Disease 1311 1317	cancer
+E15	Disease:T53 
+R13	fromSpecies Arg1:E15 Arg2:T52

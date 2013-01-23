@@ -1,0 +1,46 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+R2	locatedIn Arg1:T3 Arg2:T1
+T5	RNABiosynthesis 111 135	RNA synthesis processing
+E1	RNABiosynthesis:T5 
+T12	CellCyclePhaseTransition 300 322	cell cycle progression
+E2	CellCyclePhaseTransition:T12 
+T13	CellGrowth 324 337	proliferation
+E3	CellGrowth:T13 
+T14	CellDifferentiation 343 363	cell differentiation
+E4	CellDifferentiation:T14 
+T17	Transcription 600 613	transcription
+E5	Transcription:T17 
+T18	Translation 615 626	translation
+E6	Translation:T18 
+T19	RNASplicing 632 640	splicing
+E7	RNASplicing:T19 
+R5	locatedIn Arg1:T20 Arg2:T21
+R6	locatedIn Arg1:T22 Arg2:T23
+T24	Transcription 825 838	transcription
+E8	Transcription:T24 
+T30	Transcription 997 1010	transcription
+E9	Transcription:T30 
+R7	fromSpecies Arg1:T34 Arg2:T33
+T36	Mitosis 1397 1404	mitosis
+E10	Mitosis:T36 
+T38	CellCyclePhase 1442 1451	metaphase
+E11	CellCyclePhase:T38 
+T45	CellularMetabolicProcess 168 179	replication
+E13	CellularMetabolicProcess:T45 hasPatient:T7
+R3	locatedIn Arg1:T11 Arg2:T10	
+R4	locatedIn Arg1:T16 Arg2:T47	
+T25	Localization 839 844	sites
+E14	Localization:T25 hasPatient:T22
+T27	CellularMetabolicProcess 903 919	early replicatio
+E15	CellularMetabolicProcess:T27 
+T48	Localization 921 926	sites
+E16	Localization:T48 hasPatient:T26
+T49	CellularMetabolicProcess 1015 1026	replication
+E17	CellularMetabolicProcess:T49 
+R10	locatedIn Arg1:T51 Arg2:T50	
+R11	locatedIn Arg1:T50 Arg2:T32	
+R12	locatedIn Arg1:T31 Arg2:T51	
+R8	locatedIn Arg1:T40 Arg2:T44	
+R9	locatedIn Arg1:T41 Arg2:T40	
+R13	locatedIn Arg1:T42 Arg2:T40	
+R14	locatedIn Arg1:T43 Arg2:T40	

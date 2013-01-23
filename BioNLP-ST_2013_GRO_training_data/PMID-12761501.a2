@@ -1,0 +1,42 @@
+R1	fromSpecies Arg1:T2 Arg2:T1
+T3	PositiveRegulation 68 76	activate
+E1	PositiveRegulation:T3 hasAgent:T2 hasPatient:E2
+T6	SignalingPathway 96 114	signaling pathways
+E2	SignalingPathway:T6 
+R2	fromSpecies Arg1:T8 Arg2:T7
+T9	PositiveRegulation 206 214	activate
+E3	PositiveRegulation:T9 hasAgent:T8 hasPatient:E4
+T12	SignalingPathway 238 256	signaling pathways
+E4	SignalingPathway:T12 
+T17	SignalingPathway 461 478	signaling pathway
+E5	SignalingPathway:T17 
+T22	PositiveRegulation 574 583	activated
+E6	PositiveRegulation:T22 hasAgent:T18 hasPatient:E7
+T23	Transcription 588 601	transcription
+E7	Transcription:T23 hasPatient:T24
+R6	hasPart Arg1:T24 Arg2:T25
+R7	hasPart Arg1:T25 Arg2:T26
+T28	PositiveRegulation 742 750	activate
+E8	PositiveRegulation:T28 hasAgent:T27 hasPatient:E9
+T30	SignalingPathway 765 772	pathway
+E9	SignalingPathway:T30 
+T32	PositiveRegulation 839 848	activator
+E10	PositiveRegulation:T32 hasAgent:T33 hasPatient:E11
+T35	SignalingPathway 872 879	pathway
+E11	SignalingPathway:T35 
+T38	SignalingPathway 925 933	pathways
+E12	SignalingPathway:T38 
+T41	PositiveRegulation 1058 1066	activate
+E13	PositiveRegulation:T41 hasAgent:T40 hasPatient:E14
+T43	SignalingPathway 1076 1083	pathway
+E14	SignalingPathway:T43 
+T47	PositiveRegulation 1173 1181	activate
+E15	PositiveRegulation:T47 hasAgent:T46 hasPatient:E16
+T49	SignalingPathway 1191 1198	pathway
+E16	SignalingPathway:T49 
+T53	SignalingPathway 1276 1284	pathways
+E17	SignalingPathway:T53 
+T55	SignalingPathway 1365 1373	pathways
+E18	SignalingPathway:T55 
+R3	fromSpecies Arg1:T20 Arg2:T19	
+R4	locatedIn Arg1:T18 Arg2:T20	

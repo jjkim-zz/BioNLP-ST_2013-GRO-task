@@ -1,0 +1,56 @@
+R1	locatedIn Arg1:T3 Arg2:T2
+R2	locatedIn Arg1:T3 Arg2:T6
+R3	locatedIn Arg1:T5 Arg2:T6
+T7	Phosphorylation 124 139	Phosphorylation
+E2	Phosphorylation:T7 hasPatient:T9
+R4	fromSpecies Arg1:T9 Arg2:T8
+T11	ProteinBiosynthesis 234 251	protein synthesis
+E3	ProteinBiosynthesis:T11 
+T12	RegulatoryProcess 255 264	regulated
+E4	RegulatoryProcess:T12 hasPatient:E3
+T13	Phosphorylation 321 336	phosphorylation
+E5	Phosphorylation:T13 hasAgent:T14
+R5	fromSpecies Arg1:T17 Arg2:T15
+R6	fromSpecies Arg1:T22 Arg2:T21
+T26	Phosphorylation 675 690	phosphorylation
+E6	Phosphorylation:T26 hasAgent:T24 hasPatient:T27
+R7	fromSpecies Arg1:T29 Arg2:T28
+T30	RegulatoryProcess 741 750	regulated
+E7	RegulatoryProcess:T30 hasPatient:T29
+R8	hasFunction Arg1:T33 Arg2:T36
+R9	hasFunction Arg1:T34 Arg2:T36
+T35	Phosphorylation 842 861	autophosphorylation
+E8	Phosphorylation:T35 hasPatient:T33
+T37	Mutation 891 905	point mutation
+E9	Mutation:T37 
+T38	NegativeRegulation 969 978	abolished
+E10	NegativeRegulation:T38 hasAgent:E9 hasPatient:T40
+R10	hasFunction Arg1:T39 Arg2:T40
+T42	Phosphorylation 1044 1062	autophosphorylated
+E11	Phosphorylation:T42 hasPatient:T41
+T43	GeneExpression 1068 1077	expressed
+E12	GeneExpression:T43 hasPatient:T41
+R11	locatedIn Arg1:E12 Arg2:T44
+R12	encodes Arg1:T46 Arg2:T45
+T47	TranscriptionOfGene 1158 1167	expressed
+E13	TranscriptionOfGene:T47 hasPatient:T46
+R13	locatedIn Arg1:E13 Arg2:T48
+R15	locatedIn Arg1:T51 Arg2:T52
+R16	locatedIn Arg1:T53 Arg2:T55
+R17	fromSpecies Arg1:T55 Arg2:T54
+T62	RegulatoryProcess 1494 1504	regulating
+E15	RegulatoryProcess:T62 hasAgent:T61 hasPatient:E16
+T63	ProteinBiosynthesis 1505 1522	protein synthesis
+E16	ProteinBiosynthesis:T63 
+R18	locatedIn Arg1:E16 Arg2:T64
+T66	ResponseProcess 268 276	response
+E1	ResponseProcess:T66 
+R20	precedes Arg1:E1 Arg2:E4	
+T49	Decrease 1188 1191	low
+E14	Decrease:T49 hasPatient:E17
+T67	TranscriptionOfGene 1192 1202	expression
+E17	TranscriptionOfGene:T67 
+T68	Increase 1260 1271	high levels
+E18	Increase:T68 hasPatient:T51
+R14	locatedIn Arg1:E16 Arg2:T65	
+E19	Phosphorylation:T35 hasPatient:T34

@@ -1,0 +1,43 @@
+R1	hasPart Arg1:T2 Arg2:T1
+T3	BindingToProtein 41 52	Interaction
+E1	BindingToProtein:T3 hasPatient2:T4
+R2	hasPart Arg1:T5 Arg2:T4
+T12	BindingToProtein 197 205	interact
+E2	BindingToProtein:T12 hasPatient2:T13
+T15	BindingToProtein 316 327	interaction
+E3	BindingToProtein:T15 hasPatient:T14
+T17	BindingToProtein 385 396	interaction
+E4	BindingToProtein:T17 hasAgent:T16
+T19	Binding 484 500	binding activity
+E5	Binding:T19 hasPatient:T18
+R5	hasPart Arg1:T26 Arg2:T27
+T28	BindingToProtein 827 835	interact
+E6	BindingToProtein:T28 
+T35	Binding 1019 1026	binding
+E9	Binding:T35 hasAgent:T36 hasPatient:T34
+T41	Transcription 1252 1267	transcriptional
+E10	Transcription:T41 
+T42	PositiveRegulation 1268 1278	activation
+E11	PositiveRegulation:T42 hasPatient:E10 hasAgent:T38
+R6	hasPart Arg1:T45 Arg2:T44
+R7	hasPart Arg1:T6 Arg2:T4	
+T47	Homodimerization 726 736	homodimers
+E13	Homodimerization:T47 hasAgent:T25
+T48	Heterodimerization 770 781	heterodimer
+E14	Heterodimerization:T48 hasAgent:T25
+R8	hasPart Arg1:T23 Arg2:T22	
+R9	hasPart Arg1:T24 Arg2:T22	
+T49	Heterodimerization 900 913	heterodimeric
+E15	Heterodimerization:T49 
+T31	Homodimerization 918 940	homodimer interactions
+E7	Homodimerization:T31 
+T32	Homodimerization 1109 1119	homodimers
+E8	Homodimerization:T32 
+T50	Heterodimerization 1128 1139	heterodimer
+E16	Heterodimerization:T50 
+T51	CellularMetabolicProcess 1238 1244	repair
+E17	CellularMetabolicProcess:T51 hasPatient:T40 hasAgent:T38
+R3	hasPart Arg1:T8 Arg2:T13	
+R4	hasPart Arg1:T10 Arg2:T13	
+E12	PositiveRegulation:T42 hasPatient:E10 hasAgent:T39
+E18	CellularMetabolicProcess:T51 hasPatient:T40 hasAgent:T39

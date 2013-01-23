@@ -1,0 +1,42 @@
+T2	PositiveRegulation 5 15	activation
+E1	PositiveRegulation:T2 hasPatient:T1
+T3	CellDeath 20 29	apoptosis
+E2	CellDeath:T3 
+T7	CellDeath 86 95	Apoptosis
+E3	CellDeath:T7 
+T8	ResponseProcess 162 170	response
+E4	ResponseProcess:T8 hasPatient:E3 hasAgent:T9
+T13	Producing 219 226	produce
+E5	Producing:T13 hasPatient:T14 hasAgent:T10
+T16	PositiveRegulation 254 261	trigger
+E6	PositiveRegulation:T16 hasPatient:E7 hasAgent:T14
+T17	ResponseProcess 273 288	immune response
+E7	ResponseProcess:T17 
+T19	PositiveRegulation 309 315	induce
+E8	PositiveRegulation:T19 hasAgent:T18 hasPatient:E9
+T20	CellDeath 316 325	apoptosis
+E9	CellDeath:T20 
+R3	locatedIn Arg1:E9 Arg2:T21
+R4	fromSpecies Arg1:T23 Arg2:T22
+T26	PositiveRegulation 405 414	initiated
+E10	PositiveRegulation:T26 hasAgent:T25 hasPatient:E11
+T27	CellDeath 415 424	apoptosis
+E11	CellDeath:T27 
+R5	locatedIn Arg1:E11 Arg2:T28
+R6	locatedIn Arg1:T29 Arg2:T28
+T31	Increase 494 504	stimulated
+E12	Increase:T31 hasAgent:T30 hasPatient:T32
+T35	PositiveRegulation 592 601	activated
+E13	PositiveRegulation:T35 hasAgent:T30 hasPatient:E14
+T36	CellularMetabolicProcess 606 623	respiratory burst
+E14	CellularMetabolicProcess:T36 
+T40	Producing 689 697	products
+E15	Producing:T40 
+R7	fromSpecies Arg1:E15 Arg2:T39
+T41	CellDeath 699 708	apoptosis
+E16	CellDeath:T41 
+T42	ResponseProcess 714 737	host defense mechanisms
+E17	ResponseProcess:T42 
+R1	fromSpecies Arg1:T5 Arg2:T4	
+T11	ResponseProcess 568 580	host defense
+E18	ResponseProcess:T11 

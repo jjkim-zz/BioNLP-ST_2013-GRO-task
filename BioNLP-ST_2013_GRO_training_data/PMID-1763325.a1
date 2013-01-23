@@ -1,0 +1,22 @@
+T1	Protein 22 30	cofactor
+T4	Eukaryote 64 73	mammalian
+T5	ProteinDomain 74 85	homeodomain
+T6	Protein 86 93	protein
+T8	TranscriptionFactor 114 135	transcription factors
+T10	Eukaryote 186 196	eukaryotic
+T12	TranscriptionFactor 214 247	Hepatocyte nuclear factor-1 alpha
+T13	TranscriptionFactor 249 260	HNF-1 alpha
+T14	ProteinDomain 267 278	homeodomain
+T15	Protein 290 297	protein
+T16	Protein 352 363	HNF-1 alpha
+T17	Protein 365 369	DCoH
+T18	Tissue 414 420	tissue
+T21	TranscriptionFactor 495 513	HNF-1 alpha dimers
+T22	Protein 552 556	DCoH
+T23	TranscriptionFactor 557 568	HNF-1 alpha
+T24	ProteinComplex 569 576	complex
+T25	ProteinDomain 597 616	dimerization domain
+T26	TranscriptionFactor 620 631	HNF-1 alpha
+T29	Protein 855 859	DCoH
+T33	ProteinComplex 919 928	complexes
+T34	ProteinComplex 988 995	complex

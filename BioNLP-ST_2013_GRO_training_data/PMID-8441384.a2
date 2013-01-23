@@ -1,0 +1,28 @@
+R1	hasPart Arg1:T2 Arg2:T3
+R2	fromSpecies Arg1:T9 Arg2:T8
+T10	Transcription 182 195	transcription
+E1	Transcription:T10 hasPatient:T9
+R3	hasPart Arg1:T11 Arg2:T12
+T16	Transcription 296 309	transcription
+E3	Transcription:T16 
+T17	PositiveRegulation 310 320	activating
+E4	PositiveRegulation:T17 hasAgent:T18 hasPatient:E3
+T19	Heterodimerization 330 348	Heterodimerization
+E5	Heterodimerization:T19 hasPatient:T20
+R4	hasFunction Arg1:T21 Arg2:T22
+R5	hasPart Arg1:T24 Arg2:T25
+T27	BindingToProtein 552 561	associate
+E6	BindingToProtein:T27 hasPatient:T28
+R6	hasPart Arg1:T30 Arg2:T31
+R7	hasPart Arg1:T39 Arg2:T40
+R8	hasPart Arg1:T43 Arg2:T41
+R9	hasPart Arg1:T44 Arg2:T45
+R10	hasPart Arg1:T52 Arg2:T51
+R11	hasPart Arg1:T53 Arg2:T51
+R12	hasPart Arg1:T55 Arg2:T54
+T57	GeneExpression 1270 1279	expressed
+E7	GeneExpression:T57 hasPatient:T56
+R13	locatedIn Arg1:E7 Arg2:T58
+R14	fromSpecies Arg1:T67 Arg2:T66
+R15	hasPart Arg1:T35 Arg2:T33	
+R16	encodes Arg1:T46 Arg2:T47	

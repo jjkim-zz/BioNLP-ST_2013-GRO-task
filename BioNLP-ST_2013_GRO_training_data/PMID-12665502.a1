@@ -1,0 +1,58 @@
+T1	ProteinBindingSiteOfProtein 31 43	binding site
+T2	Protein 48 55	activin
+T3	Protein 63 83	type I receptor ALK4
+T4	Protein 85 93	Activins
+T5	Protein 121 152	transforming growth factor-beta
+T6	Protein 154 162	TGF-beta
+T10	ProteinComplex 212 219	complex
+T11	CellComponent 236 249	transmembrane
+T12	Enzyme 250 283	serine/threonine receptor kinases
+T13	Protein 307 313	ActRII
+T14	Protein 317 324	ActRIIB
+T15	Protein 338 342	ALK4
+T16	MutatedProtein 347 377	kinase-deleted version of ALK4
+T17	ProteinComplex 399 406	complex
+T18	Protein 412 419	activin
+T19	Protein 424 434	ActRII/IIB
+T21	Protein 491 498	activin
+T23	Protein 541 569	bone morphogenetic protein-2
+T25	Protein 583 598	type I receptor
+T26	Protein 600 604	ALK3
+T27	ProteinDomain 632 652	extracellular domain
+T29	MutatedProtein 685 699	truncated ALK4
+T30	MutatedProtein 701 711	ALK4-trunc
+T32	Protein 774 781	activin
+T33	AminoAcid 828 847	amino acid residues
+T34	Protein 855 859	ALK4
+T36	AminoAcid 882 887	Leu40
+T37	AminoAcid 889 894	Ile70
+T38	AminoAcid 896 901	Val73
+T39	AminoAcid 903 908	Leu75
+T40	AminoAcid 914 919	Pro77
+T42	AminoAcid 943 950	alanine
+T43	MutatedProtein 980 990	ALK4-trunc
+T44	MutatedProtein 1039 1046	mutants
+T46	Protein 1066 1073	activin
+T48	Protein 1085 1089	ALK4
+T49	Protein 1158 1165	activin
+T50	Protein 1169 1173	ALK4
+T51	Protein 1278 1284	ActRII
+T52	ProteinBindingSiteOfProtein 1380 1393	binding sites
+T53	Protein 1397 1401	ALK4
+T54	Protein 1406 1410	ALK3
+T55	Protein 1415 1424	activin-A
+T56	Protein 1429 1457	bone morphogenetic protein-2
+T57	AminoAcid 1498 1506	residues
+T58	Protein 1520 1527	activin
+T60	Protein 1539 1543	ALK4
+T61	Protein 1565 1594	type I TGF-beta receptor ALK5
+T62	ProteinDomain 1611 1631	corresponding region
+T63	Protein 1635 1639	ALK5
+T64	Protein 1661 1669	TGF-beta
+T66	MutatedProtein 755 762	mutants
+T35	ProteinDomain 860 880	extracellular domain
+T67	AminoAcid 1107 1115	residues
+T68	ProteinBindingSiteOfProtein 1138 1153	binding surface
+T69	Protein 1223 1232	activin-A
+T70	MutatedProtein 1240 1258	ALK4-trunc mutants
+T72	AminoAcid 1305 1313	residues

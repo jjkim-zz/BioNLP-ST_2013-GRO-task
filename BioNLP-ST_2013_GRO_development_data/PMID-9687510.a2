@@ -1,0 +1,75 @@
+T3	PositiveRegulation 66 75	activated
+E1	PositiveRegulation:T3 hasPatient:T1 hasAgent:T4
+T6	RegulatoryProcess 107 114	mediate
+E2	RegulatoryProcess:T6 hasAgent:T1 hasPatient:E3
+T7	PositiveRegulation 115 125	activation
+E3	PositiveRegulation:T7 hasPatient:T8
+R1	hasPart Arg1:T9 Arg2:T12
+R2	hasPart Arg1:T12 Arg2:T11
+T14	PositiveRegulation 288 297	activated
+E4	PositiveRegulation:T14 hasPatient:T13 hasAgent:T15
+T18	PositiveRegulation 354 363	activated
+E5	PositiveRegulation:T18 hasPatient:T17
+R3	locatedIn Arg1:E5 Arg2:T19
+T22	PositiveRegulation 499 509	activation
+E6	PositiveRegulation:T22 hasAgent:T24 hasPatient:T23
+T25	NegativeRegulation 554 563	prevented
+E7	NegativeRegulation:T25 hasAgent:T26 hasPatient:E6
+T27	NegativeRegulation 583 593	suppresses
+E8	NegativeRegulation:T27 hasAgent:T26 hasPatient:E9
+T28	PositiveRegulation 594 604	activation
+E9	PositiveRegulation:T28 hasPatient:E24
+T30	PositiveRegulation 636 646	activation
+E10	PositiveRegulation:T30 hasAgent:T32 hasPatient:T31
+T33	NegativeRegulation 676 685	prevented
+E11	NegativeRegulation:T33 hasAgent:T34 hasPatient:E10
+T35	NegativeRegulation 711 720	inhibitor
+E12	NegativeRegulation:T35 hasAgent:T34 hasPatient:T36
+T42	NegativeRegulation 812 820	suppress
+E13	NegativeRegulation:T42 hasAgent:T40 hasPatient:E14
+T43	PositiveRegulation 825 835	activation
+E14	PositiveRegulation:T43 hasPatient:T44 hasAgent:T45
+T49	PositiveRegulation 902 910	activate
+E15	PositiveRegulation:T49 hasAgent:T48 hasPatient:E25
+T53	Localization 961 970	localized
+E16	Localization:T53 hasPatient:T52
+R7	locatedIn Arg1:E16 Arg2:T54
+R8	locatedIn Arg1:T54 Arg2:T55
+T56	Phosphorylation 1027 1041	phosphorylates
+E17	Phosphorylation:T56 hasAgent:T52 hasPatient:T58
+R9	hasPart Arg1:T57 Arg2:T58
+T66	PositiveRegulation 1186 1193	induced
+E18	PositiveRegulation:T66 hasAgent:T65 hasPatient:E19
+T67	PositiveRegulation 1194 1204	activation
+E19	PositiveRegulation:T67 hasPatient:T68
+R10	locatedIn Arg1:E19 Arg2:T70
+T73	PositiveRegulation 1288 1298	activation
+E20	PositiveRegulation:T73 hasPatient:T72
+T77	RegulatoryProcess 1438 1445	mediate
+E21	RegulatoryProcess:T77 hasAgent:T76 hasPatient:E23
+T80	PositiveRegulation 1475 1482	induced
+E22	PositiveRegulation:T80 hasPatient:E23 hasAgent:T78
+T81	PositiveRegulation 1483 1493	activation
+E23	PositiveRegulation:T81 hasPatient:T82
+T83	SignalingPathway 617 624	cascade
+E24	SignalingPathway:T83 
+R4	locatedIn Arg1:E13 Arg2:T37	
+R5	locatedIn Arg1:E13 Arg2:T38	
+R6	locatedIn Arg1:E13 Arg2:T39	
+T84	SignalingPathway 943 951	cascades
+E25	SignalingPathway:T84 
+E26	PositiveRegulation:T3 hasPatient:T1 hasAgent:T5
+E27	PositiveRegulation:T14 hasPatient:T13 hasAgent:T16
+E28	NegativeRegulation:T42 hasAgent:T41 hasPatient:E14
+R11	locatedIn Arg1:E28 Arg2:T39	
+R12	locatedIn Arg1:E28 Arg2:T38	
+R13	locatedIn Arg1:E28 Arg2:T37	
+E29	PositiveRegulation:T43 hasPatient:T44 hasAgent:T46
+E30	PositiveRegulation:T43 hasPatient:T44 hasAgent:T47
+E31	NegativeRegulation:T42 hasAgent:T40 hasPatient:E29
+E32	NegativeRegulation:T42 hasAgent:T40 hasPatient:E30
+E33	NegativeRegulation:T42 hasAgent:T41 hasPatient:E29
+E34	NegativeRegulation:T42 hasAgent:T41 hasPatient:E30
+E35	PositiveRegulation:T67 hasPatient:T69
+E36	PositiveRegulation:T80 hasPatient:E23 hasAgent:T79
+E37	PositiveRegulation:T66 hasAgent:T65 hasPatient:E35

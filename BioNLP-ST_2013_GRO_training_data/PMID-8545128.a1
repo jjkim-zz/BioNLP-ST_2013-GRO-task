@@ -1,0 +1,30 @@
+T1	Gene 4 32	rearranged L-myc fusion gene
+T2	Gene 34 37	RLF
+T3	TranscriptionFactor 49 54	Zn-15
+T4	Protein 63 82	zinc finger protein
+T5	FusionGene 157 163	fusing
+T6	Exon 174 178	exon
+T7	Gene 186 194	RLF gene
+T8	Gene 200 205	L-myc
+T9	DNA 239 243	cDNA
+T10	Sequence 244 252	sequence
+T11	Gene 268 271	RLF
+T12	MessengerRNA 272 276	mRNA
+T13	AminoAcid 297 307	amino acid
+T14	Protein 308 319	Rlf protein
+T15	ZincCoordinatingDomain 351 369	zinc finger motifs
+T16	TranscriptionFactor 393 419	Zn-15 transcription factor
+T17	Protein 421 424	RLF
+T19	Tissue 448 471	fetal and adult tissues
+T23	ZincCoordinatingDomain 546 558	zinc fingers
+T24	AminoAcid 587 597	amino acid
+T25	Protein 619 622	RLF
+T26	FusionProtein 639 656	RLF-L-myc fusions
+T27	Protein 694 697	RLF
+T28	Protein 698 703	L-myc
+T29	Protein 719 724	L-myc
+T30	Protein 725 733	proteins
+T31	Gene 822 825	RLF
+T32	Gene 830 835	L-myc
+T35	Gene 894 904	L-myc gene
+T20	FusionGene 815 821	fusing

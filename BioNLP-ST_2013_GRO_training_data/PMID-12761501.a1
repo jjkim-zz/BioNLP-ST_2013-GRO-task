@@ -1,0 +1,36 @@
+T1	Eukaryote 51 56	human
+T2	Gene 57 62	genes
+T4	Protein 77 86	NF-kappaB
+T5	Protein 91 95	MAPK
+T7	Eukaryote 189 194	human
+T8	Gene 195 200	genes
+T10	Protein 219 228	NF-kappaB
+T11	Protein 233 237	MARK
+T13	DNA 285 299	cDNA libraries
+T14	DNA 355 364	cDNA pool
+T15	DNA 387 392	cDNAs
+T16	Protein 451 460	NF-kappaB
+T18	DNA 506 511	cDNAs
+T19	Eukaryote 517 522	human
+T24	ReporterGene 607 631	luciferase reporter gene
+T25	Promoter 644 652	promoter
+T26	ProteinBindingSiteOfDNA 678 701	NF-kappaB binding sites
+T27	DNA 731 736	cDNAs
+T29	Protein 755 764	NF-kappaB
+T31	Gene 805 810	genes
+T33	Gene 849 854	genes
+T34	Protein 862 871	NF-kappaB
+T36	Gene 884 889	genes
+T37	Protein 915 924	NF-kappaB
+T39	Gene 975 980	genes
+T40	Gene 1047 1052	genes
+T42	Protein 1071 1075	MARK
+T44	DNA 1104 1108	cDNA
+T45	DNA 1138 1143	cDNAs
+T46	Gene 1162 1167	genes
+T48	Protein 1186 1190	MARK
+T50	Gene 1218 1223	genes
+T51	Protein 1253 1262	NF-kappaB
+T52	Protein 1271 1275	MAPK
+T54	Gene 1316 1321	genes
+T20	Cell 523 549	embryonic kidney 293 cells

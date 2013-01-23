@@ -1,0 +1,54 @@
+R1	locatedIn Arg1:T2 Arg2:T1
+T6	Disease 161 173	pathogenesis
+E1	Disease:T6 
+T7	Disease 177 205	acute promyelocytic leukemia
+E2	Disease:T7 
+T8	Disease 210 225	viral infection
+E3	Disease:T8 
+T11	Disease 299 343	autoimmune disease primary biliary cirrhosis
+E4	Disease:T11 
+T13	Disease 386 411	primary biliary cirrhosis
+E5	Disease:T13 
+R3	encodes Arg1:T14 Arg2:T17
+R4	hasPart Arg1:T19 Arg2:T18
+R5	hasPart Arg1:T20 Arg2:T19
+R6	hasPart Arg1:T24 Arg2:T26
+R7	hasPart Arg1:T24 Arg2:T27
+R8	hasPart Arg1:T25 Arg2:T24
+T29	RegulatoryProcess 761 771	regulating
+E6	RegulatoryProcess:T29 hasAgent:T28 hasPatient:E7
+T31	TranscriptionOfGene 777 790	transcription
+E7	TranscriptionOfGene:T31 hasPatient:T30
+R10	encodes Arg1:T33 Arg2:T32
+R12	locatedIn Arg1:T33 Arg2:T36
+R13	encodes Arg1:T38 Arg2:T37
+R14	locatedIn Arg1:T38 Arg2:T40
+R15	locatedIn Arg1:T38 Arg2:T41
+T42	Increase 988 997	increased
+E8	Increase:T42 hasPatient:T38
+T44	PositiveRegulation 1024 1031	induced
+E9	PositiveRegulation:T44 hasAgent:T43 hasPatient:E10
+T45	CellDifferentiation 1032 1056	cellular differentiation
+E10	CellDifferentiation:T45 
+R17	locatedIn Arg1:T46 Arg2:T47
+R18	locatedIn Arg1:T47 Arg2:T49
+R19	locatedIn Arg1:T47 Arg2:T50
+T48	CellDifferentiation 1148 1162	differentiated
+E11	CellDifferentiation:T48 hasPatient:T49
+R20	locatedIn Arg1:T51 Arg2:T52
+T53	GeneExpression 1220 1230	expression
+E12	GeneExpression:T53 hasPatient:T54
+R21	locatedIn Arg1:E12 Arg2:T55
+T57	Disease 1321 1333	pathogenesis
+E13	Disease:T57 
+T58	Disease 1337 1365	acute promyelocytic leukemia
+E14	Disease:T58 
+T59	Disease 1370 1385	viral infection
+E15	Disease:T59 
+R2	locatedIn Arg1:T17 Arg2:T15	
+R9	locatedIn Arg1:T33 Arg2:T35	
+R11	fromSpecies Arg1:T35 Arg2:T34	
+R23	fromSpecies Arg1:T36 Arg2:T34	
+T23	ResponseProcess 1001 1009	response
+E16	ResponseProcess:T23 hasPatient:E8 hasAgent:E10
+E17	CellDifferentiation:T48 hasPatient:T50

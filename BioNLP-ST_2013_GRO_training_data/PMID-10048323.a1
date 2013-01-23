@@ -1,0 +1,41 @@
+T1	ThreeDimensionalMolecularStructure 0 17	Crystal structure
+T2	Nucleotide 25 28	FMN
+T4	ProteinDomain 37 43	domain
+T5	Eukaryote 47 52	human
+T6	Enzyme 53 78	cytochrome P450 reductase
+T7	Nucleotide 130 133	FMN
+T9	ProteinDomain 142 148	domain
+T10	Eukaryote 152 157	human
+T11	Chemical 158 163	NADPH
+T12	Enzyme 164 189	cytochrome P450 reductase
+T13	Enzyme 191 196	P450R
+T14	Nucleotide 197 200	FMN
+T16	ProteinDomain 444 450	domain
+T17	Eukaryote 492 495	rat
+T18	Enzyme 496 501	P450R
+T19	ThreeDimensionalMolecularStructure 565 582	crystal structure
+T20	Enzyme 586 591	P450R
+T21	Nucleotide 592 595	FMN
+T22	MolecularStructure 649 678	alpha-beta-alpha architecture
+T23	MolecularStructure 784 791	helices
+T24	MolecularStructure 816 826	beta-sheet
+T25	Enzyme 858 863	P450R
+T26	Nucleotide 864 867	FMN
+T28	Nucleotide 916 919	FMN
+T29	Protein 928 935	protein
+T30	Nucleotide 990 993	FMN
+T31	BindingSiteOfProtein 994 1006	binding site
+T32	Enzyme 1012 1017	P450R
+T33	Nucleotide 1018 1021	FMN
+T34	Enzyme 1141 1156	cytochrome P450
+T35	Nucleotide 1199 1202	FMN
+T36	Nucleotide 1237 1240	FMN
+T37	Protein 1339 1351	cytochrome c
+T40	Protein 1522 1537	cytochrome P450
+T41	Protein 1542 1554	cytochrome c
+T42	ThreeDimensionalMolecularStructure 105 122	crystal structure
+T15	Enzyme 226 262	cytochrome P450 monooxygenase system
+T43	OrganicChemical 704 715	flavodoxins
+T44	Prokaryote 694 703	bacterial
+T45	OrganicChemical 872 883	flavodoxins
+T48	Substrate 1442 1451	substrate

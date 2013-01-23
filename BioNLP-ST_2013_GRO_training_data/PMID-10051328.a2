@@ -1,0 +1,15 @@
+R2	fromSpecies Arg1:T3 Arg2:T2
+T9	DevelopmentalProcess 196 210	bone formation
+E1	DevelopmentalProcess:T9 
+T10	DevelopmentalProcess 218 231	embryogenesis
+E2	DevelopmentalProcess:T10 
+R3	hasPart Arg1:T13 Arg2:T12
+R4	hasPart Arg1:T16 Arg2:T12
+R5	encodes Arg1:T21 Arg2:T23
+R6	fromSpecies Arg1:T23 Arg2:T22
+R7	locatedIn Arg1:T25 Arg2:T24
+R1	encodes Arg1:T3 Arg2:T4	
+T5	SignalingPathway 257 266	signaling
+E3	SignalingPathway:T5 
+T30	OrganismalProcess 236 251	fracture repair
+E4	OrganismalProcess:T30 

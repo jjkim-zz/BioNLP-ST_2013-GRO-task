@@ -1,0 +1,66 @@
+T1	Protein 0 15	I kappa B/MAD-3
+T2	ProteinSubunit 57 71	NF-kappa B p65
+T3	ProteinDomain 89 111	transactivation domain
+T5	ProteinSubunit 123 137	NF-kappa B p65
+T6	DNA 138 141	DNA
+T8	TranscriptionFactorComplex 182 192	NF-kappa B
+T9	TranscriptionFactorComplex 193 221	transcription factor complex
+T10	DNA 241 244	DNA
+T12	ProteinSubunit 253 261	subunits
+T13	ProteinSubunit 263 277	NF-kappa B p65
+T14	ProteinSubunit 282 296	NF-kappa B p50
+T15	Gene 366 380	v-rel oncogene
+T16	GeneProduct 381 388	product
+T17	ProteinSubunit 394 408	NF-kappa B p65
+T18	TranscriptionFactorComplex 458 470	this complex
+T19	CellComponent 517 528	cytoplasmic
+T21	TranscriptionFactorComplex 542 552	NF-kappa B
+T22	Protein 561 570	I kappa B
+T24	TranscriptionFactorComplex 817 827	NF-kappa B
+T25	Protein 832 847	I kappa B/MAD-3
+T26	Eukaryote 861 866	human
+T27	MutantProtein 867 889	NF-kappa B p65 mutants
+T28	DNA 934 937	DNA
+T30	Protein 947 956	I kappa B
+T33	Protein 982 991	I kappa B
+T35	Nucleus 1000 1007	nuclear
+T37	TranscriptionFactor 1026 1046	transcription factor
+T38	MutantProtein 1109 1131	NF-kappa B p65 mutants
+T39	Protein 1159 1174	I kappa B/MAD-3
+T41	ProteinSubunit 1195 1209	NF-kappa B p65
+T45	Virus 1268 1303	human immunodeficiency virus type 1
+T46	Enhancer 1304 1320	kappa B enhancer
+T47	Eukaryote 1324 1329	human
+T48	Cell 1330 1343	T lymphocytes
+T50	Protein 1363 1378	I kappa B/MAD-3
+T51	ProteinSubunit 1382 1396	NF-kappa B p65
+T53	ProteinSubunit 1423 1437	NF-kappa B p65
+T54	Nucleus 1447 1454	nucleus
+T55	CellComponent 1462 1471	cytoplasm
+T56	GeneProduct 1556 1559	Rel
+T57	ProteinDomain 1560 1575	homology domain
+T58	ProteinSubunit 1579 1593	NF-kappa B p65
+T59	Protein 1625 1640	I kappa B/MAD-3
+T60	ProteinDomain 1660 1670	C-terminus
+T61	ProteinSubunit 1674 1688	NF-kappa B p65
+T63	Nucleus 1708 1715	nuclear
+T65	Sequence 1742 1751	sequences
+T66	Protein 1774 1783	I kappa B
+T69	ProteinSubunit 1807 1821	NF-kappa B p65
+T70	DNA 1822 1825	DNA
+T72	ProteinDomain 1918 1940	transactivation domain
+T73	ProteinSubunit 1944 1958	NF-kappa B p65
+T74	Function 2024 2043	inhibitory function
+T75	Protein 2047 2062	I kappa B/MAD-3
+T76	Protein 2120 2135	I kappa B/MAD-3
+T78	ProteinSubunit 2154 2168	NF-kappa B p50
+T81	ProteinSubunit 2231 2245	NF-kappa B p50
+T82	Nucleus 2255 2262	nucleus
+T83	CellComponent 2270 2279	cytoplasm
+T84	ProteinDomain 2379 2385	domain
+T85	ProteinSubunit 2424 2438	NF-kappa B p65
+T86	Nucleus 26 33	nuclear
+T43	Nucleus 1513 1520	nuclear
+T91	Peptide 1534 1540	signal
+T93	ProteinSubunit 1603 1606	its
+T95	Nucleus 1886 1893	nuclear

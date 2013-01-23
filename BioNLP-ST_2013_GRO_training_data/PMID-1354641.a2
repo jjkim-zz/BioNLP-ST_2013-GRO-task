@@ -1,0 +1,21 @@
+R1	fromSpecies Arg1:T6 Arg2:T4
+R2	fromSpecies Arg1:T6 Arg2:T5
+R3	fromSpecies Arg1:T7 Arg2:T9
+T12	GeneExpression 214 223	expressed
+E1	GeneExpression:T12 hasPatient:T7
+T14	DevelopmentalProcess 238 255	fetal development
+E2	DevelopmentalProcess:T14 
+R4	fromSpecies Arg1:E2 Arg2:T13
+R5	locatedIn Arg1:T18 Arg2:T21
+R6	locatedIn Arg1:T18 Arg2:T23
+R7	fromSpecies Arg1:T18 Arg2:T16
+R8	fromSpecies Arg1:T18 Arg2:T17
+R9	fromSpecies Arg1:T20 Arg2:T19
+R10	hasPart Arg1:T20 Arg2:T21
+R11	fromSpecies Arg1:T23 Arg2:T22
+R12	locatedIn Arg1:T26 Arg2:T29
+R13	locatedIn Arg1:T27 Arg2:T29
+R14	fromSpecies Arg1:T29 Arg2:T28
+R15	locatedIn Arg1:T1 Arg2:T6	
+T30	Mutation 345 353	mutation
+E3	Mutation:T30 hasPatient:T31

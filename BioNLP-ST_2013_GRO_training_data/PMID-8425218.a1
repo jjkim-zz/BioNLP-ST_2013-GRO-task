@@ -1,0 +1,52 @@
+T1	Protein 0 3	Mad
+T2	Protein 33 36	Max
+T4	Protein 54 57	Myc
+T6	Protein 84 103	Myc family proteins
+T7	Function 114 122	function
+T10	bHLH 192 196	bHLH
+T11	bZIP 197 200	Zip
+T12	Protein 201 208	protein
+T13	Protein 210 213	Max
+T14	Protein 236 239	Max
+T16	Function 253 261	function
+T17	Protein 265 284	regulatory proteins
+T18	Protein 296 299	Myc
+T19	DNAMolecule 315 326	lambda gt11
+T21	Protein 364 375	Max protein
+T22	DNA 381 385	cDNA
+T23	bHLH 425 429	bHLH
+T24	bZIP 430 433	Zip
+T25	Protein 434 448	protein family
+T26	Protein 450 453	Mad
+T27	Eukaryote 455 460	Human
+T28	Protein 461 472	Mad protein
+T31	Protein 504 507	Max
+T33	DNA 546 549	DNA
+T35	ProteinComplex 558 565	complex
+T36	Protein 607 610	Myc
+T37	Protein 611 614	Max
+T38	Protein 621 624	Myc
+T39	Protein 625 628	Max
+T40	Protein 633 636	Mad
+T41	Protein 637 640	Max
+T42	ProteinComplex 641 656	heterocomplexes
+T43	Protein 674 677	Max
+T44	Protein 702 705	Max
+T45	Function 722 742	DNA binding activity
+T46	Protein 750 762	heterodimers
+T47	Enzyme 780 784	CKII
+T49	Protein 802 805	Mad
+T50	Protein 830 833	Myc
+T51	bHLH 857 861	bHLH
+T52	bZIP 863 867	bZip
+T53	bHLH 872 876	bHLH
+T54	bZIP 877 880	Zip
+T55	Protein 881 889	proteins
+T57	Protein 935 938	Myc
+T58	Protein 939 942	Max
+T59	Protein 947 950	Mad
+T60	Protein 951 954	Max
+T61	ProteinComplex 955 964	complexes
+T62	Function 979 988	functions
+T64	Protein 1015 1018	Max
+T65	TranscriptionFactor 1059 1080	transcription factors

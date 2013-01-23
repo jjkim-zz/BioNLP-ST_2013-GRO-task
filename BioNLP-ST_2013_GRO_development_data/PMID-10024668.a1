@@ -1,0 +1,40 @@
+T1	Tissue 0 6	Tissue
+T3	Chromosome 31 42	chromosomal
+T4	Eukaryote 56 61	human
+T5	Enzyme 62 148	UDP-N-acetylglucosamine: alpha1,3-d-mannoside beta1, 4-N-acetylglucosaminyltransferase
+T6	Eukaryote 152 157	human
+T7	DNA 158 162	cDNA
+T9	Enzyme 257 263	GnT-IV
+T10	Tissue 285 290	liver
+T11	DNA 291 303	cDNA library
+T12	MessengerRNA 337 350	cDNA sequence
+T13	Eukaryote 358 364	bovine
+T14	Enzyme 365 371	GnT-IV
+T15	DNA 377 381	cDNA
+T16	Protein 415 439	type II membrane protein
+T17	AminoAcid 447 458	amino acids
+T18	Eukaryote 489 495	bovine
+T19	Enzyme 496 502	GnT-IV
+T21	Eukaryote 532 537	human
+T22	DNA 538 542	cDNA
+T23	Cell 546 556	COS7 cells
+T24	Enzyme 582 588	GnT-IV
+T25	DNA 631 635	cDNA
+T26	Eukaryote 657 662	human
+T27	Enzyme 663 669	GnT-IV
+T28	Tissue 704 711	tissues
+T29	MessengerRNA 760 764	mRNA
+T30	Enzyme 798 807	forGnT-IV
+T32	MessengerRNA 850 855	mRNAs
+T34	Tissue 898 905	tissues
+T35	MessengerRNA 924 928	mRNA
+T36	Tissue 946 953	tissues
+T37	Cell 964 979	T lineage cells
+T39	Cell 1024 1029	HL-60
+T40	Cell 1038 1070	lymphoblastic leukemia cell line
+T41	Cell 1071 1077	MOLT-4
+T42	MessengerRNA 1096 1100	mRNA
+T43	Gene 1114 1118	gene
+T44	Eukaryote 1146 1151	human
+T45	Chromosome 1152 1164	chromosome 2
+T46	ExperimentalMethod 1178 1211	fluorescent in situ hybridization

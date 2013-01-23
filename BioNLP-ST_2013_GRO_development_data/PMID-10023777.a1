@@ -1,0 +1,34 @@
+T1	Protein 0 30	Interleukin-18 binding protein
+T2	Protein 57 69	Th1 cytokine
+T4	Protein 83 113	interleukin-18 binding protein
+T5	Protein 115 122	IL-18BP
+T6	Protein 169 174	IL-18
+T8	Cell 218 228	COS7 cells
+T9	Protein 230 237	IL-18BP
+T11	Protein 248 253	IL-18
+T13	Protein 267 283	interferon-gamma
+T14	Protein 285 293	IFNgamma
+T15	Protein 296 300	IL-8
+T17	Protein 320 329	NF-kappaB
+T18	Protein 358 365	IL-18BP
+T19	Eukaryote 369 373	mice
+T21	Protein 396 404	IFNgamma
+T22	OrganicChemical 415 418	LPS
+T23	Protein 426 433	IL-18BP
+T25	Protein 473 485	Th1 cytokine
+T27	Protein 496 503	IL-18BP
+T29	Tissue 539 545	spleen
+T30	Protein 562 576	immunoglobulin
+T31	Protein 622 643	IL-1 type II receptor
+T32	Gene 649 653	gene
+T34	Eukaryote 671 676	human
+T35	Chromosome 677 687	chromosome
+T36	ProteinDomain 720 740	transmembrane domain
+T37	Virus 790 800	Poxviruses
+T38	Protein 817 825	proteins
+T39	Protein 847 854	IL-18BP
+T40	Virus 872 877	viral
+T41	Protein 878 886	products
+T43	Protein 901 906	IL-18
+T44	Cell 940 946	T cell
+T46	ExperimentalMethod 151 165	chromatography

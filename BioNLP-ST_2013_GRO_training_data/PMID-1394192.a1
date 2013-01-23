@@ -1,0 +1,34 @@
+T1	AntisenseRNA 12 25	antisense RNA
+T2	Eukaryote 31 36	human
+T3	Protein 37 41	p120
+T4	DNA 42 46	cDNA
+T5	Eukaryote 69 74	mouse
+T6	Protein 75 79	p120
+T7	DNA 80 84	cDNA
+T9	Cell 94 101	NIH 3T3
+T11	Eukaryote 121 126	human
+T12	Nucleus 127 136	nucleolar
+T21	Eukaryote 289 294	human
+T24	Cell 337 350	NIH 3T3 cells
+T26	Gene 382 386	p120
+T29	Cell 421 434	NIH 3T3 cells
+T30	AntisenseRNA 509 527	antisense p120 RNA
+T32	Eukaryote 694 699	mouse
+T33	Gene 700 704	p120
+T34	DNA 705 722	complementary DNA
+T35	Eukaryote 769 774	human
+T36	Gene 775 779	p120
+T37	DNA 780 797	complementary DNA
+T38	Nucleotide 843 862	nucleotide sequence
+T39	AminoAcid 878 897	amino acid sequence
+T42	AminoAcid 975 995	amino acid sequences
+T43	AntisenseRNA 1078 1102	antisense human p120 RNA
+T47	Eukaryote 1136 1141	mouse
+T48	Gene 1142 1146	p120
+T50	Protein 1295 1307	this protein
+T13	Protein 137 149	p120 protein
+T14	Protein 295 307	p120 protein
+T22	AntisenseRNA 372 381	antisense
+T31	Cell 656 668	NIH 3T3 cell
+T40	DNAMolecule 919 932	p120 molecule
+T41	Nucleotide 960 970	nucleotide

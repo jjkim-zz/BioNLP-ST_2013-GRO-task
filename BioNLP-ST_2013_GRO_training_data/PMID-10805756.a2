@@ -1,0 +1,128 @@
+T1	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T1 hasAgent:T4 hasPatient:T2
+T5	Increase 65 73	enhances
+E2	Increase:T5 hasAgent:E1 hasPatient:T7
+R1	hasPart Arg1:T8 Arg2:T10
+R2	locatedIn Arg1:T10 Arg2:T9
+T14	CellDifferentiation 228 255	chondrocyte differentiation
+E4	CellDifferentiation:T14 
+T15	DevelopmentalProcess 260 279	cartilage formation
+E5	DevelopmentalProcess:T15 
+T17	Transport 347 358	recruitment
+E6	Transport:T17 hasPatient:T16
+R4	locatedIn Arg1:T19 Arg2:T18
+R5	hasPart Arg1:T23 Arg2:T20
+T25	BindingToProtein 494 504	interacted
+E7	BindingToProtein:T25 hasPatient:T26 hasPatient2:T20
+T28	Phosphorylation 566 581	phosphorylation
+E8	Phosphorylation:T28 hasAgent:T27 hasPatient:T29
+R6	hasPart Arg1:T30 Arg2:T29
+T31	Phosphorylation 609 623	phosphorylated
+E9	Phosphorylation:T31 hasAgent:T32 hasPatient:T29
+T34	Phosphorylation 663 677	phosphorylated
+E10	Phosphorylation:T34 hasAgent:T35 hasPatient:T33
+T39	GeneExpression 755 765	expression
+E11	GeneExpression:T39 hasPatient:T40
+T42	Increase 780 788	enhanced
+E12	Increase:T42 hasAgent:T41 hasPatient:E13
+T43	Phosphorylation 793 808	phosphorylation
+E13	Phosphorylation:T43 hasPatient:T44
+R8	hasPart Arg1:T45 Arg2:T47
+T46	Phosphorylation 1023 1037	phosphorylated
+E14	Phosphorylation:T46 hasPatient:T47
+T49	Phosphorylation 1072 1087	phosphorylation
+E15	Phosphorylation:T49 hasAgent:T48 hasPatient:T50
+T53	Increase 1158 1167	increased
+E16	Increase:T53 hasAgent:T51 hasPatient:E17
+R9	locatedIn Arg1:E16 Arg2:T52
+T54	Phosphorylation 1172 1187	phosphorylation
+E17	Phosphorylation:T54 hasPatient:T55
+R10	fromSpecies Arg1:T57 Arg2:T56
+R11	hasPart Arg1:T58 Arg2:T60
+T59	Phosphorylation 1285 1299	phosphorylated
+E18	Phosphorylation:T59 hasPatient:T60
+T61	Localization 1330 1339	localized
+E19	Localization:T61 hasPatient:T58
+R12	locatedIn Arg1:E19 Arg2:T62
+T63	GeneExpression 1424 1434	expression
+E20	GeneExpression:T63 hasPatient:T66
+T68	Increase 1548 1556	increase
+E21	Increase:T68 hasAgent:T67 hasPatient:T69
+T72	CellDifferentiation 1613 1640	chondrocyte differentiation
+E22	CellDifferentiation:T72 
+T74	Phosphorylation 1679 1694	phosphorylation
+E23	Phosphorylation:T74 hasAgent:T73
+T75	RegulatoryProcess 1701 1709	modulate
+E24	RegulatoryProcess:T75 hasAgent:E23 hasPatient:T141
+T79	Increase 1784 1793	increased
+E25	Increase:T79 hasAgent:T77 hasPatient:E47
+R14	locatedIn Arg1:E25 Arg2:T78
+R15	locatedIn Arg1:T83 Arg2:T82
+T85	Increase 1935 1944	increased
+E26	Increase:T85 hasAgent:T84 hasPatient:E48
+T87	Mutation 1976 1985	Mutations
+E27	Mutation:T87 hasPatient:T90
+T89	Phosphorylation 2001 2016	phosphorylation
+E28	Phosphorylation:T89 hasAgent:T88 hasPatient:T90
+R16	hasPart Arg1:T91 Arg2:T90
+T92	Decrease 2050 2059	decreased
+E29	Decrease:T92 hasAgent:E27 hasPatient:E30 hasPatient:E51
+T94	PositiveRegulation 2075 2085	activation
+E30	PositiveRegulation:T94 hasPatient:T95 hasAgent:T96
+T98	Phosphorylation 2116 2131	phosphorylation
+E31	Phosphorylation:T98 hasAgent:T97
+T101	Localization 2227 2239	localization
+E32	Localization:T101 hasPatient:T99
+R17	locatedIn Arg1:E32 Arg2:T100
+T102	Phosphorylation 2250 2265	phosphorylation
+E33	Phosphorylation:T102 hasAgent:T104 hasPatient:T103
+T106	BindingOfTranscriptionFactorToDNA 2312 2319	binding
+E34	BindingOfTranscriptionFactorToDNA:T106 hasPatient:T105
+T109	SignalingPathway 2363 2372	signaling
+E35	SignalingPathway:T109 
+T110	Phosphorylation 2382 2397	phosphorylation
+E36	Phosphorylation:T110 hasAgent:T112 hasPatient:T111
+T113	Increase 2413 2421	enhances
+E37	Increase:T113 hasAgent:E36 hasPatient:E39
+T117	BindingOfTranscriptionFactorToDNA 2450 2457	binding
+E39	BindingOfTranscriptionFactorToDNA:T117 hasAgent:T114 hasPatient:T116
+T119	SignalingPathway 2482 2491	signaling
+E40	SignalingPathway:T119 
+T120	RegulatoryProcess 2495 2503	mediated
+E41	RegulatoryProcess:T120 hasAgent:T121 hasPatient:E40
+T124	SignalingPathway 2579 2588	signaling
+E42	SignalingPathway:T124 
+R19	locatedIn Arg1:E42 Arg2:T125
+T126	Increase 2622 2631	increased
+E43	Increase:T126 hasPatient:T127
+R20	hasFunction Arg1:T128 Arg2:T127
+T129	RegulatoryProcess 2655 2662	mediate
+E44	RegulatoryProcess:T129 hasAgent:E43 hasPatient:T130
+T131	Maintenance 2686 2697	maintaining
+E45	Maintenance:T131 hasPatient:T132 hasAgent:T130
+R21	hasFunction Arg1:T6 Arg2:T7	
+R3	hasFunction Arg1:T20 Arg2:T134	
+R22	encodes Arg1:T40 Arg2:T37	
+R23	encodes Arg1:T40 Arg2:T38	
+R7	locatedIn Arg1:T40 Arg2:T36	
+T135	Phosphorylation 846 861	phosphorylation
+E3	Phosphorylation:T135 hasPatient:T136
+T140	Mutation 947 954	mutated
+E46	Mutation:T140 hasPatient:T137
+R24	hasPart Arg1:T136 Arg2:T137	
+R13	encodes Arg1:T69 Arg2:T70	
+R25	hasFunction Arg1:T76 Arg2:T141	
+R26	hasPart Arg1:T81 Arg2:T83	
+T142	Transcription 1798 1806	activity
+E47	Transcription:T142 hasAgent:T83
+T143	Transcription 1949 1957	activity
+E48	Transcription:T143 hasAgent:T86
+T144	Mutation 2140 2149	mutations
+E49	Mutation:T144 hasPatient:T147
+T146	Phosphorylation 2171 2186	phosphorylation
+E50	Phosphorylation:T146 hasAgent:T145 hasPatient:T147
+R27	hasPart Arg1:T99 Arg2:T147	
+R28	hasFunction Arg1:T114 Arg2:T115	
+E38	Increase:T68 hasAgent:T67 hasPatient:T71
+E51	PositiveRegulation:T94 hasPatient:T95 hasAgent:T93
+E52	Increase:T113 hasAgent:E36 hasPatient:T115

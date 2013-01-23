@@ -1,0 +1,47 @@
+T2	SignalingPathway 8 18	signalling
+E1	SignalingPathway:T2 
+R1	locatedIn Arg1:E1 Arg2:T3
+T4	Increase 30 40	stimulated
+E2	Increase:T4 hasAgent:T7 hasPatient:E1
+T9	NegativeRegulation 118 124	blocks
+E4	NegativeRegulation:T9 hasAgent:T8 hasPatient:E5
+T11	SignalingPathway 145 151	signal
+E5	SignalingPathway:T11 
+T16	PositiveRegulation 213 223	activation
+E6	PositiveRegulation:T16 hasPatient:T15
+T19	BindingToProtein 266 271	binds
+E7	BindingToProtein:T19 hasAgent:T18 hasPatient:T22
+T20	NegativeRegulation 276 287	inactivates
+E8	NegativeRegulation:T20 hasAgent:T18 hasPatient:T22
+T21	SignalingPathway 296 306	signalling
+E9	SignalingPathway:T21 
+T24	RegulationOfPathway 403 411	regulate
+E10	RegulationOfPathway:T24 hasAgent:T23 hasPatient:E11
+T26	SignalingPathway 420 430	signalling
+E11	SignalingPathway:T26 
+R4	encodes Arg1:T28 Arg2:T31
+R5	fromSpecies Arg1:T28 Arg2:T27
+T33	PositiveRegulationOfGeneExpression 557 570	overexpressed
+E13	PositiveRegulationOfGeneExpression:T33 hasPatient:T32
+R6	locatedIn Arg1:E13 Arg2:T34
+T35	PositiveRegulation 603 610	induced
+E14	PositiveRegulation:T35 hasAgent:T32 hasPatient:E15
+T36	Transcription 611 624	transcription
+E15	Transcription:T36 hasPatient:T38
+R7	hasPart Arg1:T37 Arg2:T38
+T39	PositiveRegulation 661 671	activating
+E16	PositiveRegulation:T39 hasPatient:T42
+R9	locatedIn Arg1:T42 Arg2:T40
+R10	locatedIn Arg1:T43 Arg2:T40
+T47	RegulatoryProcess 807 811	acts
+E17	RegulatoryProcess:T47 hasAgent:T45 hasPatient:T48
+T50	Increase 865 872	causing
+E18	Increase:T50 hasPatient:E19
+T51	Transport 876 882	influx
+E19	Transport:T51 hasPatient:T52
+T55	SignalingPathway 947 974	signal transduction pathway
+E20	SignalingPathway:T55 
+T58	SignalingPathway 1013 1023	signalling
+E21	SignalingPathway:T58 
+E3	PositiveRegulation:T39 hasPatient:T43
+E22	RegulatoryProcess:T47 hasAgent:T45 hasPatient:T49

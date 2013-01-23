@@ -1,0 +1,76 @@
+R1	hasPart Arg1:T2 Arg2:T1
+T4	PositiveRegulation 92 102	activation
+E1	PositiveRegulation:T4 hasPatient:T3
+R2	fromSpecies Arg1:T7 Arg2:T5
+T8	Increase 179 186	induced
+E2	Increase:T8 hasPatient:E3
+T9	GeneExpression 187 197	expression
+E3	GeneExpression:T9 hasPatient:T10
+T11	RegulatoryProcess 280 289	mediating
+E4	RegulatoryProcess:T11 hasPatient:E5
+T13	PositiveRegulation 304 314	activation
+E5	PositiveRegulation:T13 
+R3	locatedIn Arg1:E5 Arg2:T12
+T14	CellGrowth 319 325	growth
+E6	CellGrowth:T14 
+R4	locatedIn Arg1:E6 Arg2:T12
+T16	RegulatoryProcess 373 382	regulated
+E7	RegulatoryProcess:T16 hasAgent:T19 hasPatient:T15
+R5	locatedIn Arg1:E7 Arg2:T17
+R6	locatedIn Arg1:T21 Arg2:T20
+T22	Phosphorylation 503 517	phosphorylated
+E8	Phosphorylation:T22 hasPatient:T21
+T23	ProteinCatabolism 522 530	degraded
+E9	ProteinCatabolism:T23 hasPatient:T21
+T25	PositiveRegulation 574 582	inducing
+E10	PositiveRegulation:T25 hasAgent:T26 hasPatient:T24
+R7	locatedIn Arg1:T28 Arg2:T27
+R8	fromSpecies Arg1:T31 Arg2:T30
+R10	fromSpecies Arg1:T34 Arg2:T33
+T38	PositiveRegulation 803 812	induction
+E12	PositiveRegulation:T38 hasAgent:T36 hasPatient:T37
+R11	locatedIn Arg1:T39 Arg2:T42
+T40	NegativeRegulation 879 889	inhibitory
+E13	NegativeRegulation:T40 hasAgent:T39
+R12	locatedIn Arg1:E13 Arg2:T42
+R13	fromSpecies Arg1:T42 Arg2:T41
+R14	hasPart Arg1:T44 Arg2:T43
+T48	NegativeRegulation 1142 1151	prevented
+E14	NegativeRegulation:T48 hasAgent:T47 hasPatient:E16
+T49	PositiveRegulation 1156 1163	induced
+E15	PositiveRegulation:T49 hasPatient:E16
+T50	Phosphorylation 1164 1179	phosphorylation
+E16	Phosphorylation:T50 
+T55	GeneExpression 1264 1274	expressing
+E18	GeneExpression:T55 hasPatient:T54
+R16	locatedIn Arg1:E18 Arg2:T56
+R17	hasPart Arg1:T58 Arg2:T57
+T61	PositiveRegulation 1468 1475	induced
+E19	PositiveRegulation:T61 hasAgent:T60
+T62	NegativeRegulation 1503 1512	inhibited
+E20	NegativeRegulation:T62 hasAgent:T59 hasPatient:E22
+T63	PositiveRegulation 1520 1530	activation
+E21	PositiveRegulation:T63 
+T64	Pathway 1531 1539	pathways
+E22	Pathway:T64 hasPatient:E23
+T66	PositiveRegulation 1555 1564	induction
+E23	PositiveRegulation:T66 hasPatient:T65
+T67	PositiveRegulation 1582 1591	initiated
+E24	PositiveRegulation:T67 hasPatient:E22 hasAgent:T68
+T70	ModificationOfMolecularEntity 1642 1654	introduction
+E25	ModificationOfMolecularEntity:T70 
+T71	RegulatoryProcess 1697 1706	rectified
+E26	RegulatoryProcess:T71 hasAgent:E25
+T72	Phosphorylation 1786 1801	phosphorylation
+E27	Phosphorylation:T72 
+R18	hasPart Arg1:T76 Arg2:T75
+T77	RegulatoryProcess 1976 1984	controls
+E28	RegulatoryProcess:T77 hasAgent:T75 hasPatient:T78
+T82	Pathway 68 76	pathways
+E29	Pathway:T82 hasPatient:E1
+R9	hasPart Arg1:T53 Arg2:T52	
+T51	ResponseProcess 2046 2054	response
+E11	ResponseProcess:T51 hasAgent:T80
+E17	RegulatoryProcess:T77 hasAgent:T75 hasPatient:T79
+E30	PositiveRegulation:T67 hasPatient:E22 hasAgent:T69
+E31	RegulatoryProcess:T11 hasPatient:E6

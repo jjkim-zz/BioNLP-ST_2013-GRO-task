@@ -1,0 +1,31 @@
+T1	Protein 0 5	X11L2
+T2	Protein 27 38	X11 protein
+T4	Protein 74 104	beta-amyloid precursor protein
+T5	Protein 118 126	proteins
+T7	Protein 160 190	beta-amyloid precursor protein
+T8	Protein 192 195	APP
+T9	Protein 228 239	X11 protein
+T10	Protein 248 253	X11L2
+T11	Protein 278 291	X11L2 protein
+T14	Protein 336 339	APP
+T17	Protein 459 462	APP
+T18	Protein 477 482	X11L2
+T19	Gene 489 493	gene
+T20	AminoAcid 506 517	amino acids
+T21	AminoAcid 534 544	amino acid
+T22	Eukaryote 579 582	rat
+T23	Protein 583 588	Mint3
+T27	ProteinDomain 624 631	domains
+T28	Protein 690 701	X11 protein
+T29	Protein 739 752	X11L2 protein
+T30	ProteinDomain 774 777	SH3
+T32	ProteinDomain 786 792	motifs
+T33	ProteinDomain 794 798	PXXP
+T34	Protein 828 839	X11 protein
+T35	Protein 848 853	X11L2
+T36	MessengerRNA 854 858	mRNA
+T38	Tissue 884 891	tissues
+T41	ProteinDomain 259 274	PID/PTB element
+T13	ProteinDomain 312 332	intracellular domain
+T25	ProteinDomain 635 642	PID/PTB
+T26	ProteinDomain 651 663	PDZ elements
